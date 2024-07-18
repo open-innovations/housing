@@ -1,5 +1,6 @@
-_site
-_cache
-.DS_Store
+_site/
 
 deno.json
+deno.lock
+
+.env

@@ -18,5 +18,6 @@ site.use(metas({
     },
   }));
 site.use(postcss());
+site.copy('.nojekyll');
 
 export default site;
