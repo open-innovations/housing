@@ -1,6 +1,5 @@
 _site/
 
-deno.json
 deno.lock
 
 .env
