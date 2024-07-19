@@ -10,7 +10,7 @@ header_class: c2-bg
 # Automatically adds meta and social tags 
 # See https://lume.land/plugins/metas/
 metas:
-  site: Open Innovations World of Housing
+  site: Housing Data Explorer
   description: A site for all things open housing data
   image: https://open-innovations.org/resources/images/logos/oi-square.png
   twitter: openinnovates
