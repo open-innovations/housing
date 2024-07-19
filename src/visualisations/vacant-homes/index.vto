@@ -1,0 +1,8 @@
+---
+title: Vacant Homes
+---
+<ul>
+    {{ for area of search.pages('area') }}
+        <li><a href="{{ area.url }}">{{ area.name }}</a></li>
+    {{ /for }}
+</ul>

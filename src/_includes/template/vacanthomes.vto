@@ -1,0 +1,7 @@
+---
+layout: template/base.vto
+---
+<h1>{{ title }}</h1>
+{{ if active }}<p class='active-{{ active }}'>Active</p>{{ /if }}
+{{> console.log(page.data) }}
+{{ name }}

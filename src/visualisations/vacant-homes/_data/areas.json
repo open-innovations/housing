@@ -1,0 +1,12 @@
+{
+	"orgs": {
+		"E06000001": {
+			"active": true,
+			"name": "Hartlepool Borough Council"
+		    },
+		"E06000002": {
+			"active": true,
+			"name": "Middlesbrough Borough Council"
+        }
+    }
+}

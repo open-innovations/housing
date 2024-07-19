@@ -4,10 +4,8 @@ title: Home
 <p>This site is a collection of all things housing. Over the summer, we will present visualisations, build tools and write blogs using housing open data.</p>
 
 <div class='grid pane'>
-{{ for page of search.pages() }}
-    {{ if page.title != 'Home' }}
-        {{ comp.navgrid({ heading: page.title , link: page.url, colour: page.colour }) }}
-    {{ /if }}
+{{ for page of search.pages('navorder>0', 'navorder') }}
+    {{ comp.navgrid({ heading: page.title , link: page.url, colour: page.colour }) }}
 {{ /for }}
 </div>
 
