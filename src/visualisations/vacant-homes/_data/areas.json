@@ -1,12 +1,1917 @@
 {
-	"orgs": {
-		"E06000001": {
-			"active": true,
-			"name": "Hartlepool Borough Council"
-		    },
-		"E06000002": {
-			"active": true,
-			"name": "Middlesbrough Borough Council"
+    "95ZZ": {
+        "active": false,
+        "name": "Strabane District Council",
+        "replacedBy": {
+            "date": "2015-04-01",
+            "id": "N09000005"
         }
+    },
+    "E06000001": {
+        "active": true,
+        "name": "Hartlepool Borough Council"
+    },
+    "E06000002": {
+        "active": true,
+        "name": "Middlesbrough Borough Council"
+    },
+    "E06000003": {
+        "active": true,
+        "name": "Redcar and Cleveland Council"
+    },
+    "E06000004": {
+        "active": true,
+        "name": "Stockton-on-Tees Borough Council"
+    },
+    "E06000005": {
+        "active": true,
+        "name": "Darlington Borough Council"
+    },
+    "E06000006": {
+        "active": true,
+        "name": "Halton Borough Council"
+    },
+    "E06000007": {
+        "active": true,
+        "name": "Warrington Borough Council"
+    },
+    "E06000008": {
+        "active": true,
+        "name": "Blackburn with Darwen Borough Council"
+    },
+    "E06000009": {
+        "active": true,
+        "name": "Blackpool Borough Council"
+    },
+    "E06000010": {
+        "active": true,
+        "name": "Kingston-upon-Hull City Council"
+    },
+    "E06000011": {
+        "active": true,
+        "name": "East Riding of Yorkshire Council"
+    },
+    "E06000012": {
+        "active": true,
+        "name": "North East Lincolnshire Council"
+    },
+    "E06000013": {
+        "active": true,
+        "name": "North Lincolnshire Council"
+    },
+    "E06000014": {
+        "active": true,
+        "name": "City of York Council"
+    },
+    "E06000015": {
+        "active": true,
+        "name": "Derby City Council"
+    },
+    "E06000016": {
+        "active": true,
+        "name": "Leicester City Council"
+    },
+    "E06000017": {
+        "active": true,
+        "name": "Rutland County Council"
+    },
+    "E06000018": {
+        "active": true,
+        "name": "Nottingham City Council"
+    },
+    "E06000019": {
+        "active": true,
+        "name": "Hertfordshire County Council"
+    },
+    "E06000020": {
+        "active": true,
+        "name": "Telford & Wrekin Council"
+    },
+    "E06000021": {
+        "active": true,
+        "name": "Stoke-on-Trent City Council"
+    },
+    "E06000022": {
+        "active": true,
+        "name": "Bath and North East Somerset Council"
+    },
+    "E06000023": {
+        "active": true,
+        "name": "Bristol City Council"
+    },
+    "E06000024": {
+        "active": true,
+        "name": "North Somerset Council"
+    },
+    "E06000025": {
+        "active": true,
+        "name": "South Gloucestershire Council"
+    },
+    "E06000026": {
+        "active": true,
+        "name": "Plymouth City Council"
+    },
+    "E06000027": {
+        "active": true,
+        "name": "Torbay Council"
+    },
+    "E06000028": {
+        "active": false,
+        "name": "Bournemouth Borough Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000058"
+        }
+    },
+    "E06000029": {
+        "active": false,
+        "name": "Borough of Poole",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000058"
+        }
+    },
+    "E06000030": {
+        "active": true,
+        "name": "Swindon Borough Council"
+    },
+    "E06000031": {
+        "active": true,
+        "name": "Peterborough City Council"
+    },
+    "E06000032": {
+        "active": true,
+        "name": "Luton Borough Council"
+    },
+    "E06000033": {
+        "active": true,
+        "name": "Southend-on-Sea Borough Council"
+    },
+    "E06000034": {
+        "active": true,
+        "name": "Thurrock Council"
+    },
+    "E06000035": {
+        "active": true,
+        "name": "Medway Council"
+    },
+    "E06000036": {
+        "active": true,
+        "name": "Bracknell Forest Council"
+    },
+    "E06000037": {
+        "active": true,
+        "name": "West Berkshire Council"
+    },
+    "E06000038": {
+        "active": true,
+        "name": "Reading Borough Council"
+    },
+    "E06000039": {
+        "active": true,
+        "name": "Slough Borough Council"
+    },
+    "E06000040": {
+        "active": true,
+        "name": "Royal Borough of Windsor and Maidenhead"
+    },
+    "E06000041": {
+        "active": true,
+        "name": "Wokingham Borough Council"
+    },
+    "E06000042": {
+        "active": true,
+        "name": "Milton Keynes"
+    },
+    "E06000043": {
+        "active": true,
+        "name": "Brighton and Hove City Council"
+    },
+    "E06000044": {
+        "active": true,
+        "name": "Portsmouth City Council"
+    },
+    "E06000045": {
+        "active": true,
+        "name": "Southampton City Council"
+    },
+    "E06000046": {
+        "active": true,
+        "name": "Isle of Wight Council"
+    },
+    "E06000047": {
+        "active": true,
+        "name": "Durham County Council"
+    },
+    "E06000049": {
+        "active": true,
+        "name": "Cheshire East Council (Unitary)"
+    },
+    "E06000050": {
+        "active": true,
+        "name": "Cheshire West and Chester Council"
+    },
+    "E06000051": {
+        "active": true,
+        "name": "Shropshire Council - Unitary"
+    },
+    "E06000052": {
+        "active": true,
+        "name": "Cornwall Council"
+    },
+    "E06000053": {
+        "active": true,
+        "name": "Isles of Scilly"
+    },
+    "E06000054": {
+        "active": true,
+        "name": "Wiltshire Council"
+    },
+    "E06000055": {
+        "active": true,
+        "name": "Bedford Borough Council"
+    },
+    "E06000056": {
+        "active": true,
+        "name": "Central Bedfordshire Council"
+    },
+    "E06000057": {
+        "active": true,
+        "name": "Northumberland Council"
+    },
+    "E06000058": {
+        "active": true,
+        "name": "Bournemouth, Christchurch and Poole"
+    },
+    "E06000059": {
+        "active": true,
+        "name": "Dorset Council"
+    },
+    "E06000060": {
+        "active": true,
+        "name": "Buckinghamshire County Council"
+    },
+    "E06000061": {
+        "active": true,
+        "name": "North Northamptonshire"
+    },
+    "E06000062": {
+        "active": true,
+        "name": "West Northamptonshire"
+    },
+    "E06000063": {
+        "active": true,
+        "name": "Cumberland"
+    },
+    "E06000064": {
+        "active": true,
+        "name": "Westmorland and Furness"
+    },
+    "E06000065": {
+        "active": true,
+        "name": "North Yorkshire Council"
+    },
+    "E06000066": {
+        "active": true,
+        "name": "Somerset Council"
+    },
+    "E07000004": {
+        "active": false,
+        "name": "Aylesbury Vale District Council",
+        "replacedBy": {
+            "date": "2020-04-01",
+            "id": "E06000060"
+        }
+    },
+    "E07000005": {
+        "active": false,
+        "name": "Chiltern District Council",
+        "replacedBy": {
+            "date": "2020-04-01",
+            "id": "E06000060"
+        }
+    },
+    "E07000006": {
+        "active": false,
+        "name": "South Buckinghamshire District Council",
+        "replacedBy": {
+            "date": "2020-04-01",
+            "id": "E06000060"
+        }
+    },
+    "E07000007": {
+        "active": false,
+        "name": "Wycombe District Council",
+        "replacedBy": {
+            "date": "2020-04-01",
+            "id": "E06000060"
+        }
+    },
+    "E07000008": {
+        "active": true,
+        "name": "Cambridge City Council"
+    },
+    "E07000009": {
+        "active": true,
+        "name": "East Cambridgeshire District Council"
+    },
+    "E07000010": {
+        "active": true,
+        "name": "Fenland District Council"
+    },
+    "E07000011": {
+        "active": true,
+        "name": "Huntingdonshire District Council"
+    },
+    "E07000012": {
+        "active": true,
+        "name": "South Cambridgeshire District Council"
+    },
+    "E07000026": {
+        "active": false,
+        "name": "Allerdale Borough Council",
+        "note": "Merged into Cumberland",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000063"
+        }
+    },
+    "E07000027": {
+        "active": false,
+        "name": "Barrow-in-Furness Borough Council",
+        "note": "Merged into Westmorland and Furness",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000064"
+        }
+    },
+    "E07000028": {
+        "active": false,
+        "name": "Carlisle City Council",
+        "note": "Merged into Cumberland",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000063"
+        }
+    },
+    "E07000029": {
+        "active": false,
+        "name": "Copeland Borough Council",
+        "note": "Merged into Cumberland",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000063"
+        }
+    },
+    "E07000030": {
+        "active": false,
+        "name": "Eden District Council",
+        "note": "Merged into Westmorland and Furness",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000064"
+        }
+    },
+    "E07000031": {
+        "active": false,
+        "name": "South Lakeland District Council",
+        "note": "Merged into Westmorland and Furness",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000064"
+        }
+    },
+    "E07000032": {
+        "active": true,
+        "name": "Amber Valley Borough Council"
+    },
+    "E07000033": {
+        "active": true,
+        "name": "Bolsover District Council"
+    },
+    "E07000034": {
+        "active": true,
+        "name": "Chesterfield Borough Council"
+    },
+    "E07000035": {
+        "active": true,
+        "name": "Derbyshire Dales District Council"
+    },
+    "E07000036": {
+        "active": true,
+        "name": "Erewash Borough Council"
+    },
+    "E07000037": {
+        "active": true,
+        "name": "High Peak Borough Council"
+    },
+    "E07000038": {
+        "active": true,
+        "name": "North East Derbyshire District Council"
+    },
+    "E07000039": {
+        "active": true,
+        "name": "South Derbyshire District Council"
+    },
+    "E07000040": {
+        "active": true,
+        "name": "East Devon District Council"
+    },
+    "E07000041": {
+        "active": true,
+        "name": "Exeter City Council"
+    },
+    "E07000042": {
+        "active": true,
+        "name": "Mid Devon District Council"
+    },
+    "E07000043": {
+        "active": true,
+        "name": "North Devon Council"
+    },
+    "E07000044": {
+        "active": true,
+        "name": "South Hams District Council"
+    },
+    "E07000045": {
+        "active": true,
+        "name": "Teignbridge District Council"
+    },
+    "E07000046": {
+        "active": true,
+        "name": "Torridge District Council"
+    },
+    "E07000047": {
+        "active": true,
+        "name": "West Devon Borough Council"
+    },
+    "E07000048": {
+        "active": false,
+        "name": "Christchurch Borough Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000058"
+        }
+    },
+    "E07000049": {
+        "active": false,
+        "name": "East Dorset District Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000059"
+        }
+    },
+    "E07000050": {
+        "active": false,
+        "name": "North Dorset District Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000059"
+        }
+    },
+    "E07000051": {
+        "active": false,
+        "name": "Purbeck District Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000059"
+        }
+    },
+    "E07000052": {
+        "active": false,
+        "name": "West Dorset District Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000059"
+        }
+    },
+    "E07000053": {
+        "active": false,
+        "name": "Weymouth and Portland Borough Council",
+        "replacedBy": {
+            "date": "2019-04-01",
+            "id": "E06000059"
+        }
+    },
+    "E07000061": {
+        "active": true,
+        "name": "Eastbourne Borough Council"
+    },
+    "E07000062": {
+        "active": true,
+        "name": "Hastings Borough Council"
+    },
+    "E07000063": {
+        "active": true,
+        "name": "Lewes District Council"
+    },
+    "E07000064": {
+        "active": true,
+        "name": "Rother District Council"
+    },
+    "E07000065": {
+        "active": true,
+        "name": "Wealden District Council"
+    },
+    "E07000066": {
+        "active": true,
+        "name": "Basildon Borough Council"
+    },
+    "E07000067": {
+        "active": true,
+        "name": "Braintree District Council"
+    },
+    "E07000068": {
+        "active": true,
+        "name": "Brentwood Borough Council"
+    },
+    "E07000069": {
+        "active": true,
+        "name": "Castle Point Borough Council"
+    },
+    "E07000070": {
+        "active": true,
+        "name": "Chelmsford City Council"
+    },
+    "E07000071": {
+        "active": true,
+        "name": "Colchester Borough Council"
+    },
+    "E07000072": {
+        "active": true,
+        "name": "Epping Forest District Council"
+    },
+    "E07000073": {
+        "active": true,
+        "name": "Harlow Council"
+    },
+    "E07000074": {
+        "active": true,
+        "name": "Maldon District Council"
+    },
+    "E07000075": {
+        "active": true,
+        "name": "Rochford District Council"
+    },
+    "E07000076": {
+        "active": true,
+        "name": "Tendring District Council"
+    },
+    "E07000077": {
+        "active": true,
+        "name": "Uttlesford District Council"
+    },
+    "E07000078": {
+        "active": true,
+        "name": "Cheltenham Borough Council"
+    },
+    "E07000079": {
+        "active": true,
+        "name": "Cotswold District Council"
+    },
+    "E07000080": {
+        "active": true,
+        "name": "Forest of Dean District Council"
+    },
+    "E07000081": {
+        "active": true,
+        "name": "Gloucester City Council"
+    },
+    "E07000082": {
+        "active": true,
+        "name": "Stroud District Council"
+    },
+    "E07000083": {
+        "active": true,
+        "name": "Tewkesbury Borough Council"
+    },
+    "E07000084": {
+        "active": true,
+        "name": "Basingstoke and Deane Borough Council"
+    },
+    "E07000085": {
+        "active": true,
+        "name": "East Hampshire District Council"
+    },
+    "E07000086": {
+        "active": true,
+        "name": "Eastleigh Borough Council"
+    },
+    "E07000087": {
+        "active": true,
+        "name": "Fareham Borough Council"
+    },
+    "E07000088": {
+        "active": true,
+        "name": "Gosport Borough Council"
+    },
+    "E07000089": {
+        "active": true,
+        "name": "Hart District Council"
+    },
+    "E07000090": {
+        "active": true,
+        "name": "Havant Borough Council"
+    },
+    "E07000091": {
+        "active": true,
+        "name": "New Forest District Council"
+    },
+    "E07000092": {
+        "active": true,
+        "name": "Rushmoor Borough Council"
+    },
+    "E07000093": {
+        "active": true,
+        "name": "Test Valley Borough Council"
+    },
+    "E07000094": {
+        "active": true,
+        "name": "Winchester City Council"
+    },
+    "E07000095": {
+        "active": true,
+        "name": "Borough of Broxbourne"
+    },
+    "E07000096": {
+        "active": true,
+        "name": "Dacorum Council"
+    },
+    "E07000098": {
+        "active": true,
+        "name": "Hertsmere Borough Council"
+    },
+    "E07000099": {
+        "active": true,
+        "name": "North Hertfordshire District Council"
+    },
+    "E07000102": {
+        "active": true,
+        "name": "Three Rivers District Council"
+    },
+    "E07000103": {
+        "active": true,
+        "name": "Watford Borough Council"
+    },
+    "E07000105": {
+        "active": true,
+        "name": "Ashford Borough Council"
+    },
+    "E07000106": {
+        "active": true,
+        "name": "Canterbury City Council"
+    },
+    "E07000107": {
+        "active": true,
+        "name": "Dartford Borough Council"
+    },
+    "E07000108": {
+        "active": true,
+        "name": "Dover District Council"
+    },
+    "E07000109": {
+        "active": true,
+        "name": "Gravesham Borough Council"
+    },
+    "E07000110": {
+        "active": true,
+        "name": "Maidstone Borough Council"
+    },
+    "E07000111": {
+        "active": true,
+        "name": "Sevenoaks District Council"
+    },
+    "E07000112": {
+        "active": true,
+        "name": "Folkestone and Hythe"
+    },
+    "E07000113": {
+        "active": true,
+        "name": "Swale Borough Council"
+    },
+    "E07000114": {
+        "active": true,
+        "name": "Thanet District Council"
+    },
+    "E07000115": {
+        "active": true,
+        "name": "Tonbridge and Malling Borough Council"
+    },
+    "E07000116": {
+        "active": true,
+        "name": "Tunbridge Wells Borough Council"
+    },
+    "E07000117": {
+        "active": true,
+        "name": "Burnley Borough Council"
+    },
+    "E07000118": {
+        "active": true,
+        "name": "Chorley Council"
+    },
+    "E07000119": {
+        "active": true,
+        "name": "Fylde Borough Council"
+    },
+    "E07000120": {
+        "active": true,
+        "name": "Hyndburn Borough Council"
+    },
+    "E07000121": {
+        "active": true,
+        "name": "Lancaster City Council"
+    },
+    "E07000122": {
+        "active": true,
+        "name": "Pendle Borough Council"
+    },
+    "E07000123": {
+        "active": true,
+        "name": "Preston City Council"
+    },
+    "E07000124": {
+        "active": true,
+        "name": "Ribble Valley Borough Council"
+    },
+    "E07000125": {
+        "active": true,
+        "name": "Rossendale Borough Council"
+    },
+    "E07000126": {
+        "active": true,
+        "name": "South Ribble Borough Council"
+    },
+    "E07000127": {
+        "active": true,
+        "name": "West Lancashire Borough Council"
+    },
+    "E07000128": {
+        "active": true,
+        "name": "Wyre Council"
+    },
+    "E07000129": {
+        "active": true,
+        "name": "Blaby District Council"
+    },
+    "E07000130": {
+        "active": true,
+        "name": "Charnwood Borough Council"
+    },
+    "E07000131": {
+        "active": true,
+        "name": "Harborough District Council"
+    },
+    "E07000132": {
+        "active": true,
+        "name": "Hinckley and Bosworth Borough Council"
+    },
+    "E07000133": {
+        "active": true,
+        "name": "Melton Borough Council"
+    },
+    "E07000134": {
+        "active": true,
+        "name": "North West Leicestershire District Council"
+    },
+    "E07000135": {
+        "active": true,
+        "name": "Oadby and Wigston District Council"
+    },
+    "E07000136": {
+        "active": true,
+        "name": "Boston Borough Council"
+    },
+    "E07000137": {
+        "active": true,
+        "name": "East Lindsey District Council"
+    },
+    "E07000138": {
+        "active": true,
+        "name": "City of Lincoln Council"
+    },
+    "E07000139": {
+        "active": true,
+        "name": "North Kesteven District Council"
+    },
+    "E07000140": {
+        "active": true,
+        "name": "South Holland District Council"
+    },
+    "E07000141": {
+        "active": true,
+        "name": "South Kesteven District Council"
+    },
+    "E07000142": {
+        "active": true,
+        "name": "West Lindsey District Council"
+    },
+    "E07000143": {
+        "active": true,
+        "name": "Breckland District Council"
+    },
+    "E07000144": {
+        "active": true,
+        "name": "Broadland District Council"
+    },
+    "E07000145": {
+        "active": true,
+        "name": "Great Yarmouth Borough Council"
+    },
+    "E07000146": {
+        "active": true,
+        "name": "King's Lynn and West Norfolk Borough Council"
+    },
+    "E07000147": {
+        "active": true,
+        "name": "North Norfolk District Council"
+    },
+    "E07000148": {
+        "active": true,
+        "name": "Norwich City Council"
+    },
+    "E07000149": {
+        "active": true,
+        "name": "South Norfolk District Council"
+    },
+    "E07000150": {
+        "active": false,
+        "name": "Corby Borough Council",
+        "replacedBy": {
+            "date": "2021-04-01",
+            "id": "E06000061"
+        }
+    },
+    "E07000151": {
+        "active": false,
+        "name": "Daventry District Council",
+        "note": "Merged into West Northamptonshire 2021-04"
+    },
+    "E07000152": {
+        "active": false,
+        "name": "East Northamptonshire Council",
+        "replacedBy": {
+            "date": "2021-04-01",
+            "id": "E06000061"
+        }
+    },
+    "E07000153": {
+        "active": false,
+        "name": "Kettering Borough Council",
+        "replacedBy": {
+            "date": "2021-04-01",
+            "id": "E06000061"
+        }
+    },
+    "E07000154": {
+        "active": false,
+        "name": "Northampton Borough Council",
+        "note": "Merged into West Northamptonshire 2021-04"
+    },
+    "E07000155": {
+        "active": false,
+        "name": "South Northamptonshire Council",
+        "note": "Merged into West Northamptonshire 2021-04"
+    },
+    "E07000156": {
+        "active": false,
+        "name": "Wellingborough Borough Council",
+        "replacedBy": {
+            "date": "2021-04-01",
+            "id": "E06000061"
+        }
+    },
+    "E07000163": {
+        "active": false,
+        "name": "Craven District Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000164": {
+        "active": false,
+        "name": "Hambleton District Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000165": {
+        "active": false,
+        "name": "Harrogate Borough Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000166": {
+        "active": false,
+        "name": "Richmondshire District Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000167": {
+        "active": false,
+        "name": "Ryedale District Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000168": {
+        "active": false,
+        "name": "Scarborough Borough Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000169": {
+        "active": false,
+        "name": "Selby District Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E07000170": {
+        "active": true,
+        "name": "Ashfield District Council"
+    },
+    "E07000171": {
+        "active": true,
+        "name": "Bassetlaw District Council"
+    },
+    "E07000172": {
+        "active": true,
+        "name": "Broxtowe Borough Council"
+    },
+    "E07000173": {
+        "active": true,
+        "name": "Gedling Borough Council"
+    },
+    "E07000174": {
+        "active": true,
+        "name": "Mansfield District Council"
+    },
+    "E07000175": {
+        "active": true,
+        "name": "Newark and Sherwood District Council"
+    },
+    "E07000176": {
+        "active": true,
+        "name": "Rushcliffe Borough Council"
+    },
+    "E07000177": {
+        "active": true,
+        "name": "Cherwell District Council"
+    },
+    "E07000178": {
+        "active": true,
+        "name": "Oxford City Council"
+    },
+    "E07000179": {
+        "active": true,
+        "name": "South Oxfordshire District Council"
+    },
+    "E07000180": {
+        "active": true,
+        "name": "Vale of White Horse District Council"
+    },
+    "E07000181": {
+        "active": true,
+        "name": "West Oxfordshire District Council"
+    },
+    "E07000187": {
+        "active": false,
+        "name": "Mendip District Council",
+        "note": "Merged into Somerset Council, 2023-04",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000066"
+        }
+    },
+    "E07000188": {
+        "active": false,
+        "name": "Sedgemoor District Council",
+        "note": "Merged into Somerset Council, 2023-04",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000066"
+        }
+    },
+    "E07000189": {
+        "active": false,
+        "name": "South Somerset District Council",
+        "note": "Merged into Somerset Council, 2023-04",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000066"
+        }
+    },
+    "E07000192": {
+        "active": true,
+        "name": "Cannock Chase District Council"
+    },
+    "E07000193": {
+        "active": true,
+        "name": "East Staffordshire Borough Council"
+    },
+    "E07000194": {
+        "active": true,
+        "name": "Lichfield District Council"
+    },
+    "E07000195": {
+        "active": true,
+        "name": "Newcastle-Under-Lyme District Council"
+    },
+    "E07000196": {
+        "active": true,
+        "name": "South Staffordshire Council"
+    },
+    "E07000197": {
+        "active": true,
+        "name": "Stafford Borough Council"
+    },
+    "E07000198": {
+        "active": true,
+        "name": "Staffordshire Moorlands District Council"
+    },
+    "E07000199": {
+        "active": true,
+        "name": "Tamworth Borough Council"
+    },
+    "E07000200": {
+        "active": true,
+        "name": "Babergh District Council"
+    },
+    "E07000201": {
+        "active": false,
+        "name": "Forest Heath District Council",
+        "note": "Merged into West Suffolk 2019-04",
+        "replacedBy": {
+            "date": "2021-04-01",
+            "id": "E06000061"
+        }
+    },
+    "E07000202": {
+        "active": true,
+        "name": "Ipswich Borough Council"
+    },
+    "E07000203": {
+        "active": true,
+        "name": "Mid Suffolk District Council"
+    },
+    "E07000204": {
+        "active": false,
+        "name": "St Edmundsbury Borough Council",
+        "note": "Merged into West Suffolk 2019-04"
+    },
+    "E07000207": {
+        "active": true,
+        "name": "Elmbridge Borough Council"
+    },
+    "E07000208": {
+        "active": true,
+        "name": "Epsom and Ewell Borough Council"
+    },
+    "E07000209": {
+        "active": true,
+        "name": "Guildford Borough Council"
+    },
+    "E07000210": {
+        "active": true,
+        "name": "Mole Valley District Council"
+    },
+    "E07000211": {
+        "active": true,
+        "name": "Reigate & Banstead Borough Council"
+    },
+    "E07000212": {
+        "active": true,
+        "name": "Runnymede Borough Council"
+    },
+    "E07000213": {
+        "active": true,
+        "name": "Spelthorne Borough Council"
+    },
+    "E07000214": {
+        "active": true,
+        "name": "Surrey Heath Borough Council"
+    },
+    "E07000215": {
+        "active": true,
+        "name": "Tandridge District Council"
+    },
+    "E07000216": {
+        "active": true,
+        "name": "Waverley Borough Council"
+    },
+    "E07000217": {
+        "active": true,
+        "name": "Woking Borough Council"
+    },
+    "E07000218": {
+        "active": true,
+        "name": "North Warwickshire Borough Council"
+    },
+    "E07000219": {
+        "active": true,
+        "name": "Nuneaton and Bedworth Borough Council"
+    },
+    "E07000220": {
+        "active": true,
+        "name": "Rugby Borough Council"
+    },
+    "E07000221": {
+        "active": true,
+        "name": "Stratford-on-Avon District Council"
+    },
+    "E07000222": {
+        "active": true,
+        "name": "Warwick District Council"
+    },
+    "E07000223": {
+        "active": true,
+        "name": "Adur and Worthing Borough Council"
+    },
+    "E07000224": {
+        "active": true,
+        "name": "Arun District Council"
+    },
+    "E07000225": {
+        "active": true,
+        "name": "Chichester District Council"
+    },
+    "E07000226": {
+        "active": true,
+        "name": "Crawley Borough Council"
+    },
+    "E07000227": {
+        "active": true,
+        "name": "Horsham District Council"
+    },
+    "E07000228": {
+        "active": true,
+        "name": "Mid Sussex District Council"
+    },
+    "E07000234": {
+        "active": true,
+        "name": "Bromsgrove District Council"
+    },
+    "E07000235": {
+        "active": true,
+        "name": "Malvern Hills District Council"
+    },
+    "E07000236": {
+        "active": true,
+        "name": "Redditch Borough Council"
+    },
+    "E07000237": {
+        "active": true,
+        "name": "Worcester City Council"
+    },
+    "E07000238": {
+        "active": true,
+        "name": "Wychavon District Council"
+    },
+    "E07000239": {
+        "active": true,
+        "name": "Wyre Forest District Council"
+    },
+    "E07000240": {
+        "active": true,
+        "name": "St Albans City and District Council"
+    },
+    "E07000241": {
+        "active": true,
+        "name": "Welwyn Hatfield Council"
+    },
+    "E07000242": {
+        "active": true,
+        "name": "East Hertfordshire District Council"
+    },
+    "E07000243": {
+        "active": true,
+        "name": "Stevenage Borough Council"
+    },
+    "E07000244": {
+        "active": true,
+        "name": "East Suffolk Council"
+    },
+    "E07000245": {
+        "active": true,
+        "name": "West Suffolk"
+    },
+    "E07000246": {
+        "active": false,
+        "name": "Somerset West and Taunton",
+        "note": "Merged into Somerset Council, 2023-04",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000066"
+        }
+    },
+    "E08000001": {
+        "active": true,
+        "name": "Bolton Metropolitan Borough Council"
+    },
+    "E08000002": {
+        "active": true,
+        "name": "Bury Metropolitan Borough Council"
+    },
+    "E08000003": {
+        "active": true,
+        "name": "Manchester City Council"
+    },
+    "E08000004": {
+        "active": true,
+        "name": "Oldham Metropolitan Borough Council"
+    },
+    "E08000005": {
+        "active": true,
+        "name": "Rochdale Metropolitan Borough Council"
+    },
+    "E08000006": {
+        "active": true,
+        "name": "Salford City Council"
+    },
+    "E08000007": {
+        "active": true,
+        "name": "Stockport Metropolitan Borough Council"
+    },
+    "E08000008": {
+        "active": true,
+        "name": "Tameside Metropolitan Borough Council"
+    },
+    "E08000009": {
+        "active": true,
+        "name": "Trafford Metropolitan Borough Council"
+    },
+    "E08000010": {
+        "active": true,
+        "name": "Wigan Metropolitan Borough Council"
+    },
+    "E08000011": {
+        "active": true,
+        "name": "Knowsley Metropolitan Borough Council"
+    },
+    "E08000012": {
+        "active": true,
+        "name": "Liverpool City Council"
+    },
+    "E08000013": {
+        "active": true,
+        "name": "St Helens Metropolitan Borough Council"
+    },
+    "E08000014": {
+        "active": true,
+        "name": "Sefton Metropolitan Borough Council"
+    },
+    "E08000015": {
+        "active": true,
+        "name": "Wirral Council"
+    },
+    "E08000016": {
+        "active": true,
+        "name": "Barnsley Metropolitan Borough Council"
+    },
+    "E08000017": {
+        "active": true,
+        "name": "Doncaster Metropolitan Borough Council"
+    },
+    "E08000018": {
+        "active": true,
+        "name": "Rotherham Metropolitan Borough Council"
+    },
+    "E08000019": {
+        "active": true,
+        "name": "Sheffield City Council"
+    },
+    "E08000021": {
+        "active": true,
+        "name": "Newcastle-upon-Tyne City Council"
+    },
+    "E08000022": {
+        "active": true,
+        "name": "North Tyneside Metropolitan Borough Council"
+    },
+    "E08000023": {
+        "active": true,
+        "name": "South Tyneside Council"
+    },
+    "E08000024": {
+        "active": true,
+        "name": "Sunderland City Council"
+    },
+    "E08000025": {
+        "active": true,
+        "name": "Birmingham City Council"
+    },
+    "E08000026": {
+        "active": true,
+        "name": "Coventry City Council"
+    },
+    "E08000027": {
+        "active": true,
+        "name": "Dudley Metropolitan Borough Council"
+    },
+    "E08000028": {
+        "active": true,
+        "name": "Sandwell Metropolitan Borough Council"
+    },
+    "E08000029": {
+        "active": true,
+        "name": "Solihull Metropolitan Borough Council"
+    },
+    "E08000030": {
+        "active": true,
+        "name": "Walsall Metropolitan Borough Council"
+    },
+    "E08000031": {
+        "active": true,
+        "name": "Wolverhampton City Council"
+    },
+    "E08000032": {
+        "active": true,
+        "name": "Bradford Metropolitan District Council"
+    },
+    "E08000033": {
+        "active": true,
+        "name": "Calderdale Metropolitan Borough Council"
+    },
+    "E08000034": {
+        "active": true,
+        "name": "Kirklees Council"
+    },
+    "E08000035": {
+        "active": true,
+        "name": "Leeds City Council"
+    },
+    "E08000036": {
+        "active": true,
+        "name": "Wakefield Metropolitan District Council"
+    },
+    "E08000037": {
+        "active": true,
+        "name": "Gateshead Metropolitan Borough Council"
+    },
+    "E09000001": {
+        "active": true,
+        "name": "City of London"
+    },
+    "E09000002": {
+        "active": true,
+        "name": "London Borough of Barking and Dagenham"
+    },
+    "E09000003": {
+        "active": true,
+        "name": "London Borough of Barnet"
+    },
+    "E09000004": {
+        "active": true,
+        "name": "London Borough of Bexley"
+    },
+    "E09000005": {
+        "active": true,
+        "name": "London Borough of Brent"
+    },
+    "E09000006": {
+        "active": true,
+        "name": "London Borough of Bromley"
+    },
+    "E09000007": {
+        "active": true,
+        "name": "London Borough of Camden"
+    },
+    "E09000008": {
+        "active": true,
+        "name": "London Borough of Croydon"
+    },
+    "E09000009": {
+        "active": true,
+        "name": "London Borough of Ealing"
+    },
+    "E09000010": {
+        "active": true,
+        "name": "London Borough of Enfield"
+    },
+    "E09000011": {
+        "active": true,
+        "name": "Royal Borough of Greenwich"
+    },
+    "E09000012": {
+        "active": true,
+        "name": "London Borough of Hackney"
+    },
+    "E09000013": {
+        "active": true,
+        "name": "London Borough of Hammersmith & Fulham"
+    },
+    "E09000014": {
+        "active": true,
+        "name": "London Borough of Haringey"
+    },
+    "E09000015": {
+        "active": true,
+        "name": "London Borough of Harrow"
+    },
+    "E09000016": {
+        "active": true,
+        "name": "London Borough of Havering"
+    },
+    "E09000017": {
+        "active": true,
+        "name": "London Borough of Hillingdon"
+    },
+    "E09000018": {
+        "active": true,
+        "name": "London Borough of Hounslow"
+    },
+    "E09000019": {
+        "active": true,
+        "name": "London Borough of Islington"
+    },
+    "E09000020": {
+        "active": true,
+        "name": "Royal Borough of Kensington and Chelsea"
+    },
+    "E09000021": {
+        "active": true,
+        "name": "Royal Borough of Kingston upon Thames"
+    },
+    "E09000022": {
+        "active": true,
+        "name": "London Borough of Lambeth"
+    },
+    "E09000023": {
+        "active": true,
+        "name": "London Borough of Lewisham"
+    },
+    "E09000024": {
+        "active": true,
+        "name": "London Borough of Merton"
+    },
+    "E09000025": {
+        "active": true,
+        "name": "London Borough of Newham"
+    },
+    "E09000026": {
+        "active": true,
+        "name": "London Borough of Redbridge"
+    },
+    "E09000027": {
+        "active": true,
+        "name": "London Borough of Richmond upon Thames"
+    },
+    "E09000028": {
+        "active": true,
+        "name": "London Borough of Southwark"
+    },
+    "E09000029": {
+        "active": true,
+        "name": "London Borough of Sutton"
+    },
+    "E09000030": {
+        "active": true,
+        "name": "London Borough of Tower Hamlets"
+    },
+    "E09000031": {
+        "active": true,
+        "name": "London Borough of Waltham Forest"
+    },
+    "E09000032": {
+        "active": true,
+        "name": "London Borough of Wandsworth"
+    },
+    "E09000033": {
+        "active": true,
+        "name": "Westminster City Council"
+    },
+    "E10000003": {
+        "active": true,
+        "name": "Cambridgeshire County Council"
+    },
+    "E10000006": {
+        "active": false,
+        "name": "Cumbria County Council",
+        "note": "Replaced by Cumberland council and Westmorland and Furness council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": [
+                "E06000063",
+                "E06000064"
+            ]
+        }
+    },
+    "E10000007": {
+        "active": true,
+        "name": "Derbyshire County Council"
+    },
+    "E10000008": {
+        "active": true,
+        "name": "Devon County Council"
+    },
+    "E10000011": {
+        "active": true,
+        "name": "East Sussex County Council"
+    },
+    "E10000012": {
+        "active": true,
+        "name": "Essex County Council"
+    },
+    "E10000013": {
+        "active": true,
+        "name": "Gloucestershire County Council"
+    },
+    "E10000014": {
+        "active": true,
+        "name": "Hampshire County Council"
+    },
+    "E10000016": {
+        "active": true,
+        "name": "Kent County Council"
+    },
+    "E10000017": {
+        "active": true,
+        "name": "Lancashire County Council"
+    },
+    "E10000018": {
+        "active": true,
+        "name": "Leicestershire County Council"
+    },
+    "E10000019": {
+        "active": true,
+        "name": "Lincolnshire County Council"
+    },
+    "E10000020": {
+        "active": true,
+        "name": "Norfolk County Council"
+    },
+    "E10000021": {
+        "active": false,
+        "name": "Northamptonshire County Council",
+        "note": "Replaced by North Northamptonshire and West Northamptonshire Councils",
+        "replacedBy": {
+            "date": "2021-03-31",
+            "id": [
+                "E06000061",
+                "E06000062"
+            ]
+        }
+    },
+    "E10000023": {
+        "active": false,
+        "name": "North Yorkshire County Council",
+        "note": "Replaced by North Yorkshire Council",
+        "replacedBy": {
+            "date": "2023-04-01",
+            "id": "E06000065"
+        }
+    },
+    "E10000024": {
+        "active": true,
+        "name": "Nottinghamshire County Council"
+    },
+    "E10000025": {
+        "active": true,
+        "name": "Oxfordshire County Council"
+    },
+    "E10000027": {
+        "active": true,
+        "name": "Somerset County Council"
+    },
+    "E10000028": {
+        "active": true,
+        "name": "Staffordshire County Council"
+    },
+    "E10000029": {
+        "active": true,
+        "name": "Suffolk County Council"
+    },
+    "E10000030": {
+        "active": true,
+        "name": "Surrey County Council"
+    },
+    "E10000031": {
+        "active": true,
+        "name": "Warwickshire County Council"
+    },
+    "E10000032": {
+        "active": true,
+        "name": "West Sussex County Council"
+    },
+    "E10000034": {
+        "active": true,
+        "name": "Worcestershire County Council"
+    },
+    "E47000001": {
+        "active": true,
+        "name": "Greater Manchester"
+    },
+    "E47000002": {
+        "active": true,
+        "name": "South Yorkshire Mayoral Combined Authority"
+    },
+    "E47000003": {
+        "active": true,
+        "name": "West Yorkshire Combined Authority"
+    },
+    "E47000004": {
+        "active": true,
+        "name": "Liverpool City Region"
+    },
+    "E47000006": {
+        "active": true,
+        "name": "Tees Valley"
+    },
+    "E47000007": {
+        "active": true,
+        "name": "West Midlands"
+    },
+    "E47000008": {
+        "active": true,
+        "name": "Cambridgeshire and Peterborough"
+    },
+    "E47000009": {
+        "active": true,
+        "name": "West of England"
+    },
+    "E47000010": {
+        "active": true,
+        "name": "North East"
+    },
+    "E47000011": {
+        "active": true,
+        "name": "North of Tyne"
+    },
+    "N09000001": {
+        "active": true,
+        "name": "Antrim and Newtownabbey"
+    },
+    "N09000002": {
+        "active": true,
+        "name": "Armagh City, Banbridge and Craigavon"
+    },
+    "N09000003": {
+        "active": true,
+        "name": "Belfast"
+    },
+    "N09000004": {
+        "active": true,
+        "name": "Causeway Coast and Glens"
+    },
+    "N09000005": {
+        "active": true,
+        "name": "Derry City and Strabane"
+    },
+    "N09000006": {
+        "active": true,
+        "name": "Fermanagh and Omagh"
+    },
+    "N09000007": {
+        "active": true,
+        "name": "Lisburn and Castlereagh"
+    },
+    "N09000008": {
+        "active": true,
+        "name": "Mid and East Antrim"
+    },
+    "N09000009": {
+        "active": true,
+        "name": "Mid Ulster"
+    },
+    "N09000010": {
+        "active": true,
+        "name": "Newry, Mourne and Down"
+    },
+    "N09000011": {
+        "active": true,
+        "name": "Ards and North Down"
+    },
+    "S12000005": {
+        "active": true,
+        "name": "Clackmannanshire Council"
+    },
+    "S12000006": {
+        "active": true,
+        "name": "Dumfries and Galloway Council"
+    },
+    "S12000008": {
+        "active": true,
+        "name": "East Ayrshire Council"
+    },
+    "S12000010": {
+        "active": true,
+        "name": "East Lothian Council"
+    },
+    "S12000011": {
+        "active": true,
+        "name": "East Renfrewshire Council"
+    },
+    "S12000013": {
+        "active": true,
+        "name": "Comhairle nan Eilean Siar"
+    },
+    "S12000014": {
+        "active": true,
+        "name": "Falkirk Council"
+    },
+    "S12000015": {
+        "active": true,
+        "name": "Fife Council"
+    },
+    "S12000017": {
+        "active": true,
+        "name": "Highland Council"
+    },
+    "S12000018": {
+        "active": true,
+        "name": "Inverclyde Council"
+    },
+    "S12000019": {
+        "active": true,
+        "name": "Midlothian Council"
+    },
+    "S12000020": {
+        "active": true,
+        "name": "Moray Council"
+    },
+    "S12000021": {
+        "active": true,
+        "name": "North Ayrshire Council"
+    },
+    "S12000023": {
+        "active": true,
+        "name": "Orkney Islands Council"
+    },
+    "S12000024": {
+        "active": true,
+        "name": "Perth and Kinross Council"
+    },
+    "S12000026": {
+        "active": true,
+        "name": "Scottish Borders Council"
+    },
+    "S12000027": {
+        "active": true,
+        "name": "Shetland Islands Council"
+    },
+    "S12000028": {
+        "active": true,
+        "name": "South Ayrshire Council"
+    },
+    "S12000029": {
+        "active": true,
+        "name": "South Lanarkshire Council"
+    },
+    "S12000030": {
+        "active": true,
+        "name": "Stirling Council"
+    },
+    "S12000033": {
+        "active": true,
+        "name": "Aberdeen City Council"
+    },
+    "S12000034": {
+        "active": true,
+        "name": "Aberdeenshire Council"
+    },
+    "S12000035": {
+        "active": true,
+        "name": "Argyll and Bute Council"
+    },
+    "S12000036": {
+        "active": true,
+        "name": "City of Edinburgh Council"
+    },
+    "S12000038": {
+        "active": true,
+        "name": "Renfrewshire Council"
+    },
+    "S12000039": {
+        "active": true,
+        "name": "West Dunbartonshire Council"
+    },
+    "S12000040": {
+        "active": true,
+        "name": "West Lothian Council"
+    },
+    "S12000041": {
+        "active": true,
+        "name": "Angus Council"
+    },
+    "S12000042": {
+        "active": true,
+        "name": "Dundee City Council"
+    },
+    "S12000044": {
+        "active": true,
+        "name": "North Lanarkshire Council"
+    },
+    "S12000045": {
+        "active": true,
+        "name": "East Dunbartonshire Council"
+    },
+    "S12000046": {
+        "active": true,
+        "name": "Glasgow City Council"
+    },
+    "W06000001": {
+        "active": true,
+        "name": "Isle of Anglesey County Council"
+    },
+    "W06000002": {
+        "active": true,
+        "name": "Gwynedd County Council"
+    },
+    "W06000003": {
+        "active": true,
+        "name": "Conwy County Borough Council"
+    },
+    "W06000004": {
+        "active": true,
+        "name": "Denbighshire County Council"
+    },
+    "W06000005": {
+        "active": true,
+        "name": "Flintshire County Council"
+    },
+    "W06000006": {
+        "active": true,
+        "name": "Wrexham County Borough Council"
+    },
+    "W06000008": {
+        "active": true,
+        "name": "Ceredigion County Council"
+    },
+    "W06000009": {
+        "active": true,
+        "name": "Pembrokeshire County Council"
+    },
+    "W06000010": {
+        "active": true,
+        "name": "Carmarthenshire County Council"
+    },
+    "W06000011": {
+        "active": true,
+        "name": "Swansea City and Borough Council"
+    },
+    "W06000012": {
+        "active": true,
+        "name": "Neath Port Talbot County Borough Council"
+    },
+    "W06000013": {
+        "active": true,
+        "name": "Bridgend County Borough Council"
+    },
+    "W06000014": {
+        "active": true,
+        "name": "Vale of Glamorgan Council"
+    },
+    "W06000015": {
+        "active": true,
+        "name": "Cardiff Council"
+    },
+    "W06000016": {
+        "active": true,
+        "name": "Rhondda Cynon Taf County Borough Council"
+    },
+    "W06000018": {
+        "active": true,
+        "name": "Caerphilly County Borough Council"
+    },
+    "W06000019": {
+        "active": true,
+        "name": "Blaenau Gwent County Borough Council"
+    },
+    "W06000020": {
+        "active": true,
+        "name": "Torfaen County Borough Council"
+    },
+    "W06000021": {
+        "active": true,
+        "name": "Monmouthshire County Council"
+    },
+    "W06000022": {
+        "active": true,
+        "name": "Newport City Council"
+    },
+    "W06000023": {
+        "active": true,
+        "name": "Powys County Council"
+    },
+    "W06000024": {
+        "active": true,
+        "name": "Merthyr Tydfil County Borough Council"
     }
 }

@@ -2,7 +2,7 @@ export const layout = "template/vacanthomes.vto";
 export const tags = ["area"];
 
 export default function* ({areas}) {
-    for (const [key, value] of Object.entries(areas.orgs)){
+    for (const [key, value] of Object.entries(areas)){
         yield {
             url: `/visualisations/vacant-homes/${key}/`,
             title: value['name'],

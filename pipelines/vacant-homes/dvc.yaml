@@ -1,0 +1,10 @@
+stages:
+  get-areas:
+    wdir: ../..
+    cmd: python pipelines/vacant-homes/area-scrape.py
+    deps:
+      - pipelines/vacant-homes/area-scrape.py
+      - https://open-innovations.github.io/council-website-emissions/data/index.json
+    outs: 
+      - src/visualisations/vacant-homes/_data/areas.json:
+          cache: false

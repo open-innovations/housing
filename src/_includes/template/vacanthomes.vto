@@ -2,6 +2,7 @@
 layout: template/base.vto
 ---
 <h1>{{ title }}</h1>
-{{ if active }}<p class='active-{{ active }}'>Active</p>{{ /if }}
-{{> console.log(page.data) }}
-{{ name }}
+<p class='active {{ active }}'>{{ if active }}Active{{ else }}Inactive{{ /if }}</p>
+<p>{{ if !active }}Replaced by {{ replacedBy |> JSON.stringify }} {{ /if }}</p>
+{{# {{> console.log(page.data) }}
+{{ name }} #}}

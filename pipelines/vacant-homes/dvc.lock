@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  get-areas:
+    cmd: python pipelines/vacant-homes/area-scrape.py
+    deps:
+    - path: https://open-innovations.github.io/council-website-emissions/data/index.json
+      hash: md5
+      checksum: '"668dc20e-160f21"'
+      size: 1445665
+    - path: pipelines/vacant-homes/area-scrape.py
+      hash: md5
+      md5: ce8f6c58ea05e6ca76465aaa0e3d0b31
+      size: 817
+    outs:
+    - path: src/visualisations/vacant-homes/_data/areas.json
+      hash: md5
+      md5: b1322aa968c888d5519f8d95b3e762a5
+      size: 46489

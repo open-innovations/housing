@@ -117,4 +117,6 @@
   }
 
 h2.dashboard { margin-top: 1em;}
-p.active-true { background-color: #1dd3a7; color: black; display: inline-block; border-radius: 15%; padding: 0.1em;}
+p.active { display: inline-block; border-radius: 15%; padding: 0.1em;}
+.true { background-color: #1dd3a7; color: black;}
+.false { background-color: #D60303; color: white;}

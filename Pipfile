@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openpyxl = "*"
+pandas = "*"
+jupyter = "*"
+notebook = "*"
+ipykernel = "*"
+odfpy = "*"
+bs4 = "*"
+dvc = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
