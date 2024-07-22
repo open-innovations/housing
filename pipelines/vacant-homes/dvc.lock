@@ -3,16 +3,39 @@ stages:
   get-areas:
     cmd: python pipelines/vacant-homes/area-scrape.py
     deps:
-    - path: https://open-innovations.github.io/council-website-emissions/data/index.json
-      hash: md5
-      checksum: '"668dc20e-160f21"'
-      size: 1445665
     - path: pipelines/vacant-homes/area-scrape.py
       hash: md5
-      md5: ce8f6c58ea05e6ca76465aaa0e3d0b31
-      size: 817
+      md5: ce29b1149779b49e9eb2677a3cb5e1d9
+      size: 1920
+  additional-areas:
+    cmd: python pipelines/vacant-homes/additional-areas.py
+    deps:
+    - path: pipelines/vacant-homes/additional-areas.py
+      hash: md5
+      md5: 86752c9d50f674d94fc83167cee7f248
+      size: 1017
+    - path: raw/areas.json
+      hash: md5
+      md5: 43daa9d7af93640aefaa92682f210b36
+      size: 40280
     outs:
     - path: src/visualisations/vacant-homes/_data/areas.json
       hash: md5
-      md5: b1322aa968c888d5519f8d95b3e762a5
-      size: 46489
+      md5: f67c24d0a001df85c11646e5c9c20000
+      size: 46182
+  areas:
+    cmd: python pipelines/vacant-homes/areas.py
+    deps:
+    - path: housingengland/AllCombined_Cleaned_2024_update.csv
+      hash: md5
+      md5: e5d960710582a33a0f044e3fc4d6e19c
+      size: 1476176
+    - path: pipelines/vacant-homes/areas.py
+      hash: md5
+      md5: df1b0293456c5b452ea086f04d32871f
+      size: 2169
+    outs:
+    - path: src/visualisations/vacant-homes/_data/areas.json
+      hash: md5
+      md5: daa4e49baabb7eed4f2f83fd772a1c41
+      size: 48933
