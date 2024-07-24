@@ -6,6 +6,7 @@ export default function* ({areas}) {
         yield {
             url: `/visualisations/vacant-homes/${key}/`,
             title: value['name'],
+            areacode: key,
             ...value,
             areas: null, // mask the areas data from other pages.
             };

@@ -26,16 +26,16 @@ stages:
   areas:
     cmd: python pipelines/vacant-homes/areas.py
     deps:
-    - path: housingengland/AllCombined_Cleaned_2024_update.csv
+    - path: data/vacant-homes/AllCombined_Cleaned_2024_update.csv
       hash: md5
       md5: e5d960710582a33a0f044e3fc4d6e19c
       size: 1476176
     - path: pipelines/vacant-homes/areas.py
       hash: md5
-      md5: df1b0293456c5b452ea086f04d32871f
-      size: 2169
+      md5: 0bac2c6dc032704f30e35e4c24e01142
+      size: 2050
     outs:
     - path: src/visualisations/vacant-homes/_data/areas.json
       hash: md5
-      md5: daa4e49baabb7eed4f2f83fd772a1c41
-      size: 48933
+      md5: d018fc4d80fbda72468dd7584a74c93a
+      size: 51146

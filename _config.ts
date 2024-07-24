@@ -5,6 +5,7 @@ import metas from "lume/plugins/metas.ts";
 import postcss from "lume/plugins/postcss.ts";
 // Loaders
 import json from "lume/core/loaders/json.ts";
+import { duckDbLoader, resultTable } from "jsr:@dringtech/lume-duck";
 
 const site = lume({
     src: './src',
@@ -22,5 +23,8 @@ site.use(metas({
 site.use(postcss());
 site.loadData([".hexjson"], json);
 site.copy('.nojekyll');
+
+site.loadData([".sql"], duckDbLoader());
+site.filter("resultTable", resultTable);
 
 export default site;

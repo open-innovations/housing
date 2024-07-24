@@ -1,15 +1,19 @@
 ---
 layout: template/base.vto
 ---
+<p><a href="/visualisations/vacant-homes/">Back to list of areas</a></p>
 <h1>{{ title }}</h1>
-{{ if active == 'true' }}
+{{ if active }}
     <p class='active {{ active }}'>Active</p>
-{{ else if active == 'false' }}
+{{ else }}
     <p class='active {{ active }}'>Inactive</p>
 {{ /if }}
 {{ if lastPublished }}
     <p>Dwellings data was last published in {{ lastPublished }} for this area.</p>
 {{ /if }}
+{{# {{ areacode }} #}}
+{{ set d = simple(areacode, 'Dwellings')}}
+{{ d |> JSON.stringify }}
 
 {{# {{> console.log(page.data) }}
 {{ name }} #}}
