@@ -45,4 +45,19 @@ site.filter("capitalise", (body) => {
   return body.charAt(0).toUpperCase() + body.slice(1);
 })
 
+site.filter("max", (entries) => {
+  let maxVal = -Infinity;
+  for (const entry of entries) {
+    if (entry.Dwellings > maxVal) {
+      maxVal = entry.Dwellings;
+    }
+  }
+  if (maxVal == 0) {
+    return 0;
+  }
+  const magnitude = Math.floor(Math.log10(Math.abs(maxVal)))
+  const spacing = Math.pow(10, magnitude)
+  return spacing;
+});
+
 export default site;

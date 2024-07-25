@@ -1,14 +1,14 @@
-SELECT "AreaCode", "Measure", "Year", "Value" 
-FROM read_csv("data/vacant-homes/AllCombined_Cleaned_2024.csv",
+SELECT "AreaCode", "Year", "AllVacants", "Dwellings", "HouseholdProjection", "LongTermVacants"
+FROM read_csv("data/vacant-homes/absolute.csv",
     columns = {
         'AreaCode': 'VARCHAR',
-        'AreaName': 'VARCHAR',
-        'Measure': 'VARCHAR',
         'Year': 'INTEGER',
-        'Value': 'DOUBLE'
+        'AllVacants': 'DOUBLE',
+        'Dwellings': 'DOUBLE',
+        'HouseholdProjection': 'DOUBLE',
+        'LongTermVacants': 'DOUBLE'
         },
     ignore_errors = true
     )
 WHERE "AreaCode" == ?
-AND "Measure" == ?;
-
+AND "Year" <= ?;

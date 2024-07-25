@@ -7,27 +7,113 @@ visualisation: true
 {{ else }}
     <p class='active {{ active }}'>Inactive</p>
 {{ /if }}
-{{ if lastPublished }}
-    <p>Dwellings data for {{ title }} was last published in <strong>{{ lastPublished }}</strong>.</p>
+{{ if dwellingsLastPublished }}
+    <p>Dwellings data for {{ title }} were last published in <strong>{{ dwellingsLastPublished }}</strong>.</p>
+{{ /if }}
+{{ if vacantsLastPublished }}
+    <p>Vacant homes data for {{ title }} were last published in <strong>{{ vacantsLastPublished }}</strong>.</p>
 {{ /if }}
 
-{{# {{> console.log(page.data) }}
-{{ name }} #}}
+
+<h2>Vacant homes in {{ title }}</h2>
+
+{{ set percentage_chart_data = percentage(areacode) }}
+
+{{ if percentage_chart_data.length == 0 }}
+    <p>Vacant homes data are not published for this area.</p>
+{{ else }}
+    {{ set head = headlines(areacode, vacantsLastPublished)}}
+    {{# {{ head |> JSON.stringify }} #}}
+    {{ comp.oi.dashboard({ config: {
+        title: "AreaCode",
+        value: "LongTermVacants_pct",
+        note: 'footnote',
+        columns: [{
+            name: 'Post',
+            template: '%' },
+            {
+            name: 'footnote',
+            template: 'Long term vacant homes'
+            }],
+        data: head,
+        units: { postfix: 'Post' },
+        panels: [
+            {
+            name: 'E92000001',
+            colour: '#F9BC26'},
+            {
+            name: areacode,
+            colour: '#F9BC26'}]
+        }
+        })
+    }}
+    {{ comp.oi.dashboard({ config: {
+        title: "AreaCode",
+        value: "AllVacants_pct",
+        note: 'footnote',
+        columns: [{
+            name: 'Post',
+            template: '%' },
+            {
+            name: 'footnote',
+            template: 'All vacant homes'
+            }],
+        data: head,
+        units: { postfix: 'Post' },
+        panels: [
+            {
+            name: 'E92000001',
+            colour: '#722EA5'},
+            {
+            name: areacode,
+            colour: '#722ea5'}]
+        }
+        })
+    }}
+    {{ comp.oi.chart.line({ config: {
+        data: percentage_chart_data,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 } },
+            y: { title: { label: "Percent of all households" }, grid: { "stroke-width": "1"}, tick: { spacing: 1 } }
+        },
+        series: [
+            {
+            title: 'All Vacants',
+            x: 'Year',
+            y: 'AllVacants_pct'
+            },
+            {
+            title: 'Long Term Vacants',
+            x: 'Year',
+            y: 'LongTermVacants_pct'
+            }]
+        } 
+        }) 
+    }}
+    <p>Vacant home and long-term vacant home percentages are calculated by dividing the respective counts in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 125: dwelling stock estimates by local authority district</a>.</p>
+{{ /if }}
+
+<h2>Housing in {{ title }}</h2>
+
+{{ set chart_data = simple(areacode, dwellingsLastPublished) }}
+{{ set y_spacing = chart_data |> max() }}
+
+{{  if chart_data.length > 0 && percentage_chart_data.length > 0 }}    
+    {{ set seriesObject = [{ title: 'Dwellings', x: 'Year', y: 'Dwellings'}, { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection' }, { title: 'Long Term Vacants', x: 'Year', y: 'LongTermVacants' }, { title: 'All Vacants', x: 'Year', y: 'AllVacants' }]}}
+{{ else }}
+        {{ set seriesObject = [{ title: 'Dwellings', x: 'Year', y: 'Dwellings'}, { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection' }] }}
+{{ /if }}
+
 {{ comp.oi.chart.line({ config: {
-    data: reshape(areacode),
+    data: chart_data,
     height: 600,
     axis: {
-        x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 } },
-        y: { title: { label: "Number of Dwellings" }, grid: { "stroke-width": "1"}, tick: { spacing: 5000 } }
+        x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 }, max: vacantsLastPublished },
+        y: { title: { label: "Households" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
     },
-    series: [{
-        title: 'Dwellings',
-        x: 'Year',
-        y: 'Dwellings'},
-        {
-        title: 'Household Projections',
-        x: 'Year',
-        y: 'HouseholdProjection'}
-        ]} 
+    series: seriesObject
+    } 
     }) 
-}}
+}}   
+<p>Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">2018-based household projections for local authorities and higher adminstrative areas within England</a>.</p>
