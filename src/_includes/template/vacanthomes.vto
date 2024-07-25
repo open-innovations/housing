@@ -22,10 +22,10 @@ visualisation: true
 {{ if percentage_chart_data.length == 0 }}
     <p>Vacant homes data are not published for this area.</p>
 {{ else }}
-    {{ set head = headlines(areacode, vacantsLastPublished)}}
+    {{ set head = headlines(title, vacantsLastPublished)}}
     {{# {{ head |> JSON.stringify }} #}}
     {{ comp.oi.dashboard({ config: {
-        title: "AreaCode",
+        title: "AreaName",
         value: "LongTermVacants_pct",
         note: 'footnote',
         columns: [{
@@ -39,16 +39,16 @@ visualisation: true
         units: { postfix: 'Post' },
         panels: [
             {
-            name: 'E92000001',
+            name: 'England',
             colour: '#F9BC26'},
             {
-            name: areacode,
+            name: title,
             colour: '#F9BC26'}]
         }
         })
     }}
     {{ comp.oi.dashboard({ config: {
-        title: "AreaCode",
+        title: "AreaName",
         value: "AllVacants_pct",
         note: 'footnote',
         columns: [{
@@ -62,10 +62,10 @@ visualisation: true
         units: { postfix: 'Post' },
         panels: [
             {
-            name: 'E92000001',
+            name: 'England',
             colour: '#722EA5'},
             {
-            name: areacode,
+            name: title,
             colour: '#722ea5'}]
         }
         })

@@ -3,307 +3,307 @@
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Hartlepool UA"
+        "name":"Hartlepool"
     },
     "E06000002":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Middlesbrough UA"
+        "name":"Middlesbrough"
     },
     "E06000003":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Redcar and Cleveland UA"
+        "name":"Redcar and Cleveland"
     },
     "E06000004":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Stockton-on-Tees UA"
+        "name":"Stockton-on-Tees"
     },
     "E06000005":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Darlington UA"
+        "name":"Darlington"
     },
     "E06000006":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Halton UA"
+        "name":"Halton"
     },
     "E06000007":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Warrington UA"
+        "name":"Warrington"
     },
     "E06000008":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Blackburn with Darwen UA"
+        "name":"Blackburn with Darwen"
     },
     "E06000009":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Blackpool UA"
+        "name":"Blackpool"
     },
     "E06000010":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Kingston upon Hull, City of UA"
+        "name":"Kingston upon Hull, City of"
     },
     "E06000011":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"East Riding of Yorkshire UA"
+        "name":"East Riding of Yorkshire"
     },
     "E06000012":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"North East Lincolnshire UA"
+        "name":"North East Lincolnshire"
     },
     "E06000013":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"North Lincolnshire UA"
+        "name":"North Lincolnshire"
     },
     "E06000014":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"York UA"
+        "name":"York"
     },
     "E06000015":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Derby UA"
+        "name":"Derby"
     },
     "E06000016":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Leicester UA"
+        "name":"Leicester"
     },
     "E06000017":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Rutland UA"
+        "name":"Rutland"
     },
     "E06000018":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Nottingham UA"
+        "name":"Nottingham"
     },
     "E06000019":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Herefordshire, County of UA"
+        "name":"Herefordshire, County of"
     },
     "E06000020":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Telford and Wrekin UA"
+        "name":"Telford and Wrekin"
     },
     "E06000021":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Stoke-on-Trent UA"
+        "name":"Stoke-on-Trent"
     },
     "E06000022":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Bath and North East Somerset UA"
+        "name":"Bath and North East Somerset"
     },
     "E06000023":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Bristol, City of UA"
+        "name":"Bristol, City of"
     },
     "E06000024":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"North Somerset UA"
+        "name":"North Somerset"
     },
     "E06000025":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"South Gloucestershire UA"
+        "name":"South Gloucestershire"
     },
     "E06000026":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Plymouth UA"
+        "name":"Plymouth"
     },
     "E06000027":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Torbay UA"
+        "name":"Torbay"
     },
     "E06000028":{
         "dwellingsLastPublished":2019,
         "vacantsLastPublished":2018.0,
         "active":false,
-        "name":"Bournemouth UA"
+        "name":"Bournemouth"
     },
     "E06000029":{
         "dwellingsLastPublished":2019,
         "vacantsLastPublished":2018.0,
         "active":false,
-        "name":"Poole UA"
+        "name":"Poole"
     },
     "E06000030":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Swindon UA"
+        "name":"Swindon"
     },
     "E06000031":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Peterborough UA"
+        "name":"Peterborough"
     },
     "E06000032":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Luton UA"
+        "name":"Luton"
     },
     "E06000033":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Southend-on-Sea UA"
+        "name":"Southend-on-Sea"
     },
     "E06000034":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Thurrock UA"
+        "name":"Thurrock"
     },
     "E06000035":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Medway UA"
+        "name":"Medway"
     },
     "E06000036":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Bracknell Forest UA"
+        "name":"Bracknell Forest"
     },
     "E06000037":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"West Berkshire UA"
+        "name":"West Berkshire"
     },
     "E06000038":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Reading UA"
+        "name":"Reading"
     },
     "E06000039":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Slough UA"
+        "name":"Slough"
     },
     "E06000040":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Windsor and Maidenhead UA"
+        "name":"Windsor and Maidenhead"
     },
     "E06000041":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Wokingham UA"
+        "name":"Wokingham"
     },
     "E06000042":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Milton Keynes UA"
+        "name":"Milton Keynes"
     },
     "E06000043":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Brighton and Hove UA"
+        "name":"Brighton and Hove"
     },
     "E06000044":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Portsmouth UA"
+        "name":"Portsmouth"
     },
     "E06000045":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Southampton UA"
+        "name":"Southampton"
     },
     "E06000046":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Isle of Wight UA"
+        "name":"Isle of Wight"
     },
     "E06000047":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"County Durham UA"
+        "name":"County Durham"
     },
     "E06000049":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Cheshire East UA"
+        "name":"Cheshire East"
     },
     "E06000050":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Cheshire West and Chester UA"
+        "name":"Cheshire West and Chester"
     },
     "E06000051":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Shropshire UA"
+        "name":"Shropshire"
     },
     "E06000052":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Cornwall UA"
+        "name":"Cornwall"
     },
     "E06000053":{
         "dwellingsLastPublished":2023,
@@ -315,43 +315,43 @@
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Wiltshire UA"
+        "name":"Wiltshire"
     },
     "E06000055":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Bedford UA"
+        "name":"Bedford"
     },
     "E06000056":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Central Bedfordshire UA"
+        "name":"Central Bedfordshire"
     },
     "E06000057":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Northumberland UA"
+        "name":"Northumberland"
     },
     "E06000058":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Bournemouth, Christchurch and Poole UA"
+        "name":"Bournemouth, Christchurch and Poole"
     },
     "E06000059":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Dorset UA"
+        "name":"Dorset"
     },
     "E06000060":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023.0,
         "active":true,
-        "name":"Buckinghamshire UA"
+        "name":"Buckinghamshire"
     },
     "E06000061":{
         "dwellingsLastPublished":2023,
