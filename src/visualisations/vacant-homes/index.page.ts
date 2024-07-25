@@ -9,6 +9,8 @@ export default function* ({areas}) {
             areacode: key,
             ...value,
             areas: null, // mask the areas data from other pages.
+            key: null,
+            value: null
             };
     }
 }

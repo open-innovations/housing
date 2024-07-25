@@ -1,6 +1,3 @@
-# For this to work, the Source for GitHub Pages needs to be set to GitHub Actions
-# This setting is in Settings -> Pages on the repo GitHub page
-
 name: Build site
 
 'on':

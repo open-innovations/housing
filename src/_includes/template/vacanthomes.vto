@@ -1,19 +1,33 @@
 ---
-layout: template/base.vto
+layout: template/page.vto
+visualisation: true
 ---
-<p><a href="/visualisations/vacant-homes/">Back to list of areas</a></p>
-<h1>{{ title }}</h1>
 {{ if active }}
     <p class='active {{ active }}'>Active</p>
 {{ else }}
     <p class='active {{ active }}'>Inactive</p>
 {{ /if }}
 {{ if lastPublished }}
-    <p>Dwellings data was last published in {{ lastPublished }} for this area.</p>
+    <p>Dwellings data for {{ title }} was last published in <strong>{{ lastPublished }}</strong>.</p>
 {{ /if }}
-{{# {{ areacode }} #}}
-{{ set d = simple(areacode, 'Dwellings')}}
-{{ d |> JSON.stringify }}
 
 {{# {{> console.log(page.data) }}
 {{ name }} #}}
+{{ comp.oi.chart.line({ config: {
+    data: reshape(areacode),
+    height: 600,
+    axis: {
+        x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 } },
+        y: { title: { label: "Number of Dwellings" }, grid: { "stroke-width": "1"}, tick: { spacing: 5000 } }
+    },
+    series: [{
+        title: 'Dwellings',
+        x: 'Year',
+        y: 'Dwellings'},
+        {
+        title: 'Household Projections',
+        x: 'Year',
+        y: 'HouseholdProjection'}
+        ]} 
+    }) 
+}}
