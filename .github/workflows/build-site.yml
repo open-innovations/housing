@@ -23,7 +23,7 @@ jobs:
         with:
           site-build-cmd: deno task build
         env:
-          LB_LIBRARY_PATH: .
+          LD_LIBRARY_PATH: .
 
   # Deploy job
   deploy:

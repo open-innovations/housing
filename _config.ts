@@ -5,7 +5,7 @@ import metas from "lume/plugins/metas.ts";
 import postcss from "lume/plugins/postcss.ts";
 // Loaders
 import json from "lume/core/loaders/json.ts";
-import { duckDbLoader, resultTable } from "jsr:@dringtech/lume-duck";
+import { duckDbLoader, resultTable } from "jsr:@dringtech/lume-duck@0.2.0";
 
 
 // Importing the OI Lume charts and utilities
