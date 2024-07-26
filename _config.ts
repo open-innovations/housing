@@ -31,9 +31,11 @@ site.use(metas({
 site.use(postcss());
 site.loadData([".hexjson"], json);
 site.copy('.nojekyll');
-
+site.copy('assets/js');
 site.loadData([".csv", ".tsv", ".dat"], csvLoader({ basic: true }));
 site.loadData([".sql"], duckDbLoader());
+
+
 // Import lume viz
 import oiVizConfig from "./oi-viz-config.ts";
 site.use(oiViz(oiVizConfig));
