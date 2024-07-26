@@ -1,7 +1,10 @@
 _site/
+_cache 
 
 deno.lock
-
 .env
-
 raw
+
+duckdb.dll
+libduckdb.dylib
+libduckdb.so
