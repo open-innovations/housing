@@ -147,3 +147,21 @@ p.active { display: inline-block; border-radius: 15%; padding: 0.1em;}
 	line-height: 1.5em;
 	margin-top: 0.5rem;
 }
+
+.oi-left .oi-right{
+    margin-top: 0;
+    margin-bottom: 0;
+    position: absolute;
+    text-align: left;
+}
+
+.oi-left {
+    left: 0;
+}
+.oi-right {
+    right: 0;
+}
+
+.oi-filter { border: 0px; border-radius: 1.5rem; }
+.oi-filter.searching { border-top-right-radius: 0; border-top-right-radius: 0; display: inline-block;}
+.oi-filter input { border: 0.05rem solid #178CFF; border-radius: 1.5rem; }
