@@ -97,7 +97,7 @@ visualisation: true
 <h2>Housing in {{ title }}</h2>
 
 {{ set chart_data = simple(areacode, dwellingsLastPublished) }}
-{{ set y_spacing = chart_data |> max() }}
+{{ set y_spacing = chart_data |> ySpacing() }}
 
 {{  if chart_data.length > 0 && percentage_chart_data.length > 0 }}    
     {{ set seriesObject = [{ title: 'Dwellings', x: 'Year', y: 'Dwellings'}, { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection' }, { title: 'Long Term Vacants', x: 'Year', y: 'LongTermVacants' }, { title: 'All Vacants', x: 'Year', y: 'AllVacants' }]}}

@@ -47,7 +47,7 @@ site.filter("capitalise", (body) => {
   return body.charAt(0).toUpperCase() + body.slice(1);
 })
 
-site.filter("max", (entries) => {
+site.filter("ySpacing", (entries) => {
   let maxVal = -Infinity;
   for (const entry of entries) {
     if (entry.Dwellings > maxVal) {
