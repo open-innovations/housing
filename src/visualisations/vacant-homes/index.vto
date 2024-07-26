@@ -26,7 +26,7 @@ section: visualisations
     </div>
 </div>
 <ul id="searchable">
-            {{ for area of search.pages('area') }}
+            {{ for area of search.pages('area', 'title') }}
                 <li><a href="{{ area.url }}">{{ area.name }}</a></li>
             {{ /for }}
         </ul>
