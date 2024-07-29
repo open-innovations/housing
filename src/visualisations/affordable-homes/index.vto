@@ -1,0 +1,72 @@
+---
+title: Affordable Homes
+section: visualisations
+---
+
+{{ set chart_data = linechart() }}
+
+{{ comp.oi.chart.line({ config: {
+        data: chart_data,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 } },
+            y: { title: { label: "Housing units (bed spaces)" }, grid: { "stroke-width": "1"}, tick: { spacing: 10000 } }
+        },
+        columns: [
+            {
+            name: 'decimal_year',
+            template: '{{ date | strptime("%Y-") | decimalYear() }}'
+            }],
+        series: [
+            {
+            title: 'Social Rent',
+            x: 'decimal_year',
+            y: 'Social Rent'
+            },{
+            title: 'London Affordable Rent',
+            x: 'decimal_year',
+            y: 'London Affordable Rent'
+            },
+            {
+            title: 'Affordable Rent',
+            x: 'decimal_year',
+            y: 'Affordable Rent'
+            },
+            {
+            title: 'Intermediate Rent',
+            x: 'decimal_year',
+            y: 'Intermediate Rent'
+            },
+            {
+            title: 'Shared Ownership',
+            x: 'decimal_year',
+            y: 'Shared Ownership'
+            },
+            {
+            title: 'Affordable Home Ownership',
+            x: 'decimal_year',
+            y: 'Affordable Home Ownership'
+            },
+            {
+            title: 'First Homes',
+            x: 'decimal_year',
+            y: 'First Homes'
+            }]
+        } 
+        }) 
+    }}
+<p>
+    Data on affordable homes comes from <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply">Live tables on 
+    affordable housing supply</a> published by the Ministry of Housing, Communities and Local Government. On this chart, we present the data from <a href="https://assets.publishing.service.gov.uk/media/6679833d921ddc8344a00f47/Live_Table_1000.ods">
+    Table 1000: additional affordable homes provided by type of scheme, England</a>. We use figures for completions.
+</p>
+<p>
+    It is well-worth reading the <a href="https://www.gov.uk/government/statistics/affordable-housing-supply-in-england-2022-to-2023/affordable-housing-supply-in-england-2022-to-2023">Affordable housing supply statistics bulletin</a> to understand the data behind this chart.
+</p>
+<h4>Notes</h4>
+<ol>
+    <li>Each data point covers a 2 year period. On the chart we have used the start date e.g. 2021-22 would show as 2021.
+    <li>Intermediate rent includes London Living Rent from 2017-18</li>
+    <li>From 2020/21, it is not possible to break down units between Social Rent and London Affordable Rent funded through some GLA schemes. When this happens they will be counted against Social Rent.</li>
+    <li>Shared Ownership figures for 2014-15 and 2015-16 are based on Homes England and the GLA figures only. Shared ownership units funded by other means are counted as affordable home ownership. Prior to 2014-15, all shared ownership units are counted as affordable home ownership.</li>
+</ol>
