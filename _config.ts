@@ -9,7 +9,7 @@ import { duckDbLoader, resultTable } from "jsr:@dringtech/lume-duck@0.2.0";
 
 
 // Importing the OI Lume charts and utilities
-import oiViz from "https://deno.land/x/oi_lume_viz@v0.15.7/mod.ts";
+import oiViz from "https://deno.land/x/oi_lume_viz@v0.15.10/mod.ts";
 import autoDependency from "https://deno.land/x/oi_lume_utils@v0.4.0/processors/auto-dependency.ts";
 import csvLoader from "https://deno.land/x/oi_lume_utils@v0.4.0/loaders/csv-loader.ts";
 
