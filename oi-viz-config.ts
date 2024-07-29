@@ -6,7 +6,6 @@ export default {
 		"scales": {
 			"housing": "#0a35c0 0%, #0c42f1 50%, #3a67f5 65%, #6b8cf8 91%, #000000 100%",
 		},
-		"series": [ '#2254F4', '#f4c222', '#061030', '#f42254', '#22f4c2' ],
 		"names": {
 			"blue": "#2254F4",
 			"sunset-yellow": "#f4c222",
