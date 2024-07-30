@@ -3,6 +3,7 @@ import base_path from "lume/plugins/base_path.ts";
 // import date from "lume/plugins/date.ts";
 import metas from "lume/plugins/metas.ts";
 import postcss from "lume/plugins/postcss.ts";
+import redirects from "lume/plugins/redirects.ts";
 // Loaders
 import json from "lume/core/loaders/json.ts";
 import { duckDbLoader, resultTable } from "jsr:@dringtech/lume-duck@0.2.0";
@@ -29,6 +30,8 @@ site.use(metas({
     },
   }));
 site.use(postcss());
+site.use(redirects());
+
 site.loadData([".hexjson"], json);
 site.copy('.nojekyll');
 site.copy('assets/js');
