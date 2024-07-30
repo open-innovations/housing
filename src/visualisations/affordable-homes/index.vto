@@ -15,7 +15,7 @@ section: visualisations
         columns: [
             {
             name: 'decimal_year',
-            template: '{{ date | strptime("%Y-") | decimalYear() }}'
+            template: '{{ Year | strptime("%Y-") | decimalYear() }}'
             }],
         series: [
             {
@@ -70,3 +70,42 @@ section: visualisations
     <li>From 2020/21, it is not possible to break down units between Social Rent and London Affordable Rent funded through some GLA schemes. When this happens they will be counted against Social Rent.</li>
     <li>Shared Ownership figures for 2014-15 and 2015-16 are based on Homes England and the GLA figures only. Shared ownership units funded by other means are counted as affordable home ownership. Prior to 2014-15, all shared ownership units are counted as affordable home ownership.</li>
 </ol>
+
+{{ comp.oi.chart.bar({ config: {
+    data: barchart(),
+    stacked: true,
+    legend: { show: true, position: top },
+    axis: { x: { grid: { 'stroke-dasharray': '6 2', 'stroke-width': 1 } } },
+    category: 'Year',
+    series: [
+        {
+        title: 'Social Rent',
+        value: 'Social Rent'
+        },
+        {
+        title: 'London Affordable Rent',
+        value: 'London Affordable Rent'
+        },
+        {
+        title: 'Affordable Rent',
+        value: 'Affordable Rent'
+        },
+        {
+        title: 'Intermediate Rent',
+        value: 'Intermediate Rent'
+        },
+        {
+        title: 'Shared Ownership',
+        value: 'Shared Ownership'
+        },
+        {
+        title: 'Affordable Home Ownership',
+        value: 'Affordable Home Ownership'
+        },
+        {
+        title: 'First Homes',
+        value: 'First Homes'
+        }]
+    }
+    }) 
+}}
