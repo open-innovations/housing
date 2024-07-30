@@ -8,16 +8,16 @@ layout: template/base.vto
             {{ if navorder }}
                 <li><a href="{{ url }}">{{ title }}</a></li>
             {{ /if }}
-            {{ if section }}
-                <li><a href="/{{ section }}">{{ section |> capitalise() }}</a></li>
+            {{ if datapage }}
+                <li><a href="/data">Data</a></li>
+                <li><a href="{{ url }}">{{ title |> capitalise() }}</a></li>
+            {{ /if }}
+            {{ if contentpage }}
+                <li><a href="/data">Data</a></li>
+                <li><a href="/data/areas">Areas</a></li>
                 <li><a href="{{ url }}">{{ title }}</a></li>
             {{ /if }}
-            {{ if visualisation }}
-                <li><a href="/visualisations/">Visualisations</a></li>
-                <li><a href="/visualisations/vacant-homes">Vacant Homes</a></li>
-                <li><a href="{{ url }}">{{ title }}</a></li>
-            {{ /if }}
-    </ul>
+        </ul>
 </nav>
 		</ul>
 	</nav>

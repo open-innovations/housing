@@ -1,6 +1,10 @@
 ---
 title: Data
 colour: c5-bg
-navorder: 10
+navorder: 1
 ---
-<p>Vacant homes <a href="https://github.com/open-innovations/housing/blob/main/data/vacant-homes/AllCombined_Cleaned_2024.csv">cleaned and combined data</a>.</p>
+<div class='grid'>
+{{ for page of search.pages('datapage!=undefined') }}
+    {{ comp.navgrid({ heading: page.title , link: page.url, colour: 'c10-bg' }) }}
+{{ /for }}
+</div>

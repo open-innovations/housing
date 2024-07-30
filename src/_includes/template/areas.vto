@@ -1,6 +1,6 @@
 ---
 layout: template/page.vto
-visualisation: true
+contentpage: Areas
 ---
 {{ if active }}
     <p class='active {{ active }}'>Active</p>
@@ -23,7 +23,6 @@ visualisation: true
     <p>Vacant homes data are not published for this area.</p>
 {{ else }}
     {{ set head = headlines(title, vacantsLastPublished)}}
-    {{# {{ head |> JSON.stringify }} #}}
     {{ comp.oi.dashboard({ config: {
         title: "AreaName",
         value: "LongTermVacants_pct",
@@ -117,3 +116,63 @@ visualisation: true
     }) 
 }}   
 <p>Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">2018-based household projections for local authorities and higher adminstrative areas within England</a>.</p>
+
+<h2>Affordable homes in {{ title }}</h2>
+{{ set chart_data = test(areacode) }}
+{{ if chart_data.length > 0 }}
+    {{ comp.oi.chart.bar({ config: {
+    data: chart_data,
+    stacked: true,
+    legend: { show: true, position: top },
+    axis: { x: { grid: { 'stroke-dasharray': '6 2', 'stroke-width': 1 } } },
+    category: 'Year',
+    series: [
+        {
+        title: 'Social Rent',
+        value: 'Social Rent'
+        },
+        {
+        title: 'London Affordable Rent',
+        value: 'London Affordable Rent'
+        },
+        {
+        title: 'Affordable Rent',
+        value: 'Affordable Rent'
+        },
+        {
+        title: 'Intermediate Rent',
+        value: 'Intermediate Rent'
+        },
+        {
+        title: 'Shared Ownership',
+        value: 'Shared Ownership'
+        },
+        {
+        title: 'Affordable Home Ownership',
+        value: 'Affordable Home Ownership'
+        },
+        {
+        title: 'First Homes',
+        value: 'First Homes'
+        }]
+    }
+    }) 
+}}
+{{ else }}
+    {{> console.log('No data for place', title)}}
+{{ /if }}
+<p>
+    Data on affordable homes comes from <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply">Live tables on 
+    affordable housing supply</a> published by the Ministry of Housing, Communities and Local Government. On this chart, we present the data from <a href="https://assets.publishing.service.gov.uk/media/6679833d921ddc8344a00f47/Live_Table_1000.ods">
+    Table 1000: additional affordable homes provided by type of scheme, England</a>. We use figures for completions.
+</p>
+<p>
+    It is well-worth reading the <a href="https://www.gov.uk/government/statistics/affordable-housing-supply-in-england-2022-to-2023/affordable-housing-supply-in-england-2022-to-2023">Affordable housing supply statistics bulletin</a> to understand the data behind this chart.
+</p>
+<h4>Notes</h4>
+<ol>
+    <li>Each data point covers a 2 year period. On the chart we have used the start date e.g. 2021-22 would show as 2021.
+    <li>Intermediate rent includes London Living Rent from 2017-18</li>
+    <li>From 2020/21, it is not possible to break down units between Social Rent and London Affordable Rent funded through some GLA schemes. When this happens they will be counted against Social Rent.</li>
+    <li>Shared Ownership figures for 2014-15 and 2015-16 are based on Homes England and the GLA figures only. Shared ownership units funded by other means are counted as affordable home ownership. Prior to 2014-15, all shared ownership units are counted as affordable home ownership.</li>
+</ol>
