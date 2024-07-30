@@ -12,6 +12,7 @@ ipykernel = "*"
 odfpy = "*"
 bs4 = "*"
 dvc = "*"
+petl = "*"
 
 [dev-packages]
 
