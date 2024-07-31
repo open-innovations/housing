@@ -15,7 +15,7 @@ contentpage: Areas
 {{ /if }}
 
 
-<h2>Vacant homes in {{ title }}</h2>
+<h2>Vacant homes in {{ title }} <a id='vacant-homes' class='anchor' href='#vacant-homes' data-dependencies='/assets/js/section-links.js'>§</a></h2>
 
 {{ set percentage_chart_data = percentage(areacode) }}
 
@@ -93,7 +93,7 @@ contentpage: Areas
     <p>Vacant home and long-term vacant home percentages are calculated by dividing the respective counts in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 125: dwelling stock estimates by local authority district</a>.</p>
 {{ /if }}
 
-<h2>Housing in {{ title }}</h2>
+<h2>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h2>
 
 {{ set chart_data = simple(areacode, dwellingsLastPublished) }}
 {{ set y_spacing = chart_data |> ySpacing() }}
@@ -117,7 +117,7 @@ contentpage: Areas
 }}   
 <p>Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">2018-based household projections for local authorities and higher adminstrative areas within England</a>.</p>
 
-<h2>Affordable homes in {{ title }}</h2>
+<h2>Affordable homes in {{ title }} <a id='affordable-homes' class='anchor' href='#affordable-homes' data-dependencies='/assets/js/section-links.js'>§</a></h2>
 {{ set chart_data = test(areacode) }}
 {{ if chart_data.length > 0 }}
     {{ comp.oi.chart.bar({ config: {
