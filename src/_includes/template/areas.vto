@@ -123,7 +123,7 @@ contentpage: Areas
 <p>Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">2018-based household projections for local authorities and higher adminstrative areas within England</a>.</p>
 
 <h3>Affordable homes in {{ title }} <a id='affordable-homes' class='anchor' href='#affordable-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
-{{ set chart_data = test(areacode) }}
+{{ set chart_data = affordableHomes(areacode) }}
 {{ if chart_data.length > 0 }}
     {{ comp.oi.chart.bar({ config: {
     data: chart_data,
