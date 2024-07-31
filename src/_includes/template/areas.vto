@@ -7,15 +7,14 @@ contentpage: Areas
 {{ else }}
     <p class='active {{ active }}'>Inactive</p>
 {{ /if }}
-{{ if dwellingsLastPublished }}
-    <p>Dwellings data for {{ title }} were last published in <strong>{{ dwellingsLastPublished }}</strong>.</p>
-{{ /if }}
-{{ if vacantsLastPublished }}
-    <p>Vacant homes data for {{ title }} were last published in <strong>{{ vacantsLastPublished }}</strong>.</p>
-{{ /if }}
+<h2>Datasets</h2>
+    <ol>
+        <li><a href="#vacant-homes">Vacant homes</a></li>
+        <li><a href="#dwellings-and-projections">Dwellings and household projections</a></li>
+        <li><a href="#affordable-homes">Affordable homes</a></li>
+    </ol>
 
-
-<h2>Vacant homes in {{ title }} <a id='vacant-homes' class='anchor' href='#vacant-homes' data-dependencies='/assets/js/section-links.js'>§</a></h2>
+<h3>Vacant homes in {{ title }} <a id='vacant-homes' class='anchor' href='#vacant-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ set percentage_chart_data = percentage(areacode) }}
 
@@ -87,13 +86,19 @@ contentpage: Areas
             x: 'Year',
             y: 'LongTermVacants_pct'
             }]
-        } 
+        }
         }) 
     }}
     <p>Vacant home and long-term vacant home percentages are calculated by dividing the respective counts in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 125: dwelling stock estimates by local authority district</a>.</p>
+    {{ if dwellingsLastPublished }}
+        <p>Dwellings data for {{ title }} were last published in <strong>{{ dwellingsLastPublished }}</strong>.</p>
+    {{ /if }}
+    {{ if vacantsLastPublished }}
+        <p>Vacant homes data for {{ title }} were last published in <strong>{{ vacantsLastPublished }}</strong>.</p>
+    {{ /if }}
 {{ /if }}
 
-<h2>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h2>
+<h3>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ set chart_data = simple(areacode, dwellingsLastPublished) }}
 {{ set y_spacing = chart_data |> ySpacing() }}
@@ -117,7 +122,7 @@ contentpage: Areas
 }}   
 <p>Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">2018-based household projections for local authorities and higher adminstrative areas within England</a>.</p>
 
-<h2>Affordable homes in {{ title }} <a id='affordable-homes' class='anchor' href='#affordable-homes' data-dependencies='/assets/js/section-links.js'>§</a></h2>
+<h3>Affordable homes in {{ title }} <a id='affordable-homes' class='anchor' href='#affordable-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 {{ set chart_data = test(areacode) }}
 {{ if chart_data.length > 0 }}
     {{ comp.oi.chart.bar({ config: {
@@ -162,16 +167,24 @@ contentpage: Areas
     {{> console.log('No data for place', title)}}
 {{ /if }}
 <p>
-    Data on affordable homes comes from <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply">Live tables on 
-    affordable housing supply</a> published by the Ministry of Housing, Communities and Local Government. On this chart, we present the data from <a href="https://assets.publishing.service.gov.uk/media/6679833d921ddc8344a00f47/Live_Table_1000.ods">
-    Table 1000: additional affordable homes provided by type of scheme, England</a>. We use figures for completions.
+    <strong>Data</strong>: Affordable homes data comes from <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply">
+    Live tables on affordable housing supply</a> published by the Ministry of Housing, Communities and Local Government. On this chart, we present the data from 
+    <a href="https://assets.publishing.service.gov.uk/media/667983a2a7a18c1aa1a00f3e/AHS_199192_to_202223_open_data.csv">
+    Affordable housing supply open data</a>. We use figures for completions, and group by year, tenure and local authority. This is equivalent to 
+    <a href="https://assets.publishing.service.gov.uk/media/6679833d921ddc8344a00f47/Live_Table_1000.ods">
+    Table 1000: additional affordable homes provided by type of scheme, England</a>. The data processing pipeline is 
+    <a href="https://github.com/open-innovations/housing/tree/main/pipelines/affordable-housing">published openly</a>.
 </p>
 <p>
-    It is well-worth reading the <a href="https://www.gov.uk/government/statistics/affordable-housing-supply-in-england-2022-to-2023/affordable-housing-supply-in-england-2022-to-2023">Affordable housing supply statistics bulletin</a> to understand the data behind this chart.
+    This chart shows the number of housing units (bed spaces) provided <em>in addition</em> to the exisiting afforable housing stock. 
+    It is well-worth reading the 
+    <a href="https://www.gov.uk/government/statistics/affordable-housing-supply-in-england-2022-to-2023/affordable-housing-supply-in-england-2022-to-2023">
+    Affordable housing supply statistics bulletin</a> for more detailed information. For definitions of what counts as affordable housing, see 
+    <a href="https://www.gov.uk/government/publications/new-homes-fact-sheet-9-what-is-affordable-housing/fact-sheet-9-what-is-affordable-housing">
+    Fact Sheet 9: What is Afforable housing?</a>
 </p>
 <h4>Notes</h4>
 <ol>
-    <li>Each data point covers a 2 year period. On the chart we have used the start date e.g. 2021-22 would show as 2021.
     <li>Intermediate rent includes London Living Rent from 2017-18</li>
     <li>From 2020/21, it is not possible to break down units between Social Rent and London Affordable Rent funded through some GLA schemes. When this happens they will be counted against Social Rent.</li>
     <li>Shared Ownership figures for 2014-15 and 2015-16 are based on Homes England and the GLA figures only. Shared ownership units funded by other means are counted as affordable home ownership. Prior to 2014-15, all shared ownership units are counted as affordable home ownership.</li>
