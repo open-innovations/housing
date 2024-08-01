@@ -7,6 +7,7 @@ vispage: Areas
 {{ else }}
     <p class='active {{ active }}'>Inactive</p>
 {{ /if }}
+
 <h2>Datasets</h2>
     <ol>
         <li><a href="#vacant-homes">Vacant homes</a></li>
@@ -103,7 +104,7 @@ vispage: Areas
 <h3>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ set chart_data = simple(areacode, dwellingsLastPublished) }}
-{{ set y_spacing = chart_data |> ySpacing() }}
+{{ set y_spacing = chart_data |> ySpacing('Dwellings') }}
 
 {{  if chart_data.length > 0 && percentage_chart_data.length > 0 }}    
     {{ set seriesObject = [
@@ -206,3 +207,30 @@ vispage: Areas
     <li>From 2020/21, it is not possible to break down units between Social Rent and London Affordable Rent funded through some GLA schemes. When this happens they will be counted against Social Rent.</li>
     <li>Shared Ownership figures for 2014-15 and 2015-16 are based on Homes England and the GLA figures only. Shared ownership units funded by other means are counted as affordable home ownership. Prior to 2014-15, all shared ownership units are counted as affordable home ownership.</li>
 </ol>
+
+<h3>House prices in {{ title }} <a id='house-prices' class='anchor' href='#house-prices' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+{{ set chart_data = medianHousePrice(areacode) }}
+{{ if chart_data.length > 0 }}
+    {{ set y_spacing = chart_data |> ySpacing('Median (£)') }}
+    {{ comp.oi.chart.line({ config: {
+        data: chart_data,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 4 } },
+            y: { title: { label: "Median house price (£)" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
+        },
+        columns: [{
+            name: 'decimal_date',
+            template: '{{ date | strptime("%b %Y") | decimalYear() }}'
+            }],
+        series: [
+            {
+            title: 'Median house price (£)',
+            x: 'decimal_date',
+            y: 'Median (£)',
+            tooltip: '<strong class="subtitle">Median house price (£)</strong><br />{{ date }}: <strong>£{{ Median (£) | toLocaleString() }}</strong>'
+            }]
+        } 
+        }) 
+    }} 
+{{ /if }}

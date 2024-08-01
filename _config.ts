@@ -52,19 +52,36 @@ site.filter("capitalise", (body) => {
   return body.charAt(0).toUpperCase() + body.slice(1);
 })
 
-site.filter("ySpacing", (entries) => {
-  let maxVal = -Infinity;
-  for (const entry of entries) {
-    if (entry.Dwellings > maxVal) {
-      maxVal = entry.Dwellings;
+site.filter("ySpacing", (entries, key) => {
+  let maxVal = -Infinity
+  for (const obj of entries) {
+    if (obj.hasOwnProperty(key)) {
+      const value = obj[key];
+      if (maxVal === null || value > maxVal) {
+        maxVal = value;
+      }
+    } else {
+      maxVal = 0
     }
-  }
-  if (maxVal == 0) {
-    return 0;
   }
   const magnitude = Math.floor(Math.log10(Math.abs(maxVal)))
   const spacing = Math.pow(10, magnitude)
   return spacing;
+});
+
+site.filter('parseEndYear', (value, options = {}) => {
+	let bits = value.split(/-/);
+	if(bits[0].length==4){
+		let sy = bits[0].substr(0,2);
+		let ey = bits[1];
+		if(ey.length==1){
+			ey = bits[0].substr(2,1)+ey;
+		}
+		return (sy+ey);
+	}
+  else{
+		return "?";
+	}
 });
 
 export default site;
