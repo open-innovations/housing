@@ -2,12 +2,15 @@ export const layout = "template/areas.vto";
 export const tags = ["area"];
 
 const SMALL_SITE = Deno.env.get('SMALL_SITE') !== undefined;
-const N_PAGES = Deno.env.get('N_PAGES');
+var N_PAGES = Deno.env.get('N_PAGES');
 // import { smallSiteAreas } from "../../../../dev.ts";
 import smallSiteAreas from "../../../../dev.ts";
 
 export default function* ({areas}) {
     if (SMALL_SITE === true) {
+        if (!N_PAGES) {
+            N_PAGES=10
+        }
         areas = smallSiteAreas(areas, N_PAGES);
     }
     for (const [key, value] of Object.entries(areas)){
@@ -18,8 +21,7 @@ export default function* ({areas}) {
             ...value,
             areas: null, // mask the areas data from other pages.
             key: null,
-            value: null,
-            test: null,
+            value: null
             };
     }
 }
