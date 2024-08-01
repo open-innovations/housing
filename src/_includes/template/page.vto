@@ -4,23 +4,17 @@ layout: template/base.vto
 {{ if title != 'Home' }}
     <nav>
 		<ul class="breadcrumb">
-			<li><a href="/">Home</a></li>
-            {{ if navorder }}
-                <li><a href="{{ url }}">{{ title }}</a></li>
-            {{ /if }}
-            {{ if section == 'data' }}
-                <li><a href="/data">Data</a></li>
-                <li><a href="{{ url }}">{{ title |> capitalise() }}</a></li>
-            {{ /if }}
-            {{ if vispage }}
-                <li><a href="/data">Data</a></li>
-                <li><a href="/data/areas">Areas</a></li>
-                <li><a href="{{ url }}">{{ title }}</a></li>
-            {{ /if }}
+            {{ for item of nav.breadcrumb(url) }}
+                <li>
+                    {{ if item.data }}
+                        <a href="{{ item.data.url }}">{{ item.data.title }}</a>
+                    {{ else }}
+                        <span>{{ item.slug }}</span>
+                    {{ /if }}
+                </li>
+            {{ /for }}
         </ul>
-</nav>
-		</ul>
-	</nav>
+    </nav>
 {{ /if }}
 <h1>{{ title }}</h1>
 {{ content |> safe }}
