@@ -1,14 +1,11 @@
-export const smallSiteAreas = {
-    "E06000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023.0,
-        "active":true,
-        "name":"Hartlepool"
-    },
-    "E06000002":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023.0,
-        "active":true,
-        "name":"Middlesbrough"
-    }
-};
+import areas from "./src/data/areas/place-page/_data/areas.json";
+
+export default function smallSiteAreas(obj, n) {
+    const result = {};
+    const keys = Object.keys(obj).slice(0, n);
+    
+    keys.forEach((key) => {
+        result[key] = obj[key];
+    });
+    return result;
+}

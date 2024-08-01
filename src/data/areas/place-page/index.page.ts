@@ -2,11 +2,13 @@ export const layout = "template/areas.vto";
 export const tags = ["area"];
 
 const SMALL_SITE = Deno.env.get('SMALL_SITE') !== undefined;
-import { smallSiteAreas } from "../../../../dev.ts";
+const N_PAGES = Deno.env.get('N_PAGES');
+// import { smallSiteAreas } from "../../../../dev.ts";
+import smallSiteAreas from "../../../../dev.ts";
 
 export default function* ({areas}) {
     if (SMALL_SITE === true) {
-        areas = smallSiteAreas;
+        areas = smallSiteAreas(areas, N_PAGES);
     }
     for (const [key, value] of Object.entries(areas)){
         yield {
