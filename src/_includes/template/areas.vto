@@ -79,12 +79,14 @@ vispage: Areas
             {
             title: 'All Vacants',
             x: 'Year',
-            y: 'AllVacants_pct'
+            y: 'AllVacants_pct',
+            tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ Year }}: <strong>{{ AllVacants_pct }}%</strong>'
             },
             {
             title: 'Long Term Vacants',
             x: 'Year',
-            y: 'LongTermVacants_pct'
+            y: 'LongTermVacants_pct',
+            tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ Year }}: <strong>{{ LongTermVacants_pct }}%</strong>'
             }]
         }
         }) 
@@ -104,9 +106,17 @@ vispage: Areas
 {{ set y_spacing = chart_data |> ySpacing() }}
 
 {{  if chart_data.length > 0 && percentage_chart_data.length > 0 }}    
-    {{ set seriesObject = [{ title: 'Dwellings', x: 'Year', y: 'Dwellings'}, { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection' }, { title: 'Long Term Vacants', x: 'Year', y: 'LongTermVacants' }, { title: 'All Vacants', x: 'Year', y: 'AllVacants' }]}}
+    {{ set seriesObject = [
+        { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+        { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ Year }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }, 
+        { title: 'Long Term Vacants', x: 'Year', y: 'LongTermVacants', tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ Year }}: <strong>{{ LongTermVacants | toLocaleString() }}</strong>' }, 
+        { title: 'All Vacants', x: 'Year', y: 'AllVacants', tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ Year }}: <strong>{{ AllVacants | toLocaleString() }}</strong>' }]
+    }}
 {{ else }}
-        {{ set seriesObject = [{ title: 'Dwellings', x: 'Year', y: 'Dwellings'}, { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection' }] }}
+    {{ set seriesObject = [
+        { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+        { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ Year }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }] 
+    }}
 {{ /if }}
 
 {{ comp.oi.chart.line({ config: {
@@ -134,31 +144,38 @@ vispage: Areas
     series: [
         {
         title: 'Social Rent',
-        value: 'Social Rent'
+        value: 'Social Rent',
+        tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
         },
         {
         title: 'London Affordable Rent',
-        value: 'London Affordable Rent'
+        value: 'London Affordable Rent',
+        tooltip: '<strong class="subtitle">London Affordable Rent</strong><br />{{ Year }}: <strong>{{ London Affordable Rent }} units</strong> (bed spaces)'
         },
         {
         title: 'Affordable Rent',
-        value: 'Affordable Rent'
+        value: 'Affordable Rent',
+        tooltip: '<strong class="subtitle">Affordable Rent</strong><br />{{ Year }}: <strong>{{ Affordable Rent }} units</strong> (bed spaces)'
         },
         {
         title: 'Intermediate Rent',
-        value: 'Intermediate Rent'
+        value: 'Intermediate Rent',
+        tooltip: '<strong class="subtitle">Intermediate Rent</strong><br />{{ Year }}: <strong>{{ Intermediate Rent }} units</strong> (bed spaces)'
         },
         {
         title: 'Shared Ownership',
-        value: 'Shared Ownership'
+        value: 'Shared Ownership',
+        tooltip: '<strong class="subtitle">Shared Ownership</strong><br />{{ Year }}: <strong>{{ Shared Ownership }} units</strong> (bed spaces)'
         },
         {
         title: 'Affordable Home Ownership',
-        value: 'Affordable Home Ownership'
+        value: 'Affordable Home Ownership',
+        tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
         },
         {
         title: 'First Homes',
-        value: 'First Homes'
+        value: 'First Homes',
+        tooltip: '<strong class="subtitle">First Homes</strong><br />{{ Year }}: <strong>{{ First Homes }} units</strong> (bed spaces)'
         }]
     }
     }) 
