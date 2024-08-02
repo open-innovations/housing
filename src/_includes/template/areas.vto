@@ -24,32 +24,29 @@ vispage: Areas
     <p>Vacant homes data are not published for this area.</p>
 {{ else }}
     {{# {{ console.time('My code') }} #}}
-    {{ set head = headlines(title, vacantsLastPublished)}}
+    {{ set head = headlineTest }}
     {{# {{ console.timeEnd('My code') }} #}}
     {{ comp.oi.dashboard({ config: {
-        title: "AreaName",
-        value: "LongTermVacants_pct",
+        title: "title",
+        value: "value",
         note: 'footnote',
         columns: [{
             name: 'Post',
-            template: '%' },
-            {
-            name: 'footnote',
-            template: 'Long term vacant homes'
-            }],
+            template: '%' }
+            ],
         data: head,
         units: { postfix: 'Post' },
         panels: [
             {
-            name: 'England',
+            name: 'All vacants',
             colour: '#F9BC26'},
             {
-            name: title,
+            name: 'Long term vacants',
             colour: '#F9BC26'}]
         }
         })
     }}
-    {{ comp.oi.dashboard({ config: {
+    {{# {{ comp.oi.dashboard({ config: {
         title: "AreaName",
         value: "AllVacants_pct",
         note: 'footnote',
@@ -71,7 +68,7 @@ vispage: Areas
             colour: '#722ea5'}]
         }
         })
-    }}
+    }} #}}
     {{ comp.oi.chart.line({ config: {
         data: percentage_chart_data,
         height: 600,
