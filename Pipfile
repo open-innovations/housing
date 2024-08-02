@@ -14,8 +14,10 @@ bs4 = "*"
 dvc = "*"
 petl = "*"
 xlrd = "*"
+pyarrow = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"

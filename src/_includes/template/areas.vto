@@ -111,10 +111,10 @@ vispage: Areas
 {{ /if }}
 
 <h3>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h3>
-{{ console.time('My code') }}
+{{# {{ console.time('My code') }} #}}
 {{ set chart_data = simple(areacode, dwellingsLastPublished) }}
 {{ set y_spacing = chart_data |> ySpacing('Dwellings') }}
-{{ console.timeEnd('My code') }}
+{{# {{ console.timeEnd('My code') }} #}}
 {{  if chart_data.length > 0 && percentage_chart_data.length > 0 }}    
     {{ set seriesObject = [
         { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
