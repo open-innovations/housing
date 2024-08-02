@@ -25,27 +25,29 @@ vispage: Areas
 {{ else }}
     {{# {{ console.time('My code') }} #}}
     {{ set head = headlineTest }}
+    {{ if head.length > 0}}
     {{# {{ console.timeEnd('My code') }} #}}
-    {{ comp.oi.dashboard({ config: {
-        title: "title",
-        value: "value",
-        note: 'footnote',
-        columns: [{
-            name: 'Post',
-            template: '%' }
-            ],
-        data: head,
-        units: { postfix: 'Post' },
-        panels: [
-            {
-            name: 'All vacants',
-            colour: '#F9BC26'},
-            {
-            name: 'Long term vacants',
-            colour: '#F9BC26'}]
-        }
-        })
-    }}
+        {{ comp.oi.dashboard({ config: {
+            title: "title",
+            value: "value",
+            note: 'footnote',
+            columns: [{
+                name: 'Post',
+                template: '%' }
+                ],
+            data: head,
+            units: { postfix: 'Post' },
+            panels: [
+                {
+                name: 'All vacants',
+                colour: '#F9BC26'},
+                {
+                name: 'Long term vacants',
+                colour: '#F9BC26'}]
+            }
+            })
+        }}
+    {{ /if }}
     {{# {{ comp.oi.dashboard({ config: {
         title: "AreaName",
         value: "AllVacants_pct",
