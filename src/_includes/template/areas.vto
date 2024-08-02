@@ -13,6 +13,7 @@ vispage: Areas
         <li><a href="#vacant-homes">Vacant homes</a></li>
         <li><a href="#dwellings-and-projections">Dwellings and household projections</a></li>
         <li><a href="#affordable-homes">Affordable homes</a></li>
+        <li><a href="#house-prices">Median house prices</a></li>
     </ol>
 
 <h3>Vacant homes in {{ title }} <a id='vacant-homes' class='anchor' href='#vacant-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
@@ -22,7 +23,9 @@ vispage: Areas
 {{ if percentage_chart_data.length == 0 }}
     <p>Vacant homes data are not published for this area.</p>
 {{ else }}
+    {{# {{ console.time('My code') }} #}}
     {{ set head = headlines(title, vacantsLastPublished)}}
+    {{# {{ console.timeEnd('My code') }} #}}
     {{ comp.oi.dashboard({ config: {
         title: "AreaName",
         value: "LongTermVacants_pct",
@@ -92,7 +95,13 @@ vispage: Areas
         }
         }) 
     }}
-    <p>Vacant home and long-term vacant home percentages are calculated by dividing the respective counts in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">Table 125: dwelling stock estimates by local authority district</a>.</p>
+    <p>
+        <strong>Data:</strong> Vacant home and long-term vacant home percentages are calculated by dividing the respective counts in 
+        <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">
+        Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in 
+        <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">
+        Table 125: dwelling stock estimates by local authority district</a>.
+    </p>
     {{ if dwellingsLastPublished }}
         <p>Dwellings data for {{ title }} were last published in <strong>{{ dwellingsLastPublished }}</strong>.</p>
     {{ /if }}
@@ -102,10 +111,10 @@ vispage: Areas
 {{ /if }}
 
 <h3>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h3>
-
+{{ console.time('My code') }}
 {{ set chart_data = simple(areacode, dwellingsLastPublished) }}
 {{ set y_spacing = chart_data |> ySpacing('Dwellings') }}
-
+{{ console.timeEnd('My code') }}
 {{  if chart_data.length > 0 && percentage_chart_data.length > 0 }}    
     {{ set seriesObject = [
         { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
@@ -130,59 +139,65 @@ vispage: Areas
     series: seriesObject
     } 
     }) 
-}}   
-<p>Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">2018-based household projections for local authorities and higher adminstrative areas within England</a>.</p>
+}}
+{{ set chart_data = null }} 
+{{ set y_spacing = null }}   
+<p>
+    <strong>Data:</strong> Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">
+    2018-based household projections for local authorities and higher adminstrative areas within England</a>.
+</p>
 
 <h3>Affordable homes in {{ title }} <a id='affordable-homes' class='anchor' href='#affordable-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 {{ set chart_data = affordableHomes(areacode) }}
 {{ if chart_data.length > 0 }}
     {{ comp.oi.chart.bar({ config: {
-    data: chart_data,
-    stacked: true,
-    legend: { show: true, position: top },
-    axis: { x: { grid: { 'stroke-dasharray': '6 2', 'stroke-width': 1 } } },
-    category: 'Year',
-    series: [
-        {
-        title: 'Social Rent',
-        value: 'Social Rent',
-        tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
-        },
-        {
-        title: 'London Affordable Rent',
-        value: 'London Affordable Rent',
-        tooltip: '<strong class="subtitle">London Affordable Rent</strong><br />{{ Year }}: <strong>{{ London Affordable Rent }} units</strong> (bed spaces)'
-        },
-        {
-        title: 'Affordable Rent',
-        value: 'Affordable Rent',
-        tooltip: '<strong class="subtitle">Affordable Rent</strong><br />{{ Year }}: <strong>{{ Affordable Rent }} units</strong> (bed spaces)'
-        },
-        {
-        title: 'Intermediate Rent',
-        value: 'Intermediate Rent',
-        tooltip: '<strong class="subtitle">Intermediate Rent</strong><br />{{ Year }}: <strong>{{ Intermediate Rent }} units</strong> (bed spaces)'
-        },
-        {
-        title: 'Shared Ownership',
-        value: 'Shared Ownership',
-        tooltip: '<strong class="subtitle">Shared Ownership</strong><br />{{ Year }}: <strong>{{ Shared Ownership }} units</strong> (bed spaces)'
-        },
-        {
-        title: 'Affordable Home Ownership',
-        value: 'Affordable Home Ownership',
-        tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
-        },
-        {
-        title: 'First Homes',
-        value: 'First Homes',
-        tooltip: '<strong class="subtitle">First Homes</strong><br />{{ Year }}: <strong>{{ First Homes }} units</strong> (bed spaces)'
-        }]
-    }
-    }) 
-}}
+        data: chart_data,
+        stacked: true,
+        legend: { show: true, position: top },
+        axis: { x: { grid: { 'stroke-dasharray': '6 2', 'stroke-width': 1 } } },
+        category: 'Year',
+        series: [
+            {
+            title: 'Social Rent',
+            value: 'Social Rent',
+            tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
+            },
+            {
+            title: 'London Affordable Rent',
+            value: 'London Affordable Rent',
+            tooltip: '<strong class="subtitle">London Affordable Rent</strong><br />{{ Year }}: <strong>{{ London Affordable Rent }} units</strong> (bed spaces)'
+            },
+            {
+            title: 'Affordable Rent',
+            value: 'Affordable Rent',
+            tooltip: '<strong class="subtitle">Affordable Rent</strong><br />{{ Year }}: <strong>{{ Affordable Rent }} units</strong> (bed spaces)'
+            },
+            {
+            title: 'Intermediate Rent',
+            value: 'Intermediate Rent',
+            tooltip: '<strong class="subtitle">Intermediate Rent</strong><br />{{ Year }}: <strong>{{ Intermediate Rent }} units</strong> (bed spaces)'
+            },
+            {
+            title: 'Shared Ownership',
+            value: 'Shared Ownership',
+            tooltip: '<strong class="subtitle">Shared Ownership</strong><br />{{ Year }}: <strong>{{ Shared Ownership }} units</strong> (bed spaces)'
+            },
+            {
+            title: 'Affordable Home Ownership',
+            value: 'Affordable Home Ownership',
+            tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
+            },
+            {
+            title: 'First Homes',
+            value: 'First Homes',
+            tooltip: '<strong class="subtitle">First Homes</strong><br />{{ Year }}: <strong>{{ First Homes }} units</strong> (bed spaces)'
+            }]
+            }
+            }) 
+    }}
+    {{ set chart_data = null }} 
 {{ else }}
-    {{> console.log('No data for place', title)}}
+    {{# {{> console.log('No data for place', title)}} #}}
 {{ /if }}
 <p>
     <strong>Data</strong>: Affordable homes data comes from <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply">
@@ -232,5 +247,12 @@ vispage: Areas
             }]
         } 
         }) 
-    }} 
+    }}
+    {{ set chart_data = null }} 
+    {{ set y_spacing = null }}
+    <p>
+        <strong>Data:</strong> Median house price estimates come from the ONS
+        <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">
+        Median house prices for administrative geographies: HPSSA dataset 9</a>. Published under Open Government Licensce v.3.0.
+    </p>
 {{ /if }}
