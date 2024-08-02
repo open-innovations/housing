@@ -1,4 +1,5 @@
-SELECT "AreaCode", "AreaName", "Year", "AllVacants", "Dwellings", "HouseholdProjection", "LongTermVacants"
+SELECT 
+    "AreaCode", "AreaName", "Year", "AllVacants", "Dwellings", "HouseholdProjection", "LongTermVacants"
 FROM read_csv("data/vacant-homes/absolute.csv",
     columns = {
         'AreaCode': 'VARCHAR',
