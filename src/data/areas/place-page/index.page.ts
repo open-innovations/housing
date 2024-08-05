@@ -23,7 +23,7 @@ export default function* ({areas, vacantHomesHeadlines, affordableHomes, medianH
             affordableHomes: affordableHomes(key),
             medianHousePrice: medianHousePrice(key),
             pctVacantHomes: pctVacantHomes(key),
-            householdProjections: householdProjections(key, value['dwellingsLastPublished']),
+            householdProjections: householdProjections(key),
             areas: null, // mask the areas data from other pages.
             key: null,
             value: null
