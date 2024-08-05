@@ -1,0 +1,31 @@
+<h3>House prices in {{ title }} <a id='house-prices' class='anchor' href='#house-prices' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+{{# {{ set chart_data = medianHousePrice(areacode) }} #}}
+{{ if medianHousePrice.length > 0 }}
+    {{ set y_spacing = medianHousePrice |> ySpacing('Median (£)') }}
+    {{ comp.oi.chart.line({ config: {
+        data: medianHousePrice,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 4 } },
+            y: { title: { label: "Median house price (£)" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
+        },
+        columns: [{
+            name: 'decimal_date',
+            template: '{{ date | strptime("%b %Y") | decimalYear() }}'
+            }],
+        series: [
+            {
+            title: 'Median house price (£)',
+            x: 'decimal_date',
+            y: 'Median (£)',
+            tooltip: '<strong class="subtitle">Median house price (£)</strong><br />{{ date }}: <strong>£{{ Median (£) | toLocaleString() }}</strong>'
+            }]
+        } 
+        }) 
+    }}
+    <p>
+        <strong>Data:</strong> Median house price estimates come from the ONS
+        <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">
+        Median house prices for administrative geographies: HPSSA dataset 9</a>. Published under Open Government Licensce v.3.0.
+    </p>
+{{ /if }}

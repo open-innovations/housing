@@ -1,0 +1,101 @@
+<h3>Vacant homes in {{ title }} <a id='vacant-homes' class='anchor' href='#vacant-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+
+{{ if pctVacantHomes.length == 0 }}
+    <p>Vacant homes data are not published for this area.</p>
+{{ else }}
+    {{ set headline = vhHeadline }}
+    {{ if headline.length > 0}}
+        {{ comp.oi.dashboard({ config: {
+            title: "title",
+            value: "value",
+            note: 'footnote',
+            columns: [{
+                name: 'Post',
+                template: '%' }
+                ],
+            data: headline,
+            units: { postfix: 'Post' },
+            panels: [
+                {
+                name: 'All vacants',
+                colour: '#F9BC26'},
+                {
+                name: 'Long term vacants',
+                colour: '#F9BC26'}]
+            }
+            })
+        }}
+    {{ /if }}
+
+    {{ comp.oi.chart.line({ config: {
+        data: pctVacantHomes,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 } },
+            y: { title: { label: "Percent of all households" }, grid: { "stroke-width": "1"}, tick: { spacing: 1 } }
+        },
+        series: [
+            {
+            title: 'All Vacants',
+            x: 'Year',
+            y: 'AllVacants_pct',
+            tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ Year }}: <strong>{{ AllVacants_pct }}%</strong>'
+            },
+            {
+            title: 'Long Term Vacants',
+            x: 'Year',
+            y: 'LongTermVacants_pct',
+            tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ Year }}: <strong>{{ LongTermVacants_pct }}%</strong>'
+            }]
+        }
+        }) 
+    }}
+    <p>
+        <strong>Data:</strong> Vacant home and long-term vacant home percentages are calculated by dividing the respective counts in 
+        <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">
+        Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in 
+        <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants">
+        Table 125: dwelling stock estimates by local authority district</a>.
+    </p>
+    {{ if dwellingsLastPublished }}
+        <p>Dwellings data for {{ title }} were last published in <strong>{{ dwellingsLastPublished }}</strong>.</p>
+    {{ /if }}
+    {{ if vacantsLastPublished }}
+        <p>Vacant homes data for {{ title }} were last published in <strong>{{ vacantsLastPublished }}</strong>.</p>
+    {{ /if }}
+{{ /if }}
+
+<h3>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+
+{{ set y_spacing = householdProjections |> ySpacing('Dwellings') }}
+
+{{  if householdProjections.length > 0 && pctVacantHomes.length > 0 }}    
+    {{ set seriesObject = [
+        { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+        { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ Year }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }, 
+        { title: 'Long Term Vacants', x: 'Year', y: 'LongTermVacants', tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ Year }}: <strong>{{ LongTermVacants | toLocaleString() }}</strong>' }, 
+        { title: 'All Vacants', x: 'Year', y: 'AllVacants', tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ Year }}: <strong>{{ AllVacants | toLocaleString() }}</strong>' }]
+    }}
+{{ else }}
+    {{ set seriesObject = [
+        { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+        { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ Year }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }] 
+    }}
+{{ /if }}
+
+{{ comp.oi.chart.line({ config: {
+    data: householdProjections,
+    height: 600,
+    axis: {
+        x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 }, max: vacantsLastPublished },
+        y: { title: { label: "Households" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
+    },
+    series: seriesObject
+    } 
+    }) 
+}}
+
+<p>
+    <strong>Data:</strong> Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">
+    2018-based household projections for local authorities and higher adminstrative areas within England</a>.
+</p>
