@@ -1,4 +1,4 @@
-AreaCode,AreaName,Year,LongTermVacants_pct,AllVacants_pct
+geography_code,geography_name,Year,LongTermVacants_pct,AllVacants_pct
 E06000001,Hartlepool,2004,2.82,4.76
 E06000001,Hartlepool,2005,2.59,4.54
 E06000001,Hartlepool,2006,1.62,4.71

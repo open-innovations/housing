@@ -1,7 +1,7 @@
 SELECT 
     *
 FROM read_parquet("data/vacant-homes/absolute.parquet")
-WHERE "AreaCode" == ?;
+WHERE "geography_code" == ?;
 -- AND "Year" <= (
 --     SELECT 
 --         MAX("Year") 

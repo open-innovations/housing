@@ -1,4 +1,4 @@
-AreaCode,AreaName,Year,AllVacants,Dwellings,HouseholdProjection,LongTermVacants
+geography_code,geography_name,Year,AllVacants,Dwellings,HouseholdProjection,LongTermVacants
 E06000001,Hartlepool,2004,1925.0,40407.0,38156.0,1138.0
 E06000001,Hartlepool,2005,1846.0,40626.0,38386.0,1051.0
 E06000001,Hartlepool,2006,1925.0,40869.0,38621.0,664.0
