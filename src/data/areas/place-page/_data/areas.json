@@ -1005,7 +1005,7 @@
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023,
         "active":true,
-        "name":"Folkestone and Hythe [note 7]"
+        "name":"Folkestone and Hythe"
     },
     "E07000113":{
         "dwellingsLastPublished":2023,
@@ -1557,7 +1557,7 @@
         "dwellingsLastPublished":2019,
         "vacantsLastPublished":2018,
         "active":false,
-        "name":"St. Edmundsbury"
+        "name":"St Edmundsbury"
     },
     "E07000205":{
         "dwellingsLastPublished":2019,
@@ -1773,7 +1773,7 @@
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023,
         "active":true,
-        "name":"St. Albans"
+        "name":"St Albans"
     },
     "E07000241":{
         "dwellingsLastPublished":2023,
@@ -1887,7 +1887,7 @@
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":2023,
         "active":true,
-        "name":"St Helens"
+        "name":"St. Helens"
     },
     "E08000014":{
         "dwellingsLastPublished":2023,
@@ -2433,37 +2433,37 @@
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":null,
         "active":true,
-        "name":"Greater Manchester (Met County)"
+        "name":"Greater Manchester"
     },
     "E11000002":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":null,
         "active":true,
-        "name":"Merseyside (Met County)"
+        "name":"Merseyside"
     },
     "E11000003":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":null,
         "active":true,
-        "name":"South Yorkshire (Met County)"
-    },
-    "E11000004":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Tyne and Wear (Met County)"
+        "name":"South Yorkshire"
     },
     "E11000005":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":null,
         "active":true,
-        "name":"West Midlands (Met County)"
+        "name":"West Midlands"
     },
     "E11000006":{
         "dwellingsLastPublished":2023,
         "vacantsLastPublished":null,
         "active":true,
-        "name":"West Yorkshire (Met County)"
+        "name":"West Yorkshire"
+    },
+    "E11000007":{
+        "dwellingsLastPublished":2023,
+        "vacantsLastPublished":null,
+        "active":true,
+        "name":"Tyne and Wear"
     },
     "E12000001":{
         "dwellingsLastPublished":2023,
