@@ -1,6 +1,6 @@
 SELECT
-  "date", "Median (£)"
+  "date", "Median"
 FROM
-  read_parquet("data/house-prices/median_house_prices.parquet")
+  read_parquet("data/house-prices/site/median_house_prices.parquet")
 WHERE
   "geography_code" == ?;

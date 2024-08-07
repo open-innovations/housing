@@ -1,4 +1,4 @@
-geography_code,geography_name,Measure,Year,Value
+geography_code,geography_name,Measure,date,Value
 E06000001,Hartlepool,AllVacants,2004,1925
 E06000001,Hartlepool,AllVacants,2005,1846
 E06000001,Hartlepool,AllVacants,2006,1925

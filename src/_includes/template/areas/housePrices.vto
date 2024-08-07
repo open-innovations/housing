@@ -1,7 +1,7 @@
 <h3>House prices in {{ title }} <a id='house-prices' class='anchor' href='#house-prices' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 {{# {{ set chart_data = medianHousePrice(areacode) }} #}}
 {{ if medianHousePrice.length > 0 }}
-    {{ set y_spacing = medianHousePrice |> ySpacing('Median (£)') }}
+    {{ set y_spacing = medianHousePrice |> ySpacing('Median') }}
     {{ comp.oi.chart.line({ config: {
         data: medianHousePrice,
         height: 600,
@@ -17,8 +17,8 @@
             {
             title: 'Median house price (£)',
             x: 'decimal_date',
-            y: 'Median (£)',
-            tooltip: '<strong class="subtitle">Median house price (£)</strong><br />{{ date }}: <strong>£{{ Median (£) | toLocaleString() }}</strong>'
+            y: 'Median',
+            tooltip: '<strong class="subtitle">Median house price (£)</strong><br />{{ date }}: <strong>£{{ Median | toLocaleString() }}</strong>'
             }]
         } 
         }) 

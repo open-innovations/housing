@@ -37,15 +37,15 @@
         series: [
             {
             title: 'All Vacants',
-            x: 'Year',
+            x: 'date',
             y: 'AllVacants_pct',
-            tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ Year }}: <strong>{{ AllVacants_pct }}%</strong>'
+            tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ date }}: <strong>{{ AllVacants_pct }}%</strong>'
             },
             {
             title: 'Long Term Vacants',
-            x: 'Year',
+            x: 'date',
             y: 'LongTermVacants_pct',
-            tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ Year }}: <strong>{{ LongTermVacants_pct }}%</strong>'
+            tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ date }}: <strong>{{ LongTermVacants_pct }}%</strong>'
             }]
         }
         }) 
@@ -71,15 +71,15 @@
 
 {{  if householdProjections.length > 0 && pctVacantHomes.length > 0 }}    
     {{ set seriesObject = [
-        { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
-        { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ Year }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }, 
-        { title: 'Long Term Vacants', x: 'Year', y: 'LongTermVacants', tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ Year }}: <strong>{{ LongTermVacants | toLocaleString() }}</strong>' }, 
-        { title: 'All Vacants', x: 'Year', y: 'AllVacants', tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ Year }}: <strong>{{ AllVacants | toLocaleString() }}</strong>' }]
+        { title: 'Dwellings', x: 'date', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ date }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+        { title: 'Household Projections', x: 'date', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ date }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }, 
+        { title: 'Long Term Vacants', x: 'date', y: 'LongTermVacants', tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ date }}: <strong>{{ LongTermVacants | toLocaleString() }}</strong>' }, 
+        { title: 'All Vacants', x: 'date', y: 'AllVacants', tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ date }}: <strong>{{ AllVacants | toLocaleString() }}</strong>' }]
     }}
 {{ else }}
     {{ set seriesObject = [
-        { title: 'Dwellings', x: 'Year', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ Year }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
-        { title: 'Household Projections', x: 'Year', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ Year }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }] 
+        { title: 'Dwellings', x: 'date', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ date }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+        { title: 'Household Projections', x: 'date', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ date }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }] 
     }}
 {{ /if }}
 

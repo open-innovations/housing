@@ -5,42 +5,42 @@
         stacked: true,
         legend: { show: true, position: top },
         axis: { x: { grid: { 'stroke-dasharray': '6 2', 'stroke-width': 1 } } },
-        category: 'Year',
+        category: 'date',
         series: [
             {
             title: 'Social Rent',
             value: 'Social Rent',
-            tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ date }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
             },
             {
             title: 'London Affordable Rent',
             value: 'London Affordable Rent',
-            tooltip: '<strong class="subtitle">London Affordable Rent</strong><br />{{ Year }}: <strong>{{ London Affordable Rent }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">London Affordable Rent</strong><br />{{ date }}: <strong>{{ London Affordable Rent }} units</strong> (bed spaces)'
             },
             {
             title: 'Affordable Rent',
             value: 'Affordable Rent',
-            tooltip: '<strong class="subtitle">Affordable Rent</strong><br />{{ Year }}: <strong>{{ Affordable Rent }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">Affordable Rent</strong><br />{{ date }}: <strong>{{ Affordable Rent }} units</strong> (bed spaces)'
             },
             {
             title: 'Intermediate Rent',
             value: 'Intermediate Rent',
-            tooltip: '<strong class="subtitle">Intermediate Rent</strong><br />{{ Year }}: <strong>{{ Intermediate Rent }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">Intermediate Rent</strong><br />{{ date }}: <strong>{{ Intermediate Rent }} units</strong> (bed spaces)'
             },
             {
             title: 'Shared Ownership',
             value: 'Shared Ownership',
-            tooltip: '<strong class="subtitle">Shared Ownership</strong><br />{{ Year }}: <strong>{{ Shared Ownership }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">Shared Ownership</strong><br />{{ date }}: <strong>{{ Shared Ownership }} units</strong> (bed spaces)'
             },
             {
             title: 'Affordable Home Ownership',
             value: 'Affordable Home Ownership',
-            tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ Year }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">Social Rent</strong><br />{{ date }}: <strong>{{ Social Rent }} units</strong> (bed spaces)'
             },
             {
             title: 'First Homes',
             value: 'First Homes',
-            tooltip: '<strong class="subtitle">First Homes</strong><br />{{ Year }}: <strong>{{ First Homes }} units</strong> (bed spaces)'
+            tooltip: '<strong class="subtitle">First Homes</strong><br />{{ date }}: <strong>{{ First Homes }} units</strong> (bed spaces)'
             }]
             }
             }) 
@@ -52,7 +52,7 @@
     <strong>Data</strong>: Affordable homes data comes from <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply">
     Live tables on affordable housing supply</a> published by the Ministry of Housing, Communities and Local Government. On this chart, we present the data from 
     <a href="https://assets.publishing.service.gov.uk/media/667983a2a7a18c1aa1a00f3e/AHS_199192_to_202223_open_data.csv">
-    Affordable housing supply open data</a>. We use figures for completions, and group by year, tenure and local authority. This is equivalent to 
+    Affordable housing supply open data</a>. We use figures for completions, and group by date, tenure and local authority. This is equivalent to 
     <a href="https://assets.publishing.service.gov.uk/media/6679833d921ddc8344a00f47/Live_Table_1000.ods">
     Table 1000: additional affordable homes provided by type of scheme, England</a>. The data processing pipeline is 
     <a href="https://github.com/open-innovations/housing/tree/main/pipelines/affordable-housing">published openly</a>.
