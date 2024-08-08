@@ -1,0 +1,30 @@
+<h3>Population of {{ title }} <a id='population' class='anchor' href='#population' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+{{# {{ set chart_data = medianHousePrice(areacode) }} #}}
+{{ if pop.length > 0 }}
+    {{ set y_spacing = pop |> ySpacing('population') }}
+    {{ comp.oi.chart.line({ config: {
+        data: pop,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 4 } },
+            y: { title: { label: "Population" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
+        },
+        columns: [{
+            name: 'decimal_date',
+            template: '{{ date | strptime("%Y") | decimalYear() }}'
+            }],
+        series: [
+            {
+            title: 'Population',
+            x: 'decimal_date',
+            y: 'population',
+            tooltip: '<strong class="subtitle">Population</strong><br />{{ decimal_date }}: <strong>£{{ population | toLocaleString() }}</strong>'
+            }]
+        } 
+        }) 
+    }}
+    <p>
+        <strong>Data:</strong> Population estimates come from Office for National Statistics accessed (via Nomis) <a href="https://www.nomisweb.co.uk/datasets/pestsyoala">
+        Population estimates - local authority based by single year of age</a>. Published under Open Government Licensce v.3.0.
+    </p>
+{{ /if }}
