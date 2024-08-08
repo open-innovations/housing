@@ -68,34 +68,35 @@
 <h3>Dwellings and household projections in {{ title }} <a id='dwellings-and-projections' class='anchor' href='#dwellings-and-projections' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ set y_spacing = householdProjections |> ySpacing('Dwellings') }}
+{{  if householdProjections.length > 0 }}
+    {{ if pctVacantHomes.length > 0 }}    
+        {{ set seriesObject = [
+            { title: 'Dwellings', x: 'date', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ date }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+            { title: 'Household Projections', x: 'date', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ date }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }, 
+            { title: 'Long Term Vacants', x: 'date', y: 'LongTermVacants', tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ date }}: <strong>{{ LongTermVacants | toLocaleString() }}</strong>' }, 
+            { title: 'All Vacants', x: 'date', y: 'AllVacants', tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ date }}: <strong>{{ AllVacants | toLocaleString() }}</strong>' }]
+        }}
+    {{ else }}
+        {{ set seriesObject = [
+            { title: 'Dwellings', x: 'date', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ date }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
+            { title: 'Household Projections', x: 'date', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ date }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }] 
+        }}
+    {{ /if }}
 
-{{  if householdProjections.length > 0 && pctVacantHomes.length > 0 }}    
-    {{ set seriesObject = [
-        { title: 'Dwellings', x: 'date', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ date }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
-        { title: 'Household Projections', x: 'date', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ date }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }, 
-        { title: 'Long Term Vacants', x: 'date', y: 'LongTermVacants', tooltip: '<strong class="subtitle">Long Term Vacants</strong><br />{{ date }}: <strong>{{ LongTermVacants | toLocaleString() }}</strong>' }, 
-        { title: 'All Vacants', x: 'date', y: 'AllVacants', tooltip: '<strong class="subtitle">All Vacants</strong><br />{{ date }}: <strong>{{ AllVacants | toLocaleString() }}</strong>' }]
+    {{ comp.oi.chart.line({ config: {
+        data: householdProjections,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 } },
+            y: { title: { label: "Households" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
+        },
+        series: seriesObject
+        } 
+        }) 
     }}
-{{ else }}
-    {{ set seriesObject = [
-        { title: 'Dwellings', x: 'date', y: 'Dwellings', tooltip: '<strong class="subtitle">Dwellings</strong><br />{{ date }}: <strong>{{ Dwellings | toLocaleString() }}</strong>' }, 
-        { title: 'Household Projections', x: 'date', y: 'HouseholdProjection', tooltip: '<strong class="subtitle">Household Projections</strong><br />{{ date }}: <strong>{{ HouseholdProjection | toLocaleString() }}</strong>' }] 
-    }}
+
+    <p>
+        <strong>Data:</strong> Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">
+        2018-based household projections for local authorities and higher adminstrative areas within England</a>.
+    </p>
 {{ /if }}
-
-{{ comp.oi.chart.line({ config: {
-    data: householdProjections,
-    height: 600,
-    axis: {
-        x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 2 }, max: vacantsLastPublished },
-        y: { title: { label: "Households" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
-    },
-    series: seriesObject
-    } 
-    }) 
-}}
-
-<p>
-    <strong>Data:</strong> Dwelling count estimates are from <a href="Dwelling count estimates are from Table 125: dwelling stock estimates by local authority district. Household estimates are from the 2018-based household projections for local authorities and higher adminstrative areas within England.">Table 125: dwelling stock estimates by local authority district</a>. Household estimates are from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/householdprojectionsforengland">
-    2018-based household projections for local authorities and higher adminstrative areas within England</a>.
-</p>
