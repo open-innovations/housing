@@ -11,10 +11,11 @@ section: data
         <input type="text" id="searchInput" onkeyup="filterList()" placeholder="Search for areas..">
     </div>
 </div>
+
 <ul id="searchable">
     {{ for area of search.pages('area', 'title') }}
         {{ if area.active }}
-            <li><a href="{{ area.url }}">{{ area.name }}</a></li>
+            <li><a href="{{ area.url }}">{{ area.geography_name }}</a></li>
         {{ /if }}
     {{ /for }}
 </ul>

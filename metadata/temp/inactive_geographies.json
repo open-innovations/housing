@@ -1,474 +1,378 @@
 {
     "E07000026":{
         "geography_name":"Allerdale",
-        "active":"false"
+        "active":false
     },
     "E07000027":{
         "geography_name":"Barrow-in-Furness",
-        "active":"false"
+        "active":false
     },
     "E07000028":{
         "geography_name":"Carlisle",
-        "active":"false"
+        "active":false
     },
     "E07000029":{
         "geography_name":"Copeland",
-        "active":"false"
+        "active":false
     },
     "E07000030":{
         "geography_name":"Eden",
-        "active":"false"
+        "active":false
     },
     "E07000031":{
         "geography_name":"South Lakeland",
-        "active":"false"
+        "active":false
     },
     "E07000163":{
         "geography_name":"Craven",
-        "active":"false"
+        "active":false
     },
     "E07000164":{
         "geography_name":"Hambleton",
-        "active":"false"
+        "active":false
     },
     "E07000165":{
         "geography_name":"Harrogate",
-        "active":"false"
+        "active":false
     },
     "E07000166":{
         "geography_name":"Richmondshire",
-        "active":"false"
+        "active":false
     },
     "E07000167":{
         "geography_name":"Ryedale",
-        "active":"false"
+        "active":false
     },
     "E07000168":{
         "geography_name":"Scarborough",
-        "active":"false"
+        "active":false
     },
     "E07000169":{
         "geography_name":"Selby",
-        "active":"false"
+        "active":false
     },
     "E07000187":{
         "geography_name":"Mendip",
-        "active":"false"
+        "active":false
     },
     "E07000188":{
         "geography_name":"Sedgemoor",
-        "active":"false"
+        "active":false
     },
     "E07000189":{
         "geography_name":"South Somerset",
-        "active":"false"
+        "active":false
     },
     "E07000246":{
         "geography_name":"Somerset West and Taunton",
-        "active":"false"
+        "active":false
     },
     "E47000010":{
         "geography_name":"North East",
-        "active":"false"
+        "active":false
     },
     "E47000011":{
         "geography_name":"North of Tyne",
-        "active":"false"
-    },
-    "K04000001":{
-        "geography_name":"England and Wales",
-        "active":"false"
-    },
-    "W06000001":{
-        "geography_name":"Isle of Anglesey",
-        "active":"false"
-    },
-    "W06000002":{
-        "geography_name":"Gwynedd",
-        "active":"false"
-    },
-    "W06000003":{
-        "geography_name":"Conwy",
-        "active":"false"
-    },
-    "W06000004":{
-        "geography_name":"Denbighshire",
-        "active":"false"
-    },
-    "W06000005":{
-        "geography_name":"Flintshire",
-        "active":"false"
-    },
-    "W06000006":{
-        "geography_name":"Wrexham",
-        "active":"false"
-    },
-    "W06000008":{
-        "geography_name":"Ceredigion",
-        "active":"false"
-    },
-    "W06000009":{
-        "geography_name":"Pembrokeshire",
-        "active":"false"
-    },
-    "W06000010":{
-        "geography_name":"Carmarthenshire",
-        "active":"false"
-    },
-    "W06000011":{
-        "geography_name":"Swansea",
-        "active":"false"
-    },
-    "W06000012":{
-        "geography_name":"Neath Port Talbot",
-        "active":"false"
-    },
-    "W06000013":{
-        "geography_name":"Bridgend",
-        "active":"false"
-    },
-    "W06000014":{
-        "geography_name":"Vale of Glamorgan",
-        "active":"false"
-    },
-    "W06000015":{
-        "geography_name":"Cardiff",
-        "active":"false"
-    },
-    "W06000016":{
-        "geography_name":"Rhondda Cynon Taf",
-        "active":"false"
-    },
-    "W06000018":{
-        "geography_name":"Caerphilly",
-        "active":"false"
-    },
-    "W06000019":{
-        "geography_name":"Blaenau Gwent",
-        "active":"false"
-    },
-    "W06000020":{
-        "geography_name":"Torfaen",
-        "active":"false"
-    },
-    "W06000021":{
-        "geography_name":"Monmouthshire",
-        "active":"false"
-    },
-    "W06000022":{
-        "geography_name":"Newport",
-        "active":"false"
-    },
-    "W06000023":{
-        "geography_name":"Powys",
-        "active":"false"
-    },
-    "W06000024":{
-        "geography_name":"Merthyr Tydfil",
-        "active":"false"
-    },
-    "W92000004":{
-        "geography_name":"Wales",
-        "active":"false"
+        "active":false
     },
     "E06000028":{
         "geography_name":"Bournemouth",
-        "active":"false"
+        "active":false
     },
     "E06000029":{
         "geography_name":"Poole",
-        "active":"false"
+        "active":false
     },
     "E07000001":{
         "geography_name":"Mid Bedfordshire",
-        "active":"false"
+        "active":false
     },
     "E07000002":{
         "geography_name":"Bedford",
-        "active":"false"
+        "active":false
     },
     "E07000003":{
         "geography_name":"South Bedfordshire",
-        "active":"false"
+        "active":false
     },
     "E07000004":{
         "geography_name":"Aylesbury Vale",
-        "active":"false"
+        "active":false
     },
     "E07000005":{
         "geography_name":"Chiltern",
-        "active":"false"
+        "active":false
     },
     "E07000006":{
         "geography_name":"South Bucks",
-        "active":"false"
+        "active":false
     },
     "E07000007":{
         "geography_name":"Wycombe",
-        "active":"false"
+        "active":false
     },
     "E07000013":{
         "geography_name":"Chester",
-        "active":"false"
+        "active":false
     },
     "E07000014":{
         "geography_name":"Congleton",
-        "active":"false"
+        "active":false
     },
     "E07000015":{
         "geography_name":"Crewe and Nantwich",
-        "active":"false"
+        "active":false
     },
     "E07000016":{
         "geography_name":"Ellesmere Port and Neston",
-        "active":"false"
+        "active":false
     },
     "E07000017":{
         "geography_name":"Macclesfield",
-        "active":"false"
+        "active":false
     },
     "E07000018":{
         "geography_name":"Vale Royal",
-        "active":"false"
+        "active":false
     },
     "E07000019":{
         "geography_name":"Caradon",
-        "active":"false"
+        "active":false
     },
     "E07000020":{
         "geography_name":"Carrick",
-        "active":"false"
+        "active":false
     },
     "E07000021":{
         "geography_name":"Kerrier",
-        "active":"false"
+        "active":false
     },
     "E07000022":{
         "geography_name":"North Cornwall",
-        "active":"false"
+        "active":false
     },
     "E07000023":{
         "geography_name":"Penwith",
-        "active":"false"
+        "active":false
     },
     "E07000024":{
         "geography_name":"Restormel",
-        "active":"false"
+        "active":false
     },
     "E07000025":{
         "geography_name":"Isles of Scilly",
-        "active":"false"
+        "active":false
     },
     "E07000048":{
         "geography_name":"Christchurch",
-        "active":"false"
+        "active":false
     },
     "E07000049":{
         "geography_name":"East Dorset",
-        "active":"false"
+        "active":false
     },
     "E07000050":{
         "geography_name":"North Dorset",
-        "active":"false"
+        "active":false
     },
     "E07000051":{
         "geography_name":"Purbeck",
-        "active":"false"
+        "active":false
     },
     "E07000052":{
         "geography_name":"West Dorset",
-        "active":"false"
+        "active":false
     },
     "E07000053":{
         "geography_name":"Weymouth and Portland",
-        "active":"false"
+        "active":false
     },
     "E07000054":{
         "geography_name":"Chester-le-Street",
-        "active":"false"
+        "active":false
     },
     "E07000055":{
         "geography_name":"Derwentside",
-        "active":"false"
+        "active":false
     },
     "E07000056":{
         "geography_name":"Durham",
-        "active":"false"
+        "active":false
     },
     "E07000057":{
         "geography_name":"Easington",
-        "active":"false"
+        "active":false
     },
     "E07000058":{
         "geography_name":"Sedgefield",
-        "active":"false"
+        "active":false
     },
     "E07000059":{
         "geography_name":"Teesdale",
-        "active":"false"
+        "active":false
     },
     "E07000060":{
         "geography_name":"Wear Valley",
-        "active":"false"
+        "active":false
     },
     "E07000150":{
         "geography_name":"Corby",
-        "active":"false"
+        "active":false
     },
     "E07000151":{
         "geography_name":"Daventry",
-        "active":"false"
+        "active":false
     },
     "E07000152":{
         "geography_name":"East Northamptonshire",
-        "active":"false"
+        "active":false
     },
     "E07000153":{
         "geography_name":"Kettering",
-        "active":"false"
+        "active":false
     },
     "E07000154":{
         "geography_name":"Northampton",
-        "active":"false"
+        "active":false
     },
     "E07000155":{
         "geography_name":"South Northamptonshire",
-        "active":"false"
+        "active":false
     },
     "E07000156":{
         "geography_name":"Wellingborough",
-        "active":"false"
+        "active":false
     },
     "E07000157":{
         "geography_name":"Alnwick",
-        "active":"false"
+        "active":false
     },
     "E07000158":{
         "geography_name":"Berwick-upon-Tweed",
-        "active":"false"
+        "active":false
     },
     "E07000159":{
         "geography_name":"Blyth Valley",
-        "active":"false"
+        "active":false
     },
     "E07000160":{
         "geography_name":"Castle Morpeth",
-        "active":"false"
+        "active":false
     },
     "E07000161":{
         "geography_name":"Tynedale",
-        "active":"false"
+        "active":false
     },
     "E07000162":{
         "geography_name":"Wansbeck",
-        "active":"false"
+        "active":false
     },
     "E07000182":{
         "geography_name":"Bridgnorth",
-        "active":"false"
+        "active":false
     },
     "E07000183":{
         "geography_name":"North Shropshire",
-        "active":"false"
+        "active":false
     },
     "E07000184":{
         "geography_name":"Oswestry",
-        "active":"false"
+        "active":false
     },
     "E07000185":{
         "geography_name":"Shrewsbury and Atcham",
-        "active":"false"
+        "active":false
     },
     "E07000186":{
         "geography_name":"South Shropshire",
-        "active":"false"
+        "active":false
     },
     "E07000190":{
         "geography_name":"Taunton Deane",
-        "active":"false"
+        "active":false
     },
     "E07000191":{
         "geography_name":"West Somerset",
-        "active":"false"
+        "active":false
     },
     "E07000201":{
         "geography_name":"Forest Heath",
-        "active":"false"
+        "active":false
     },
     "E07000204":{
         "geography_name":"St. Edmundsbury",
-        "active":"false"
+        "active":false
     },
     "E07000205":{
         "geography_name":"Suffolk Coastal",
-        "active":"false"
+        "active":false
     },
     "E07000206":{
         "geography_name":"Waveney",
-        "active":"false"
+        "active":false
     },
     "E07000230":{
         "geography_name":"Kennet",
-        "active":"false"
+        "active":false
     },
     "E07000231":{
         "geography_name":"North Wiltshire",
-        "active":"false"
+        "active":false
     },
     "E07000232":{
         "geography_name":"Salisbury",
-        "active":"false"
+        "active":false
     },
     "E07000233":{
         "geography_name":"West Wiltshire",
-        "active":"false"
+        "active":false
     },
     "E10000001":{
         "geography_name":"Bedfordshire",
-        "active":"false"
+        "active":false
     },
     "E10000002":{
         "geography_name":"Buckinghamshire",
-        "active":"false"
+        "active":false
     },
     "E10000004":{
         "geography_name":"Cheshire",
-        "active":"false"
+        "active":false
     },
     "E10000005":{
         "geography_name":"Cornwall and the Isles of Scilly",
-        "active":"false"
+        "active":false
     },
     "E10000006":{
         "geography_name":"Cumbria",
-        "active":"false"
+        "active":false
     },
     "E10000009":{
         "geography_name":"Dorset",
-        "active":"false"
+        "active":false
     },
     "E10000021":{
         "geography_name":"Northamptonshire",
-        "active":"false"
+        "active":false
     },
     "E10000022":{
         "geography_name":"Northumberland",
-        "active":"false"
+        "active":false
     },
     "E10000023":{
         "geography_name":"North Yorkshire",
-        "active":"false"
+        "active":false
     },
     "E10000026":{
         "geography_name":"Shropshire",
-        "active":"false"
+        "active":false
     },
     "E10000027":{
         "geography_name":"Somerset",
-        "active":"false"
+        "active":false
     },
     "E10000033":{
         "geography_name":"Wiltshire",
-        "active":"false"
+        "active":false
     }
 }

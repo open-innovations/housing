@@ -1,2528 +1,1754 @@
 {
     "E06000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hartlepool"
+        "geography_name":"Hartlepool",
+        "active":true
     },
     "E06000002":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Middlesbrough"
+        "geography_name":"Middlesbrough",
+        "active":true
     },
     "E06000003":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Redcar and Cleveland"
+        "geography_name":"Redcar and Cleveland",
+        "active":true
     },
     "E06000004":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stockton-on-Tees"
+        "geography_name":"Stockton-on-Tees",
+        "active":true
     },
     "E06000005":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Darlington"
+        "geography_name":"Darlington",
+        "active":true
     },
     "E06000006":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Halton"
+        "geography_name":"Halton",
+        "active":true
     },
     "E06000007":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Warrington"
+        "geography_name":"Warrington",
+        "active":true
     },
     "E06000008":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Blackburn with Darwen"
+        "geography_name":"Blackburn with Darwen",
+        "active":true
     },
     "E06000009":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Blackpool"
+        "geography_name":"Blackpool",
+        "active":true
     },
     "E06000010":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Kingston upon Hull, City of"
+        "geography_name":"Kingston upon Hull, City of",
+        "active":true
     },
     "E06000011":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Riding of Yorkshire"
+        "geography_name":"East Riding of Yorkshire",
+        "active":true
     },
     "E06000012":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North East Lincolnshire"
+        "geography_name":"North East Lincolnshire",
+        "active":true
     },
     "E06000013":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Lincolnshire"
+        "geography_name":"North Lincolnshire",
+        "active":true
     },
     "E06000014":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"York"
+        "geography_name":"York",
+        "active":true
     },
     "E06000015":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Derby"
+        "geography_name":"Derby",
+        "active":true
     },
     "E06000016":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Leicester"
+        "geography_name":"Leicester",
+        "active":true
     },
     "E06000017":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rutland"
+        "geography_name":"Rutland",
+        "active":true
     },
     "E06000018":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Nottingham"
+        "geography_name":"Nottingham",
+        "active":true
     },
     "E06000019":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Herefordshire, County of"
+        "geography_name":"Herefordshire, County of",
+        "active":true
     },
     "E06000020":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Telford and Wrekin"
+        "geography_name":"Telford and Wrekin",
+        "active":true
     },
     "E06000021":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stoke-on-Trent"
+        "geography_name":"Stoke-on-Trent",
+        "active":true
     },
     "E06000022":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bath and North East Somerset"
+        "geography_name":"Bath and North East Somerset",
+        "active":true
     },
     "E06000023":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bristol, City of"
+        "geography_name":"Bristol, City of",
+        "active":true
     },
     "E06000024":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Somerset"
+        "geography_name":"North Somerset",
+        "active":true
     },
     "E06000025":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Gloucestershire"
+        "geography_name":"South Gloucestershire",
+        "active":true
     },
     "E06000026":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Plymouth"
+        "geography_name":"Plymouth",
+        "active":true
     },
     "E06000027":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Torbay"
-    },
-    "E06000028":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Bournemouth"
-    },
-    "E06000029":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Poole"
+        "geography_name":"Torbay",
+        "active":true
     },
     "E06000030":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Swindon"
+        "geography_name":"Swindon",
+        "active":true
     },
     "E06000031":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Peterborough"
+        "geography_name":"Peterborough",
+        "active":true
     },
     "E06000032":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Luton"
+        "geography_name":"Luton",
+        "active":true
     },
     "E06000033":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Southend-on-Sea"
+        "geography_name":"Southend-on-Sea",
+        "active":true
     },
     "E06000034":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Thurrock"
+        "geography_name":"Thurrock",
+        "active":true
     },
     "E06000035":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Medway"
+        "geography_name":"Medway",
+        "active":true
     },
     "E06000036":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bracknell Forest"
+        "geography_name":"Bracknell Forest",
+        "active":true
     },
     "E06000037":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Berkshire"
+        "geography_name":"West Berkshire",
+        "active":true
     },
     "E06000038":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Reading"
+        "geography_name":"Reading",
+        "active":true
     },
     "E06000039":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Slough"
+        "geography_name":"Slough",
+        "active":true
     },
     "E06000040":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Windsor and Maidenhead"
+        "geography_name":"Windsor and Maidenhead",
+        "active":true
     },
     "E06000041":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wokingham"
+        "geography_name":"Wokingham",
+        "active":true
     },
     "E06000042":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Milton Keynes"
+        "geography_name":"Milton Keynes",
+        "active":true
     },
     "E06000043":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Brighton and Hove"
+        "geography_name":"Brighton and Hove",
+        "active":true
     },
     "E06000044":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Portsmouth"
+        "geography_name":"Portsmouth",
+        "active":true
     },
     "E06000045":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Southampton"
+        "geography_name":"Southampton",
+        "active":true
     },
     "E06000046":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Isle of Wight"
+        "geography_name":"Isle of Wight",
+        "active":true
     },
     "E06000047":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"County Durham"
+        "geography_name":"County Durham",
+        "active":true
     },
     "E06000049":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cheshire East"
+        "geography_name":"Cheshire East",
+        "active":true
     },
     "E06000050":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cheshire West and Chester"
+        "geography_name":"Cheshire West and Chester",
+        "active":true
     },
     "E06000051":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Shropshire"
+        "geography_name":"Shropshire",
+        "active":true
     },
     "E06000052":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cornwall"
+        "geography_name":"Cornwall",
+        "active":true
     },
     "E06000053":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Isles of Scilly"
+        "geography_name":"Isles of Scilly",
+        "active":true
     },
     "E06000054":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wiltshire"
+        "geography_name":"Wiltshire",
+        "active":true
     },
     "E06000055":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bedford"
-    },
-    "E06000056":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Central Bedfordshire"
-    },
-    "E06000057":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Northumberland"
-    },
-    "E06000058":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bournemouth, Christchurch and Poole"
-    },
-    "E06000059":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Dorset"
-    },
-    "E06000060":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Buckinghamshire"
-    },
-    "E06000061":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Northamptonshire"
-    },
-    "E06000062":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Northamptonshire"
-    },
-    "E07000001":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Mid Bedfordshire"
-    },
-    "E07000002":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Bedford"
-    },
-    "E07000003":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"South Bedfordshire"
-    },
-    "E07000004":{
-        "dwellingsLastPublished":2020,
-        "vacantsLastPublished":2019,
-        "active":false,
-        "name":"Aylesbury Vale"
-    },
-    "E07000005":{
-        "dwellingsLastPublished":2020,
-        "vacantsLastPublished":2019,
-        "active":false,
-        "name":"Chiltern"
-    },
-    "E07000006":{
-        "dwellingsLastPublished":2020,
-        "vacantsLastPublished":2019,
-        "active":false,
-        "name":"South Bucks"
-    },
-    "E07000007":{
-        "dwellingsLastPublished":2020,
-        "vacantsLastPublished":2019,
-        "active":false,
-        "name":"Wycombe"
-    },
-    "E07000008":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cambridge"
-    },
-    "E07000009":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Cambridgeshire"
-    },
-    "E07000010":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Fenland"
-    },
-    "E07000011":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Huntingdonshire"
-    },
-    "E07000012":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Cambridgeshire"
-    },
-    "E07000013":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Chester"
-    },
-    "E07000014":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Congleton"
-    },
-    "E07000015":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Crewe and Nantwich"
-    },
-    "E07000016":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Ellesmere Port and Neston"
-    },
-    "E07000017":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Macclesfield"
-    },
-    "E07000018":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Vale Royal"
-    },
-    "E07000019":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Caradon"
-    },
-    "E07000020":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Carrick"
-    },
-    "E07000021":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Kerrier"
-    },
-    "E07000022":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"North Cornwall"
-    },
-    "E07000023":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Penwith"
-    },
-    "E07000024":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Restormel"
-    },
-    "E07000026":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Allerdale"
-    },
-    "E07000027":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Barrow-in-Furness"
-    },
-    "E07000028":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Carlisle"
-    },
-    "E07000029":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Copeland"
-    },
-    "E07000030":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Eden"
-    },
-    "E07000031":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"South Lakeland"
-    },
-    "E07000032":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Amber Valley"
-    },
-    "E07000033":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bolsover"
-    },
-    "E07000034":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Chesterfield"
-    },
-    "E07000035":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Derbyshire Dales"
-    },
-    "E07000036":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Erewash"
-    },
-    "E07000037":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"High Peak"
-    },
-    "E07000038":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North East Derbyshire"
-    },
-    "E07000039":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Derbyshire"
-    },
-    "E07000040":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Devon"
-    },
-    "E07000041":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Exeter"
-    },
-    "E07000042":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Mid Devon"
-    },
-    "E07000043":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Devon"
-    },
-    "E07000044":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Hams"
-    },
-    "E07000045":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Teignbridge"
-    },
-    "E07000046":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Torridge"
-    },
-    "E07000047":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Devon"
-    },
-    "E07000048":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Christchurch"
-    },
-    "E07000049":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"East Dorset"
-    },
-    "E07000050":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"North Dorset"
-    },
-    "E07000051":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Purbeck"
-    },
-    "E07000052":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"West Dorset"
-    },
-    "E07000053":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Weymouth and Portland"
-    },
-    "E07000054":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Chester-le-Street"
-    },
-    "E07000055":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Derwentside"
-    },
-    "E07000056":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Durham"
-    },
-    "E07000057":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Easington"
-    },
-    "E07000058":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Sedgefield"
-    },
-    "E07000059":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Teesdale"
-    },
-    "E07000060":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Wear Valley"
-    },
-    "E07000061":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Eastbourne"
-    },
-    "E07000062":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hastings"
-    },
-    "E07000063":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Lewes"
-    },
-    "E07000064":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rother"
-    },
-    "E07000065":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wealden"
-    },
-    "E07000066":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Basildon"
-    },
-    "E07000067":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Braintree"
-    },
-    "E07000068":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Brentwood"
-    },
-    "E07000069":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Castle Point"
-    },
-    "E07000070":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Chelmsford"
-    },
-    "E07000071":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Colchester"
-    },
-    "E07000072":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Epping Forest"
-    },
-    "E07000073":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Harlow"
-    },
-    "E07000074":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Maldon"
-    },
-    "E07000075":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rochford"
-    },
-    "E07000076":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tendring"
-    },
-    "E07000077":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Uttlesford"
-    },
-    "E07000078":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cheltenham"
-    },
-    "E07000079":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cotswold"
-    },
-    "E07000080":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Forest of Dean"
+        "geography_name":"Bedford",
+        "active":true
     },
     "E07000081":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Gloucester"
+        "geography_name":"Gloucester",
+        "active":true
     },
     "E07000082":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stroud"
+        "geography_name":"Stroud",
+        "active":true
     },
     "E07000083":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tewkesbury"
+        "geography_name":"Tewkesbury",
+        "active":true
     },
     "E07000084":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Basingstoke and Deane"
+        "geography_name":"Basingstoke and Deane",
+        "active":true
     },
     "E07000085":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Hampshire"
+        "geography_name":"East Hampshire",
+        "active":true
     },
     "E07000086":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Eastleigh"
+        "geography_name":"Eastleigh",
+        "active":true
     },
     "E07000087":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Fareham"
+        "geography_name":"Fareham",
+        "active":true
     },
     "E07000088":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Gosport"
+        "geography_name":"Gosport",
+        "active":true
     },
     "E07000089":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hart"
+        "geography_name":"Hart",
+        "active":true
     },
     "E07000090":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Havant"
+        "geography_name":"Havant",
+        "active":true
     },
     "E07000091":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"New Forest"
+        "geography_name":"New Forest",
+        "active":true
     },
     "E07000092":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rushmoor"
+        "geography_name":"Rushmoor",
+        "active":true
     },
     "E07000093":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Test Valley"
+        "geography_name":"Test Valley",
+        "active":true
     },
     "E07000094":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Winchester"
+        "geography_name":"Winchester",
+        "active":true
     },
     "E07000095":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Broxbourne"
+        "geography_name":"Broxbourne",
+        "active":true
     },
     "E07000096":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Dacorum"
+        "geography_name":"Dacorum",
+        "active":true
     },
     "E07000098":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hertsmere"
+        "geography_name":"Hertsmere",
+        "active":true
     },
     "E07000099":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Hertfordshire"
+        "geography_name":"North Hertfordshire",
+        "active":true
     },
     "E07000102":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Three Rivers"
+        "geography_name":"Three Rivers",
+        "active":true
     },
     "E07000103":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Watford"
+        "geography_name":"Watford",
+        "active":true
     },
     "E07000105":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Ashford"
+        "geography_name":"Ashford",
+        "active":true
     },
     "E07000106":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Canterbury"
+        "geography_name":"Canterbury",
+        "active":true
     },
     "E07000107":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Dartford"
+        "geography_name":"Dartford",
+        "active":true
     },
     "E07000108":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Dover"
+        "geography_name":"Dover",
+        "active":true
     },
     "E07000109":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Gravesham"
+        "geography_name":"Gravesham",
+        "active":true
     },
     "E07000110":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Maidstone"
+        "geography_name":"Maidstone",
+        "active":true
     },
     "E07000111":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Sevenoaks"
+        "geography_name":"Sevenoaks",
+        "active":true
     },
     "E07000112":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Folkestone and Hythe"
+        "geography_name":"Folkestone and Hythe",
+        "active":true
     },
     "E07000113":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Swale"
+        "geography_name":"Swale",
+        "active":true
     },
     "E07000114":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Thanet"
+        "geography_name":"Thanet",
+        "active":true
     },
     "E07000115":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tonbridge and Malling"
+        "geography_name":"Tonbridge and Malling",
+        "active":true
     },
     "E07000116":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tunbridge Wells"
+        "geography_name":"Tunbridge Wells",
+        "active":true
     },
     "E07000117":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Burnley"
+        "geography_name":"Burnley",
+        "active":true
     },
     "E07000118":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Chorley"
+        "geography_name":"Chorley",
+        "active":true
     },
     "E07000119":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Fylde"
+        "geography_name":"Fylde",
+        "active":true
     },
     "E07000120":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hyndburn"
+        "geography_name":"Hyndburn",
+        "active":true
     },
     "E07000121":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Lancaster"
+        "geography_name":"Lancaster",
+        "active":true
     },
     "E07000122":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Pendle"
+        "geography_name":"Pendle",
+        "active":true
     },
     "E07000123":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Preston"
+        "geography_name":"Preston",
+        "active":true
     },
     "E07000124":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Ribble Valley"
+        "geography_name":"Ribble Valley",
+        "active":true
     },
     "E07000125":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rossendale"
+        "geography_name":"Rossendale",
+        "active":true
     },
     "E07000126":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Ribble"
+        "geography_name":"South Ribble",
+        "active":true
     },
     "E07000127":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Lancashire"
+        "geography_name":"West Lancashire",
+        "active":true
     },
     "E07000128":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wyre"
+        "geography_name":"Wyre",
+        "active":true
     },
     "E07000129":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Blaby"
+        "geography_name":"Blaby",
+        "active":true
     },
     "E07000130":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Charnwood"
+        "geography_name":"Charnwood",
+        "active":true
     },
     "E07000131":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Harborough"
+        "geography_name":"Harborough",
+        "active":true
     },
     "E07000132":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hinckley and Bosworth"
+        "geography_name":"Hinckley and Bosworth",
+        "active":true
     },
     "E07000133":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Melton"
+        "geography_name":"Melton",
+        "active":true
     },
     "E07000134":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North West Leicestershire"
+        "geography_name":"North West Leicestershire",
+        "active":true
     },
     "E07000135":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Oadby and Wigston"
+        "geography_name":"Oadby and Wigston",
+        "active":true
     },
     "E07000136":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Boston"
+        "geography_name":"Boston",
+        "active":true
+    },
+    "E06000056":{
+        "geography_name":"Central Bedfordshire",
+        "active":true
+    },
+    "E06000057":{
+        "geography_name":"Northumberland",
+        "active":true
+    },
+    "E06000058":{
+        "geography_name":"Bournemouth, Christchurch and Poole",
+        "active":true
+    },
+    "E06000059":{
+        "geography_name":"Dorset",
+        "active":true
+    },
+    "E06000060":{
+        "geography_name":"Buckinghamshire",
+        "active":true
+    },
+    "E06000061":{
+        "geography_name":"North Northamptonshire",
+        "active":true
+    },
+    "E06000062":{
+        "geography_name":"West Northamptonshire",
+        "active":true
+    },
+    "E06000063":{
+        "geography_name":"Cumberland",
+        "active":true
+    },
+    "E06000064":{
+        "geography_name":"Westmorland and Furness",
+        "active":true
+    },
+    "E06000065":{
+        "geography_name":"North Yorkshire",
+        "active":true
+    },
+    "E06000066":{
+        "geography_name":"Somerset",
+        "active":true
+    },
+    "E07000008":{
+        "geography_name":"Cambridge",
+        "active":true
+    },
+    "E07000009":{
+        "geography_name":"East Cambridgeshire",
+        "active":true
+    },
+    "E07000010":{
+        "geography_name":"Fenland",
+        "active":true
+    },
+    "E07000011":{
+        "geography_name":"Huntingdonshire",
+        "active":true
+    },
+    "E07000012":{
+        "geography_name":"South Cambridgeshire",
+        "active":true
+    },
+    "E07000032":{
+        "geography_name":"Amber Valley",
+        "active":true
+    },
+    "E07000033":{
+        "geography_name":"Bolsover",
+        "active":true
+    },
+    "E07000034":{
+        "geography_name":"Chesterfield",
+        "active":true
+    },
+    "E07000035":{
+        "geography_name":"Derbyshire Dales",
+        "active":true
+    },
+    "E07000036":{
+        "geography_name":"Erewash",
+        "active":true
+    },
+    "E07000037":{
+        "geography_name":"High Peak",
+        "active":true
+    },
+    "E07000038":{
+        "geography_name":"North East Derbyshire",
+        "active":true
+    },
+    "E07000039":{
+        "geography_name":"South Derbyshire",
+        "active":true
+    },
+    "E07000040":{
+        "geography_name":"East Devon",
+        "active":true
+    },
+    "E07000041":{
+        "geography_name":"Exeter",
+        "active":true
+    },
+    "E07000042":{
+        "geography_name":"Mid Devon",
+        "active":true
+    },
+    "E07000043":{
+        "geography_name":"North Devon",
+        "active":true
+    },
+    "E07000044":{
+        "geography_name":"South Hams",
+        "active":true
+    },
+    "E07000045":{
+        "geography_name":"Teignbridge",
+        "active":true
+    },
+    "E07000046":{
+        "geography_name":"Torridge",
+        "active":true
+    },
+    "E07000047":{
+        "geography_name":"West Devon",
+        "active":true
+    },
+    "E07000061":{
+        "geography_name":"Eastbourne",
+        "active":true
+    },
+    "E07000062":{
+        "geography_name":"Hastings",
+        "active":true
+    },
+    "E07000063":{
+        "geography_name":"Lewes",
+        "active":true
+    },
+    "E07000064":{
+        "geography_name":"Rother",
+        "active":true
+    },
+    "E07000065":{
+        "geography_name":"Wealden",
+        "active":true
+    },
+    "E07000066":{
+        "geography_name":"Basildon",
+        "active":true
+    },
+    "E07000067":{
+        "geography_name":"Braintree",
+        "active":true
+    },
+    "E07000068":{
+        "geography_name":"Brentwood",
+        "active":true
+    },
+    "E07000069":{
+        "geography_name":"Castle Point",
+        "active":true
+    },
+    "E07000070":{
+        "geography_name":"Chelmsford",
+        "active":true
+    },
+    "E07000071":{
+        "geography_name":"Colchester",
+        "active":true
+    },
+    "E07000072":{
+        "geography_name":"Epping Forest",
+        "active":true
+    },
+    "E07000073":{
+        "geography_name":"Harlow",
+        "active":true
+    },
+    "E07000074":{
+        "geography_name":"Maldon",
+        "active":true
+    },
+    "E07000075":{
+        "geography_name":"Rochford",
+        "active":true
+    },
+    "E07000076":{
+        "geography_name":"Tendring",
+        "active":true
+    },
+    "E07000077":{
+        "geography_name":"Uttlesford",
+        "active":true
+    },
+    "E07000078":{
+        "geography_name":"Cheltenham",
+        "active":true
+    },
+    "E07000079":{
+        "geography_name":"Cotswold",
+        "active":true
+    },
+    "E07000080":{
+        "geography_name":"Forest of Dean",
+        "active":true
     },
     "E07000137":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Lindsey"
+        "geography_name":"East Lindsey",
+        "active":true
     },
     "E07000138":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Lincoln"
+        "geography_name":"Lincoln",
+        "active":true
     },
     "E07000139":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Kesteven"
+        "geography_name":"North Kesteven",
+        "active":true
     },
     "E07000140":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Holland"
+        "geography_name":"South Holland",
+        "active":true
     },
     "E07000141":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Kesteven"
+        "geography_name":"South Kesteven",
+        "active":true
     },
     "E07000142":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Lindsey"
+        "geography_name":"West Lindsey",
+        "active":true
     },
     "E07000143":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Breckland"
+        "geography_name":"Breckland",
+        "active":true
     },
     "E07000144":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Broadland"
+        "geography_name":"Broadland",
+        "active":true
     },
     "E07000145":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Great Yarmouth"
+        "geography_name":"Great Yarmouth",
+        "active":true
     },
     "E07000146":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"King's Lynn and West Norfolk"
+        "geography_name":"King's Lynn and West Norfolk",
+        "active":true
     },
     "E07000147":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Norfolk"
+        "geography_name":"North Norfolk",
+        "active":true
     },
     "E07000148":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Norwich"
+        "geography_name":"Norwich",
+        "active":true
     },
     "E07000149":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Norfolk"
-    },
-    "E07000150":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"Corby"
-    },
-    "E07000151":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"Daventry"
-    },
-    "E07000152":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"East Northamptonshire"
-    },
-    "E07000153":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"Kettering"
-    },
-    "E07000154":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"Northampton"
-    },
-    "E07000155":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"South Northamptonshire"
-    },
-    "E07000156":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":2020,
-        "active":false,
-        "name":"Wellingborough"
-    },
-    "E07000157":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Alnwick"
-    },
-    "E07000158":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Berwick-upon-Tweed"
-    },
-    "E07000159":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Blyth Valley"
-    },
-    "E07000160":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Castle Morpeth"
-    },
-    "E07000161":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Tynedale"
-    },
-    "E07000162":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Wansbeck"
-    },
-    "E07000163":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Craven"
-    },
-    "E07000164":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Hambleton"
-    },
-    "E07000165":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Harrogate"
-    },
-    "E07000166":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Richmondshire"
-    },
-    "E07000167":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Ryedale"
-    },
-    "E07000168":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Scarborough"
-    },
-    "E07000169":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Selby"
+        "geography_name":"South Norfolk",
+        "active":true
     },
     "E07000170":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Ashfield"
+        "geography_name":"Ashfield",
+        "active":true
     },
     "E07000171":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bassetlaw"
+        "geography_name":"Bassetlaw",
+        "active":true
     },
     "E07000172":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Broxtowe"
+        "geography_name":"Broxtowe",
+        "active":true
     },
     "E07000173":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Gedling"
+        "geography_name":"Gedling",
+        "active":true
     },
     "E07000174":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Mansfield"
+        "geography_name":"Mansfield",
+        "active":true
     },
     "E07000175":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Newark and Sherwood"
+        "geography_name":"Newark and Sherwood",
+        "active":true
     },
     "E07000176":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rushcliffe"
+        "geography_name":"Rushcliffe",
+        "active":true
     },
     "E07000177":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cherwell"
+        "geography_name":"Cherwell",
+        "active":true
     },
     "E07000178":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Oxford"
+        "geography_name":"Oxford",
+        "active":true
     },
     "E07000179":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Oxfordshire"
+        "geography_name":"South Oxfordshire",
+        "active":true
     },
     "E07000180":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Vale of White Horse"
+        "geography_name":"Vale of White Horse",
+        "active":true
     },
     "E07000181":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Oxfordshire"
-    },
-    "E07000182":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Bridgnorth"
-    },
-    "E07000183":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"North Shropshire"
-    },
-    "E07000184":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Oswestry"
-    },
-    "E07000185":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Shrewsbury and Atcham"
-    },
-    "E07000186":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"South Shropshire"
-    },
-    "E07000187":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Mendip"
-    },
-    "E07000188":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Sedgemoor"
-    },
-    "E07000189":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"South Somerset"
-    },
-    "E07000190":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Taunton Deane"
-    },
-    "E07000191":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"West Somerset"
+        "geography_name":"West Oxfordshire",
+        "active":true
     },
     "E07000192":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Cannock Chase"
+        "geography_name":"Cannock Chase",
+        "active":true
     },
     "E07000193":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Staffordshire"
+        "geography_name":"East Staffordshire",
+        "active":true
     },
     "E07000194":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Lichfield"
+        "geography_name":"Lichfield",
+        "active":true
     },
     "E07000195":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Newcastle-under-Lyme"
+        "geography_name":"Newcastle-under-Lyme",
+        "active":true
     },
     "E07000196":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Staffordshire"
+        "geography_name":"South Staffordshire",
+        "active":true
     },
     "E07000197":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stafford"
+        "geography_name":"Stafford",
+        "active":true
     },
     "E07000198":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Staffordshire Moorlands"
+        "geography_name":"Staffordshire Moorlands",
+        "active":true
     },
     "E07000199":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tamworth"
+        "geography_name":"Tamworth",
+        "active":true
     },
     "E07000200":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Babergh"
-    },
-    "E07000201":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Forest Heath"
+        "geography_name":"Babergh",
+        "active":true
     },
     "E07000202":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Ipswich"
+        "geography_name":"Ipswich",
+        "active":true
     },
     "E07000203":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Mid Suffolk"
-    },
-    "E07000204":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"St Edmundsbury"
-    },
-    "E07000205":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Suffolk Coastal"
-    },
-    "E07000206":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":2018,
-        "active":false,
-        "name":"Waveney"
+        "geography_name":"Mid Suffolk",
+        "active":true
     },
     "E07000207":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Elmbridge"
+        "geography_name":"Elmbridge",
+        "active":true
     },
     "E07000208":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Epsom and Ewell"
+        "geography_name":"Epsom and Ewell",
+        "active":true
     },
     "E07000209":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Guildford"
+        "geography_name":"Guildford",
+        "active":true
     },
     "E07000210":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Mole Valley"
+        "geography_name":"Mole Valley",
+        "active":true
     },
     "E07000211":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Reigate and Banstead"
+        "geography_name":"Reigate and Banstead",
+        "active":true
     },
     "E07000212":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Runnymede"
+        "geography_name":"Runnymede",
+        "active":true
     },
     "E07000213":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Spelthorne"
+        "geography_name":"Spelthorne",
+        "active":true
     },
     "E07000214":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Surrey Heath"
+        "geography_name":"Surrey Heath",
+        "active":true
     },
     "E07000215":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tandridge"
+        "geography_name":"Tandridge",
+        "active":true
     },
     "E07000216":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Waverley"
+        "geography_name":"Waverley",
+        "active":true
     },
     "E07000217":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Woking"
+        "geography_name":"Woking",
+        "active":true
     },
     "E07000218":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Warwickshire"
+        "geography_name":"North Warwickshire",
+        "active":true
     },
     "E07000219":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Nuneaton and Bedworth"
+        "geography_name":"Nuneaton and Bedworth",
+        "active":true
     },
     "E07000220":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rugby"
+        "geography_name":"Rugby",
+        "active":true
     },
     "E07000221":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stratford-on-Avon"
+        "geography_name":"Stratford-on-Avon",
+        "active":true
     },
     "E07000222":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Warwick"
-    },
-    "E07000223":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Adur"
-    },
-    "E07000224":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Arun"
-    },
-    "E07000225":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Chichester"
-    },
-    "E07000226":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Crawley"
-    },
-    "E07000227":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Horsham"
-    },
-    "E07000228":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Mid Sussex"
-    },
-    "E07000229":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Worthing"
-    },
-    "E07000230":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Kennet"
-    },
-    "E07000231":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"North Wiltshire"
-    },
-    "E07000232":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"Salisbury"
-    },
-    "E07000233":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":2008,
-        "active":false,
-        "name":"West Wiltshire"
-    },
-    "E07000234":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bromsgrove"
-    },
-    "E07000235":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Malvern Hills"
-    },
-    "E07000236":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Redditch"
-    },
-    "E07000237":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Worcester"
-    },
-    "E07000238":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wychavon"
-    },
-    "E07000239":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wyre Forest"
-    },
-    "E07000240":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"St Albans"
-    },
-    "E07000241":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Welwyn Hatfield"
-    },
-    "E07000242":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Hertfordshire"
-    },
-    "E07000243":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stevenage"
-    },
-    "E07000244":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Suffolk"
-    },
-    "E07000245":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Suffolk"
-    },
-    "E07000246":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2022,
-        "active":true,
-        "name":"Somerset West and Taunton"
-    },
-    "E08000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bolton"
-    },
-    "E08000002":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bury"
-    },
-    "E08000003":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Manchester"
-    },
-    "E08000004":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Oldham"
-    },
-    "E08000005":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rochdale"
-    },
-    "E08000006":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Salford"
-    },
-    "E08000007":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Stockport"
-    },
-    "E08000008":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tameside"
-    },
-    "E08000009":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Trafford"
-    },
-    "E08000010":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wigan"
-    },
-    "E08000011":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Knowsley"
-    },
-    "E08000012":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Liverpool"
-    },
-    "E08000013":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"St. Helens"
-    },
-    "E08000014":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Sefton"
-    },
-    "E08000015":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wirral"
-    },
-    "E08000016":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Barnsley"
-    },
-    "E08000017":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Doncaster"
-    },
-    "E08000018":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Rotherham"
-    },
-    "E08000019":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Sheffield"
-    },
-    "E08000021":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Newcastle upon Tyne"
-    },
-    "E08000022":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North Tyneside"
-    },
-    "E08000023":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South Tyneside"
-    },
-    "E08000024":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Sunderland"
-    },
-    "E08000025":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Birmingham"
-    },
-    "E08000026":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Coventry"
-    },
-    "E08000027":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Dudley"
-    },
-    "E08000028":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Sandwell"
-    },
-    "E08000029":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Solihull"
-    },
-    "E08000030":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Walsall"
-    },
-    "E08000031":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wolverhampton"
-    },
-    "E08000032":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bradford"
-    },
-    "E08000033":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Calderdale"
-    },
-    "E08000034":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Kirklees"
+        "geography_name":"Warwick",
+        "active":true
     },
     "E08000035":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Leeds"
+        "geography_name":"Leeds",
+        "active":true
     },
     "E08000036":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wakefield"
+        "geography_name":"Wakefield",
+        "active":true
     },
     "E08000037":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Gateshead"
+        "geography_name":"Gateshead",
+        "active":true
     },
     "E09000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"City of London"
+        "geography_name":"City of London",
+        "active":true
     },
     "E09000002":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Barking and Dagenham"
+        "geography_name":"Barking and Dagenham",
+        "active":true
     },
     "E09000003":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Barnet"
+        "geography_name":"Barnet",
+        "active":true
     },
     "E09000004":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bexley"
+        "geography_name":"Bexley",
+        "active":true
     },
     "E09000005":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Brent"
+        "geography_name":"Brent",
+        "active":true
     },
     "E09000006":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Bromley"
+        "geography_name":"Bromley",
+        "active":true
     },
     "E09000007":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Camden"
+        "geography_name":"Camden",
+        "active":true
     },
     "E09000008":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Croydon"
+        "geography_name":"Croydon",
+        "active":true
     },
     "E09000009":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Ealing"
+        "geography_name":"Ealing",
+        "active":true
     },
     "E09000010":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Enfield"
+        "geography_name":"Enfield",
+        "active":true
     },
     "E09000011":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Greenwich"
+        "geography_name":"Greenwich",
+        "active":true
     },
     "E09000012":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hackney"
+        "geography_name":"Hackney",
+        "active":true
     },
     "E09000013":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hammersmith and Fulham"
+        "geography_name":"Hammersmith and Fulham",
+        "active":true
     },
     "E09000014":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Haringey"
+        "geography_name":"Haringey",
+        "active":true
     },
     "E09000015":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Harrow"
+        "geography_name":"Harrow",
+        "active":true
     },
     "E09000016":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Havering"
+        "geography_name":"Havering",
+        "active":true
     },
     "E09000017":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hillingdon"
+        "geography_name":"Hillingdon",
+        "active":true
     },
     "E09000018":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Hounslow"
+        "geography_name":"Hounslow",
+        "active":true
     },
     "E09000019":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Islington"
+        "geography_name":"Islington",
+        "active":true
     },
     "E09000020":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Kensington and Chelsea"
+        "geography_name":"Kensington and Chelsea",
+        "active":true
     },
     "E09000021":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Kingston upon Thames"
+        "geography_name":"Kingston upon Thames",
+        "active":true
     },
     "E09000022":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Lambeth"
+        "geography_name":"Lambeth",
+        "active":true
     },
     "E09000023":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Lewisham"
+        "geography_name":"Lewisham",
+        "active":true
     },
     "E09000024":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Merton"
+        "geography_name":"Merton",
+        "active":true
     },
     "E09000025":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Newham"
+        "geography_name":"Newham",
+        "active":true
     },
     "E09000026":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Redbridge"
+        "geography_name":"Redbridge",
+        "active":true
     },
     "E09000027":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Richmond upon Thames"
+        "geography_name":"Richmond upon Thames",
+        "active":true
     },
     "E09000028":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Southwark"
+        "geography_name":"Southwark",
+        "active":true
     },
     "E09000029":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Sutton"
+        "geography_name":"Sutton",
+        "active":true
     },
     "E09000030":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Tower Hamlets"
+        "geography_name":"Tower Hamlets",
+        "active":true
     },
     "E09000031":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Waltham Forest"
+        "geography_name":"Waltham Forest",
+        "active":true
     },
     "E09000032":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Wandsworth"
+        "geography_name":"Wandsworth",
+        "active":true
     },
     "E09000033":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Westminster"
+        "geography_name":"Westminster",
+        "active":true
     },
-    "E10000001":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Bedfordshire"
+    "E07000223":{
+        "geography_name":"Adur",
+        "active":true
     },
-    "E10000002":{
-        "dwellingsLastPublished":2020,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Buckinghamshire"
+    "E07000224":{
+        "geography_name":"Arun",
+        "active":true
     },
-    "E10000003":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Cambridgeshire"
+    "E07000225":{
+        "geography_name":"Chichester",
+        "active":true
     },
-    "E10000004":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Cheshire"
+    "E07000226":{
+        "geography_name":"Crawley",
+        "active":true
     },
-    "E10000005":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Cornwall and the Isles of Scilly"
+    "E07000227":{
+        "geography_name":"Horsham",
+        "active":true
     },
-    "E10000006":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Cumbria"
+    "E07000228":{
+        "geography_name":"Mid Sussex",
+        "active":true
     },
-    "E10000007":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Derbyshire"
+    "E07000229":{
+        "geography_name":"Worthing",
+        "active":true
     },
-    "E10000008":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Devon"
+    "E07000234":{
+        "geography_name":"Bromsgrove",
+        "active":true
     },
-    "E10000009":{
-        "dwellingsLastPublished":2019,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Dorset"
+    "E07000235":{
+        "geography_name":"Malvern Hills",
+        "active":true
     },
-    "E10000010":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Durham"
+    "E07000236":{
+        "geography_name":"Redditch",
+        "active":true
     },
-    "E10000011":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"East Sussex"
+    "E07000237":{
+        "geography_name":"Worcester",
+        "active":true
     },
-    "E10000012":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Essex"
+    "E07000238":{
+        "geography_name":"Wychavon",
+        "active":true
     },
-    "E10000013":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Gloucestershire"
+    "E07000239":{
+        "geography_name":"Wyre Forest",
+        "active":true
     },
-    "E10000014":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Hampshire"
+    "E07000240":{
+        "geography_name":"St Albans",
+        "active":true
     },
-    "E10000015":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Hertfordshire"
+    "E07000241":{
+        "geography_name":"Welwyn Hatfield",
+        "active":true
     },
-    "E10000016":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Kent"
+    "E07000242":{
+        "geography_name":"East Hertfordshire",
+        "active":true
     },
-    "E10000017":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Lancashire"
+    "E07000243":{
+        "geography_name":"Stevenage",
+        "active":true
     },
-    "E10000018":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Leicestershire"
+    "E07000244":{
+        "geography_name":"East Suffolk",
+        "active":true
     },
-    "E10000019":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Lincolnshire"
+    "E07000245":{
+        "geography_name":"West Suffolk",
+        "active":true
     },
-    "E10000020":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Norfolk"
+    "E08000001":{
+        "geography_name":"Bolton",
+        "active":true
     },
-    "E10000021":{
-        "dwellingsLastPublished":2021,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Northamptonshire"
+    "E08000002":{
+        "geography_name":"Bury",
+        "active":true
     },
-    "E10000022":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Northumberland"
+    "E08000003":{
+        "geography_name":"Manchester",
+        "active":true
     },
-    "E10000023":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"North Yorkshire"
+    "E08000004":{
+        "geography_name":"Oldham",
+        "active":true
     },
-    "E10000024":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Nottinghamshire"
+    "E08000005":{
+        "geography_name":"Rochdale",
+        "active":true
     },
-    "E10000025":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Oxfordshire"
+    "E08000006":{
+        "geography_name":"Salford",
+        "active":true
     },
-    "E10000026":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Shropshire"
+    "E08000007":{
+        "geography_name":"Stockport",
+        "active":true
     },
-    "E10000027":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Somerset"
+    "E08000008":{
+        "geography_name":"Tameside",
+        "active":true
     },
-    "E10000028":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Staffordshire"
+    "E08000009":{
+        "geography_name":"Trafford",
+        "active":true
     },
-    "E10000029":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Suffolk"
+    "E08000010":{
+        "geography_name":"Wigan",
+        "active":true
     },
-    "E10000030":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Surrey"
+    "E08000011":{
+        "geography_name":"Knowsley",
+        "active":true
     },
-    "E10000031":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Warwickshire"
+    "E08000012":{
+        "geography_name":"Liverpool",
+        "active":true
     },
-    "E10000032":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"West Sussex"
+    "E08000013":{
+        "geography_name":"St. Helens",
+        "active":true
     },
-    "E10000033":{
-        "dwellingsLastPublished":2009,
-        "vacantsLastPublished":null,
-        "active":false,
-        "name":"Wiltshire"
+    "E08000014":{
+        "geography_name":"Sefton",
+        "active":true
     },
-    "E10000034":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Worcestershire"
+    "E08000015":{
+        "geography_name":"Wirral",
+        "active":true
+    },
+    "E08000016":{
+        "geography_name":"Barnsley",
+        "active":true
+    },
+    "E08000017":{
+        "geography_name":"Doncaster",
+        "active":true
+    },
+    "E08000018":{
+        "geography_name":"Rotherham",
+        "active":true
+    },
+    "E08000019":{
+        "geography_name":"Sheffield",
+        "active":true
+    },
+    "E08000021":{
+        "geography_name":"Newcastle upon Tyne",
+        "active":true
+    },
+    "E08000022":{
+        "geography_name":"North Tyneside",
+        "active":true
+    },
+    "E08000023":{
+        "geography_name":"South Tyneside",
+        "active":true
+    },
+    "E08000024":{
+        "geography_name":"Sunderland",
+        "active":true
+    },
+    "E08000025":{
+        "geography_name":"Birmingham",
+        "active":true
+    },
+    "E08000026":{
+        "geography_name":"Coventry",
+        "active":true
+    },
+    "E08000027":{
+        "geography_name":"Dudley",
+        "active":true
+    },
+    "E08000028":{
+        "geography_name":"Sandwell",
+        "active":true
+    },
+    "E08000029":{
+        "geography_name":"Solihull",
+        "active":true
+    },
+    "E08000030":{
+        "geography_name":"Walsall",
+        "active":true
+    },
+    "E08000031":{
+        "geography_name":"Wolverhampton",
+        "active":true
+    },
+    "E08000032":{
+        "geography_name":"Bradford",
+        "active":true
+    },
+    "E08000033":{
+        "geography_name":"Calderdale",
+        "active":true
+    },
+    "E08000034":{
+        "geography_name":"Kirklees",
+        "active":true
     },
     "E11000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Greater Manchester"
+        "geography_name":"Greater Manchester",
+        "active":true
     },
     "E11000002":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Merseyside"
+        "geography_name":"Merseyside",
+        "active":true
     },
     "E11000003":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"South Yorkshire"
+        "geography_name":"South Yorkshire",
+        "active":true
     },
     "E11000005":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"West Midlands"
+        "geography_name":"West Midlands",
+        "active":true
     },
     "E11000006":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"West Yorkshire"
+        "geography_name":"West Yorkshire",
+        "active":true
     },
     "E11000007":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":null,
-        "active":true,
-        "name":"Tyne and Wear"
+        "geography_name":"Tyne and Wear",
+        "active":true
     },
     "E12000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North East"
+        "geography_name":"North East",
+        "active":true
     },
     "E12000002":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"North West"
+        "geography_name":"North West",
+        "active":true
     },
     "E12000003":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"Yorkshire and The Humber"
+        "geography_name":"Yorkshire and The Humber",
+        "active":true
     },
     "E12000004":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East Midlands"
+        "geography_name":"East Midlands",
+        "active":true
     },
     "E12000005":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"West Midlands"
+        "geography_name":"West Midlands",
+        "active":true
     },
     "E12000006":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"East of England"
+        "geography_name":"East of England",
+        "active":true
     },
     "E12000007":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"London"
+        "geography_name":"London",
+        "active":true
     },
     "E12000008":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South East"
+        "geography_name":"South East",
+        "active":true
     },
     "E12000009":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"South West"
+        "geography_name":"South West",
+        "active":true
+    },
+    "E47000001":{
+        "geography_name":"Greater Manchester",
+        "active":true
+    },
+    "E47000002":{
+        "geography_name":"South Yorkshire",
+        "active":true
+    },
+    "E47000003":{
+        "geography_name":"West Yorkshire",
+        "active":true
+    },
+    "E47000004":{
+        "geography_name":"Liverpool City Region",
+        "active":true
+    },
+    "E47000006":{
+        "geography_name":"Tees Valley",
+        "active":true
+    },
+    "E47000007":{
+        "geography_name":"West Midlands",
+        "active":true
+    },
+    "E47000008":{
+        "geography_name":"Cambridgeshire and Peterborough",
+        "active":true
+    },
+    "E47000009":{
+        "geography_name":"West of England",
+        "active":true
+    },
+    "E47000012":{
+        "geography_name":"York and North Yorkshire",
+        "active":true
+    },
+    "E47000013":{
+        "geography_name":"East Midlands",
+        "active":true
+    },
+    "E47000014":{
+        "geography_name":"North East",
+        "active":true
+    },
+    "E10000003":{
+        "geography_name":"Cambridgeshire",
+        "active":true
+    },
+    "E10000007":{
+        "geography_name":"Derbyshire",
+        "active":true
+    },
+    "E10000008":{
+        "geography_name":"Devon",
+        "active":true
+    },
+    "E10000011":{
+        "geography_name":"East Sussex",
+        "active":true
+    },
+    "E10000012":{
+        "geography_name":"Essex",
+        "active":true
+    },
+    "E10000013":{
+        "geography_name":"Gloucestershire",
+        "active":true
+    },
+    "E10000014":{
+        "geography_name":"Hampshire",
+        "active":true
+    },
+    "E10000015":{
+        "geography_name":"Hertfordshire",
+        "active":true
+    },
+    "E10000016":{
+        "geography_name":"Kent",
+        "active":true
+    },
+    "E10000017":{
+        "geography_name":"Lancashire",
+        "active":true
+    },
+    "E10000018":{
+        "geography_name":"Leicestershire",
+        "active":true
+    },
+    "E10000019":{
+        "geography_name":"Lincolnshire",
+        "active":true
+    },
+    "E10000020":{
+        "geography_name":"Norfolk",
+        "active":true
+    },
+    "E10000024":{
+        "geography_name":"Nottinghamshire",
+        "active":true
+    },
+    "E10000025":{
+        "geography_name":"Oxfordshire",
+        "active":true
+    },
+    "E10000028":{
+        "geography_name":"Staffordshire",
+        "active":true
+    },
+    "E10000029":{
+        "geography_name":"Suffolk",
+        "active":true
+    },
+    "E10000030":{
+        "geography_name":"Surrey",
+        "active":true
+    },
+    "E10000031":{
+        "geography_name":"Warwickshire",
+        "active":true
+    },
+    "E10000032":{
+        "geography_name":"West Sussex",
+        "active":true
+    },
+    "E10000034":{
+        "geography_name":"Worcestershire",
+        "active":true
     },
     "E92000001":{
-        "dwellingsLastPublished":2023,
-        "vacantsLastPublished":2023,
-        "active":true,
-        "name":"England"
+        "geography_name":"England",
+        "active":true
+    },
+    "E07000026":{
+        "geography_name":"Allerdale",
+        "active":false
+    },
+    "E07000027":{
+        "geography_name":"Barrow-in-Furness",
+        "active":false
+    },
+    "E07000028":{
+        "geography_name":"Carlisle",
+        "active":false
+    },
+    "E07000029":{
+        "geography_name":"Copeland",
+        "active":false
+    },
+    "E07000030":{
+        "geography_name":"Eden",
+        "active":false
+    },
+    "E07000031":{
+        "geography_name":"South Lakeland",
+        "active":false
+    },
+    "E07000163":{
+        "geography_name":"Craven",
+        "active":false
+    },
+    "E07000164":{
+        "geography_name":"Hambleton",
+        "active":false
+    },
+    "E07000165":{
+        "geography_name":"Harrogate",
+        "active":false
+    },
+    "E07000166":{
+        "geography_name":"Richmondshire",
+        "active":false
+    },
+    "E07000167":{
+        "geography_name":"Ryedale",
+        "active":false
+    },
+    "E07000168":{
+        "geography_name":"Scarborough",
+        "active":false
+    },
+    "E07000169":{
+        "geography_name":"Selby",
+        "active":false
+    },
+    "E07000187":{
+        "geography_name":"Mendip",
+        "active":false
+    },
+    "E07000188":{
+        "geography_name":"Sedgemoor",
+        "active":false
+    },
+    "E07000189":{
+        "geography_name":"South Somerset",
+        "active":false
+    },
+    "E07000246":{
+        "geography_name":"Somerset West and Taunton",
+        "active":false
+    },
+    "E47000010":{
+        "geography_name":"North East",
+        "active":false
+    },
+    "E47000011":{
+        "geography_name":"North of Tyne",
+        "active":false
+    },
+    "E06000028":{
+        "geography_name":"Bournemouth",
+        "active":false
+    },
+    "E06000029":{
+        "geography_name":"Poole",
+        "active":false
+    },
+    "E07000001":{
+        "geography_name":"Mid Bedfordshire",
+        "active":false
+    },
+    "E07000002":{
+        "geography_name":"Bedford",
+        "active":false
+    },
+    "E07000003":{
+        "geography_name":"South Bedfordshire",
+        "active":false
+    },
+    "E07000004":{
+        "geography_name":"Aylesbury Vale",
+        "active":false
+    },
+    "E07000005":{
+        "geography_name":"Chiltern",
+        "active":false
+    },
+    "E07000006":{
+        "geography_name":"South Bucks",
+        "active":false
+    },
+    "E07000007":{
+        "geography_name":"Wycombe",
+        "active":false
+    },
+    "E07000013":{
+        "geography_name":"Chester",
+        "active":false
+    },
+    "E07000014":{
+        "geography_name":"Congleton",
+        "active":false
+    },
+    "E07000015":{
+        "geography_name":"Crewe and Nantwich",
+        "active":false
+    },
+    "E07000016":{
+        "geography_name":"Ellesmere Port and Neston",
+        "active":false
+    },
+    "E07000017":{
+        "geography_name":"Macclesfield",
+        "active":false
+    },
+    "E07000018":{
+        "geography_name":"Vale Royal",
+        "active":false
+    },
+    "E07000019":{
+        "geography_name":"Caradon",
+        "active":false
+    },
+    "E07000020":{
+        "geography_name":"Carrick",
+        "active":false
+    },
+    "E07000021":{
+        "geography_name":"Kerrier",
+        "active":false
+    },
+    "E07000022":{
+        "geography_name":"North Cornwall",
+        "active":false
+    },
+    "E07000023":{
+        "geography_name":"Penwith",
+        "active":false
+    },
+    "E07000024":{
+        "geography_name":"Restormel",
+        "active":false
+    },
+    "E07000025":{
+        "geography_name":"Isles of Scilly",
+        "active":false
+    },
+    "E07000048":{
+        "geography_name":"Christchurch",
+        "active":false
+    },
+    "E07000049":{
+        "geography_name":"East Dorset",
+        "active":false
+    },
+    "E07000050":{
+        "geography_name":"North Dorset",
+        "active":false
+    },
+    "E07000051":{
+        "geography_name":"Purbeck",
+        "active":false
+    },
+    "E07000052":{
+        "geography_name":"West Dorset",
+        "active":false
+    },
+    "E07000053":{
+        "geography_name":"Weymouth and Portland",
+        "active":false
+    },
+    "E07000054":{
+        "geography_name":"Chester-le-Street",
+        "active":false
+    },
+    "E07000055":{
+        "geography_name":"Derwentside",
+        "active":false
+    },
+    "E07000056":{
+        "geography_name":"Durham",
+        "active":false
+    },
+    "E07000057":{
+        "geography_name":"Easington",
+        "active":false
+    },
+    "E07000058":{
+        "geography_name":"Sedgefield",
+        "active":false
+    },
+    "E07000059":{
+        "geography_name":"Teesdale",
+        "active":false
+    },
+    "E07000060":{
+        "geography_name":"Wear Valley",
+        "active":false
+    },
+    "E07000150":{
+        "geography_name":"Corby",
+        "active":false
+    },
+    "E07000151":{
+        "geography_name":"Daventry",
+        "active":false
+    },
+    "E07000152":{
+        "geography_name":"East Northamptonshire",
+        "active":false
+    },
+    "E07000153":{
+        "geography_name":"Kettering",
+        "active":false
+    },
+    "E07000154":{
+        "geography_name":"Northampton",
+        "active":false
+    },
+    "E07000155":{
+        "geography_name":"South Northamptonshire",
+        "active":false
+    },
+    "E07000156":{
+        "geography_name":"Wellingborough",
+        "active":false
+    },
+    "E07000157":{
+        "geography_name":"Alnwick",
+        "active":false
+    },
+    "E07000158":{
+        "geography_name":"Berwick-upon-Tweed",
+        "active":false
+    },
+    "E07000159":{
+        "geography_name":"Blyth Valley",
+        "active":false
+    },
+    "E07000160":{
+        "geography_name":"Castle Morpeth",
+        "active":false
+    },
+    "E07000161":{
+        "geography_name":"Tynedale",
+        "active":false
+    },
+    "E07000162":{
+        "geography_name":"Wansbeck",
+        "active":false
+    },
+    "E07000182":{
+        "geography_name":"Bridgnorth",
+        "active":false
+    },
+    "E07000183":{
+        "geography_name":"North Shropshire",
+        "active":false
+    },
+    "E07000184":{
+        "geography_name":"Oswestry",
+        "active":false
+    },
+    "E07000185":{
+        "geography_name":"Shrewsbury and Atcham",
+        "active":false
+    },
+    "E07000186":{
+        "geography_name":"South Shropshire",
+        "active":false
+    },
+    "E07000190":{
+        "geography_name":"Taunton Deane",
+        "active":false
+    },
+    "E07000191":{
+        "geography_name":"West Somerset",
+        "active":false
+    },
+    "E07000201":{
+        "geography_name":"Forest Heath",
+        "active":false
+    },
+    "E07000204":{
+        "geography_name":"St. Edmundsbury",
+        "active":false
+    },
+    "E07000205":{
+        "geography_name":"Suffolk Coastal",
+        "active":false
+    },
+    "E07000206":{
+        "geography_name":"Waveney",
+        "active":false
+    },
+    "E07000230":{
+        "geography_name":"Kennet",
+        "active":false
+    },
+    "E07000231":{
+        "geography_name":"North Wiltshire",
+        "active":false
+    },
+    "E07000232":{
+        "geography_name":"Salisbury",
+        "active":false
+    },
+    "E07000233":{
+        "geography_name":"West Wiltshire",
+        "active":false
+    },
+    "E10000001":{
+        "geography_name":"Bedfordshire",
+        "active":false
+    },
+    "E10000002":{
+        "geography_name":"Buckinghamshire",
+        "active":false
+    },
+    "E10000004":{
+        "geography_name":"Cheshire",
+        "active":false
+    },
+    "E10000005":{
+        "geography_name":"Cornwall and the Isles of Scilly",
+        "active":false
+    },
+    "E10000006":{
+        "geography_name":"Cumbria",
+        "active":false
+    },
+    "E10000009":{
+        "geography_name":"Dorset",
+        "active":false
+    },
+    "E10000021":{
+        "geography_name":"Northamptonshire",
+        "active":false
+    },
+    "E10000022":{
+        "geography_name":"Northumberland",
+        "active":false
+    },
+    "E10000023":{
+        "geography_name":"North Yorkshire",
+        "active":false
+    },
+    "E10000026":{
+        "geography_name":"Shropshire",
+        "active":false
+    },
+    "E10000027":{
+        "geography_name":"Somerset",
+        "active":false
+    },
+    "E10000033":{
+        "geography_name":"Wiltshire",
+        "active":false
     }
 }
