@@ -6,7 +6,7 @@ var N_PAGES = Deno.env.get('N_PAGES');
 // import { smallSiteAreas } from "../../../../dev.ts";
 import smallSiteAreas from "../../../../dev.ts";
 
-export default function* ({areas, vacantHomesHeadlines, affordableHomes, medianHousePrice, pctVacantHomes, householdProjections, population}) {
+export default function* ({areas, vacantHomesHeadlines, affordableHomes, medianHousePrice, pctVacantHomes, householdProjections, population, properties}) {
     if (SMALL_SITE === true) {
         if (!N_PAGES) {
             N_PAGES=10
@@ -33,6 +33,7 @@ export default function* ({areas, vacantHomesHeadlines, affordableHomes, medianH
             medianHousePrice: medianHousePrice(key),
             pctVacantHomes: pctVacantHomes(key),
             pop: population(key),
+            n_of_properties: properties(key),
             householdProjections: hp,
             areas: null, // mask the areas data from other pages.
             key: null,
