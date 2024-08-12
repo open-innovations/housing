@@ -1,0 +1,32 @@
+<h3>Number of properties in {{ title }} <a id='stock-of-properties' class='anchor' href='#stock-of-properties' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+{{ if n_of_properties.length > 0 }}
+    {{ set y_spacing = n_of_properties |> ySpacing('value')}}
+    {{ comp.oi.chart.line({ config: {
+        data: n_of_properties,
+        height: 600,
+        axis: {
+            x: { title: { label: "Date" }, grid: { show: true, 'stroke-dasharray': "6 2", 'stroke-width': "1"}, tick: { spacing: 4 } },
+            y: { title: { label: "Number of properties" }, grid: { "stroke-width": "1"}, tick: { spacing: y_spacing } }
+        },
+        columns: [{
+            name: 'decimal_date',
+            template: '{{ date | strptime("%Y") | decimalYear() }}'
+            }],
+        series: [
+            {
+            title: 'Number of properties',
+            x: 'decimal_date',
+            y: 'value',
+            tooltip: '<strong class="subtitle">Number of properties</strong><br />{{ date }}: <strong>{{ value | toLocaleString() }}</strong>'
+            }]
+        } 
+        }) 
+    }}
+{{ else }}
+<p>No data on Council Tax stock of properties are available for this area.</p>
+{{ /if }}
+<p>
+    <strong>Data:</strong> Stock of properties data come from the Valuation Office Agency Council Tax: stock of properties, 2024. Here we present data from
+    <a href="https://www.gov.uk/government/statistics/council-tax-stock-of-properties-2024">Table CTSOP 1.1: number of properties by Council Tax band and region, 
+    county, local authority district, and lower and middle layer super output area, 1993 to 2024.</a>
+</p>
