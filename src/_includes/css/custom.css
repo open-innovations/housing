@@ -1,6 +1,6 @@
-p.active { display: inline-block; border-radius: 15%; padding: 0.1em;}
-.true { background-color: #1dd3a7; color: black;}
-.false { background-color: #D60303; color: white;}
+p.status { display: inline-block; border-radius: 15%; padding: 0.1em;}
+.live { background-color: #1dd3a7; color: black;}
+.terminated { background-color: #D60303; color: white;}
 
 .breadcrumb { list-style: none; margin: 0; }
 .breadcrumb li { display: inline-block; }
