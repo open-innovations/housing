@@ -17,6 +17,7 @@ xlrd = "*"
 pyarrow = "*"
 seaborn = "*"
 scipy = "*"
+duckdb = "*"
 
 [dev-packages]
 ipykernel = "*"
