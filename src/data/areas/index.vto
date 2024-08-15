@@ -1,6 +1,8 @@
 ---
 title: Areas
 section: data
+colour: c6-bg
+desc: "Choose a local authority, combined authority, county, or region of England to see housing data for that area"
 ---
 {{# <h2><a href="vacant-homes/">Vacant Homes</a></h2>
 <h2><a href="affordable-homes/">Affordable Homes</a></h2> #}}
@@ -12,11 +14,50 @@ section: data
     </div>
 </div>
 
-<ul id="searchable">
+<ul id="searchable" class='grid'>
+    <div>
+    <h3>Local authority districts</h3>
     {{ for area of search.pages('area', 'title') }}
-        {{ if area.active }}
-            <li><a href="{{ area.url }}">{{ area.geography_name }}</a></li>
+        {{ if area.status == 'live' }}
+            {{ set s = area.areacode.slice(0, 3) }}
+            {{ if s.match('(E06|E07|E08|E09)') }}
+                <li><a href="{{ area.url }}">{{ area.nm }}</a></li>
+            {{ /if }}
         {{ /if }}
     {{ /for }}
+    </div>
+    <div>
+    <h3>Combined authorities</h3>
+    {{ for area of search.pages('area', 'title') }}
+        {{ if area.status == 'live' }}
+            {{ set s = area.areacode.slice(0, 3) }}
+            {{ if s.match('(E47)') }}
+                <li><a href="{{ area.url }}">{{ area.nm }}</a></li>
+            {{ /if }}
+        {{ /if }}
+    {{ /for }}
+    </div>
+    <div>
+    <h3>Counties and Metropolitan Counties</h3>
+    {{ for area of search.pages('area', 'title') }}
+        {{ if area.status == 'live' }}
+            {{ set s = area.areacode.slice(0, 3) }}
+            {{ if s.match('(E10|E11)') }}
+                <li><a href="{{ area.url }}">{{ area.nm }}</a></li>
+            {{ /if }}
+        {{ /if }}
+    {{ /for }}
+    </div>
+    <div>
+    <h3>Regions and Nations</h3>
+    {{ for area of search.pages('area', 'title') }}
+        {{ if area.status == 'live' }}
+            {{ set s = area.areacode.slice(0, 3) }}
+            {{ if s.match('(E12|E92)') }}
+                <li><a href="{{ area.url }}">{{ area.nm }}</a></li>
+            {{ /if }}
+        {{ /if }}
+    {{ /for }}
+    </div>
 </ul>
 <script src="/assets/js/filterList.js"></script>
