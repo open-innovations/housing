@@ -1,5 +1,6 @@
 <div class='centred pane'>
     <a href="{{ link }}" class="{{ colour }}">
         <h2>{{ heading |> safe }}</h2>
+        {{ if desc }}{{ desc |> safe }}{{ /if }}
     </a>
 </div>
