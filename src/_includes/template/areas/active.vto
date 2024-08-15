@@ -1,6 +1,12 @@
-{{ if active }}
-    <p class='active {{ active }}'>Active</p>
+{{ if status=='live' }}
+    <p class='status live'>Live</p>{{ if dt.s !=undefined }} since {{ dt.s |> date('HUMAN_DATE')}}{{ /if }}
 {{ else }}
-    <p class='active {{ active }}'>Inactive</p>
+    <p class='status terminated'>Terminated</p>{{ if dt.e != undefined }} since {{ dt.e |> date('HUMAN_DATE')}}{{ /if }}
 {{ /if }}
-See <a href="https://findthatpostcode.uk/areas/{{ areacode }}.html">Find that Postcode</a> for detailed information on this geography.
+{{ if parent!= undefined }}
+    <p>Parent area: {{ for page of search.pages(`areacode=${parent}`) }}<a href="{{ page.url }}">{{ page.title }}</a>{{ /for }}</p>
+{{ /if }}
+{{ if nm_alt != undefined }}
+    <p>Alternative name: <strong>{{ nm_alt }}</strong></p>
+{{ /if }}
+<p>See <a href="https://findthatpostcode.uk/areas/{{ areacode }}.html">Find that Postcode</a> for detailed information on this geography.</p>
