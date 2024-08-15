@@ -25,9 +25,9 @@ export default function* ({areas, vacantHomesHeadlines, affordableHomes, medianH
         }
         yield {
             url: `/data/areas/${key}/`,
-            title: value['geography_name'],
+            title: value['content']['nm'],
             areacode: key,
-            ...value,
+            ...value['content'],
             vhHeadline: vacantHomesHeadlines(key),
             affordableHomes: affordableHomes(key),
             medianHousePrice: medianHousePrice(key),
