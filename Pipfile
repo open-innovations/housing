@@ -18,6 +18,7 @@ pyarrow = "*"
 seaborn = "*"
 scipy = "*"
 duckdb = "*"
+nbconvert = "*"
 
 [dev-packages]
 ipykernel = "*"
