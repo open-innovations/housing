@@ -41,12 +41,13 @@ site.use(date());
 site.loadData([".hexjson"], json);
 site.copy('.nojekyll');
 site.copy('assets/js');
+site.copy('assets/images');
 site.loadData([".csv", ".tsv", ".dat"], csvLoader({ basic: true }));
 site.loadData([".sql"], duckDbLoader());
 
 site.use(prism({
   theme: {
-    name: "okaidia",
+    name: "coy",
     path: "/_includes/css/code_theme.css",
   },
 }));
