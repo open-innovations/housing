@@ -1,4 +1,4 @@
-p.status { display: inline-block; border-radius: 15%; padding: 0.1em;}
+p.status { display: inline-block; border-radius: 15%; padding-inline: 0.25em;}
 .live { background-color: #1dd3a7; color: black;}
 .terminated { background-color: #D60303; color: white;}
 
