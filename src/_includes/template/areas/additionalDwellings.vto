@@ -1,6 +1,41 @@
 <h3>Net additional dwellings in {{ title }} <a id='additional-dwellings' class='anchor' href='#additional-dwellings' data-dependencies='/assets/js/section-links.js'>§</a></h3>
-{{ if additionalDwellings }}
-    {{ additionalDwellings |> JSON.stringify() }}
+{{ if additionalDwellings.length > 0 }}
+    {{ set y_spacing = additionalDwellings |> ySpacing('value') }}
+    {{ comp.oi.chart.line({ config: {
+        data: additionalDwellings,
+        height: 600,
+        axis: {
+            x: { title: { label: 'Date' }, grid: { show: true, 'stroke-dasharray': '6 2', 'stroke-width': '1'}, tick: { spacing: 4 } },
+            y: { title: { label: 'Net additional dwellings' }, grid: { 'stroke-width': '1'}, tick: { spacing: y_spacing } }
+        },
+        columns: [{
+            name: 'decimal_date',
+            template: '{{ date | strptime("-%y") | decimalYear() }}'
+            }],
+        series: [
+            {
+            title: 'Net additional dwellings',
+            x: 'decimal_date',
+            y: 'value',
+            tooltip: "<strong class='subtitle'>Net additional dwellings</strong><br />{{ date }}: <strong>{{ value | toLocaleString() }}</strong>"
+            }]
+        } 
+        }) 
+    }}
 {{ else }}
-    {{ console.log(areacode) }}
+    <p>No data available at this geography</p>
 {{ /if }}
+<p>
+    <strong>Data:</strong> Net additional dwellings data come from 
+    <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-net-supply-of-housing">Table 122 of the live tables on net supply of 
+    housing</a>. Published by the Ministry of Housing, Communities and Local Government.
+</p>
+<p>
+    <strong>Notes:</strong> On the chart, data points are set to the end date of the time period. There are 16 data notes which can be viewed in the 
+    <a href="https://assets.publishing.service.gov.uk/media/6565f75a312f400013e5d4ef/LT122.ods">ODF file for Table 122</a>. The three most recent are: 
+    <ol>
+        <li>The 2017-18 published figure for Thanet has been manually adjusted by DLUHC to remove 84 units incorrectly included in the raw data by the authority. These units were empty homes returning to use and were removed as they did not meet the definition of a net additional dwelling.</li>
+        <li>Net additions for Isles of Scilly are negative for 2021-22 since it is a small local authority area with very limited development in this year.</li>
+        <li>Figures for the following local authorities were not submitted in 2022-23 so were imputed: Telford and Wrekin UA, Wiltshire UA and Ribble Valley.</li>
+    
+</p>
