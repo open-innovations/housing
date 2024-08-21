@@ -2,7 +2,7 @@
 title: Hex maps
 section: data
 colour: c5-bg
-desc: "text here blah"
+desc: "Local authority based hex maps for housing data"
 ---
 <h3>Vacant homes (%) in England in 2023</h3>
 {{ comp.oi.map.hex_cartogram({
@@ -63,3 +63,59 @@ desc: "text here blah"
 	Data for Northern Ireland, Scotland and Wales are published seperately and are not currently included on this site.
 </p>
 
+<h3>Median house price to residence-based earnings ratio in England, 2023</h3>
+
+{{ set c_data = housepriceratio() |> fixZeroError(['value'])}}
+{{ comp.oi.map.hex_cartogram({
+	config: {
+		width: 600,
+		hexjson: "hexjson.uk-local-authority-districts-2023",
+		data: c_data,
+		scale: 'Viridis',
+		columns: [{
+				name: 'filterLabel',
+				template: "{{ n }}"
+			}],
+		matchKey: "geography_code",
+		value: "value",
+		min: 0,
+		max: 30,
+		legend: { 
+			position: "top right",
+			items: [{
+				value: 30,
+				label: '30'
+				},
+				{
+				value: 15,
+				label: '15'
+				},
+				{
+				value: 0,
+				label: '0'
+				}] 
+			},
+		tools: {
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+			}
+		},
+		boundaries: {
+			country: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+				},
+			regions: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+			}
+			},
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Ratio: <strong>{{ value }}</strong>",
+		attribution: "<strong>Data:</strong> Office for National Statistics <a href='https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoresidencebasedearningslowerquartileandmedian'>House price to residence-based earnings ratio</a>" 
+		}
+}) }}
