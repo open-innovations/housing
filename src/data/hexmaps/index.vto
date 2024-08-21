@@ -1,0 +1,59 @@
+---
+title: Hex maps
+section: data
+colour: c5-bg
+desc: "text here blah"
+---
+{{ comp.oi.map.hex_cartogram({
+	config: {
+		width: 600,
+		hexjson: "hexjson.uk-local-authority-districts-2023",
+		data: vacantHomes(),
+		scale: 'Viridis',
+		columns: [{
+				name: 'filterLabel',
+				template: "{{ n }}"
+			}],
+		matchKey: "geography_code",
+		value: "AllVacants_pct",
+		min: 0,
+		max: 5,
+		legend: { 
+			position: "top right",
+			items: [{
+				value: 5,
+				label: '5%'
+				},
+				{
+				value: 2.5,
+				label: '2.5%'
+				},
+				{
+				value: 0,
+				label: '0%'
+				}] 
+			},
+		tools: {
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+			}
+		},
+		boundaries: {
+			country: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+				},
+			regions: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+			}
+			},
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />All vacant homes: <strong>{{ AllVacants_pct }}</strong>%"
+	}
+}) }}
+
