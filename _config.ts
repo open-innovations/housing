@@ -96,5 +96,15 @@ site.filter('parseEndYear', (value, options = {}) => {
 		return "?";
 	}
 });
-
+site.filter('fixZeroError', (value, colnames) => {
+  var v = value;
+    for(let i = 0; i < v.length; i++){
+        for(const col of colnames){
+            if(v[i][col]==0){
+                v[i][col] = null;
+            }
+        }
+    }
+  return v;
+})
 export default site;
