@@ -43,9 +43,9 @@ p.status { display: inline-block; border-radius: 15%; padding-inline: 0.25em;}
     right: 0;
 }
 
-.oi-filter { border: 0px; border-radius: 1.5rem; }
+/* .oi-filter { border: 0px; border-radius: 1.5rem; }
 .oi-filter.searching { border-top-right-radius: 0; border-top-right-radius: 0; display: inline-block;}
-.oi-filter input { border: 0.05rem solid #178CFF; border-radius: 1.5rem; }
+.oi-filter input { border: 0.05rem solid #178CFF; border-radius: 1.5rem; } */
 
 .grid .pane a { display: block; padding: 1rem; text-decoration: none; }
 .grid .pane h2 { margin: 0; }
