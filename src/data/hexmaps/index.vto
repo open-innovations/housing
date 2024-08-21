@@ -4,6 +4,7 @@ section: data
 colour: c5-bg
 desc: "text here blah"
 ---
+<h3>Vacant homes (%) in England in 2023</h3>
 {{ comp.oi.map.hex_cartogram({
 	config: {
 		width: 600,
@@ -53,7 +54,12 @@ desc: "text here blah"
 				"stroke-opacity": 0.5
 			}
 			},
-		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />All vacant homes: <strong>{{ AllVacants_pct }}</strong>%"
-	}
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />All vacant homes: <strong>{{ AllVacants_pct }}</strong>%",
+		attribution: "<strong>Data:</strong> Vacant home percentages are calculated by dividing the respective counts in <a href='https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants'> Table 615: vacant dwellings by local authority district: England, from 2004</a> by the dwelling count estimates in <a href='https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants'> Table 125: dwelling stock estimates by local authority district</a>." 
+		}
 }) }}
+<p>
+	<strong>Notes:</strong> Table 125 still uses old codes for Cumbria, North Yorkshire and Somerset, so they are not present in the hex map. We are working on a manual fix for this.
+	Data for Northern Ireland, Scotland and Wales are published seperately and are not currently included on this site.
+</p>
 
