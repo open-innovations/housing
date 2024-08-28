@@ -53,3 +53,32 @@ p.status { display: inline-block; border-radius: 15%; padding-inline: 0.25em;}
 html { scroll-behavior: smooth; }
 
 .subtitle { font-size: 1.2em; padding: 0;}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+	padding: 0.5rem;
+	text-align: center;
+}
+
+/* Table Header */
+th {
+    background-color: #f3f3f3;
+	font-weight: 800;
+    color: black; 
+}
+
+/* Alternate Row Colors */
+tr:nth-child(even) {
+    background-color: #f4f8fa; 
+}
+
+/* Hover Effect */
+tr:hover {
+    background-color: #b4d8f9;
+    transition: background-color 0.3s;
+}
