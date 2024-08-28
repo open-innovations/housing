@@ -1,5 +1,5 @@
 ---
-title: "Affordability of housing"
+title: Housing affordability
 section: data
 colour: c7-bg
 desc: Top 5 most and least affordable places to live in England
