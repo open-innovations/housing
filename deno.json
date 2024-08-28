@@ -7,7 +7,8 @@
     "build": "deno task vr provision && deno task lume",
     "serve": "deno task lume -s",
     "dev": "SMALL_SITE=true deno task serve",
-    "vr": "deno run -qA https://code.velociraptor.run"
+    "vr": "deno run -qA https://code.velociraptor.run",
+    "test": "deno test -A --unstable-ffi"
   },
   "compilerOptions": {
     "types": [
