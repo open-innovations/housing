@@ -3,6 +3,7 @@ title: Elections and housing
 section: data
 colour: c11-bg
 desc: Exploring housing tenures and election results
+url: /data/elections-and-housing/
 ---
 When we made our [General Election 2024 website](https://ge2024.hexmap.uk/), we processed demographic data for each constituency. One of the topics in that data was housing tenure. For each constituency there is a percentage of homes owned outright, with a mortgage or loan, private rented, social rent, and other. Here we are going to explore the data from the results of the election and the housing tenure breakdown for each constituency.
 
