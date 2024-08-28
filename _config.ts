@@ -9,8 +9,7 @@ import date from "lume/plugins/date.ts";
 import prism from "lume/plugins/prism.ts";
 // Loaders
 import json from "lume/core/loaders/json.ts";
-import { duckDbLoader, resultTable } from "jsr:@dringtech/lume-duck@0.2.0";
-
+import { duckDbLoader } from "@dringtech/lume-duck";
 
 // Importing the OI Lume charts and utilities
 import oiViz from "https://deno.land/x/oi_lume_viz@v0.15.12/mod.ts";
@@ -96,15 +95,5 @@ site.filter('parseEndYear', (value, options = {}) => {
 		return "?";
 	}
 });
-site.filter('fixZeroError', (value, colnames) => {
-  var v = value;
-    for(let i = 0; i < v.length; i++){
-        for(const col of colnames){
-            if(v[i][col]==0){
-                v[i][col] = null;
-            }
-        }
-    }
-  return v;
-})
+
 export default site;

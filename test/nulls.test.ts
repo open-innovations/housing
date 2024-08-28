@@ -1,5 +1,5 @@
-import { assertEquals } from "jsr:@std/assert";
-import { duckDbLoader } from "jsr:@dringtech/lume-duck@0.2.0";
+import { assertEquals } from "jsr:@std/assert@1.0.3";
+import { duckDbLoader } from "jsr:@dringtech/lume-duck@0.2.1";
 
 Deno.test('nulls should be returned for householdProjections', async () => {
     const loader = duckDbLoader();

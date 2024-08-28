@@ -1,5 +1,6 @@
 {
   "imports": {
+    "@dringtech/lume-duck": "jsr:@dringtech/lume-duck@^0.2.1",
     "lume/": "https://deno.land/x/lume@v2.2.3/"
   },
   "tasks": {

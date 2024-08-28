@@ -65,12 +65,11 @@ desc: "Local authority based hex maps for housing data"
 
 <h3>Median house price to residence-based earnings ratio in England, 2023</h3>
 
-{{ set c_data = housepriceratio() |> fixZeroError(['value'])}}
 {{ comp.oi.map.hex_cartogram({
 	config: {
 		width: 600,
 		hexjson: "hexjson.uk-local-authority-districts-2023",
-		data: c_data,
+		data: housepriceratio(),
 		scale: 'Viridis',
 		columns: [{
 				name: 'filterLabel',
