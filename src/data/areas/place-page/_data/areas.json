@@ -5611,41 +5611,41 @@
     },
     "E47000002":{
         "content":{
-            "nm":"Barnsley, Doncaster, Rotherham and Sheffield Combined Authority",
-            "status":"terminated",
+            "nm":"South Yorkshire",
+            "status":"live",
             "dt":{
-                "e":1456704000000,
-                "s":1427846400000
+                "s":1630454400000,
+                "e":null
             }
         }
     },
     "E47000003":{
         "content":{
-            "nm":"West Yorkshire Combined Authority",
-            "status":"terminated",
+            "nm":"West Yorkshire",
+            "status":"live",
             "dt":{
-                "e":1456704000000,
-                "s":1427846400000
+                "s":1456790400000,
+                "e":null
             }
         }
     },
     "E47000004":{
         "content":{
-            "nm":"Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority",
-            "status":"terminated",
+            "nm":"Liverpool City Region",
+            "status":"live",
             "dt":{
-                "e":1456704000000,
-                "s":1427846400000
+                "s":1456790400000,
+                "e":null
             }
         }
     },
     "E47000005":{
         "content":{
-            "nm":"Durham, Gateshead, Newcastle Upon Tyne, North Tyneside, Northumberland, South Tyneside and Sunderland Combined Authority",
+            "nm":"North East",
             "status":"terminated",
             "dt":{
-                "e":1456704000000,
-                "s":1429056000000
+                "e":1540944000000,
+                "s":1456790400000
             }
         }
     },
