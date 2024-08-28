@@ -4,7 +4,7 @@ colour: c5-bg
 navorder: 1
 ---
 <div class='grid'>
-{{ for page of search.pages('section!=undefined') }}
+{{ for page of search.pages('section!=undefined', 'title') }}
     {{ comp.navgrid({ heading: page.title , link: page.url, colour: page.colour, desc: page.desc }) }}
 {{ /for }}
 </div>
