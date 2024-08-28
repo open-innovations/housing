@@ -1,8 +1,8 @@
 ---
-title: House prices and Vacant homes
+title: House prices and vacant homes
 section: data
 colour: c4-bg
-desc: 
+desc: Exploring the relationship between real-terms house prices and the proportion of vacant homes
 url: /data/house-prices-vacant-homes/
 ---
 ### Introduction
