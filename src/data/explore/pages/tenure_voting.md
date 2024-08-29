@@ -1,6 +1,6 @@
 ---
 title: Elections and housing
-section: data
+section: explore
 colour: c11-bg
 desc: Exploring housing tenures and election results
 url: /data/elections-and-housing/
@@ -498,8 +498,7 @@ plt.show()
 
     
  <img src="/assets/images/tenure_voting_18_0.png" alt="Strip plot of percentage of homes owned outright coloured by winning constituency" height="400"> 
-    
-
+ 
 
 Let's calculate the percentage of seats won by the three largest parties that had a higher than average number of people for each type of tenure. First, I'll define a function to calculate that, then call it below for different tenure types.
 
