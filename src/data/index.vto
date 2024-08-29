@@ -7,5 +7,5 @@ navorder: 1
 {{ for page of search.pages('section=data', 'title') }}
     {{ comp.navgrid({ heading: page.title , link: page.url, colour: page.colour, desc: page.desc }) }}
 {{ /for }}
-    {{ comp.navgrid({ heading: 'Explorations' , link: '/data/explore/', colour: 'c12-bg', desc: 'Deeper dives into housing data' }) }}
+    {{ comp.navgrid({ heading: 'Explorations' , link: '/data/explorations/', colour: 'c12-bg', desc: 'Deeper dives into housing data' }) }}
 </div>

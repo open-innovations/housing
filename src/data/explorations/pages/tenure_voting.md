@@ -1,6 +1,6 @@
 ---
 title: Elections and housing
-section: explore
+section: explorations
 colour: c11-bg
 desc: Exploring housing tenures and election results
 url: /data/elections-and-housing/

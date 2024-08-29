@@ -1,6 +1,6 @@
 ---
 title: Housing affordability
-section: explore
+section: explorations
 colour: c7-bg
 url: /data/explore/affordability/
 desc: Top 5 most and least affordable places to live in England

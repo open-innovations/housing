@@ -1,8 +1,8 @@
 ---
-title: Explore
+title: Explorations
 colour: c5-bg
 ---
 <div class='grid'>
-{{ for page of search.pages('section=explore', 'title') }}
+{{ for page of search.pages('section=explorations', 'title') }}
     {{ comp.navgrid({ heading: page.title , link: page.url, colour: page.colour, desc: page.desc }) }}
 {{ /for }}
