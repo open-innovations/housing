@@ -2,7 +2,7 @@
 title: Housing affordability
 section: explorations
 colour: c7-bg
-url: /data/explore/affordability/
+url: /data/explorations/affordability/
 desc: Top 5 most and least affordable places to live in England
 ---
 We want to explore which local authorities are the most/least expensive to buy homes in, relative to wages. For this, we wll use the median house price to residence based earning ratio.
