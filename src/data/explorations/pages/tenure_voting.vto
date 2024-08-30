@@ -19,7 +19,7 @@ ROOT = Path('../')
 ROOT.resolve()
 </code></pre>
 
-<p>PosixPath('/Users/lukestrange/Code/housing')</p>
+<div class='padded python-output'>PosixPath('/Users/lukestrange/Code/housing')</div>
 
 <p>For election results, we'll use the Commons Library <a href="https://researchbriefings.files.parliament.uk/documents/CBP-10009/HoC-GE2024-results-by-constituency.csv">detailed results by constituency CSV</a>. We'll download this at put it in the <code>data/misc</code> folder. It's in pretty good shape. We don't need all the columns so we will specify which ones we do need when reading the CSV. <code>ONS ID</code> is the code for the constituency. <code>First party</code> is the winning party. The rest should be self-explanatory.</p>
 
@@ -110,10 +110,11 @@ uk_tenure.to_csv(ROOT / 'data/tenure/tenure_type.csv')
 uk_tenure
 </code></pre>
 
-<p>
-        More than one variable type: ['Other tenure', 'Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented']. Pivoting the data
-        More than one variable type: ['Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented', 'Other tenure']. Pivoting the data
-</p>
+<div class='padded python-output'>
+        <p>More than one variable type: ['Other tenure', 'Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented']. Pivoting the data.</p>
+
+        <p>More than one variable type: ['Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented', 'Other tenure']. Pivoting the data.</p>
+</div>
 
 <div>
 <style scoped>

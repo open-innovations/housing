@@ -82,3 +82,10 @@ tr:hover {
     background-color: #b4d8f9;
     transition: background-color 0.3s;
 }
+
+.python-output {
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 2em;
+}
