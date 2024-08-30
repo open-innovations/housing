@@ -119,7 +119,11 @@ make_scatterplot(combined, 2004)
 make_scatterplot(combined, 2014)
 make_scatterplot(combined, 2023)
 </pre></code>
-<p class='warning'>Note: For accessibility and interactivity we have replaced the python charts with OI Lume Viz charts below.</p>
+
+<p class='warning padded'>Note: For accessibility and interactivity we have replaced the python charts with OI Lume Viz charts below.</p>
+
+<h3 class='centred subtitle'>2004</h3>
+
 {{ comp.oi.chart.scatter({ 
     config: {
         data: vh_hp_ratio_by_local_authority(2004n),
@@ -141,16 +145,29 @@ make_scatterplot(combined, 2023)
                 }
             },
         series: [{
-            title: '2004',
+            title: 'Outside London',
             x: "vacants_per_thousand_dwellings",
             y: "wage_ratio",
-            colour: "London borough",
+            where: '"London borough"="notLondon"',
+            colour: "purple",
+            points: { size: 8 },
+            tooltip: '<strong class="subtitle">{{ geography_name_x }}</strong><br />Vacant homes per 1000 dwellings: <strong>{{ vacants_per_thousand_dwellings }}<br /></strong>Median house price to residence-based earnings ratio: <strong>{{ wage_ratio }}</strong>'
+            },
+            {
+            title: 'London',
+            x: "vacants_per_thousand_dwellings",
+            y: "wage_ratio",
+            where: '"London borough"="isLondon"',
+            colour: "orange",
             points: { size: 8 },
             tooltip: '<strong class="subtitle">{{ geography_name_x }}</strong><br />Vacant homes per 1000 dwellings: <strong>{{ vacants_per_thousand_dwellings }}<br /></strong>Median house price to residence-based earnings ratio: <strong>{{ wage_ratio }}</strong>'
             }]
         }    
     })
 }}
+
+<h3 class='centred subtitle'>2014</h3>
+
 {{ comp.oi.chart.scatter({ 
     config: {
         data: vh_hp_ratio_by_local_authority(2014n),
@@ -172,16 +189,29 @@ make_scatterplot(combined, 2023)
                 }
             },
         series: [{
-            title: '2014',
+            title: 'Outside London',
             x: "vacants_per_thousand_dwellings",
             y: "wage_ratio",
+            where: '"London borough"="notLondon"',
             colour: "purple",
+            points: { size: 8 },
+            tooltip: '<strong class="subtitle">{{ geography_name_x }}</strong><br />Vacant homes per 1000 dwellings: <strong>{{ vacants_per_thousand_dwellings }}<br /></strong>Median house price to residence-based earnings ratio: <strong>{{ wage_ratio }}</strong>'
+            },
+            {
+            title: 'London',
+            x: "vacants_per_thousand_dwellings",
+            y: "wage_ratio",
+            where: '"London borough"="isLondon"',
+            colour: "orange",
             points: { size: 8 },
             tooltip: '<strong class="subtitle">{{ geography_name_x }}</strong><br />Vacant homes per 1000 dwellings: <strong>{{ vacants_per_thousand_dwellings }}<br /></strong>Median house price to residence-based earnings ratio: <strong>{{ wage_ratio }}</strong>'
             }]
         }    
     })
 }}
+
+<h3 class='centred subtitle'>2023</h3>
+
 {{ comp.oi.chart.scatter({ 
     config: {
         data: vh_hp_ratio_by_local_authority(2023n),
@@ -203,10 +233,20 @@ make_scatterplot(combined, 2023)
                 }
             },
         series: [{
-            title: '2023',
+            title: 'Outside London',
             x: "vacants_per_thousand_dwellings",
             y: "wage_ratio",
-            colour: "blue",
+            where: '"London borough"="notLondon"',
+            colour: "purple",
+            points: { size: 8 },
+            tooltip: '<strong class="subtitle">{{ geography_name_x }}</strong><br />Vacant homes per 1000 dwellings: <strong>{{ vacants_per_thousand_dwellings }}<br /></strong>Median house price to residence-based earnings ratio: <strong>{{ wage_ratio }}</strong>'
+            },
+            {
+            title: 'London',
+            x: "vacants_per_thousand_dwellings",
+            y: "wage_ratio",
+            where: '"London borough"="isLondon"',
+            colour: "orange",
             points: { size: 8 },
             tooltip: '<strong class="subtitle">{{ geography_name_x }}</strong><br />Vacant homes per 1000 dwellings: <strong>{{ vacants_per_thousand_dwellings }}<br /></strong>Median house price to residence-based earnings ratio: <strong>{{ wage_ratio }}</strong>'
             }]
