@@ -489,16 +489,23 @@ def make_stripplot(data, x, y, hue, xlabel, ylabel, palette=cmap):
     return ax
 ```
 
+## Results
+For all constituencies (excluding Scotland), the avereage percentage of homes owned outright was 33%. Labour seats have the greatest range, winning in constituencies where fewer than 10% of homes are owned outright, and some, conversely, with nearly 50% owned outright. Overall, 37% of their seats were above the average for percentage of homes owned outright.
+
+Conservative and Lib Dem constituencies follow similar trends to eachother. The majority of constituencies are in areas where the percentage of homes owned outright is above the national average. 91% of conservative seats are above the national average for percentage of homes owned outright, compared to 79% for Lib Dems.
+
 
 ```python
 ax = make_stripplot(d, x='Owned outright', y='First party', hue='First party', xlabel='Owned outright (%)', ylabel='Winning party')
+plt.savefig(ROOT / "src/assets/images/owned_outright.png")
 plt.show()
 ```
 
 
     
- <img src="/assets/images/tenure_voting_18_0.png" alt="Strip plot of percentage of homes owned outright coloured by winning constituency" height="400"> 
- 
+<img src="/assets/images/owned_outright.png" alt="Strip plot of percentage of homes owned outright" height="600"> 
+    
+
 
 Let's calculate the percentage of seats won by the three largest parties that had a higher than average number of people for each type of tenure. First, I'll define a function to calculate that, then call it below for different tenure types.
 
@@ -526,66 +533,64 @@ constituencies_won_higher_than_average_tenure_type(d, 'Owned outright')
     For LD, 79% of their seats have higher than UK average percentage of homes with the tenure type: Owned outright.
 
 
-## Results
-For all constituencies (excluding Scotland), the avereage percentage of homes owned outright was 33%. Labour seats have the greatest range, winning in constituencies where fewer than 10% of homes are owned outright, and some, conversely, with nearly 50% owned outright. Overall, 37% of their seats were above the average for percentage of homes owned outright.
-
-Conservative and Lib Dem constituencies follow similar trends to eachother. The majority of constituencies are in areas where the percentage of homes owned outright is above the national average. 91% of conservative seats are above the national average for percentage of homes owned outright, compared to 79% for Lib Dems.
-
-## Discussion
-
-
 
 ```python
 ax = make_stripplot(d, x='Social rented', y='First party', hue='First party', xlabel='Social rented (%)', ylabel='Winning party')
+plt.savefig(ROOT / "src/assets/images/social_rented.png")
 plt.show()
 constituencies_won_higher_than_average_tenure_type(d, 'Social rented')
 ```
 
 
     
- <img src="/assets/images/tenure_voting_24_0.png" alt="Strip plot of percentage of homes socially rented coloured by winning constituency" height="400"> 
-  
-  For Lab, 56% of their seats have higher than UK average percentage of homes with the tenure type: Social rented.
-
-  For Con, 5% of their seats have higher than UK average percentage of homes with the tenure type: Social rented.
-
-  For LD, 2% of their seats have higher than UK average percentage of homes with the tenure type: Social rented.
+<img src="/assets/images/social_rented.png" alt="Strip plot of percentage of homes socially rented" height="600"> 
+    
 
 
+    For Lab, 56% of their seats have higher than UK average percentage of homes with the tenure type: Social rented.
+
+    For Con, 5% of their seats have higher than UK average percentage of homes with the tenure type: Social rented.
+
+    For LD, 2% of their seats have higher than UK average percentage of homes with the tenure type: Social rented.
 
 ```python
 ax = make_stripplot(d, x='Private rented', y='First party', hue='First party', xlabel='Private rented (%)', ylabel='Winning party')
+plt.savefig(ROOT / "src/assets/images/private_rented.png")
 plt.show()
 constituencies_won_higher_than_average_tenure_type(d, 'Private rented')
 ```
 
 
     
- <img src="/assets/images/tenure_voting_25_0.png" alt="Strip plot of percentage of homes privately rented coloured by winning constituency" height="400"> 
+<img src="/assets/images/private_rented.png" alt="Strip plot of percentage of homes privately rented" height="600"> 
     
-For Lab, 46% of their seats have higher than UK average percentage of homes with the tenure type: Private rented.
 
-For Con, 9% of their seats have higher than UK average percentage of homes with the tenure type: Private rented.
 
-For LD, 20% of their seats have higher than UK average percentage of homes with the tenure type: Private rented.
+    For Lab, 46% of their seats have higher than UK average percentage of homes with the tenure type: Private rented.
+
+    For Con, 9% of their seats have higher than UK average percentage of homes with the tenure type: Private rented.
+
+    For LD, 20% of their seats have higher than UK average percentage of homes with the tenure type: Private rented.
+
 
 
 
 ```python
 ax = make_stripplot(d, x='Owned with a mortgage or loan', y='First party', hue='First party', xlabel='Owned with a mortgage or loan (%)', ylabel='Winning party')
+plt.savefig(ROOT / "src/assets/images/mortgage_or_loan.png")
 plt.show()
 constituencies_won_higher_than_average_tenure_type(d, 'Owned with a mortgage or loan')
 ```
 
 
     
- <img src="/assets/images/tenure_voting_26_0.png" alt="Strip plot of percentage of homes owned with a mortgage or loan coloured by winning constituency" height="400"> 
+<img src="/assets/images/mortgage_or_loan.png" alt="Strip plot of percentage of homes owned with a mortgage or loan" height="600"> 
     
 
 
-For Lab, 47% of their seats have higher than UK average percentage of homes with the tenure type: Owned with a mortgage or loan.
+    For Lab, 47% of their seats have higher than UK average percentage of homes with the tenure type: Owned with a mortgage or loan.
 
-For Con, 73% of their seats have higher than UK average percentage of homes with the tenure type: Owned with a mortgage or loan.
+    For Con, 73% of their seats have higher than UK average percentage of homes with the tenure type: Owned with a mortgage or loan.
 
-For LD, 61% of their seats have higher than UK average percentage of homes with the tenure type: Owned with a mortgage or loan.
+    For LD, 61% of their seats have higher than UK average percentage of homes with the tenure type: Owned with a mortgage or loan.
 
