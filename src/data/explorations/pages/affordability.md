@@ -163,7 +163,7 @@ d
     </tr>
   </tbody>
 </table>
-<p>6908 rows × 5 columns</p>
+<p class='padded python-output'>6908 rows × 5 columns</p>
 </div>
 
 
