@@ -28,15 +28,9 @@ ROOT = Path('../')
 ROOT.resolve()
 </pre></code>
 
+<div class='padded python-output'>PosixPath('/Users/lukestrange/Code/housing')</div>
 
-
-
-    PosixPath('/Users/lukestrange/Code/housing')
-
-
-
-Read in the data we need. We processed this already so it will be straightforward to combine it into one table.
-
+Now we will read in the data we need. We processed this already so it will be straightforward to combine it into one table.
 
 <pre><code class="language-python">
 hp_wage_ratio = pd.read_parquet(ROOT / 'data/house-prices/site/hp_to_wage_ratio.parquet')
