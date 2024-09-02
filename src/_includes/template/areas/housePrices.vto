@@ -1,5 +1,5 @@
 <h3>House prices in {{ title }} <a id='house-prices' class='anchor' href='#house-prices' data-dependencies='/assets/js/section-links.js'>§</a></h3>
-{{# {{ set chart_data = medianHousePrice(areacode) }} #}}
+<p>See <a href="/data/hexmaps/#house-price-to-earnings-ratio">house price to earnings ratio for England and Wales</a>.</p>
 {{ if medianHousePrice.length > 0 }}
     {{ set y_spacing = medianHousePrice |> ySpacing('Median') }}
     {{ comp.oi.chart.line({ config: {
