@@ -240,15 +240,56 @@ uk_tenure
     </tr>
   </tbody>
 </table>
-<p>593 rows x 5 columns</p>
+<p class='padded python-output'>593 rows x 5 columns</p>
 </div>
 
-<p>Next lets calculate some mean averages for each housing tenure type.</p>
+<p>
+  Next let's calculate some mean averages for each housing tenure type. 
+  We would need to work out the actual number of households for each tenure type per constituency, add them up for the whole of the UK and divide by the total number of households. 
+  However, since the number of households in each constituency are approximately equal, we can go ahead and just use the averages of the percentages for each constituency. 
+  In this case our "sample size" for each constituency is roughly the same, so it works out. 
+  We can ONLY do this because the number of households are approximately equal, and below we've showed that the two methods produce identical results to 0 decimal places.</p>
 
 <pre><code class="language-python">
-uk_tenure_means = uk_tenure.mean(numeric_only=True)
-</code></pre>
+def avg(data, column):
+    number_households_by_tenure = (data[column] / 100) * data['Households']
+    total_households_by_tenure = sum(number_households_by_tenure)
+    total_households = sum(data['Households'])
+    average_of_tenure_type = 100 * total_households_by_tenure / total_households
+    return print(f"{column}: {round(average_of_tenure_type)}")
 
+print('Using the full method with sample size:\n')
+avg(uk_tenure, 'Owned outright')
+avg(uk_tenure, 'Owned with a mortgage or loan')
+avg(uk_tenure, 'Private rented')
+avg(uk_tenure, 'Social rented')
+avg(uk_tenure, 'Other tenure')
+
+uk_tenure_means = uk_tenure.mean(numeric_only=True).round()
+print('\n Using the mean of the percentages:\n', uk_tenure_means)
+</code></pre>
+<div class='padded python-output'>
+    Using the full method with sample size:
+    
+    <ul>
+      <li>Owned outright: 33</li>
+      <li>Owned with a mortgage or loan: 29</li>
+      <li>Private rented: 20</li>
+      <li>Social rented: 17</li>
+      <li>Other tenure: 1</li>
+    </ul>
+    
+    Using the mean of the percentages:
+    <ul>
+      <li>Other tenure                         1.0</li>
+      <li>Owned outright                      33.0</li>
+      <li>Owned with a mortgage or loan       29.0</li>
+      <li>Private rented                      20.0</li>
+      <li>Social rented                       17.0</li>
+      <li>Households                       43088.0</li>
+      dtype: float64
+    </ul>
+</div>
 <p>We want to merge the uk_tenure and <code>ge_results</code> data using the geography code to match the rows. In order to do this, we need to ensure the columns containing that data have the same name.</p>
 
 <pre><code class="language-python">
@@ -436,7 +477,7 @@ d
     </tr>
   </tbody>
 </table>
-<p>593 rows × 10 columns</p>
+<p class='padded python-output'>593 rows × 10 columns</p>
 </div>
 
 <p>Now, let's define a dictionary for some colours of each party. We'll use the official hex codes.</p>
