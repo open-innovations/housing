@@ -5,7 +5,8 @@ colour: c5-bg
 desc: "Local authority based hex maps for housing data"
 ---
 {{# {{ JSON.stringify(vacantHomes()) }} #}}
-<h3>Vacant homes (%) in England</h3>
+<h3>Vacant homes (%) in England <a id='vacant-homes' class='anchor' href='#vacant-homes' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+<p class='warning padded'>We are currently fixing a bug that shows the value as 0% before an area came into existence (e.g. West Suffolk).</p>
 {{ comp.oi.map.hex_cartogram({
 	config: {
 		width: 600,
@@ -71,7 +72,7 @@ desc: "Local authority based hex maps for housing data"
 	Data for Northern Ireland, Scotland and Wales are published seperately and are not currently included on this site.
 </p>
 
-<h3>Median house price to residence-based earnings ratio in England & Wales</h3>
+<h3>Median house price to residence-based earnings ratio in England & Wales<a id='house-price-to-earnings-ratio' class='anchor' href='#house-price-to-earnings-ratio' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ comp.oi.map.hex_cartogram({
 	config: {
@@ -132,6 +133,6 @@ desc: "Local authority based hex maps for housing data"
 				}
 			},
 		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />{{ _value }}: <strong>{{ {{ _value }} }}</strong>",
-		attribution: "<strong>Data:</strong> Office for National Statistics <a href='https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoresidencebasedearningslowerquartileandmedian'>House price to residence-based earnings ratio</a>" 
+		attribution: "<strong>Data:</strong> Office for National Statistics <a href='https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoresidencebasedearningslowerquartileandmedian'>House price to residence-based earnings ratio</a>." 
 		}
 }) }}
