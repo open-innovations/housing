@@ -99,11 +99,11 @@ def get_data(sheet_name, topic_name, drop_cols, value_type=float, header=2, is_p
 
 
 <pre><code class="language-python">
-ew_housing_tenure = get_data('EW_data', 'Housing tenure', ['Topic', 'England & Wales value'])
-ni_housing_tenure = get_data('NI_data', 'Housing tenure', ['Topic', 'Northern Ireland value'])
-
+ew_total_households = get_data('EW_data', 'Households', ['Topic', 'England & Wales value'], is_percent=False).drop(columns='index')
+ni_total_households = get_data('NI_data', 'Households', ['Topic', 'Northern Ireland value'], is_percent=False).drop(columns='index')
 # Concatenate (join) the two dataframes.
-uk_tenure = pd.concat([ew_housing_tenure, ni_housing_tenure])
+total_households = pd.concat([ew_total_households, ni_total_households])
+uk_tenure = pd.concat([ew_housing_tenure, ni_housing_tenure]).merge(total_households, on=['PCON24CD', 'PCON24NM'])
 
 # While we're here write this file to the data directory
 uk_tenure.to_csv(ROOT / 'data/tenure/tenure_type.csv')
@@ -111,9 +111,13 @@ uk_tenure
 </code></pre>
 
 <div class='padded python-output'>
-        <p>More than one variable type: ['Other tenure', 'Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented']. Pivoting the data.</p>
+  <p>More than one variable type: ['Other tenure', 'Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented']. Pivoting the data.</p>
 
-        <p>More than one variable type: ['Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented', 'Other tenure']. Pivoting the data.</p>
+  <p>More than one variable type: ['Owned outright', 'Owned with a mortgage or loan', 'Private rented', 'Social rented', 'Other tenure']. Pivoting the data.</p>
+
+  <p>Only one variable type: ['Total households']. Dropping the variable column.</p>
+
+  <p>Only one variable type: ['Number of households']. Dropping the variable column.</p>
 </div>
 
 <div>
@@ -134,14 +138,18 @@ uk_tenure
   <thead>
     <tr style="text-align: right;">
       <th></th>
+      <th>PCON24NM</th>
       <th>Other tenure</th>
       <th>Owned outright</th>
       <th>Owned with a mortgage or loan</th>
       <th>Private rented</th>
       <th>Social rented</th>
+      <th>Households</th>
     </tr>
     <tr>
       <th>PCON24CD</th>
+      <th></th>
+      <th></th>
       <th></th>
       <th></th>
       <th></th>
@@ -152,43 +160,53 @@ uk_tenure
   <tbody>
     <tr>
       <th>W07000081</th>
+      <td>Aberafan Maesteg</td>
       <td>0.3</td>
       <td>37.0</td>
       <td>27.3</td>
       <td>15.5</td>
       <td>19.9</td>
+      <td>40800.0</td>
     </tr>
     <tr>
       <th>E14001063</th>
+      <td>Aldershot</td>
       <td>1.8</td>
       <td>27.7</td>
       <td>35.5</td>
       <td>20.0</td>
       <td>15.1</td>
+      <td>46200.0</td>
     </tr>
     <tr>
       <th>E14001064</th>
+      <td>Aldridge-Brownhills</td>
       <td>0.7</td>
       <td>42.0</td>
       <td>33.2</td>
       <td>10.7</td>
       <td>13.4</td>
+      <td>39200.0</td>
     </tr>
     <tr>
       <th>E14001065</th>
+      <td>Altrincham and Sale West</td>
       <td>0.6</td>
       <td>37.7</td>
       <td>36.4</td>
       <td>13.8</td>
       <td>11.4</td>
+      <td>40700.0</td>
     </tr>
     <tr>
       <th>W07000082</th>
+      <td>Alyn and Deeside</td>
       <td>0.5</td>
       <td>36.2</td>
       <td>34.5</td>
       <td>13.8</td>
       <td>15.0</td>
+      <td>43800.0</td>
     </tr>
     <tr>
       <th>...</th>
@@ -197,50 +215,62 @@ uk_tenure
       <td>...</td>
       <td>...</td>
       <td>...</td>
+      <td>...</td>
+      <td>...</td>
     </tr>
     <tr>
       <th>N05000014</th>
+      <td>South Antrim</td>
       <td>3.2</td>
       <td>35.5</td>
       <td>37.3</td>
       <td>13.8</td>
       <td>10.1</td>
+      <td>42200.0</td>
     </tr>
     <tr>
       <th>N05000015</th>
+      <td>South Down</td>
       <td>3.2</td>
       <td>39.4</td>
       <td>30.7</td>
       <td>17.4</td>
       <td>9.3</td>
+      <td>39100.0</td>
     </tr>
     <tr>
       <th>N05000016</th>
+      <td>Strangford</td>
       <td>3.1</td>
       <td>39.5</td>
       <td>31.3</td>
       <td>13.3</td>
       <td>12.9</td>
+      <td>40900.0</td>
     </tr>
     <tr>
       <th>N05000017</th>
+      <td>Upper Bann</td>
       <td>3.3</td>
       <td>32.1</td>
       <td>31.5</td>
       <td>20.8</td>
       <td>12.3</td>
+      <td>48600.0</td>
     </tr>
     <tr>
       <th>N05000018</th>
+      <td>West Tyrone</td>
       <td>3.4</td>
       <td>39.8</td>
       <td>26.3</td>
       <td>18.9</td>
       <td>11.6</td>
+      <td>38600.0</td>
     </tr>
   </tbody>
 </table>
-<p class='padded python-output'>593 rows x 5 columns</p>
+<p class='python-output padded'>593 rows x 7 columns</p>
 </div>
 
 <p>
