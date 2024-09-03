@@ -1,0 +1,10 @@
+---
+title: Blog posts
+navorder: 40
+colour: c13-bg
+---
+<div class='grid'>
+{{ for blog of blogs }}
+    {{ comp.navgrid({ heading: blog.title , link: blog.url, colour: blog.colour }) }}
+{{ /for }}
+</div>
