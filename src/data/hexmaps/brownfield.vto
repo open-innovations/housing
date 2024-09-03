@@ -8,6 +8,17 @@ colour: brown-bg
     <li><a href="#net-dwellings">Net dwellings</a></li>
     <li><a href="#land-area">Land area</a></li>
 </ol>
+<p>
+    <strong>Data:</strong> Brownfield site data come from the 
+    <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> 
+    published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed 
+    under Open Goverment License v3.0.
+</p>
+
+<p>
+    <strong>Notes</strong>: There are 2011 sites that had invalid points and/or were not matched to a local authority.
+    See <a href="https://github.com/open-innovations/housing/tree/main/pipelines/brownfield">how we processed this data</a>.
+</p>
 <h3>Total sites<a id='total-sites' class='anchor' href='#total-sites' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ comp.oi.map.hex_cartogram({
@@ -66,7 +77,6 @@ colour: brown-bg
 				}
 			},
 		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Brownfield sites: <strong>{{ sites }}</strong>",
-		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
 		}
 }) }}
 
@@ -196,4 +206,3 @@ colour: brown-bg
 		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
 		}
 }) }}
-<strong>Notes</strong>:
