@@ -1,0 +1,199 @@
+---
+title: Brownfield
+section: hexmap
+colour: brown-bg
+---
+<ol>
+    <li><a href="#total-sites">Total sites</a></li>
+    <li><a href="#net-dwellings">Net dwellings</a></li>
+    <li><a href="#land-area">Land area</a></li>
+</ol>
+<h3>Total sites<a id='total-sites' class='anchor' href='#total-sites' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+
+{{ comp.oi.map.hex_cartogram({
+	config: {
+		width: 600,
+		hexjson: "hexjson.uk-local-authority-districts-2023",
+		data: brownfield(),
+		scale: 'Viridis',
+		columns: [{
+				name: 'filterLabel',
+				template: "{{ n }}"
+			}],
+		matchKey: "LAD24CD",
+		value: "sites",
+		min: 0,
+		max: 1000,
+		legend: { 
+			position: "top right",
+			items: [{
+				value: 1000,
+				label: '1000+'
+				},
+				{
+				value: 500,
+				label: '500'
+				},
+				{
+				value: 0,
+				label: '0'
+				}] 
+			},
+		tools: {
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+			}
+		},
+		boundaries: {
+			country: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+				},
+			regions: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+			}
+			},
+		tools: { 
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+				}
+			},
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Brownfield sites: <strong>{{ sites }}</strong>",
+		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
+		}
+}) }}
+
+<h3>Net dwellings<a id='net-dwellings' class='anchor' href='#net-dwellings' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+
+{{ comp.oi.map.hex_cartogram({
+	config: {
+		width: 600,
+		hexjson: "hexjson.uk-local-authority-districts-2023",
+		data: brownfield(),
+		scale: 'Viridis',
+		columns: [{
+				name: 'filterLabel',
+				template: "{{ n }}"
+			}],
+		matchKey: "LAD24CD",
+		value: "maximum-net-dwellings",
+		min: 0,
+		max: 65000,
+		legend: { 
+			position: "top right",
+			items: [{
+				value: 65000,
+				label: '65k+'
+				},
+				{
+				value: 30000,
+				label: '30k'
+				},
+				{
+				value: 0,
+				label: '0'
+				}] 
+			},
+		tools: {
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+			}
+		},
+		boundaries: {
+			country: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+				},
+			regions: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+			}
+			},
+		tools: { 
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+				},
+			slider: {
+				columns: ['maximum-net-dwellings', 'minimum-net-dwellings']
+				}
+			},
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Maximum: <strong>{{ maximum-net-dwellings | toLocaleString() }}</strong><br />Minimum: <strong>{{ minimum-net-dwellings | toLocaleString() }}</strong>",
+		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
+		}
+}) }}
+
+<h3>Land area<a id='land-area' class='anchor' href='#land-area' data-dependencies='/assets/js/section-links.js'>§</a></h3>
+<p class='warning padded'>1 hectare = 10,000 square metres</p>
+{{ comp.oi.map.hex_cartogram({
+	config: {
+		width: 600,
+		hexjson: "hexjson.uk-local-authority-districts-2023",
+		data: brownfield(),
+		scale: 'Viridis',
+		columns: [{
+				name: 'filterLabel',
+				template: "{{ n }}"
+			}],
+		matchKey: "LAD24CD",
+		value: "hectares",
+		min: 0,
+		max: 1000,
+		legend: { 
+			position: "top right",
+			items: [{
+				value: 1000,
+				label: '1000+'
+				},
+				{
+				value: 500,
+				label: '500'
+				},
+				{
+				value: 0,
+				label: '0'
+				}] 
+			},
+		tools: {
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+			}
+		},
+		boundaries: {
+			country: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+				},
+			regions: {
+				stroke: "#181b25",
+				"stroke-width": 2,
+				"stroke-linecap": "round",
+				"stroke-opacity": 0.5
+			}
+			},
+		tools: { 
+			filter: {
+				label: "filterLabel",
+				position: "top left"
+				}
+			},
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Hectares: <strong>{{ hectares | toLocaleString() }}</strong>",
+		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
+		}
+}) }}
+<strong>Notes</strong>:
