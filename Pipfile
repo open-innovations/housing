@@ -19,6 +19,8 @@ seaborn = "*"
 scipy = "*"
 duckdb = "*"
 nbconvert = "*"
+shapely = "*"
+geopandas = "*"
 
 [dev-packages]
 ipykernel = "*"
