@@ -90,3 +90,8 @@ tr:hover {
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 2em;
 }
+
+.brown-bg {
+    background-color: rgb(123, 62, 27);
+    color: white !important;
+}
