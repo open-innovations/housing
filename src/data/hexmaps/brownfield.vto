@@ -8,17 +8,7 @@ colour: brown-bg
     <li><a href="#net-dwellings">Net dwellings</a></li>
     <li><a href="#land-area">Land area</a></li>
 </ol>
-<p>
-    <strong>Data:</strong> Brownfield site data come from the 
-    <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> 
-    published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed 
-    under Open Goverment License v3.0.
-</p>
 
-<p>
-    <strong>Notes</strong>: There are 2011 sites that had invalid points and/or were not matched to a local authority.
-    See <a href="https://github.com/open-innovations/housing/tree/main/pipelines/brownfield">how we processed this data</a>.
-</p>
 <h3>Total sites<a id='total-sites' class='anchor' href='#total-sites' data-dependencies='/assets/js/section-links.js'>§</a></h3>
 
 {{ comp.oi.map.hex_cartogram({
@@ -140,8 +130,7 @@ colour: brown-bg
 				columns: ['maximum-net-dwellings', 'minimum-net-dwellings']
 				}
 			},
-		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Maximum: <strong>{{ maximum-net-dwellings | toLocaleString() }}</strong><br />Minimum: <strong>{{ minimum-net-dwellings | toLocaleString() }}</strong>",
-		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Maximum: <strong>{{ maximum-net-dwellings | toLocaleString() }}</strong><br />Minimum: <strong>{{ minimum-net-dwellings | toLocaleString() }}</strong>"
 		}
 }) }}
 
@@ -202,7 +191,27 @@ colour: brown-bg
 				position: "top left"
 				}
 			},
-		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Hectares: <strong>{{ hectares | toLocaleString() }}</strong>",
-		attribution: "<strong>Data:</strong> Brownfield site data come from the <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed under Open Goverment License v3.0." 
+		tooltip: "<strong class='subtitle'>{{ n }}</strong><br />Hectares: <strong>{{ hectares | toLocaleString() }}</strong>"
 		}
 }) }}
+<p>
+    <strong>Data:</strong> Brownfield site data come from the 
+    <a href='https://www.planning.data.gov.uk/dataset/brownfield-land'>Brownfield land data set</a> 
+    published by the <a href='https://www.planning.data.gov.uk/'>Planning Data Platform</a> licensed 
+    under Open Goverment License v3.0.
+</p>
+
+<p>
+    <strong>Notes</strong>: We use an optimised version of <a href="https://geoportal.statistics.gov.uk/datasets/f3528c2d6d454edab74f2648cc6a45f6_0/explore">UK Local Authority District geoJSON boundaries</a> (smaller file size and 
+	accuracy limited to ~1.1m) and the brownfield land data set to determine the local authority containing each brownfield site 
+	in the data. We check whether each "point" (POINT(long, lat)) is contained by one of the local authority polygons. 
+	If it is, we assign this local authority to the site. For places without a given "point", we attempt to find a postcode in the 
+	"site-address" column. If a postcode is found, we search this on a <a href="https://github.com/odileeds/Postcodes2LatLon/tree/main/postcodes">postcode centroid to latitude-longitude coordinate</a> lookup table.
+	If all of these options fail, we use the "organisation-entity" column and <a href="https://www.planning.data.gov.uk/entity/379.json">organisation entity information (e.g. 379)</a> to find the local authority that contains the site.
+	We currently make no correction for potentially incorrect points. For example, we assume that if a point is found to be in a local authority,
+	then that is the correct one. We also assume that the "organsiation-entity" column is correct.
+</p>
+<p>
+	In total, there are <strong>69</strong> sites that were not matched to a local authority.
+    See <a href="https://github.com/open-innovations/housing/tree/main/pipelines/brownfield">how we processed this data</a>.
+</p>
