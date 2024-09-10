@@ -8,3 +8,4 @@ raw
 duckdb.dll
 libduckdb.dylib
 libduckdb.so
+.DS_Store
