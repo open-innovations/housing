@@ -4362,14 +4362,326 @@ E06000062,West Northamptonshire,Dwellings,2023,184166
 E06000062,West Northamptonshire,LongTermVacants,2021,1225
 E06000062,West Northamptonshire,LongTermVacants,2022,1197
 E06000062,West Northamptonshire,LongTermVacants,2023,1381
+E06000063,Cumberland,AllVacants,2004,4138
+E06000063,Cumberland,AllVacants,2005,5024
+E06000063,Cumberland,AllVacants,2006,4179
+E06000063,Cumberland,AllVacants,2007,4506
+E06000063,Cumberland,AllVacants,2008,4429
+E06000063,Cumberland,AllVacants,2009,4769
+E06000063,Cumberland,AllVacants,2010,4964
+E06000063,Cumberland,AllVacants,2011,5086
+E06000063,Cumberland,AllVacants,2012,5101
+E06000063,Cumberland,AllVacants,2013,4834
+E06000063,Cumberland,AllVacants,2014,4823
+E06000063,Cumberland,AllVacants,2015,4912
+E06000063,Cumberland,AllVacants,2016,5520
+E06000063,Cumberland,AllVacants,2017,5262
+E06000063,Cumberland,AllVacants,2018,5279
+E06000063,Cumberland,AllVacants,2019,5276
+E06000063,Cumberland,AllVacants,2020,5053
+E06000063,Cumberland,AllVacants,2021,4532
+E06000063,Cumberland,AllVacants,2022,4379
 E06000063,Cumberland,AllVacants,2023,4366
+E06000063,Cumberland,Dwellings,2004,121893
+E06000063,Cumberland,Dwellings,2005,122964
+E06000063,Cumberland,Dwellings,2006,124116
+E06000063,Cumberland,Dwellings,2007,124940
+E06000063,Cumberland,Dwellings,2008,125746
+E06000063,Cumberland,Dwellings,2009,126590
+E06000063,Cumberland,Dwellings,2010,127389
+E06000063,Cumberland,Dwellings,2011,128091
+E06000063,Cumberland,Dwellings,2012,128700
+E06000063,Cumberland,Dwellings,2013,129232
+E06000063,Cumberland,Dwellings,2014,129728
+E06000063,Cumberland,Dwellings,2015,130538
+E06000063,Cumberland,Dwellings,2016,131511
+E06000063,Cumberland,Dwellings,2017,132416
+E06000063,Cumberland,Dwellings,2018,133494
+E06000063,Cumberland,Dwellings,2019,134501
+E06000063,Cumberland,Dwellings,2020,135546
+E06000063,Cumberland,Dwellings,2021,136385
+E06000063,Cumberland,Dwellings,2022,137292
+E06000063,Cumberland,Dwellings,2023,138080
+E06000063,Cumberland,HouseholdProjection,2004,115570
+E06000063,Cumberland,HouseholdProjection,2005,116483
+E06000063,Cumberland,HouseholdProjection,2006,117530
+E06000063,Cumberland,HouseholdProjection,2007,118500
+E06000063,Cumberland,HouseholdProjection,2008,119108
+E06000063,Cumberland,HouseholdProjection,2009,119532
+E06000063,Cumberland,HouseholdProjection,2010,119925
+E06000063,Cumberland,HouseholdProjection,2011,120691
+E06000063,Cumberland,HouseholdProjection,2012,120896
+E06000063,Cumberland,HouseholdProjection,2013,121062
+E06000063,Cumberland,HouseholdProjection,2014,121397
+E06000063,Cumberland,HouseholdProjection,2015,121664
+E06000063,Cumberland,HouseholdProjection,2016,121979
+E06000063,Cumberland,HouseholdProjection,2017,122147
+E06000063,Cumberland,HouseholdProjection,2018,122588
+E06000063,Cumberland,HouseholdProjection,2019,122990
+E06000063,Cumberland,HouseholdProjection,2020,123193
+E06000063,Cumberland,HouseholdProjection,2021,123371
+E06000063,Cumberland,HouseholdProjection,2022,123633
+E06000063,Cumberland,HouseholdProjection,2023,123880
+E06000063,Cumberland,LongTermVacants,2004,1988
+E06000063,Cumberland,LongTermVacants,2005,2042
+E06000063,Cumberland,LongTermVacants,2006,1866
+E06000063,Cumberland,LongTermVacants,2007,2070
+E06000063,Cumberland,LongTermVacants,2008,2137
+E06000063,Cumberland,LongTermVacants,2009,2209
+E06000063,Cumberland,LongTermVacants,2010,2306
+E06000063,Cumberland,LongTermVacants,2011,2420
+E06000063,Cumberland,LongTermVacants,2012,2375
+E06000063,Cumberland,LongTermVacants,2013,1957
+E06000063,Cumberland,LongTermVacants,2014,1982
+E06000063,Cumberland,LongTermVacants,2015,2085
+E06000063,Cumberland,LongTermVacants,2016,2079
+E06000063,Cumberland,LongTermVacants,2017,2505
+E06000063,Cumberland,LongTermVacants,2018,2456
+E06000063,Cumberland,LongTermVacants,2019,2408
+E06000063,Cumberland,LongTermVacants,2020,2515
+E06000063,Cumberland,LongTermVacants,2021,1823
+E06000063,Cumberland,LongTermVacants,2022,1783
 E06000063,Cumberland,LongTermVacants,2023,1745
+E06000064,Westmorland and Furness,AllVacants,2004,4281
+E06000064,Westmorland and Furness,AllVacants,2005,4227
+E06000064,Westmorland and Furness,AllVacants,2006,4255
+E06000064,Westmorland and Furness,AllVacants,2007,4465
+E06000064,Westmorland and Furness,AllVacants,2008,4647
+E06000064,Westmorland and Furness,AllVacants,2009,4448
+E06000064,Westmorland and Furness,AllVacants,2010,4823
+E06000064,Westmorland and Furness,AllVacants,2011,4711
+E06000064,Westmorland and Furness,AllVacants,2012,4784
+E06000064,Westmorland and Furness,AllVacants,2013,4787
+E06000064,Westmorland and Furness,AllVacants,2014,4798
+E06000064,Westmorland and Furness,AllVacants,2015,4580
+E06000064,Westmorland and Furness,AllVacants,2016,4980
+E06000064,Westmorland and Furness,AllVacants,2017,4664
+E06000064,Westmorland and Furness,AllVacants,2018,4722
+E06000064,Westmorland and Furness,AllVacants,2019,4558
+E06000064,Westmorland and Furness,AllVacants,2020,4781
+E06000064,Westmorland and Furness,AllVacants,2021,4651
+E06000064,Westmorland and Furness,AllVacants,2022,4501
 E06000064,Westmorland and Furness,AllVacants,2023,5128
+E06000064,Westmorland and Furness,Dwellings,2004,107874
+E06000064,Westmorland and Furness,Dwellings,2005,108415
+E06000064,Westmorland and Furness,Dwellings,2006,109003
+E06000064,Westmorland and Furness,Dwellings,2007,109638
+E06000064,Westmorland and Furness,Dwellings,2008,110149
+E06000064,Westmorland and Furness,Dwellings,2009,110650
+E06000064,Westmorland and Furness,Dwellings,2010,111280
+E06000064,Westmorland and Furness,Dwellings,2011,111745
+E06000064,Westmorland and Furness,Dwellings,2012,112099
+E06000064,Westmorland and Furness,Dwellings,2013,112697
+E06000064,Westmorland and Furness,Dwellings,2014,113315
+E06000064,Westmorland and Furness,Dwellings,2015,114020
+E06000064,Westmorland and Furness,Dwellings,2016,114821
+E06000064,Westmorland and Furness,Dwellings,2017,115511
+E06000064,Westmorland and Furness,Dwellings,2018,116272
+E06000064,Westmorland and Furness,Dwellings,2019,117152
+E06000064,Westmorland and Furness,Dwellings,2020,118021
+E06000064,Westmorland and Furness,Dwellings,2021,118695
+E06000064,Westmorland and Furness,Dwellings,2022,119503
+E06000064,Westmorland and Furness,Dwellings,2023,120339
+E06000064,Westmorland and Furness,HouseholdProjection,2004,97402
+E06000064,Westmorland and Furness,HouseholdProjection,2005,98095
+E06000064,Westmorland and Furness,HouseholdProjection,2006,98630
+E06000064,Westmorland and Furness,HouseholdProjection,2007,99102
+E06000064,Westmorland and Furness,HouseholdProjection,2008,99516
+E06000064,Westmorland and Furness,HouseholdProjection,2009,99971
+E06000064,Westmorland and Furness,HouseholdProjection,2010,100200
+E06000064,Westmorland and Furness,HouseholdProjection,2011,100541
+E06000064,Westmorland and Furness,HouseholdProjection,2012,100724
+E06000064,Westmorland and Furness,HouseholdProjection,2013,100824
+E06000064,Westmorland and Furness,HouseholdProjection,2014,101151
+E06000064,Westmorland and Furness,HouseholdProjection,2015,101500
+E06000064,Westmorland and Furness,HouseholdProjection,2016,101825
+E06000064,Westmorland and Furness,HouseholdProjection,2017,102313
+E06000064,Westmorland and Furness,HouseholdProjection,2018,102804
+E06000064,Westmorland and Furness,HouseholdProjection,2019,103391
+E06000064,Westmorland and Furness,HouseholdProjection,2020,103804
+E06000064,Westmorland and Furness,HouseholdProjection,2021,104220
+E06000064,Westmorland and Furness,HouseholdProjection,2022,104611
+E06000064,Westmorland and Furness,HouseholdProjection,2023,104965
+E06000064,Westmorland and Furness,LongTermVacants,2004,2298
+E06000064,Westmorland and Furness,LongTermVacants,2005,1959
+E06000064,Westmorland and Furness,LongTermVacants,2006,2144
+E06000064,Westmorland and Furness,LongTermVacants,2007,2228
+E06000064,Westmorland and Furness,LongTermVacants,2008,2348
+E06000064,Westmorland and Furness,LongTermVacants,2009,2211
+E06000064,Westmorland and Furness,LongTermVacants,2010,2177
+E06000064,Westmorland and Furness,LongTermVacants,2011,2156
+E06000064,Westmorland and Furness,LongTermVacants,2012,2223
+E06000064,Westmorland and Furness,LongTermVacants,2013,2020
+E06000064,Westmorland and Furness,LongTermVacants,2014,2048
+E06000064,Westmorland and Furness,LongTermVacants,2015,2328
+E06000064,Westmorland and Furness,LongTermVacants,2016,2098
+E06000064,Westmorland and Furness,LongTermVacants,2017,2203
+E06000064,Westmorland and Furness,LongTermVacants,2018,2295
+E06000064,Westmorland and Furness,LongTermVacants,2019,2204
+E06000064,Westmorland and Furness,LongTermVacants,2020,2567
+E06000064,Westmorland and Furness,LongTermVacants,2021,2310
+E06000064,Westmorland and Furness,LongTermVacants,2022,2358
 E06000064,Westmorland and Furness,LongTermVacants,2023,2925
 E06000065,North Yorkshire,AllVacants,2023,10189
 E06000065,North Yorkshire,LongTermVacants,2023,3257
+E06000066,Somerset,AllVacants,2004,4723
+E06000066,Somerset,AllVacants,2005,5164
+E06000066,Somerset,AllVacants,2006,5715
+E06000066,Somerset,AllVacants,2007,5097
+E06000066,Somerset,AllVacants,2008,5339
+E06000066,Somerset,AllVacants,2009,5777
+E06000066,Somerset,AllVacants,2010,5523
+E06000066,Somerset,AllVacants,2011,5561
+E06000066,Somerset,AllVacants,2012,5634
+E06000066,Somerset,AllVacants,2013,5574
+E06000066,Somerset,AllVacants,2014,5384
+E06000066,Somerset,AllVacants,2015,5236
+E06000066,Somerset,AllVacants,2016,5029
+E06000066,Somerset,AllVacants,2017,5066
+E06000066,Somerset,AllVacants,2018,5103
+E06000066,Somerset,AllVacants,2019,7577
+E06000066,Somerset,AllVacants,2020,7766
+E06000066,Somerset,AllVacants,2021,6916
+E06000066,Somerset,AllVacants,2022,7328
 E06000066,Somerset,AllVacants,2023,7072
+E06000066,Somerset,Dwellings,2004,160599
+E06000066,Somerset,Dwellings,2005,162196
+E06000066,Somerset,Dwellings,2006,164089
+E06000066,Somerset,Dwellings,2007,165811
+E06000066,Somerset,Dwellings,2008,167711
+E06000066,Somerset,Dwellings,2009,169458
+E06000066,Somerset,Dwellings,2010,170837
+E06000066,Somerset,Dwellings,2011,172929
+E06000066,Somerset,Dwellings,2012,174640
+E06000066,Somerset,Dwellings,2013,176138
+E06000066,Somerset,Dwellings,2014,177540
+E06000066,Somerset,Dwellings,2015,179624
+E06000066,Somerset,Dwellings,2016,181284
+E06000066,Somerset,Dwellings,2017,182911
+E06000066,Somerset,Dwellings,2018,184682
+E06000066,Somerset,Dwellings,2019,186405
+E06000066,Somerset,Dwellings,2020,262370
+E06000066,Somerset,Dwellings,2021,264935
+E06000066,Somerset,Dwellings,2022,267415
+E06000066,Somerset,Dwellings,2023,270456
+E06000066,Somerset,HouseholdProjection,2004,154774
+E06000066,Somerset,HouseholdProjection,2005,156337
+E06000066,Somerset,HouseholdProjection,2006,157706
+E06000066,Somerset,HouseholdProjection,2007,159577
+E06000066,Somerset,HouseholdProjection,2008,161142
+E06000066,Somerset,HouseholdProjection,2009,161702
+E06000066,Somerset,HouseholdProjection,2010,162568
+E06000066,Somerset,HouseholdProjection,2011,164407
+E06000066,Somerset,HouseholdProjection,2012,165929
+E06000066,Somerset,HouseholdProjection,2013,167286
+E06000066,Somerset,HouseholdProjection,2014,169088
+E06000066,Somerset,HouseholdProjection,2015,170659
+E06000066,Somerset,HouseholdProjection,2016,172351
+E06000066,Somerset,HouseholdProjection,2017,173723
+E06000066,Somerset,HouseholdProjection,2018,175264
+E06000066,Somerset,HouseholdProjection,2019,176968
+E06000066,Somerset,HouseholdProjection,2020,178472
+E06000066,Somerset,HouseholdProjection,2021,179857
+E06000066,Somerset,HouseholdProjection,2022,181489
+E06000066,Somerset,HouseholdProjection,2023,183091
+E06000066,Somerset,LongTermVacants,2004,2090
+E06000066,Somerset,LongTermVacants,2005,2237
+E06000066,Somerset,LongTermVacants,2006,2187
+E06000066,Somerset,LongTermVacants,2007,1755
+E06000066,Somerset,LongTermVacants,2008,2097
+E06000066,Somerset,LongTermVacants,2009,2182
+E06000066,Somerset,LongTermVacants,2010,1990
+E06000066,Somerset,LongTermVacants,2011,1963
+E06000066,Somerset,LongTermVacants,2012,1971
+E06000066,Somerset,LongTermVacants,2013,1330
+E06000066,Somerset,LongTermVacants,2014,1352
+E06000066,Somerset,LongTermVacants,2015,1412
+E06000066,Somerset,LongTermVacants,2016,1390
+E06000066,Somerset,LongTermVacants,2017,1447
+E06000066,Somerset,LongTermVacants,2018,1373
+E06000066,Somerset,LongTermVacants,2019,2326
+E06000066,Somerset,LongTermVacants,2020,2820
+E06000066,Somerset,LongTermVacants,2021,2162
+E06000066,Somerset,LongTermVacants,2022,2135
 E06000066,Somerset,LongTermVacants,2023,2638
+E066000065,North Yorkshire,AllVacants,2004,7738
+E066000065,North Yorkshire,AllVacants,2005,8467
+E066000065,North Yorkshire,AllVacants,2006,9033
+E066000065,North Yorkshire,AllVacants,2007,9815
+E066000065,North Yorkshire,AllVacants,2008,10258
+E066000065,North Yorkshire,AllVacants,2009,9964
+E066000065,North Yorkshire,AllVacants,2010,9743
+E066000065,North Yorkshire,AllVacants,2011,9837
+E066000065,North Yorkshire,AllVacants,2012,9863
+E066000065,North Yorkshire,AllVacants,2013,9048
+E066000065,North Yorkshire,AllVacants,2014,8983
+E066000065,North Yorkshire,AllVacants,2015,9270
+E066000065,North Yorkshire,AllVacants,2016,9014
+E066000065,North Yorkshire,AllVacants,2017,9141
+E066000065,North Yorkshire,AllVacants,2018,9394
+E066000065,North Yorkshire,AllVacants,2019,9187
+E066000065,North Yorkshire,AllVacants,2020,9183
+E066000065,North Yorkshire,AllVacants,2021,8507
+E066000065,North Yorkshire,AllVacants,2022,9144
+E066000065,North Yorkshire,Dwellings,2004,260562
+E066000065,North Yorkshire,Dwellings,2005,263113
+E066000065,North Yorkshire,Dwellings,2006,265868
+E066000065,North Yorkshire,Dwellings,2007,269022
+E066000065,North Yorkshire,Dwellings,2008,271726
+E066000065,North Yorkshire,Dwellings,2009,273737
+E066000065,North Yorkshire,Dwellings,2010,275634
+E066000065,North Yorkshire,Dwellings,2011,277578
+E066000065,North Yorkshire,Dwellings,2012,279061
+E066000065,North Yorkshire,Dwellings,2013,279936
+E066000065,North Yorkshire,Dwellings,2014,281013
+E066000065,North Yorkshire,Dwellings,2015,283059
+E066000065,North Yorkshire,Dwellings,2016,284904
+E066000065,North Yorkshire,Dwellings,2017,287456
+E066000065,North Yorkshire,Dwellings,2018,290216
+E066000065,North Yorkshire,Dwellings,2019,293055
+E066000065,North Yorkshire,Dwellings,2020,296348
+E066000065,North Yorkshire,Dwellings,2021,299136
+E066000065,North Yorkshire,Dwellings,2022,302547
+E066000065,North Yorkshire,Dwellings,2023,305798
+E066000065,North Yorkshire,HouseholdProjection,2004,241844
+E066000065,North Yorkshire,HouseholdProjection,2005,244097
+E066000065,North Yorkshire,HouseholdProjection,2006,246237
+E066000065,North Yorkshire,HouseholdProjection,2007,248590
+E066000065,North Yorkshire,HouseholdProjection,2008,250692
+E066000065,North Yorkshire,HouseholdProjection,2009,251978
+E066000065,North Yorkshire,HouseholdProjection,2010,253983
+E066000065,North Yorkshire,HouseholdProjection,2011,256941
+E066000065,North Yorkshire,HouseholdProjection,2012,258712
+E066000065,North Yorkshire,HouseholdProjection,2013,259976
+E066000065,North Yorkshire,HouseholdProjection,2014,261374
+E066000065,North Yorkshire,HouseholdProjection,2015,262917
+E066000065,North Yorkshire,HouseholdProjection,2016,265340
+E066000065,North Yorkshire,HouseholdProjection,2017,267572
+E066000065,North Yorkshire,HouseholdProjection,2018,269699
+E066000065,North Yorkshire,HouseholdProjection,2019,271697
+E066000065,North Yorkshire,HouseholdProjection,2020,273431
+E066000065,North Yorkshire,HouseholdProjection,2021,275051
+E066000065,North Yorkshire,HouseholdProjection,2022,277013
+E066000065,North Yorkshire,HouseholdProjection,2023,278830
+E066000065,North Yorkshire,LongTermVacants,2004,2961
+E066000065,North Yorkshire,LongTermVacants,2005,3232
+E066000065,North Yorkshire,LongTermVacants,2006,3341
+E066000065,North Yorkshire,LongTermVacants,2007,3663
+E066000065,North Yorkshire,LongTermVacants,2008,4145
+E066000065,North Yorkshire,LongTermVacants,2009,3742
+E066000065,North Yorkshire,LongTermVacants,2010,3732
+E066000065,North Yorkshire,LongTermVacants,2011,3479
+E066000065,North Yorkshire,LongTermVacants,2012,3459
+E066000065,North Yorkshire,LongTermVacants,2013,2715
+E066000065,North Yorkshire,LongTermVacants,2014,2836
+E066000065,North Yorkshire,LongTermVacants,2015,3124
+E066000065,North Yorkshire,LongTermVacants,2016,3196
+E066000065,North Yorkshire,LongTermVacants,2017,3245
+E066000065,North Yorkshire,LongTermVacants,2018,3486
+E066000065,North Yorkshire,LongTermVacants,2019,3337
+E066000065,North Yorkshire,LongTermVacants,2020,3649
+E066000065,North Yorkshire,LongTermVacants,2021,2832
+E066000065,North Yorkshire,LongTermVacants,2022,3144
 E07000001,Mid Bedfordshire,AllVacants,2004,1465
 E07000001,Mid Bedfordshire,AllVacants,2005,1375
 E07000001,Mid Bedfordshire,AllVacants,2006,1398
@@ -5296,474 +5608,6 @@ E07000025,Isles of Scilly,LongTermVacants,2005,1
 E07000025,Isles of Scilly,LongTermVacants,2006,0
 E07000025,Isles of Scilly,LongTermVacants,2007,0
 E07000025,Isles of Scilly,LongTermVacants,2008,0
-E07000026,Allerdale,AllVacants,2004,1423
-E07000026,Allerdale,AllVacants,2005,1630
-E07000026,Allerdale,AllVacants,2006,1610
-E07000026,Allerdale,AllVacants,2007,1514
-E07000026,Allerdale,AllVacants,2008,1579
-E07000026,Allerdale,AllVacants,2009,1618
-E07000026,Allerdale,AllVacants,2010,1896
-E07000026,Allerdale,AllVacants,2011,1856
-E07000026,Allerdale,AllVacants,2012,1821
-E07000026,Allerdale,AllVacants,2013,1830
-E07000026,Allerdale,AllVacants,2014,1842
-E07000026,Allerdale,AllVacants,2015,1908
-E07000026,Allerdale,AllVacants,2016,1939
-E07000026,Allerdale,AllVacants,2017,1845
-E07000026,Allerdale,AllVacants,2018,1837
-E07000026,Allerdale,AllVacants,2019,1894
-E07000026,Allerdale,AllVacants,2020,1775
-E07000026,Allerdale,AllVacants,2021,1685
-E07000026,Allerdale,AllVacants,2022,1661
-E07000026,Allerdale,Dwellings,2004,43662
-E07000026,Allerdale,Dwellings,2005,43813
-E07000026,Allerdale,Dwellings,2006,44216
-E07000026,Allerdale,Dwellings,2007,44407
-E07000026,Allerdale,Dwellings,2008,44685
-E07000026,Allerdale,Dwellings,2009,44917
-E07000026,Allerdale,Dwellings,2010,45238
-E07000026,Allerdale,Dwellings,2011,45433
-E07000026,Allerdale,Dwellings,2012,45625
-E07000026,Allerdale,Dwellings,2013,45833
-E07000026,Allerdale,Dwellings,2014,46044
-E07000026,Allerdale,Dwellings,2015,46358
-E07000026,Allerdale,Dwellings,2016,46752
-E07000026,Allerdale,Dwellings,2017,47014
-E07000026,Allerdale,Dwellings,2018,47507
-E07000026,Allerdale,Dwellings,2019,47856
-E07000026,Allerdale,Dwellings,2020,48124
-E07000026,Allerdale,Dwellings,2021,48437
-E07000026,Allerdale,Dwellings,2022,48667
-E07000026,Allerdale,Dwellings,2023,48914
-E07000026,Allerdale,HouseholdProjection,2004,40564
-E07000026,Allerdale,HouseholdProjection,2005,40769
-E07000026,Allerdale,HouseholdProjection,2006,41055
-E07000026,Allerdale,HouseholdProjection,2007,41375
-E07000026,Allerdale,HouseholdProjection,2008,41612
-E07000026,Allerdale,HouseholdProjection,2009,41835
-E07000026,Allerdale,HouseholdProjection,2010,41955
-E07000026,Allerdale,HouseholdProjection,2011,42230
-E07000026,Allerdale,HouseholdProjection,2012,42300
-E07000026,Allerdale,HouseholdProjection,2013,42374
-E07000026,Allerdale,HouseholdProjection,2014,42611
-E07000026,Allerdale,HouseholdProjection,2015,42825
-E07000026,Allerdale,HouseholdProjection,2016,43084
-E07000026,Allerdale,HouseholdProjection,2017,43247
-E07000026,Allerdale,HouseholdProjection,2018,43470
-E07000026,Allerdale,HouseholdProjection,2019,43724
-E07000026,Allerdale,HouseholdProjection,2020,43895
-E07000026,Allerdale,HouseholdProjection,2021,44034
-E07000026,Allerdale,HouseholdProjection,2022,44199
-E07000026,Allerdale,HouseholdProjection,2023,44359
-E07000026,Allerdale,LongTermVacants,2004,695
-E07000026,Allerdale,LongTermVacants,2005,759
-E07000026,Allerdale,LongTermVacants,2006,790
-E07000026,Allerdale,LongTermVacants,2007,722
-E07000026,Allerdale,LongTermVacants,2008,745
-E07000026,Allerdale,LongTermVacants,2009,728
-E07000026,Allerdale,LongTermVacants,2010,766
-E07000026,Allerdale,LongTermVacants,2011,923
-E07000026,Allerdale,LongTermVacants,2012,926
-E07000026,Allerdale,LongTermVacants,2013,707
-E07000026,Allerdale,LongTermVacants,2014,784
-E07000026,Allerdale,LongTermVacants,2015,785
-E07000026,Allerdale,LongTermVacants,2016,802
-E07000026,Allerdale,LongTermVacants,2017,838
-E07000026,Allerdale,LongTermVacants,2018,820
-E07000026,Allerdale,LongTermVacants,2019,823
-E07000026,Allerdale,LongTermVacants,2020,827
-E07000026,Allerdale,LongTermVacants,2021,690
-E07000026,Allerdale,LongTermVacants,2022,647
-E07000027,Barrow-in-Furness,AllVacants,2004,2029
-E07000027,Barrow-in-Furness,AllVacants,2005,1773
-E07000027,Barrow-in-Furness,AllVacants,2006,1738
-E07000027,Barrow-in-Furness,AllVacants,2007,1774
-E07000027,Barrow-in-Furness,AllVacants,2008,1825
-E07000027,Barrow-in-Furness,AllVacants,2009,1737
-E07000027,Barrow-in-Furness,AllVacants,2010,1890
-E07000027,Barrow-in-Furness,AllVacants,2011,1736
-E07000027,Barrow-in-Furness,AllVacants,2012,1668
-E07000027,Barrow-in-Furness,AllVacants,2013,1660
-E07000027,Barrow-in-Furness,AllVacants,2014,1655
-E07000027,Barrow-in-Furness,AllVacants,2015,1489
-E07000027,Barrow-in-Furness,AllVacants,2016,1709
-E07000027,Barrow-in-Furness,AllVacants,2017,1481
-E07000027,Barrow-in-Furness,AllVacants,2018,1572
-E07000027,Barrow-in-Furness,AllVacants,2019,1575
-E07000027,Barrow-in-Furness,AllVacants,2020,1659
-E07000027,Barrow-in-Furness,AllVacants,2021,1598
-E07000027,Barrow-in-Furness,AllVacants,2022,1588
-E07000027,Barrow-in-Furness,Dwellings,2004,32557
-E07000027,Barrow-in-Furness,Dwellings,2005,32643
-E07000027,Barrow-in-Furness,Dwellings,2006,32677
-E07000027,Barrow-in-Furness,Dwellings,2007,32770
-E07000027,Barrow-in-Furness,Dwellings,2008,32835
-E07000027,Barrow-in-Furness,Dwellings,2009,32902
-E07000027,Barrow-in-Furness,Dwellings,2010,32945
-E07000027,Barrow-in-Furness,Dwellings,2011,33018
-E07000027,Barrow-in-Furness,Dwellings,2012,32993
-E07000027,Barrow-in-Furness,Dwellings,2013,33084
-E07000027,Barrow-in-Furness,Dwellings,2014,33203
-E07000027,Barrow-in-Furness,Dwellings,2015,33332
-E07000027,Barrow-in-Furness,Dwellings,2016,33465
-E07000027,Barrow-in-Furness,Dwellings,2017,33577
-E07000027,Barrow-in-Furness,Dwellings,2018,33719
-E07000027,Barrow-in-Furness,Dwellings,2019,33888
-E07000027,Barrow-in-Furness,Dwellings,2020,34037
-E07000027,Barrow-in-Furness,Dwellings,2021,34172
-E07000027,Barrow-in-Furness,Dwellings,2022,34350
-E07000027,Barrow-in-Furness,Dwellings,2023,34456
-E07000027,Barrow-in-Furness,HouseholdProjection,2004,30414
-E07000027,Barrow-in-Furness,HouseholdProjection,2005,30508
-E07000027,Barrow-in-Furness,HouseholdProjection,2006,30599
-E07000027,Barrow-in-Furness,HouseholdProjection,2007,30640
-E07000027,Barrow-in-Furness,HouseholdProjection,2008,30722
-E07000027,Barrow-in-Furness,HouseholdProjection,2009,30874
-E07000027,Barrow-in-Furness,HouseholdProjection,2010,30984
-E07000027,Barrow-in-Furness,HouseholdProjection,2011,31018
-E07000027,Barrow-in-Furness,HouseholdProjection,2012,30975
-E07000027,Barrow-in-Furness,HouseholdProjection,2013,30860
-E07000027,Barrow-in-Furness,HouseholdProjection,2014,30964
-E07000027,Barrow-in-Furness,HouseholdProjection,2015,31034
-E07000027,Barrow-in-Furness,HouseholdProjection,2016,31090
-E07000027,Barrow-in-Furness,HouseholdProjection,2017,31071
-E07000027,Barrow-in-Furness,HouseholdProjection,2018,31227
-E07000027,Barrow-in-Furness,HouseholdProjection,2019,31310
-E07000027,Barrow-in-Furness,HouseholdProjection,2020,31319
-E07000027,Barrow-in-Furness,HouseholdProjection,2021,31349
-E07000027,Barrow-in-Furness,HouseholdProjection,2022,31306
-E07000027,Barrow-in-Furness,HouseholdProjection,2023,31260
-E07000027,Barrow-in-Furness,LongTermVacants,2004,1204
-E07000027,Barrow-in-Furness,LongTermVacants,2005,812
-E07000027,Barrow-in-Furness,LongTermVacants,2006,900
-E07000027,Barrow-in-Furness,LongTermVacants,2007,907
-E07000027,Barrow-in-Furness,LongTermVacants,2008,933
-E07000027,Barrow-in-Furness,LongTermVacants,2009,884
-E07000027,Barrow-in-Furness,LongTermVacants,2010,737
-E07000027,Barrow-in-Furness,LongTermVacants,2011,685
-E07000027,Barrow-in-Furness,LongTermVacants,2012,723
-E07000027,Barrow-in-Furness,LongTermVacants,2013,578
-E07000027,Barrow-in-Furness,LongTermVacants,2014,592
-E07000027,Barrow-in-Furness,LongTermVacants,2015,891
-E07000027,Barrow-in-Furness,LongTermVacants,2016,907
-E07000027,Barrow-in-Furness,LongTermVacants,2017,788
-E07000027,Barrow-in-Furness,LongTermVacants,2018,837
-E07000027,Barrow-in-Furness,LongTermVacants,2019,859
-E07000027,Barrow-in-Furness,LongTermVacants,2020,969
-E07000027,Barrow-in-Furness,LongTermVacants,2021,901
-E07000027,Barrow-in-Furness,LongTermVacants,2022,892
-E07000028,Carlisle,AllVacants,2004,1414
-E07000028,Carlisle,AllVacants,2005,2108
-E07000028,Carlisle,AllVacants,2006,1669
-E07000028,Carlisle,AllVacants,2007,1678
-E07000028,Carlisle,AllVacants,2008,1623
-E07000028,Carlisle,AllVacants,2009,1743
-E07000028,Carlisle,AllVacants,2010,1694
-E07000028,Carlisle,AllVacants,2011,1876
-E07000028,Carlisle,AllVacants,2012,1796
-E07000028,Carlisle,AllVacants,2013,1639
-E07000028,Carlisle,AllVacants,2014,1586
-E07000028,Carlisle,AllVacants,2015,1525
-E07000028,Carlisle,AllVacants,2016,2053
-E07000028,Carlisle,AllVacants,2017,1854
-E07000028,Carlisle,AllVacants,2018,1851
-E07000028,Carlisle,AllVacants,2019,1978
-E07000028,Carlisle,AllVacants,2020,2006
-E07000028,Carlisle,AllVacants,2021,1758
-E07000028,Carlisle,AllVacants,2022,1683
-E07000028,Carlisle,Dwellings,2004,46474
-E07000028,Carlisle,Dwellings,2005,47152
-E07000028,Carlisle,Dwellings,2006,47804
-E07000028,Carlisle,Dwellings,2007,48326
-E07000028,Carlisle,Dwellings,2008,48776
-E07000028,Carlisle,Dwellings,2009,49367
-E07000028,Carlisle,Dwellings,2010,49785
-E07000028,Carlisle,Dwellings,2011,50230
-E07000028,Carlisle,Dwellings,2012,50563
-E07000028,Carlisle,Dwellings,2013,50684
-E07000028,Carlisle,Dwellings,2014,50778
-E07000028,Carlisle,Dwellings,2015,51102
-E07000028,Carlisle,Dwellings,2016,51509
-E07000028,Carlisle,Dwellings,2017,51954
-E07000028,Carlisle,Dwellings,2018,52364
-E07000028,Carlisle,Dwellings,2019,52860
-E07000028,Carlisle,Dwellings,2020,53428
-E07000028,Carlisle,Dwellings,2021,53804
-E07000028,Carlisle,Dwellings,2022,54327
-E07000028,Carlisle,Dwellings,2023,54725
-E07000028,Carlisle,HouseholdProjection,2004,45381
-E07000028,Carlisle,HouseholdProjection,2005,45887
-E07000028,Carlisle,HouseholdProjection,2006,46450
-E07000028,Carlisle,HouseholdProjection,2007,46905
-E07000028,Carlisle,HouseholdProjection,2008,47180
-E07000028,Carlisle,HouseholdProjection,2009,47352
-E07000028,Carlisle,HouseholdProjection,2010,47550
-E07000028,Carlisle,HouseholdProjection,2011,48009
-E07000028,Carlisle,HouseholdProjection,2012,48233
-E07000028,Carlisle,HouseholdProjection,2013,48414
-E07000028,Carlisle,HouseholdProjection,2014,48567
-E07000028,Carlisle,HouseholdProjection,2015,48675
-E07000028,Carlisle,HouseholdProjection,2016,48890
-E07000028,Carlisle,HouseholdProjection,2017,49022
-E07000028,Carlisle,HouseholdProjection,2018,49277
-E07000028,Carlisle,HouseholdProjection,2019,49499
-E07000028,Carlisle,HouseholdProjection,2020,49640
-E07000028,Carlisle,HouseholdProjection,2021,49784
-E07000028,Carlisle,HouseholdProjection,2022,49934
-E07000028,Carlisle,HouseholdProjection,2023,50073
-E07000028,Carlisle,LongTermVacants,2004,578
-E07000028,Carlisle,LongTermVacants,2005,615
-E07000028,Carlisle,LongTermVacants,2006,745
-E07000028,Carlisle,LongTermVacants,2007,660
-E07000028,Carlisle,LongTermVacants,2008,756
-E07000028,Carlisle,LongTermVacants,2009,767
-E07000028,Carlisle,LongTermVacants,2010,739
-E07000028,Carlisle,LongTermVacants,2011,741
-E07000028,Carlisle,LongTermVacants,2012,690
-E07000028,Carlisle,LongTermVacants,2013,643
-E07000028,Carlisle,LongTermVacants,2014,539
-E07000028,Carlisle,LongTermVacants,2015,608
-E07000028,Carlisle,LongTermVacants,2016,553
-E07000028,Carlisle,LongTermVacants,2017,753
-E07000028,Carlisle,LongTermVacants,2018,789
-E07000028,Carlisle,LongTermVacants,2019,821
-E07000028,Carlisle,LongTermVacants,2020,1011
-E07000028,Carlisle,LongTermVacants,2021,656
-E07000028,Carlisle,LongTermVacants,2022,668
-E07000029,Copeland,AllVacants,2004,1301
-E07000029,Copeland,AllVacants,2005,1286
-E07000029,Copeland,AllVacants,2006,900
-E07000029,Copeland,AllVacants,2007,1314
-E07000029,Copeland,AllVacants,2008,1227
-E07000029,Copeland,AllVacants,2009,1408
-E07000029,Copeland,AllVacants,2010,1374
-E07000029,Copeland,AllVacants,2011,1354
-E07000029,Copeland,AllVacants,2012,1484
-E07000029,Copeland,AllVacants,2013,1365
-E07000029,Copeland,AllVacants,2014,1395
-E07000029,Copeland,AllVacants,2015,1479
-E07000029,Copeland,AllVacants,2016,1528
-E07000029,Copeland,AllVacants,2017,1563
-E07000029,Copeland,AllVacants,2018,1591
-E07000029,Copeland,AllVacants,2019,1404
-E07000029,Copeland,AllVacants,2020,1272
-E07000029,Copeland,AllVacants,2021,1089
-E07000029,Copeland,AllVacants,2022,1035
-E07000029,Copeland,Dwellings,2004,31757
-E07000029,Copeland,Dwellings,2005,31999
-E07000029,Copeland,Dwellings,2006,32095
-E07000029,Copeland,Dwellings,2007,32207
-E07000029,Copeland,Dwellings,2008,32284
-E07000029,Copeland,Dwellings,2009,32306
-E07000029,Copeland,Dwellings,2010,32366
-E07000029,Copeland,Dwellings,2011,32428
-E07000029,Copeland,Dwellings,2012,32511
-E07000029,Copeland,Dwellings,2013,32714
-E07000029,Copeland,Dwellings,2014,32904
-E07000029,Copeland,Dwellings,2015,33077
-E07000029,Copeland,Dwellings,2016,33249
-E07000029,Copeland,Dwellings,2017,33447
-E07000029,Copeland,Dwellings,2018,33623
-E07000029,Copeland,Dwellings,2019,33784
-E07000029,Copeland,Dwellings,2020,33993
-E07000029,Copeland,Dwellings,2021,34144
-E07000029,Copeland,Dwellings,2022,34298
-E07000029,Copeland,Dwellings,2023,34441
-E07000029,Copeland,HouseholdProjection,2004,29625
-E07000029,Copeland,HouseholdProjection,2005,29827
-E07000029,Copeland,HouseholdProjection,2006,30025
-E07000029,Copeland,HouseholdProjection,2007,30220
-E07000029,Copeland,HouseholdProjection,2008,30316
-E07000029,Copeland,HouseholdProjection,2009,30345
-E07000029,Copeland,HouseholdProjection,2010,30420
-E07000029,Copeland,HouseholdProjection,2011,30452
-E07000029,Copeland,HouseholdProjection,2012,30363
-E07000029,Copeland,HouseholdProjection,2013,30274
-E07000029,Copeland,HouseholdProjection,2014,30219
-E07000029,Copeland,HouseholdProjection,2015,30164
-E07000029,Copeland,HouseholdProjection,2016,30005
-E07000029,Copeland,HouseholdProjection,2017,29878
-E07000029,Copeland,HouseholdProjection,2018,29841
-E07000029,Copeland,HouseholdProjection,2019,29767
-E07000029,Copeland,HouseholdProjection,2020,29658
-E07000029,Copeland,HouseholdProjection,2021,29553
-E07000029,Copeland,HouseholdProjection,2022,29500
-E07000029,Copeland,HouseholdProjection,2023,29448
-E07000029,Copeland,LongTermVacants,2004,715
-E07000029,Copeland,LongTermVacants,2005,668
-E07000029,Copeland,LongTermVacants,2006,331
-E07000029,Copeland,LongTermVacants,2007,688
-E07000029,Copeland,LongTermVacants,2008,636
-E07000029,Copeland,LongTermVacants,2009,714
-E07000029,Copeland,LongTermVacants,2010,801
-E07000029,Copeland,LongTermVacants,2011,756
-E07000029,Copeland,LongTermVacants,2012,759
-E07000029,Copeland,LongTermVacants,2013,607
-E07000029,Copeland,LongTermVacants,2014,659
-E07000029,Copeland,LongTermVacants,2015,692
-E07000029,Copeland,LongTermVacants,2016,724
-E07000029,Copeland,LongTermVacants,2017,914
-E07000029,Copeland,LongTermVacants,2018,847
-E07000029,Copeland,LongTermVacants,2019,764
-E07000029,Copeland,LongTermVacants,2020,677
-E07000029,Copeland,LongTermVacants,2021,477
-E07000029,Copeland,LongTermVacants,2022,468
-E07000030,Eden,AllVacants,2004,657
-E07000030,Eden,AllVacants,2005,745
-E07000030,Eden,AllVacants,2006,710
-E07000030,Eden,AllVacants,2007,785
-E07000030,Eden,AllVacants,2008,797
-E07000030,Eden,AllVacants,2009,755
-E07000030,Eden,AllVacants,2010,851
-E07000030,Eden,AllVacants,2011,913
-E07000030,Eden,AllVacants,2012,979
-E07000030,Eden,AllVacants,2013,1117
-E07000030,Eden,AllVacants,2014,1105
-E07000030,Eden,AllVacants,2015,1038
-E07000030,Eden,AllVacants,2016,1169
-E07000030,Eden,AllVacants,2017,1075
-E07000030,Eden,AllVacants,2018,1057
-E07000030,Eden,AllVacants,2019,1004
-E07000030,Eden,AllVacants,2020,1103
-E07000030,Eden,AllVacants,2021,1140
-E07000030,Eden,AllVacants,2022,1083
-E07000030,Eden,Dwellings,2004,24375
-E07000030,Eden,Dwellings,2005,24555
-E07000030,Eden,Dwellings,2006,24679
-E07000030,Eden,Dwellings,2007,24842
-E07000030,Eden,Dwellings,2008,24990
-E07000030,Eden,Dwellings,2009,25090
-E07000030,Eden,Dwellings,2010,25196
-E07000030,Eden,Dwellings,2011,25305
-E07000030,Eden,Dwellings,2012,25532
-E07000030,Eden,Dwellings,2013,25828
-E07000030,Eden,Dwellings,2014,26106
-E07000030,Eden,Dwellings,2015,26359
-E07000030,Eden,Dwellings,2016,26742
-E07000030,Eden,Dwellings,2017,27058
-E07000030,Eden,Dwellings,2018,27366
-E07000030,Eden,Dwellings,2019,27796
-E07000030,Eden,Dwellings,2020,28281
-E07000030,Eden,Dwellings,2021,28667
-E07000030,Eden,Dwellings,2022,28991
-E07000030,Eden,Dwellings,2023,29377
-E07000030,Eden,HouseholdProjection,2004,21981
-E07000030,Eden,HouseholdProjection,2005,22192
-E07000030,Eden,HouseholdProjection,2006,22356
-E07000030,Eden,HouseholdProjection,2007,22534
-E07000030,Eden,HouseholdProjection,2008,22695
-E07000030,Eden,HouseholdProjection,2009,22889
-E07000030,Eden,HouseholdProjection,2010,22972
-E07000030,Eden,HouseholdProjection,2011,22991
-E07000030,Eden,HouseholdProjection,2012,23140
-E07000030,Eden,HouseholdProjection,2013,23190
-E07000030,Eden,HouseholdProjection,2014,23297
-E07000030,Eden,HouseholdProjection,2015,23423
-E07000030,Eden,HouseholdProjection,2016,23571
-E07000030,Eden,HouseholdProjection,2017,23754
-E07000030,Eden,HouseholdProjection,2018,23897
-E07000030,Eden,HouseholdProjection,2019,24077
-E07000030,Eden,HouseholdProjection,2020,24223
-E07000030,Eden,HouseholdProjection,2021,24368
-E07000030,Eden,HouseholdProjection,2022,24529
-E07000030,Eden,HouseholdProjection,2023,24668
-E07000030,Eden,LongTermVacants,2004,259
-E07000030,Eden,LongTermVacants,2005,264
-E07000030,Eden,LongTermVacants,2006,285
-E07000030,Eden,LongTermVacants,2007,315
-E07000030,Eden,LongTermVacants,2008,370
-E07000030,Eden,LongTermVacants,2009,352
-E07000030,Eden,LongTermVacants,2010,396
-E07000030,Eden,LongTermVacants,2011,392
-E07000030,Eden,LongTermVacants,2012,463
-E07000030,Eden,LongTermVacants,2013,416
-E07000030,Eden,LongTermVacants,2014,499
-E07000030,Eden,LongTermVacants,2015,466
-E07000030,Eden,LongTermVacants,2016,364
-E07000030,Eden,LongTermVacants,2017,442
-E07000030,Eden,LongTermVacants,2018,471
-E07000030,Eden,LongTermVacants,2019,440
-E07000030,Eden,LongTermVacants,2020,559
-E07000030,Eden,LongTermVacants,2021,547
-E07000030,Eden,LongTermVacants,2022,566
-E07000031,South Lakeland,AllVacants,2004,1595
-E07000031,South Lakeland,AllVacants,2005,1709
-E07000031,South Lakeland,AllVacants,2006,1807
-E07000031,South Lakeland,AllVacants,2007,1906
-E07000031,South Lakeland,AllVacants,2008,2025
-E07000031,South Lakeland,AllVacants,2009,1956
-E07000031,South Lakeland,AllVacants,2010,2082
-E07000031,South Lakeland,AllVacants,2011,2062
-E07000031,South Lakeland,AllVacants,2012,2137
-E07000031,South Lakeland,AllVacants,2013,2010
-E07000031,South Lakeland,AllVacants,2014,2038
-E07000031,South Lakeland,AllVacants,2015,2053
-E07000031,South Lakeland,AllVacants,2016,2102
-E07000031,South Lakeland,AllVacants,2017,2108
-E07000031,South Lakeland,AllVacants,2018,2093
-E07000031,South Lakeland,AllVacants,2019,1979
-E07000031,South Lakeland,AllVacants,2020,2019
-E07000031,South Lakeland,AllVacants,2021,1913
-E07000031,South Lakeland,AllVacants,2022,1830
-E07000031,South Lakeland,Dwellings,2004,50941
-E07000031,South Lakeland,Dwellings,2005,51216
-E07000031,South Lakeland,Dwellings,2006,51646
-E07000031,South Lakeland,Dwellings,2007,52026
-E07000031,South Lakeland,Dwellings,2008,52323
-E07000031,South Lakeland,Dwellings,2009,52658
-E07000031,South Lakeland,Dwellings,2010,53138
-E07000031,South Lakeland,Dwellings,2011,53422
-E07000031,South Lakeland,Dwellings,2012,53573
-E07000031,South Lakeland,Dwellings,2013,53785
-E07000031,South Lakeland,Dwellings,2014,54005
-E07000031,South Lakeland,Dwellings,2015,54329
-E07000031,South Lakeland,Dwellings,2016,54613
-E07000031,South Lakeland,Dwellings,2017,54876
-E07000031,South Lakeland,Dwellings,2018,55186
-E07000031,South Lakeland,Dwellings,2019,55468
-E07000031,South Lakeland,Dwellings,2020,55702
-E07000031,South Lakeland,Dwellings,2021,55856
-E07000031,South Lakeland,Dwellings,2022,56162
-E07000031,South Lakeland,Dwellings,2023,56506
-E07000031,South Lakeland,HouseholdProjection,2004,45007
-E07000031,South Lakeland,HouseholdProjection,2005,45395
-E07000031,South Lakeland,HouseholdProjection,2006,45675
-E07000031,South Lakeland,HouseholdProjection,2007,45928
-E07000031,South Lakeland,HouseholdProjection,2008,46099
-E07000031,South Lakeland,HouseholdProjection,2009,46208
-E07000031,South Lakeland,HouseholdProjection,2010,46244
-E07000031,South Lakeland,HouseholdProjection,2011,46532
-E07000031,South Lakeland,HouseholdProjection,2012,46609
-E07000031,South Lakeland,HouseholdProjection,2013,46774
-E07000031,South Lakeland,HouseholdProjection,2014,46890
-E07000031,South Lakeland,HouseholdProjection,2015,47043
-E07000031,South Lakeland,HouseholdProjection,2016,47164
-E07000031,South Lakeland,HouseholdProjection,2017,47488
-E07000031,South Lakeland,HouseholdProjection,2018,47680
-E07000031,South Lakeland,HouseholdProjection,2019,48004
-E07000031,South Lakeland,HouseholdProjection,2020,48262
-E07000031,South Lakeland,HouseholdProjection,2021,48503
-E07000031,South Lakeland,HouseholdProjection,2022,48776
-E07000031,South Lakeland,HouseholdProjection,2023,49037
-E07000031,South Lakeland,LongTermVacants,2004,835
-E07000031,South Lakeland,LongTermVacants,2005,883
-E07000031,South Lakeland,LongTermVacants,2006,959
-E07000031,South Lakeland,LongTermVacants,2007,1006
-E07000031,South Lakeland,LongTermVacants,2008,1045
-E07000031,South Lakeland,LongTermVacants,2009,975
-E07000031,South Lakeland,LongTermVacants,2010,1044
-E07000031,South Lakeland,LongTermVacants,2011,1079
-E07000031,South Lakeland,LongTermVacants,2012,1037
-E07000031,South Lakeland,LongTermVacants,2013,1026
-E07000031,South Lakeland,LongTermVacants,2014,957
-E07000031,South Lakeland,LongTermVacants,2015,971
-E07000031,South Lakeland,LongTermVacants,2016,827
-E07000031,South Lakeland,LongTermVacants,2017,973
-E07000031,South Lakeland,LongTermVacants,2018,987
-E07000031,South Lakeland,LongTermVacants,2019,905
-E07000031,South Lakeland,LongTermVacants,2020,1039
-E07000031,South Lakeland,LongTermVacants,2021,862
-E07000031,South Lakeland,LongTermVacants,2022,900
 E07000032,Amber Valley,AllVacants,2004,2012
 E07000032,Amber Valley,AllVacants,2005,2056
 E07000032,Amber Valley,AllVacants,2006,2072
@@ -14948,552 +14792,6 @@ E07000162,Wansbeck,LongTermVacants,2005,476
 E07000162,Wansbeck,LongTermVacants,2006,556
 E07000162,Wansbeck,LongTermVacants,2007,628
 E07000162,Wansbeck,LongTermVacants,2008,631
-E07000163,Craven,AllVacants,2004,792
-E07000163,Craven,AllVacants,2005,810
-E07000163,Craven,AllVacants,2006,885
-E07000163,Craven,AllVacants,2007,915
-E07000163,Craven,AllVacants,2008,995
-E07000163,Craven,AllVacants,2009,950
-E07000163,Craven,AllVacants,2010,768
-E07000163,Craven,AllVacants,2011,944
-E07000163,Craven,AllVacants,2012,931
-E07000163,Craven,AllVacants,2013,949
-E07000163,Craven,AllVacants,2014,940
-E07000163,Craven,AllVacants,2015,1007
-E07000163,Craven,AllVacants,2016,938
-E07000163,Craven,AllVacants,2017,751
-E07000163,Craven,AllVacants,2018,900
-E07000163,Craven,AllVacants,2019,761
-E07000163,Craven,AllVacants,2020,750
-E07000163,Craven,AllVacants,2021,725
-E07000163,Craven,AllVacants,2022,811
-E07000163,Craven,Dwellings,2004,25168
-E07000163,Craven,Dwellings,2005,25469
-E07000163,Craven,Dwellings,2006,25742
-E07000163,Craven,Dwellings,2007,26003
-E07000163,Craven,Dwellings,2008,26222
-E07000163,Craven,Dwellings,2009,26621
-E07000163,Craven,Dwellings,2010,26803
-E07000163,Craven,Dwellings,2011,27014
-E07000163,Craven,Dwellings,2012,27255
-E07000163,Craven,Dwellings,2013,27340
-E07000163,Craven,Dwellings,2014,27340
-E07000163,Craven,Dwellings,2015,27483
-E07000163,Craven,Dwellings,2016,27638
-E07000163,Craven,Dwellings,2017,27835
-E07000163,Craven,Dwellings,2018,28041
-E07000163,Craven,Dwellings,2019,28259
-E07000163,Craven,Dwellings,2020,28517
-E07000163,Craven,Dwellings,2021,28673
-E07000163,Craven,Dwellings,2022,28976
-E07000163,Craven,Dwellings,2023,29261
-E07000163,Craven,HouseholdProjection,2004,23177
-E07000163,Craven,HouseholdProjection,2005,23457
-E07000163,Craven,HouseholdProjection,2006,23680
-E07000163,Craven,HouseholdProjection,2007,23941
-E07000163,Craven,HouseholdProjection,2008,24170
-E07000163,Craven,HouseholdProjection,2009,24224
-E07000163,Craven,HouseholdProjection,2010,24355
-E07000163,Craven,HouseholdProjection,2011,24563
-E07000163,Craven,HouseholdProjection,2012,24674
-E07000163,Craven,HouseholdProjection,2013,24799
-E07000163,Craven,HouseholdProjection,2014,24978
-E07000163,Craven,HouseholdProjection,2015,25109
-E07000163,Craven,HouseholdProjection,2016,25452
-E07000163,Craven,HouseholdProjection,2017,25692
-E07000163,Craven,HouseholdProjection,2018,25903
-E07000163,Craven,HouseholdProjection,2019,26142
-E07000163,Craven,HouseholdProjection,2020,26350
-E07000163,Craven,HouseholdProjection,2021,26554
-E07000163,Craven,HouseholdProjection,2022,26769
-E07000163,Craven,HouseholdProjection,2023,26979
-E07000163,Craven,LongTermVacants,2004,286
-E07000163,Craven,LongTermVacants,2005,232
-E07000163,Craven,LongTermVacants,2006,244
-E07000163,Craven,LongTermVacants,2007,276
-E07000163,Craven,LongTermVacants,2008,353
-E07000163,Craven,LongTermVacants,2009,245
-E07000163,Craven,LongTermVacants,2010,186
-E07000163,Craven,LongTermVacants,2011,192
-E07000163,Craven,LongTermVacants,2012,204
-E07000163,Craven,LongTermVacants,2013,162
-E07000163,Craven,LongTermVacants,2014,295
-E07000163,Craven,LongTermVacants,2015,321
-E07000163,Craven,LongTermVacants,2016,333
-E07000163,Craven,LongTermVacants,2017,315
-E07000163,Craven,LongTermVacants,2018,430
-E07000163,Craven,LongTermVacants,2019,283
-E07000163,Craven,LongTermVacants,2020,270
-E07000163,Craven,LongTermVacants,2021,229
-E07000163,Craven,LongTermVacants,2022,398
-E07000164,Hambleton,AllVacants,2004,837
-E07000164,Hambleton,AllVacants,2005,1013
-E07000164,Hambleton,AllVacants,2006,1079
-E07000164,Hambleton,AllVacants,2007,1173
-E07000164,Hambleton,AllVacants,2008,1224
-E07000164,Hambleton,AllVacants,2009,1154
-E07000164,Hambleton,AllVacants,2010,1129
-E07000164,Hambleton,AllVacants,2011,1225
-E07000164,Hambleton,AllVacants,2012,1222
-E07000164,Hambleton,AllVacants,2013,1138
-E07000164,Hambleton,AllVacants,2014,1194
-E07000164,Hambleton,AllVacants,2015,1226
-E07000164,Hambleton,AllVacants,2016,1222
-E07000164,Hambleton,AllVacants,2017,1397
-E07000164,Hambleton,AllVacants,2018,1376
-E07000164,Hambleton,AllVacants,2019,1415
-E07000164,Hambleton,AllVacants,2020,1446
-E07000164,Hambleton,AllVacants,2021,1313
-E07000164,Hambleton,AllVacants,2022,1335
-E07000164,Hambleton,Dwellings,2004,37327
-E07000164,Hambleton,Dwellings,2005,37644
-E07000164,Hambleton,Dwellings,2006,38106
-E07000164,Hambleton,Dwellings,2007,38536
-E07000164,Hambleton,Dwellings,2008,38990
-E07000164,Hambleton,Dwellings,2009,39328
-E07000164,Hambleton,Dwellings,2010,39611
-E07000164,Hambleton,Dwellings,2011,39896
-E07000164,Hambleton,Dwellings,2012,40026
-E07000164,Hambleton,Dwellings,2013,40131
-E07000164,Hambleton,Dwellings,2014,40289
-E07000164,Hambleton,Dwellings,2015,40584
-E07000164,Hambleton,Dwellings,2016,40934
-E07000164,Hambleton,Dwellings,2017,41470
-E07000164,Hambleton,Dwellings,2018,41877
-E07000164,Hambleton,Dwellings,2019,42340
-E07000164,Hambleton,Dwellings,2020,42987
-E07000164,Hambleton,Dwellings,2021,43574
-E07000164,Hambleton,Dwellings,2022,44069
-E07000164,Hambleton,Dwellings,2023,44676
-E07000164,Hambleton,HouseholdProjection,2004,35536
-E07000164,Hambleton,HouseholdProjection,2005,35812
-E07000164,Hambleton,HouseholdProjection,2006,36342
-E07000164,Hambleton,HouseholdProjection,2007,36681
-E07000164,Hambleton,HouseholdProjection,2008,37155
-E07000164,Hambleton,HouseholdProjection,2009,37464
-E07000164,Hambleton,HouseholdProjection,2010,37772
-E07000164,Hambleton,HouseholdProjection,2011,38276
-E07000164,Hambleton,HouseholdProjection,2012,38518
-E07000164,Hambleton,HouseholdProjection,2013,38751
-E07000164,Hambleton,HouseholdProjection,2014,38992
-E07000164,Hambleton,HouseholdProjection,2015,39340
-E07000164,Hambleton,HouseholdProjection,2016,39679
-E07000164,Hambleton,HouseholdProjection,2017,39957
-E07000164,Hambleton,HouseholdProjection,2018,40339
-E07000164,Hambleton,HouseholdProjection,2019,40618
-E07000164,Hambleton,HouseholdProjection,2020,40851
-E07000164,Hambleton,HouseholdProjection,2021,41050
-E07000164,Hambleton,HouseholdProjection,2022,41300
-E07000164,Hambleton,HouseholdProjection,2023,41526
-E07000164,Hambleton,LongTermVacants,2004,318
-E07000164,Hambleton,LongTermVacants,2005,379
-E07000164,Hambleton,LongTermVacants,2006,435
-E07000164,Hambleton,LongTermVacants,2007,465
-E07000164,Hambleton,LongTermVacants,2008,525
-E07000164,Hambleton,LongTermVacants,2009,470
-E07000164,Hambleton,LongTermVacants,2010,428
-E07000164,Hambleton,LongTermVacants,2011,451
-E07000164,Hambleton,LongTermVacants,2012,444
-E07000164,Hambleton,LongTermVacants,2013,383
-E07000164,Hambleton,LongTermVacants,2014,423
-E07000164,Hambleton,LongTermVacants,2015,393
-E07000164,Hambleton,LongTermVacants,2016,361
-E07000164,Hambleton,LongTermVacants,2017,468
-E07000164,Hambleton,LongTermVacants,2018,457
-E07000164,Hambleton,LongTermVacants,2019,481
-E07000164,Hambleton,LongTermVacants,2020,502
-E07000164,Hambleton,LongTermVacants,2021,413
-E07000164,Hambleton,LongTermVacants,2022,433
-E07000165,Harrogate,AllVacants,2004,2346
-E07000165,Harrogate,AllVacants,2005,2312
-E07000165,Harrogate,AllVacants,2006,2335
-E07000165,Harrogate,AllVacants,2007,2501
-E07000165,Harrogate,AllVacants,2008,2638
-E07000165,Harrogate,AllVacants,2009,2563
-E07000165,Harrogate,AllVacants,2010,2577
-E07000165,Harrogate,AllVacants,2011,2566
-E07000165,Harrogate,AllVacants,2012,2499
-E07000165,Harrogate,AllVacants,2013,2312
-E07000165,Harrogate,AllVacants,2014,2219
-E07000165,Harrogate,AllVacants,2015,2300
-E07000165,Harrogate,AllVacants,2016,2086
-E07000165,Harrogate,AllVacants,2017,2230
-E07000165,Harrogate,AllVacants,2018,2208
-E07000165,Harrogate,AllVacants,2019,2301
-E07000165,Harrogate,AllVacants,2020,2315
-E07000165,Harrogate,AllVacants,2021,2102
-E07000165,Harrogate,AllVacants,2022,2253
-E07000165,Harrogate,Dwellings,2004,67610
-E07000165,Harrogate,Dwellings,2005,68063
-E07000165,Harrogate,Dwellings,2006,68489
-E07000165,Harrogate,Dwellings,2007,68899
-E07000165,Harrogate,Dwellings,2008,69343
-E07000165,Harrogate,Dwellings,2009,69697
-E07000165,Harrogate,Dwellings,2010,70144
-E07000165,Harrogate,Dwellings,2011,70398
-E07000165,Harrogate,Dwellings,2012,70647
-E07000165,Harrogate,Dwellings,2013,70801
-E07000165,Harrogate,Dwellings,2014,71009
-E07000165,Harrogate,Dwellings,2015,71385
-E07000165,Harrogate,Dwellings,2016,71688
-E07000165,Harrogate,Dwellings,2017,72058
-E07000165,Harrogate,Dwellings,2018,72714
-E07000165,Harrogate,Dwellings,2019,73441
-E07000165,Harrogate,Dwellings,2020,74461
-E07000165,Harrogate,Dwellings,2021,75386
-E07000165,Harrogate,Dwellings,2022,76621
-E07000165,Harrogate,Dwellings,2023,77718
-E07000165,Harrogate,HouseholdProjection,2004,63471
-E07000165,Harrogate,HouseholdProjection,2005,63989
-E07000165,Harrogate,HouseholdProjection,2006,64365
-E07000165,Harrogate,HouseholdProjection,2007,65057
-E07000165,Harrogate,HouseholdProjection,2008,65252
-E07000165,Harrogate,HouseholdProjection,2009,65550
-E07000165,Harrogate,HouseholdProjection,2010,66208
-E07000165,Harrogate,HouseholdProjection,2011,67119
-E07000165,Harrogate,HouseholdProjection,2012,67579
-E07000165,Harrogate,HouseholdProjection,2013,67892
-E07000165,Harrogate,HouseholdProjection,2014,68108
-E07000165,Harrogate,HouseholdProjection,2015,68447
-E07000165,Harrogate,HouseholdProjection,2016,68696
-E07000165,Harrogate,HouseholdProjection,2017,69156
-E07000165,Harrogate,HouseholdProjection,2018,69516
-E07000165,Harrogate,HouseholdProjection,2019,69774
-E07000165,Harrogate,HouseholdProjection,2020,70040
-E07000165,Harrogate,HouseholdProjection,2021,70299
-E07000165,Harrogate,HouseholdProjection,2022,70665
-E07000165,Harrogate,HouseholdProjection,2023,70993
-E07000165,Harrogate,LongTermVacants,2004,896
-E07000165,Harrogate,LongTermVacants,2005,882
-E07000165,Harrogate,LongTermVacants,2006,827
-E07000165,Harrogate,LongTermVacants,2007,849
-E07000165,Harrogate,LongTermVacants,2008,1034
-E07000165,Harrogate,LongTermVacants,2009,860
-E07000165,Harrogate,LongTermVacants,2010,933
-E07000165,Harrogate,LongTermVacants,2011,860
-E07000165,Harrogate,LongTermVacants,2012,840
-E07000165,Harrogate,LongTermVacants,2013,768
-E07000165,Harrogate,LongTermVacants,2014,709
-E07000165,Harrogate,LongTermVacants,2015,811
-E07000165,Harrogate,LongTermVacants,2016,806
-E07000165,Harrogate,LongTermVacants,2017,698
-E07000165,Harrogate,LongTermVacants,2018,742
-E07000165,Harrogate,LongTermVacants,2019,838
-E07000165,Harrogate,LongTermVacants,2020,978
-E07000165,Harrogate,LongTermVacants,2021,753
-E07000165,Harrogate,LongTermVacants,2022,808
-E07000166,Richmondshire,AllVacants,2004,555
-E07000166,Richmondshire,AllVacants,2005,680
-E07000166,Richmondshire,AllVacants,2006,722
-E07000166,Richmondshire,AllVacants,2007,819
-E07000166,Richmondshire,AllVacants,2008,809
-E07000166,Richmondshire,AllVacants,2009,790
-E07000166,Richmondshire,AllVacants,2010,755
-E07000166,Richmondshire,AllVacants,2011,689
-E07000166,Richmondshire,AllVacants,2012,866
-E07000166,Richmondshire,AllVacants,2013,825
-E07000166,Richmondshire,AllVacants,2014,822
-E07000166,Richmondshire,AllVacants,2015,855
-E07000166,Richmondshire,AllVacants,2016,834
-E07000166,Richmondshire,AllVacants,2017,816
-E07000166,Richmondshire,AllVacants,2018,859
-E07000166,Richmondshire,AllVacants,2019,777
-E07000166,Richmondshire,AllVacants,2020,759
-E07000166,Richmondshire,AllVacants,2021,736
-E07000166,Richmondshire,AllVacants,2022,793
-E07000166,Richmondshire,Dwellings,2004,21310
-E07000166,Richmondshire,Dwellings,2005,21550
-E07000166,Richmondshire,Dwellings,2006,21781
-E07000166,Richmondshire,Dwellings,2007,22041
-E07000166,Richmondshire,Dwellings,2008,22334
-E07000166,Richmondshire,Dwellings,2009,22518
-E07000166,Richmondshire,Dwellings,2010,22658
-E07000166,Richmondshire,Dwellings,2011,22797
-E07000166,Richmondshire,Dwellings,2012,22915
-E07000166,Richmondshire,Dwellings,2013,22928
-E07000166,Richmondshire,Dwellings,2014,22967
-E07000166,Richmondshire,Dwellings,2015,23015
-E07000166,Richmondshire,Dwellings,2016,23084
-E07000166,Richmondshire,Dwellings,2017,23262
-E07000166,Richmondshire,Dwellings,2018,23473
-E07000166,Richmondshire,Dwellings,2019,23600
-E07000166,Richmondshire,Dwellings,2020,23584
-E07000166,Richmondshire,Dwellings,2021,23610
-E07000166,Richmondshire,Dwellings,2022,23669
-E07000166,Richmondshire,Dwellings,2023,23769
-E07000166,Richmondshire,HouseholdProjection,2004,18659
-E07000166,Richmondshire,HouseholdProjection,2005,19108
-E07000166,Richmondshire,HouseholdProjection,2006,19457
-E07000166,Richmondshire,HouseholdProjection,2007,19781
-E07000166,Richmondshire,HouseholdProjection,2008,20114
-E07000166,Richmondshire,HouseholdProjection,2009,20211
-E07000166,Richmondshire,HouseholdProjection,2010,20511
-E07000166,Richmondshire,HouseholdProjection,2011,20665
-E07000166,Richmondshire,HouseholdProjection,2012,20969
-E07000166,Richmondshire,HouseholdProjection,2013,21250
-E07000166,Richmondshire,HouseholdProjection,2014,21217
-E07000166,Richmondshire,HouseholdProjection,2015,21246
-E07000166,Richmondshire,HouseholdProjection,2016,22003
-E07000166,Richmondshire,HouseholdProjection,2017,22259
-E07000166,Richmondshire,HouseholdProjection,2018,22364
-E07000166,Richmondshire,HouseholdProjection,2019,22432
-E07000166,Richmondshire,HouseholdProjection,2020,22473
-E07000166,Richmondshire,HouseholdProjection,2021,22525
-E07000166,Richmondshire,HouseholdProjection,2022,22598
-E07000166,Richmondshire,HouseholdProjection,2023,22654
-E07000166,Richmondshire,LongTermVacants,2004,209
-E07000166,Richmondshire,LongTermVacants,2005,268
-E07000166,Richmondshire,LongTermVacants,2006,291
-E07000166,Richmondshire,LongTermVacants,2007,352
-E07000166,Richmondshire,LongTermVacants,2008,367
-E07000166,Richmondshire,LongTermVacants,2009,335
-E07000166,Richmondshire,LongTermVacants,2010,314
-E07000166,Richmondshire,LongTermVacants,2011,307
-E07000166,Richmondshire,LongTermVacants,2012,361
-E07000166,Richmondshire,LongTermVacants,2013,282
-E07000166,Richmondshire,LongTermVacants,2014,273
-E07000166,Richmondshire,LongTermVacants,2015,325
-E07000166,Richmondshire,LongTermVacants,2016,316
-E07000166,Richmondshire,LongTermVacants,2017,383
-E07000166,Richmondshire,LongTermVacants,2018,426
-E07000166,Richmondshire,LongTermVacants,2019,341
-E07000166,Richmondshire,LongTermVacants,2020,368
-E07000166,Richmondshire,LongTermVacants,2021,204
-E07000166,Richmondshire,LongTermVacants,2022,137
-E07000167,Ryedale,AllVacants,2004,579
-E07000167,Ryedale,AllVacants,2005,596
-E07000167,Ryedale,AllVacants,2006,736
-E07000167,Ryedale,AllVacants,2007,827
-E07000167,Ryedale,AllVacants,2008,911
-E07000167,Ryedale,AllVacants,2009,976
-E07000167,Ryedale,AllVacants,2010,964
-E07000167,Ryedale,AllVacants,2011,917
-E07000167,Ryedale,AllVacants,2012,899
-E07000167,Ryedale,AllVacants,2013,844
-E07000167,Ryedale,AllVacants,2014,720
-E07000167,Ryedale,AllVacants,2015,709
-E07000167,Ryedale,AllVacants,2016,716
-E07000167,Ryedale,AllVacants,2017,657
-E07000167,Ryedale,AllVacants,2018,684
-E07000167,Ryedale,AllVacants,2019,797
-E07000167,Ryedale,AllVacants,2020,963
-E07000167,Ryedale,AllVacants,2021,853
-E07000167,Ryedale,AllVacants,2022,824
-E07000167,Ryedale,Dwellings,2004,23296
-E07000167,Ryedale,Dwellings,2005,23486
-E07000167,Ryedale,Dwellings,2006,23664
-E07000167,Ryedale,Dwellings,2007,23865
-E07000167,Ryedale,Dwellings,2008,24149
-E07000167,Ryedale,Dwellings,2009,24318
-E07000167,Ryedale,Dwellings,2010,24499
-E07000167,Ryedale,Dwellings,2011,24743
-E07000167,Ryedale,Dwellings,2012,24968
-E07000167,Ryedale,Dwellings,2013,25168
-E07000167,Ryedale,Dwellings,2014,25384
-E07000167,Ryedale,Dwellings,2015,25637
-E07000167,Ryedale,Dwellings,2016,25875
-E07000167,Ryedale,Dwellings,2017,26188
-E07000167,Ryedale,Dwellings,2018,26459
-E07000167,Ryedale,Dwellings,2019,26723
-E07000167,Ryedale,Dwellings,2020,27167
-E07000167,Ryedale,Dwellings,2021,27368
-E07000167,Ryedale,Dwellings,2022,27755
-E07000167,Ryedale,Dwellings,2023,27982
-E07000167,Ryedale,HouseholdProjection,2004,21815
-E07000167,Ryedale,HouseholdProjection,2005,22050
-E07000167,Ryedale,HouseholdProjection,2006,22100
-E07000167,Ryedale,HouseholdProjection,2007,22225
-E07000167,Ryedale,HouseholdProjection,2008,22289
-E07000167,Ryedale,HouseholdProjection,2009,22406
-E07000167,Ryedale,HouseholdProjection,2010,22401
-E07000167,Ryedale,HouseholdProjection,2011,22550
-E07000167,Ryedale,HouseholdProjection,2012,22742
-E07000167,Ryedale,HouseholdProjection,2013,22862
-E07000167,Ryedale,HouseholdProjection,2014,23139
-E07000167,Ryedale,HouseholdProjection,2015,23412
-E07000167,Ryedale,HouseholdProjection,2016,23672
-E07000167,Ryedale,HouseholdProjection,2017,23995
-E07000167,Ryedale,HouseholdProjection,2018,24305
-E07000167,Ryedale,HouseholdProjection,2019,24614
-E07000167,Ryedale,HouseholdProjection,2020,24891
-E07000167,Ryedale,HouseholdProjection,2021,25147
-E07000167,Ryedale,HouseholdProjection,2022,25428
-E07000167,Ryedale,HouseholdProjection,2023,25705
-E07000167,Ryedale,LongTermVacants,2004,198
-E07000167,Ryedale,LongTermVacants,2005,218
-E07000167,Ryedale,LongTermVacants,2006,275
-E07000167,Ryedale,LongTermVacants,2007,330
-E07000167,Ryedale,LongTermVacants,2008,409
-E07000167,Ryedale,LongTermVacants,2009,433
-E07000167,Ryedale,LongTermVacants,2010,407
-E07000167,Ryedale,LongTermVacants,2011,348
-E07000167,Ryedale,LongTermVacants,2012,329
-E07000167,Ryedale,LongTermVacants,2013,252
-E07000167,Ryedale,LongTermVacants,2014,249
-E07000167,Ryedale,LongTermVacants,2015,233
-E07000167,Ryedale,LongTermVacants,2016,218
-E07000167,Ryedale,LongTermVacants,2017,201
-E07000167,Ryedale,LongTermVacants,2018,201
-E07000167,Ryedale,LongTermVacants,2019,297
-E07000167,Ryedale,LongTermVacants,2020,408
-E07000167,Ryedale,LongTermVacants,2021,340
-E07000167,Ryedale,LongTermVacants,2022,331
-E07000168,Scarborough,AllVacants,2004,1711
-E07000168,Scarborough,AllVacants,2005,1933
-E07000168,Scarborough,AllVacants,2006,2120
-E07000168,Scarborough,AllVacants,2007,2307
-E07000168,Scarborough,AllVacants,2008,2366
-E07000168,Scarborough,AllVacants,2009,2374
-E07000168,Scarborough,AllVacants,2010,2426
-E07000168,Scarborough,AllVacants,2011,2333
-E07000168,Scarborough,AllVacants,2012,2259
-E07000168,Scarborough,AllVacants,2013,2012
-E07000168,Scarborough,AllVacants,2014,2057
-E07000168,Scarborough,AllVacants,2015,2241
-E07000168,Scarborough,AllVacants,2016,2187
-E07000168,Scarborough,AllVacants,2017,2200
-E07000168,Scarborough,AllVacants,2018,2216
-E07000168,Scarborough,AllVacants,2019,2056
-E07000168,Scarborough,AllVacants,2020,1932
-E07000168,Scarborough,AllVacants,2021,1801
-E07000168,Scarborough,AllVacants,2022,2040
-E07000168,Scarborough,Dwellings,2004,53221
-E07000168,Scarborough,Dwellings,2005,53781
-E07000168,Scarborough,Dwellings,2006,54312
-E07000168,Scarborough,Dwellings,2007,55035
-E07000168,Scarborough,Dwellings,2008,55443
-E07000168,Scarborough,Dwellings,2009,55759
-E07000168,Scarborough,Dwellings,2010,56087
-E07000168,Scarborough,Dwellings,2011,56443
-E07000168,Scarborough,Dwellings,2012,56620
-E07000168,Scarborough,Dwellings,2013,56688
-E07000168,Scarborough,Dwellings,2014,56845
-E07000168,Scarborough,Dwellings,2015,57169
-E07000168,Scarborough,Dwellings,2016,57430
-E07000168,Scarborough,Dwellings,2017,57796
-E07000168,Scarborough,Dwellings,2018,58162
-E07000168,Scarborough,Dwellings,2019,58547
-E07000168,Scarborough,Dwellings,2020,58964
-E07000168,Scarborough,Dwellings,2021,59346
-E07000168,Scarborough,Dwellings,2022,59822
-E07000168,Scarborough,Dwellings,2023,60309
-E07000168,Scarborough,HouseholdProjection,2004,47782
-E07000168,Scarborough,HouseholdProjection,2005,47998
-E07000168,Scarborough,HouseholdProjection,2006,48160
-E07000168,Scarborough,HouseholdProjection,2007,48249
-E07000168,Scarborough,HouseholdProjection,2008,48519
-E07000168,Scarborough,HouseholdProjection,2009,48608
-E07000168,Scarborough,HouseholdProjection,2010,48785
-E07000168,Scarborough,HouseholdProjection,2011,49274
-E07000168,Scarborough,HouseholdProjection,2012,49379
-E07000168,Scarborough,HouseholdProjection,2013,49288
-E07000168,Scarborough,HouseholdProjection,2014,49416
-E07000168,Scarborough,HouseholdProjection,2015,49501
-E07000168,Scarborough,HouseholdProjection,2016,49669
-E07000168,Scarborough,HouseholdProjection,2017,49933
-E07000168,Scarborough,HouseholdProjection,2018,50170
-E07000168,Scarborough,HouseholdProjection,2019,50505
-E07000168,Scarborough,HouseholdProjection,2020,50775
-E07000168,Scarborough,HouseholdProjection,2021,51046
-E07000168,Scarborough,HouseholdProjection,2022,51372
-E07000168,Scarborough,HouseholdProjection,2023,51655
-E07000168,Scarborough,LongTermVacants,2004,626
-E07000168,Scarborough,LongTermVacants,2005,692
-E07000168,Scarborough,LongTermVacants,2006,784
-E07000168,Scarborough,LongTermVacants,2007,838
-E07000168,Scarborough,LongTermVacants,2008,923
-E07000168,Scarborough,LongTermVacants,2009,923
-E07000168,Scarborough,LongTermVacants,2010,1019
-E07000168,Scarborough,LongTermVacants,2011,868
-E07000168,Scarborough,LongTermVacants,2012,775
-E07000168,Scarborough,LongTermVacants,2013,585
-E07000168,Scarborough,LongTermVacants,2014,619
-E07000168,Scarborough,LongTermVacants,2015,733
-E07000168,Scarborough,LongTermVacants,2016,775
-E07000168,Scarborough,LongTermVacants,2017,772
-E07000168,Scarborough,LongTermVacants,2018,841
-E07000168,Scarborough,LongTermVacants,2019,716
-E07000168,Scarborough,LongTermVacants,2020,690
-E07000168,Scarborough,LongTermVacants,2021,541
-E07000168,Scarborough,LongTermVacants,2022,650
-E07000169,Selby,AllVacants,2004,918
-E07000169,Selby,AllVacants,2005,1123
-E07000169,Selby,AllVacants,2006,1156
-E07000169,Selby,AllVacants,2007,1273
-E07000169,Selby,AllVacants,2008,1315
-E07000169,Selby,AllVacants,2009,1157
-E07000169,Selby,AllVacants,2010,1124
-E07000169,Selby,AllVacants,2011,1163
-E07000169,Selby,AllVacants,2012,1187
-E07000169,Selby,AllVacants,2013,968
-E07000169,Selby,AllVacants,2014,1031
-E07000169,Selby,AllVacants,2015,932
-E07000169,Selby,AllVacants,2016,1031
-E07000169,Selby,AllVacants,2017,1090
-E07000169,Selby,AllVacants,2018,1151
-E07000169,Selby,AllVacants,2019,1080
-E07000169,Selby,AllVacants,2020,1018
-E07000169,Selby,AllVacants,2021,977
-E07000169,Selby,AllVacants,2022,1088
-E07000169,Selby,Dwellings,2004,32628
-E07000169,Selby,Dwellings,2005,33117
-E07000169,Selby,Dwellings,2006,33771
-E07000169,Selby,Dwellings,2007,34640
-E07000169,Selby,Dwellings,2008,35241
-E07000169,Selby,Dwellings,2009,35492
-E07000169,Selby,Dwellings,2010,35828
-E07000169,Selby,Dwellings,2011,36287
-E07000169,Selby,Dwellings,2012,36628
-E07000169,Selby,Dwellings,2013,36878
-E07000169,Selby,Dwellings,2014,37176
-E07000169,Selby,Dwellings,2015,37783
-E07000169,Selby,Dwellings,2016,38253
-E07000169,Selby,Dwellings,2017,38845
-E07000169,Selby,Dwellings,2018,39487
-E07000169,Selby,Dwellings,2019,40142
-E07000169,Selby,Dwellings,2020,40664
-E07000169,Selby,Dwellings,2021,41179
-E07000169,Selby,Dwellings,2022,41635
-E07000169,Selby,Dwellings,2023,42083
-E07000169,Selby,HouseholdProjection,2004,31404
-E07000169,Selby,HouseholdProjection,2005,31683
-E07000169,Selby,HouseholdProjection,2006,32133
-E07000169,Selby,HouseholdProjection,2007,32656
-E07000169,Selby,HouseholdProjection,2008,33193
-E07000169,Selby,HouseholdProjection,2009,33515
-E07000169,Selby,HouseholdProjection,2010,33951
-E07000169,Selby,HouseholdProjection,2011,34494
-E07000169,Selby,HouseholdProjection,2012,34851
-E07000169,Selby,HouseholdProjection,2013,35134
-E07000169,Selby,HouseholdProjection,2014,35524
-E07000169,Selby,HouseholdProjection,2015,35862
-E07000169,Selby,HouseholdProjection,2016,36169
-E07000169,Selby,HouseholdProjection,2017,36580
-E07000169,Selby,HouseholdProjection,2018,37102
-E07000169,Selby,HouseholdProjection,2019,37612
-E07000169,Selby,HouseholdProjection,2020,38051
-E07000169,Selby,HouseholdProjection,2021,38430
-E07000169,Selby,HouseholdProjection,2022,38881
-E07000169,Selby,HouseholdProjection,2023,39318
-E07000169,Selby,LongTermVacants,2004,428
-E07000169,Selby,LongTermVacants,2005,561
-E07000169,Selby,LongTermVacants,2006,485
-E07000169,Selby,LongTermVacants,2007,553
-E07000169,Selby,LongTermVacants,2008,534
-E07000169,Selby,LongTermVacants,2009,476
-E07000169,Selby,LongTermVacants,2010,445
-E07000169,Selby,LongTermVacants,2011,453
-E07000169,Selby,LongTermVacants,2012,506
-E07000169,Selby,LongTermVacants,2013,283
-E07000169,Selby,LongTermVacants,2014,268
-E07000169,Selby,LongTermVacants,2015,308
-E07000169,Selby,LongTermVacants,2016,387
-E07000169,Selby,LongTermVacants,2017,408
-E07000169,Selby,LongTermVacants,2018,389
-E07000169,Selby,LongTermVacants,2019,381
-E07000169,Selby,LongTermVacants,2020,433
-E07000169,Selby,LongTermVacants,2021,352
-E07000169,Selby,LongTermVacants,2022,387
 E07000170,Ashfield,AllVacants,2004,1630
 E07000170,Ashfield,AllVacants,2005,1822
 E07000170,Ashfield,AllVacants,2006,1843
@@ -16534,240 +15832,6 @@ E07000186,South Shropshire,LongTermVacants,2005,348
 E07000186,South Shropshire,LongTermVacants,2006,387
 E07000186,South Shropshire,LongTermVacants,2007,466
 E07000186,South Shropshire,LongTermVacants,2008,479
-E07000187,Mendip,AllVacants,2004,1101
-E07000187,Mendip,AllVacants,2005,1263
-E07000187,Mendip,AllVacants,2006,1469
-E07000187,Mendip,AllVacants,2007,1348
-E07000187,Mendip,AllVacants,2008,1354
-E07000187,Mendip,AllVacants,2009,1503
-E07000187,Mendip,AllVacants,2010,1403
-E07000187,Mendip,AllVacants,2011,1444
-E07000187,Mendip,AllVacants,2012,1403
-E07000187,Mendip,AllVacants,2013,1402
-E07000187,Mendip,AllVacants,2014,1461
-E07000187,Mendip,AllVacants,2015,1351
-E07000187,Mendip,AllVacants,2016,1292
-E07000187,Mendip,AllVacants,2017,1338
-E07000187,Mendip,AllVacants,2018,1356
-E07000187,Mendip,AllVacants,2019,1361
-E07000187,Mendip,AllVacants,2020,1340
-E07000187,Mendip,AllVacants,2021,1190
-E07000187,Mendip,AllVacants,2022,1293
-E07000187,Mendip,Dwellings,2004,45412
-E07000187,Mendip,Dwellings,2005,45739
-E07000187,Mendip,Dwellings,2006,46280
-E07000187,Mendip,Dwellings,2007,46784
-E07000187,Mendip,Dwellings,2008,47344
-E07000187,Mendip,Dwellings,2009,47876
-E07000187,Mendip,Dwellings,2010,48233
-E07000187,Mendip,Dwellings,2011,48675
-E07000187,Mendip,Dwellings,2012,49117
-E07000187,Mendip,Dwellings,2013,49482
-E07000187,Mendip,Dwellings,2014,49828
-E07000187,Mendip,Dwellings,2015,50505
-E07000187,Mendip,Dwellings,2016,51013
-E07000187,Mendip,Dwellings,2017,51444
-E07000187,Mendip,Dwellings,2018,52161
-E07000187,Mendip,Dwellings,2019,52712
-E07000187,Mendip,Dwellings,2020,53137
-E07000187,Mendip,Dwellings,2021,53497
-E07000187,Mendip,Dwellings,2022,53850
-E07000187,Mendip,Dwellings,2023,54372
-E07000187,Mendip,HouseholdProjection,2004,43647
-E07000187,Mendip,HouseholdProjection,2005,44010
-E07000187,Mendip,HouseholdProjection,2006,44261
-E07000187,Mendip,HouseholdProjection,2007,44733
-E07000187,Mendip,HouseholdProjection,2008,45171
-E07000187,Mendip,HouseholdProjection,2009,45302
-E07000187,Mendip,HouseholdProjection,2010,45597
-E07000187,Mendip,HouseholdProjection,2011,46042
-E07000187,Mendip,HouseholdProjection,2012,46464
-E07000187,Mendip,HouseholdProjection,2013,46746
-E07000187,Mendip,HouseholdProjection,2014,47325
-E07000187,Mendip,HouseholdProjection,2015,47766
-E07000187,Mendip,HouseholdProjection,2016,48281
-E07000187,Mendip,HouseholdProjection,2017,48640
-E07000187,Mendip,HouseholdProjection,2018,49351
-E07000187,Mendip,HouseholdProjection,2019,49938
-E07000187,Mendip,HouseholdProjection,2020,50453
-E07000187,Mendip,HouseholdProjection,2021,50930
-E07000187,Mendip,HouseholdProjection,2022,51480
-E07000187,Mendip,HouseholdProjection,2023,52019
-E07000187,Mendip,LongTermVacants,2004,360
-E07000187,Mendip,LongTermVacants,2005,461
-E07000187,Mendip,LongTermVacants,2006,468
-E07000187,Mendip,LongTermVacants,2007,434
-E07000187,Mendip,LongTermVacants,2008,486
-E07000187,Mendip,LongTermVacants,2009,530
-E07000187,Mendip,LongTermVacants,2010,473
-E07000187,Mendip,LongTermVacants,2011,445
-E07000187,Mendip,LongTermVacants,2012,485
-E07000187,Mendip,LongTermVacants,2013,470
-E07000187,Mendip,LongTermVacants,2014,439
-E07000187,Mendip,LongTermVacants,2015,404
-E07000187,Mendip,LongTermVacants,2016,460
-E07000187,Mendip,LongTermVacants,2017,479
-E07000187,Mendip,LongTermVacants,2018,480
-E07000187,Mendip,LongTermVacants,2019,500
-E07000187,Mendip,LongTermVacants,2020,611
-E07000187,Mendip,LongTermVacants,2021,433
-E07000187,Mendip,LongTermVacants,2022,407
-E07000188,Sedgemoor,AllVacants,2004,1783
-E07000188,Sedgemoor,AllVacants,2005,1883
-E07000188,Sedgemoor,AllVacants,2006,1873
-E07000188,Sedgemoor,AllVacants,2007,1460
-E07000188,Sedgemoor,AllVacants,2008,1575
-E07000188,Sedgemoor,AllVacants,2009,1671
-E07000188,Sedgemoor,AllVacants,2010,1566
-E07000188,Sedgemoor,AllVacants,2011,1468
-E07000188,Sedgemoor,AllVacants,2012,1643
-E07000188,Sedgemoor,AllVacants,2013,1886
-E07000188,Sedgemoor,AllVacants,2014,1815
-E07000188,Sedgemoor,AllVacants,2015,1694
-E07000188,Sedgemoor,AllVacants,2016,1714
-E07000188,Sedgemoor,AllVacants,2017,1684
-E07000188,Sedgemoor,AllVacants,2018,1584
-E07000188,Sedgemoor,AllVacants,2019,1695
-E07000188,Sedgemoor,AllVacants,2020,1880
-E07000188,Sedgemoor,AllVacants,2021,1708
-E07000188,Sedgemoor,AllVacants,2022,1767
-E07000188,Sedgemoor,Dwellings,2004,46994
-E07000188,Sedgemoor,Dwellings,2005,47499
-E07000188,Sedgemoor,Dwellings,2006,48069
-E07000188,Sedgemoor,Dwellings,2007,48585
-E07000188,Sedgemoor,Dwellings,2008,49211
-E07000188,Sedgemoor,Dwellings,2009,49777
-E07000188,Sedgemoor,Dwellings,2010,50287
-E07000188,Sedgemoor,Dwellings,2011,50879
-E07000188,Sedgemoor,Dwellings,2012,51669
-E07000188,Sedgemoor,Dwellings,2013,52347
-E07000188,Sedgemoor,Dwellings,2014,52864
-E07000188,Sedgemoor,Dwellings,2015,53495
-E07000188,Sedgemoor,Dwellings,2016,54036
-E07000188,Sedgemoor,Dwellings,2017,54611
-E07000188,Sedgemoor,Dwellings,2018,55105
-E07000188,Sedgemoor,Dwellings,2019,55630
-E07000188,Sedgemoor,Dwellings,2020,56234
-E07000188,Sedgemoor,Dwellings,2021,56824
-E07000188,Sedgemoor,Dwellings,2022,57536
-E07000188,Sedgemoor,Dwellings,2023,58214
-E07000188,Sedgemoor,HouseholdProjection,2004,45581
-E07000188,Sedgemoor,HouseholdProjection,2005,46072
-E07000188,Sedgemoor,HouseholdProjection,2006,46533
-E07000188,Sedgemoor,HouseholdProjection,2007,47168
-E07000188,Sedgemoor,HouseholdProjection,2008,47576
-E07000188,Sedgemoor,HouseholdProjection,2009,47672
-E07000188,Sedgemoor,HouseholdProjection,2010,48019
-E07000188,Sedgemoor,HouseholdProjection,2011,48744
-E07000188,Sedgemoor,HouseholdProjection,2012,49299
-E07000188,Sedgemoor,HouseholdProjection,2013,49854
-E07000188,Sedgemoor,HouseholdProjection,2014,50544
-E07000188,Sedgemoor,HouseholdProjection,2015,51166
-E07000188,Sedgemoor,HouseholdProjection,2016,51751
-E07000188,Sedgemoor,HouseholdProjection,2017,52276
-E07000188,Sedgemoor,HouseholdProjection,2018,52722
-E07000188,Sedgemoor,HouseholdProjection,2019,53299
-E07000188,Sedgemoor,HouseholdProjection,2020,53803
-E07000188,Sedgemoor,HouseholdProjection,2021,54282
-E07000188,Sedgemoor,HouseholdProjection,2022,54816
-E07000188,Sedgemoor,HouseholdProjection,2023,55343
-E07000188,Sedgemoor,LongTermVacants,2004,921
-E07000188,Sedgemoor,LongTermVacants,2005,989
-E07000188,Sedgemoor,LongTermVacants,2006,814
-E07000188,Sedgemoor,LongTermVacants,2007,399
-E07000188,Sedgemoor,LongTermVacants,2008,473
-E07000188,Sedgemoor,LongTermVacants,2009,528
-E07000188,Sedgemoor,LongTermVacants,2010,488
-E07000188,Sedgemoor,LongTermVacants,2011,415
-E07000188,Sedgemoor,LongTermVacants,2012,470
-E07000188,Sedgemoor,LongTermVacants,2013,390
-E07000188,Sedgemoor,LongTermVacants,2014,277
-E07000188,Sedgemoor,LongTermVacants,2015,269
-E07000188,Sedgemoor,LongTermVacants,2016,335
-E07000188,Sedgemoor,LongTermVacants,2017,325
-E07000188,Sedgemoor,LongTermVacants,2018,236
-E07000188,Sedgemoor,LongTermVacants,2019,241
-E07000188,Sedgemoor,LongTermVacants,2020,346
-E07000188,Sedgemoor,LongTermVacants,2021,290
-E07000188,Sedgemoor,LongTermVacants,2022,299
-E07000189,South Somerset,AllVacants,2004,1839
-E07000189,South Somerset,AllVacants,2005,2018
-E07000189,South Somerset,AllVacants,2006,2373
-E07000189,South Somerset,AllVacants,2007,2289
-E07000189,South Somerset,AllVacants,2008,2410
-E07000189,South Somerset,AllVacants,2009,2603
-E07000189,South Somerset,AllVacants,2010,2554
-E07000189,South Somerset,AllVacants,2011,2649
-E07000189,South Somerset,AllVacants,2012,2588
-E07000189,South Somerset,AllVacants,2013,2286
-E07000189,South Somerset,AllVacants,2014,2108
-E07000189,South Somerset,AllVacants,2015,2191
-E07000189,South Somerset,AllVacants,2016,2023
-E07000189,South Somerset,AllVacants,2017,2044
-E07000189,South Somerset,AllVacants,2018,2163
-E07000189,South Somerset,AllVacants,2019,2212
-E07000189,South Somerset,AllVacants,2020,2201
-E07000189,South Somerset,AllVacants,2021,2127
-E07000189,South Somerset,AllVacants,2022,2050
-E07000189,South Somerset,Dwellings,2004,68193
-E07000189,South Somerset,Dwellings,2005,68957
-E07000189,South Somerset,Dwellings,2006,69740
-E07000189,South Somerset,Dwellings,2007,70442
-E07000189,South Somerset,Dwellings,2008,71154
-E07000189,South Somerset,Dwellings,2009,71805
-E07000189,South Somerset,Dwellings,2010,72316
-E07000189,South Somerset,Dwellings,2011,73375
-E07000189,South Somerset,Dwellings,2012,73854
-E07000189,South Somerset,Dwellings,2013,74308
-E07000189,South Somerset,Dwellings,2014,74847
-E07000189,South Somerset,Dwellings,2015,75623
-E07000189,South Somerset,Dwellings,2016,76235
-E07000189,South Somerset,Dwellings,2017,76855
-E07000189,South Somerset,Dwellings,2018,77415
-E07000189,South Somerset,Dwellings,2019,78062
-E07000189,South Somerset,Dwellings,2020,78718
-E07000189,South Somerset,Dwellings,2021,79809
-E07000189,South Somerset,Dwellings,2022,80496
-E07000189,South Somerset,Dwellings,2023,81365
-E07000189,South Somerset,HouseholdProjection,2004,65546
-E07000189,South Somerset,HouseholdProjection,2005,66255
-E07000189,South Somerset,HouseholdProjection,2006,66912
-E07000189,South Somerset,HouseholdProjection,2007,67676
-E07000189,South Somerset,HouseholdProjection,2008,68395
-E07000189,South Somerset,HouseholdProjection,2009,68728
-E07000189,South Somerset,HouseholdProjection,2010,68952
-E07000189,South Somerset,HouseholdProjection,2011,69621
-E07000189,South Somerset,HouseholdProjection,2012,70166
-E07000189,South Somerset,HouseholdProjection,2013,70686
-E07000189,South Somerset,HouseholdProjection,2014,71219
-E07000189,South Somerset,HouseholdProjection,2015,71727
-E07000189,South Somerset,HouseholdProjection,2016,72319
-E07000189,South Somerset,HouseholdProjection,2017,72807
-E07000189,South Somerset,HouseholdProjection,2018,73191
-E07000189,South Somerset,HouseholdProjection,2019,73731
-E07000189,South Somerset,HouseholdProjection,2020,74216
-E07000189,South Somerset,HouseholdProjection,2021,74645
-E07000189,South Somerset,HouseholdProjection,2022,75193
-E07000189,South Somerset,HouseholdProjection,2023,75729
-E07000189,South Somerset,LongTermVacants,2004,809
-E07000189,South Somerset,LongTermVacants,2005,787
-E07000189,South Somerset,LongTermVacants,2006,905
-E07000189,South Somerset,LongTermVacants,2007,922
-E07000189,South Somerset,LongTermVacants,2008,1138
-E07000189,South Somerset,LongTermVacants,2009,1124
-E07000189,South Somerset,LongTermVacants,2010,1029
-E07000189,South Somerset,LongTermVacants,2011,1103
-E07000189,South Somerset,LongTermVacants,2012,1016
-E07000189,South Somerset,LongTermVacants,2013,470
-E07000189,South Somerset,LongTermVacants,2014,636
-E07000189,South Somerset,LongTermVacants,2015,739
-E07000189,South Somerset,LongTermVacants,2016,595
-E07000189,South Somerset,LongTermVacants,2017,643
-E07000189,South Somerset,LongTermVacants,2018,657
-E07000189,South Somerset,LongTermVacants,2019,799
-E07000189,South Somerset,LongTermVacants,2020,867
-E07000189,South Somerset,LongTermVacants,2021,744
-E07000189,South Somerset,LongTermVacants,2022,711
 E07000190,Taunton Deane,AllVacants,2004,1128
 E07000190,Taunton Deane,AllVacants,2005,1232
 E07000190,Taunton Deane,AllVacants,2006,1281
@@ -20776,18 +19840,6 @@ E07000245,West Suffolk,LongTermVacants,2020,833
 E07000245,West Suffolk,LongTermVacants,2021,610
 E07000245,West Suffolk,LongTermVacants,2022,699
 E07000245,West Suffolk,LongTermVacants,2023,776
-E07000246,Somerset West and Taunton,AllVacants,2019,2309
-E07000246,Somerset West and Taunton,AllVacants,2020,2345
-E07000246,Somerset West and Taunton,AllVacants,2021,1891
-E07000246,Somerset West and Taunton,AllVacants,2022,2218
-E07000246,Somerset West and Taunton,Dwellings,2020,74278
-E07000246,Somerset West and Taunton,Dwellings,2021,74805
-E07000246,Somerset West and Taunton,Dwellings,2022,75533
-E07000246,Somerset West and Taunton,Dwellings,2023,76505
-E07000246,Somerset West and Taunton,LongTermVacants,2019,786
-E07000246,Somerset West and Taunton,LongTermVacants,2020,996
-E07000246,Somerset West and Taunton,LongTermVacants,2021,695
-E07000246,Somerset West and Taunton,LongTermVacants,2022,718
 E08000001,Bolton,AllVacants,2004,2407
 E08000001,Bolton,AllVacants,2005,5568
 E08000001,Bolton,AllVacants,2006,5682
