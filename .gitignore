@@ -3,7 +3,10 @@ _cache
 
 deno.lock
 .env
-raw
+raw/*/*.ods
+raw/*/*.xlsx
+raw/*/*.xls
+raw/*/*.csv
 
 duckdb.dll
 libduckdb.dylib
