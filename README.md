@@ -23,7 +23,7 @@ Various housing tools we have helped build over the years.
 ### Resources
 
 External resources like this GitHub repository and datasets used.
- 
+
 ## `pipelines`
 
 Pipelines are split by dataset. Each pipeline is split into stages:
@@ -55,6 +55,10 @@ The logic behind including both CSV and parquet files was two-fold: parquet file
 ## `src`
 
 The folder containing the website itself.
+
+## `raw`
+
+All raw data files extracted into this directory.
 
 ## Contributing
 
