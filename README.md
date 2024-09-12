@@ -4,7 +4,7 @@ A collection of open housing data processed into standardised format and present
 
 ## Serving the site locally
 
-Ensure you have a working version of `deno` installed. You can run `deno task serve` for the full site, `deno task dev` for a smaller version for development purposes. Additionally, you can specify `N_PAGES` (e.g. `deno task dev N_PAGES=50`) for a specific number of `area` pages to be built.
+Ensure you have a working version of `deno` AND `duckDB` installed. Then you can run `deno task serve` for the full site, `deno task dev` for a smaller version for development purposes. Additionally, you can specify `N_PAGES` (e.g. `deno task dev N_PAGES=50`) for a specific number of `area` pages to be built.
 
 ## `pipelines`
 
