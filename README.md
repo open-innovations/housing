@@ -2,29 +2,17 @@
 
 A collection of open housing data processed into standardised format and presented visually using OI Lume Viz.
 
-## Site Structure
+## Serving the site locally
 
-### Data
-
-Areas: housing data for individual administrative area of England. The smallest geography is local authority district and we include everything above that up to England level.
-
-Hex maps: Local authority district based hex maps to compare different parts of England.
-
-Explorations: More detailed analysis of specific topics from data on this site.
-
-### Blog Posts
-
-A collection of blog posts associated with this website.
-
-### Tools
-
-Various housing tools we have helped build over the years.
-
-### Resources
-
-External resources like this GitHub repository and datasets used.
+Ensure you have a working version of `deno` installed. You can run `deno task serve` for the full site, `deno task dev` for a smaller version for development purposes. Additionally, you can specify `N_PAGES` (e.g. `deno task dev N_PAGES=50`) for a specific number of `area` pages to be built.
 
 ## `pipelines`
+
+### Running code
+
+To run code in the pipelines directory, set-up your local environment using `pipenv sync`. You will need to install `pipenv` globally using `pip install pipenv`, if you haven't already. You can then run the jupyter notebooks using the kernel created by the pipenv environment with the required packages.
+
+### Orchestration
 
 Pipelines are split by dataset. Each pipeline is split into stages:
 
