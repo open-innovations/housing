@@ -46,7 +46,7 @@ The folder containing the website itself.
 
 ## `raw`
 
-All raw data files extracted into this directory.
+All raw data files extracted into this directory. The structure is maintained using empty `.gitkeep` files but no actual raw data files are checked into the repo as we don't need them to build the site, and we don't want to make unnecessary copies.
 
 ## Contributing
 
