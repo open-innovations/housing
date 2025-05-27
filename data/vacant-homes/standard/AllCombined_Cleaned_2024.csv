@@ -40,6 +40,7 @@ E06000001,Hartlepool,Dwellings,2020,44190
 E06000001,Hartlepool,Dwellings,2021,44316
 E06000001,Hartlepool,Dwellings,2022,44671
 E06000001,Hartlepool,Dwellings,2023,45179
+E06000001,Hartlepool,Dwellings,2024,45764
 E06000001,Hartlepool,HouseholdProjection,2004,38156
 E06000001,Hartlepool,HouseholdProjection,2005,38386
 E06000001,Hartlepool,HouseholdProjection,2006,38621
@@ -122,6 +123,7 @@ E06000002,Middlesbrough,Dwellings,2020,63609
 E06000002,Middlesbrough,Dwellings,2021,64033
 E06000002,Middlesbrough,Dwellings,2022,64633
 E06000002,Middlesbrough,Dwellings,2023,65236
+E06000002,Middlesbrough,Dwellings,2024,65749
 E06000002,Middlesbrough,HouseholdProjection,2004,56561
 E06000002,Middlesbrough,HouseholdProjection,2005,56619
 E06000002,Middlesbrough,HouseholdProjection,2006,56568
@@ -204,6 +206,7 @@ E06000003,Redcar and Cleveland,Dwellings,2020,65162
 E06000003,Redcar and Cleveland,Dwellings,2021,65542
 E06000003,Redcar and Cleveland,Dwellings,2022,65986
 E06000003,Redcar and Cleveland,Dwellings,2023,66438
+E06000003,Redcar and Cleveland,Dwellings,2024,66920
 E06000003,Redcar and Cleveland,HouseholdProjection,2004,57859
 E06000003,Redcar and Cleveland,HouseholdProjection,2005,58033
 E06000003,Redcar and Cleveland,HouseholdProjection,2006,58168
@@ -286,6 +289,7 @@ E06000004,Stockton-on-Tees,Dwellings,2020,87847
 E06000004,Stockton-on-Tees,Dwellings,2021,88448
 E06000004,Stockton-on-Tees,Dwellings,2022,88785
 E06000004,Stockton-on-Tees,Dwellings,2023,89389
+E06000004,Stockton-on-Tees,Dwellings,2024,90055
 E06000004,Stockton-on-Tees,HouseholdProjection,2004,75348
 E06000004,Stockton-on-Tees,HouseholdProjection,2005,75897
 E06000004,Stockton-on-Tees,HouseholdProjection,2006,76340
@@ -368,6 +372,7 @@ E06000005,Darlington,Dwellings,2020,51612
 E06000005,Darlington,Dwellings,2021,52128
 E06000005,Darlington,Dwellings,2022,52638
 E06000005,Darlington,Dwellings,2023,53149
+E06000005,Darlington,Dwellings,2024,53506
 E06000005,Darlington,HouseholdProjection,2004,42791
 E06000005,Darlington,HouseholdProjection,2005,43233
 E06000005,Darlington,HouseholdProjection,2006,43780
@@ -450,6 +455,7 @@ E06000006,Halton,Dwellings,2020,58346
 E06000006,Halton,Dwellings,2021,58345
 E06000006,Halton,Dwellings,2022,58503
 E06000006,Halton,Dwellings,2023,58863
+E06000006,Halton,Dwellings,2024,59224
 E06000006,Halton,HouseholdProjection,2004,48880
 E06000006,Halton,HouseholdProjection,2005,49265
 E06000006,Halton,HouseholdProjection,2006,49827
@@ -532,6 +538,7 @@ E06000007,Warrington,Dwellings,2020,93573
 E06000007,Warrington,Dwellings,2021,94205
 E06000007,Warrington,Dwellings,2022,94889
 E06000007,Warrington,Dwellings,2023,96362
+E06000007,Warrington,Dwellings,2024,97017
 E06000007,Warrington,HouseholdProjection,2004,78612
 E06000007,Warrington,HouseholdProjection,2005,79321
 E06000007,Warrington,HouseholdProjection,2006,80187
@@ -614,6 +621,7 @@ E06000008,Blackburn with Darwen,Dwellings,2020,61770
 E06000008,Blackburn with Darwen,Dwellings,2021,62232
 E06000008,Blackburn with Darwen,Dwellings,2022,62672
 E06000008,Blackburn with Darwen,Dwellings,2023,63225
+E06000008,Blackburn with Darwen,Dwellings,2024,63772
 E06000008,Blackburn with Darwen,HouseholdProjection,2004,54537
 E06000008,Blackburn with Darwen,HouseholdProjection,2005,54777
 E06000008,Blackburn with Darwen,HouseholdProjection,2006,55025
@@ -696,6 +704,7 @@ E06000009,Blackpool,Dwellings,2020,72295
 E06000009,Blackpool,Dwellings,2021,72653
 E06000009,Blackpool,Dwellings,2022,72920
 E06000009,Blackpool,Dwellings,2023,73153
+E06000009,Blackpool,Dwellings,2024,73328
 E06000009,Blackpool,HouseholdProjection,2004,63866
 E06000009,Blackpool,HouseholdProjection,2005,64073
 E06000009,Blackpool,HouseholdProjection,2006,64164
@@ -778,6 +787,7 @@ E06000010,"Kingston upon Hull, City of",Dwellings,2020,122324
 E06000010,"Kingston upon Hull, City of",Dwellings,2021,122926
 E06000010,"Kingston upon Hull, City of",Dwellings,2022,123547
 E06000010,"Kingston upon Hull, City of",Dwellings,2023,124170
+E06000010,"Kingston upon Hull, City of",Dwellings,2024,124707
 E06000010,"Kingston upon Hull, City of",HouseholdProjection,2004,108327
 E06000010,"Kingston upon Hull, City of",HouseholdProjection,2005,109424
 E06000010,"Kingston upon Hull, City of",HouseholdProjection,2006,109798
@@ -860,6 +870,7 @@ E06000011,East Riding of Yorkshire,Dwellings,2020,170837
 E06000011,East Riding of Yorkshire,Dwellings,2021,173309
 E06000011,East Riding of Yorkshire,Dwellings,2022,174806
 E06000011,East Riding of Yorkshire,Dwellings,2023,176732
+E06000011,East Riding of Yorkshire,Dwellings,2024,179133
 E06000011,East Riding of Yorkshire,HouseholdProjection,2004,136336
 E06000011,East Riding of Yorkshire,HouseholdProjection,2005,137718
 E06000011,East Riding of Yorkshire,HouseholdProjection,2006,138681
@@ -942,6 +953,7 @@ E06000012,North East Lincolnshire,Dwellings,2020,73874
 E06000012,North East Lincolnshire,Dwellings,2021,73964
 E06000012,North East Lincolnshire,Dwellings,2022,74488
 E06000012,North East Lincolnshire,Dwellings,2023,74911
+E06000012,North East Lincolnshire,Dwellings,2024,75370
 E06000012,North East Lincolnshire,HouseholdProjection,2004,66578
 E06000012,North East Lincolnshire,HouseholdProjection,2005,66919
 E06000012,North East Lincolnshire,HouseholdProjection,2006,67154
@@ -1024,6 +1036,7 @@ E06000013,North Lincolnshire,Dwellings,2020,75942
 E06000013,North Lincolnshire,Dwellings,2021,76286
 E06000013,North Lincolnshire,Dwellings,2022,76696
 E06000013,North Lincolnshire,Dwellings,2023,77196
+E06000013,North Lincolnshire,Dwellings,2024,77725
 E06000013,North Lincolnshire,HouseholdProjection,2004,65820
 E06000013,North Lincolnshire,HouseholdProjection,2005,66547
 E06000013,North Lincolnshire,HouseholdProjection,2006,67225
@@ -1106,6 +1119,7 @@ E06000014,York,Dwellings,2020,90078
 E06000014,York,Dwellings,2021,90644
 E06000014,York,Dwellings,2022,91046
 E06000014,York,Dwellings,2023,91505
+E06000014,York,Dwellings,2024,92033
 E06000014,York,HouseholdProjection,2004,78456
 E06000014,York,HouseholdProjection,2005,79258
 E06000014,York,HouseholdProjection,2006,79586
@@ -1188,6 +1202,7 @@ E06000015,Derby,Dwellings,2020,111371
 E06000015,Derby,Dwellings,2021,111926
 E06000015,Derby,Dwellings,2022,112607
 E06000015,Derby,Dwellings,2023,113256
+E06000015,Derby,Dwellings,2024,114601
 E06000015,Derby,HouseholdProjection,2004,96714
 E06000015,Derby,HouseholdProjection,2005,97533
 E06000015,Derby,HouseholdProjection,2006,98134
@@ -1269,7 +1284,8 @@ E06000016,Leicester,Dwellings,2019,133152
 E06000016,Leicester,Dwellings,2020,134104
 E06000016,Leicester,Dwellings,2021,134659
 E06000016,Leicester,Dwellings,2022,135513
-E06000016,Leicester,Dwellings,2023,137145
+E06000016,Leicester,Dwellings,2023,137158
+E06000016,Leicester,Dwellings,2024,137750
 E06000016,Leicester,HouseholdProjection,2004,112882
 E06000016,Leicester,HouseholdProjection,2005,114957
 E06000016,Leicester,HouseholdProjection,2006,116080
@@ -1352,6 +1368,7 @@ E06000017,Rutland,Dwellings,2020,17556
 E06000017,Rutland,Dwellings,2021,17648
 E06000017,Rutland,Dwellings,2022,17744
 E06000017,Rutland,Dwellings,2023,17840
+E06000017,Rutland,Dwellings,2024,17950
 E06000017,Rutland,HouseholdProjection,2004,14029
 E06000017,Rutland,HouseholdProjection,2005,14334
 E06000017,Rutland,HouseholdProjection,2006,14554
@@ -1434,6 +1451,7 @@ E06000018,Nottingham,Dwellings,2020,133749
 E06000018,Nottingham,Dwellings,2021,134409
 E06000018,Nottingham,Dwellings,2022,136131
 E06000018,Nottingham,Dwellings,2023,138074
+E06000018,Nottingham,Dwellings,2024,140089
 E06000018,Nottingham,HouseholdProjection,2004,118879
 E06000018,Nottingham,HouseholdProjection,2005,120854
 E06000018,Nottingham,HouseholdProjection,2006,121231
@@ -1515,7 +1533,8 @@ E06000019,"Herefordshire, County of",Dwellings,2019,86475
 E06000019,"Herefordshire, County of",Dwellings,2020,87442
 E06000019,"Herefordshire, County of",Dwellings,2021,88148
 E06000019,"Herefordshire, County of",Dwellings,2022,89190
-E06000019,"Herefordshire, County of",Dwellings,2023,89808
+E06000019,"Herefordshire, County of",Dwellings,2023,89894
+E06000019,"Herefordshire, County of",Dwellings,2024,90954
 E06000019,"Herefordshire, County of",HouseholdProjection,2004,74663
 E06000019,"Herefordshire, County of",HouseholdProjection,2005,74941
 E06000019,"Herefordshire, County of",HouseholdProjection,2006,75650
@@ -1597,7 +1616,8 @@ E06000020,Telford and Wrekin,Dwellings,2019,77359
 E06000020,Telford and Wrekin,Dwellings,2020,78425
 E06000020,Telford and Wrekin,Dwellings,2021,79336
 E06000020,Telford and Wrekin,Dwellings,2022,80968
-E06000020,Telford and Wrekin,Dwellings,2023,82746
+E06000020,Telford and Wrekin,Dwellings,2023,82516
+E06000020,Telford and Wrekin,Dwellings,2024,83516
 E06000020,Telford and Wrekin,HouseholdProjection,2004,64009
 E06000020,Telford and Wrekin,HouseholdProjection,2005,64380
 E06000020,Telford and Wrekin,HouseholdProjection,2006,64799
@@ -1680,6 +1700,7 @@ E06000021,Stoke-on-Trent,Dwellings,2020,117103
 E06000021,Stoke-on-Trent,Dwellings,2021,117566
 E06000021,Stoke-on-Trent,Dwellings,2022,118021
 E06000021,Stoke-on-Trent,Dwellings,2023,118450
+E06000021,Stoke-on-Trent,Dwellings,2024,118900
 E06000021,Stoke-on-Trent,HouseholdProjection,2004,102684
 E06000021,Stoke-on-Trent,HouseholdProjection,2005,103085
 E06000021,Stoke-on-Trent,HouseholdProjection,2006,103722
@@ -1762,6 +1783,7 @@ E06000022,Bath and North East Somerset,Dwellings,2020,83336
 E06000022,Bath and North East Somerset,Dwellings,2021,84109
 E06000022,Bath and North East Somerset,Dwellings,2022,84661
 E06000022,Bath and North East Somerset,Dwellings,2023,85151
+E06000022,Bath and North East Somerset,Dwellings,2024,85820
 E06000022,Bath and North East Somerset,HouseholdProjection,2004,71215
 E06000022,Bath and North East Somerset,HouseholdProjection,2005,71459
 E06000022,Bath and North East Somerset,HouseholdProjection,2006,71490
@@ -1844,6 +1866,7 @@ E06000023,"Bristol, City of",Dwellings,2020,201245
 E06000023,"Bristol, City of",Dwellings,2021,202815
 E06000023,"Bristol, City of",Dwellings,2022,205266
 E06000023,"Bristol, City of",Dwellings,2023,206828
+E06000023,"Bristol, City of",Dwellings,2024,208195
 E06000023,"Bristol, City of",HouseholdProjection,2004,167595
 E06000023,"Bristol, City of",HouseholdProjection,2005,171540
 E06000023,"Bristol, City of",HouseholdProjection,2006,173040
@@ -1926,6 +1949,7 @@ E06000024,North Somerset,Dwellings,2020,98870
 E06000024,North Somerset,Dwellings,2021,99927
 E06000024,North Somerset,Dwellings,2022,100944
 E06000024,North Somerset,Dwellings,2023,101923
+E06000024,North Somerset,Dwellings,2024,102677
 E06000024,North Somerset,HouseholdProjection,2004,81993
 E06000024,North Somerset,HouseholdProjection,2005,82922
 E06000024,North Somerset,HouseholdProjection,2006,83992
@@ -2008,6 +2032,7 @@ E06000025,South Gloucestershire,Dwellings,2020,120934
 E06000025,South Gloucestershire,Dwellings,2021,122516
 E06000025,South Gloucestershire,Dwellings,2022,124173
 E06000025,South Gloucestershire,Dwellings,2023,125958
+E06000025,South Gloucestershire,Dwellings,2024,127541
 E06000025,South Gloucestershire,HouseholdProjection,2004,101282
 E06000025,South Gloucestershire,HouseholdProjection,2005,102348
 E06000025,South Gloucestershire,HouseholdProjection,2006,103228
@@ -2090,6 +2115,7 @@ E06000026,Plymouth,Dwellings,2020,120916
 E06000026,Plymouth,Dwellings,2021,121528
 E06000026,Plymouth,Dwellings,2022,121867
 E06000026,Plymouth,Dwellings,2023,122264
+E06000026,Plymouth,Dwellings,2024,122500
 E06000026,Plymouth,HouseholdProjection,2004,103104
 E06000026,Plymouth,HouseholdProjection,2005,104321
 E06000026,Plymouth,HouseholdProjection,2006,104825
@@ -2172,6 +2198,7 @@ E06000027,Torbay,Dwellings,2020,68847
 E06000027,Torbay,Dwellings,2021,69308
 E06000027,Torbay,Dwellings,2022,69620
 E06000027,Torbay,Dwellings,2023,69871
+E06000027,Torbay,Dwellings,2024,70082
 E06000027,Torbay,HouseholdProjection,2004,58238
 E06000027,Torbay,HouseholdProjection,2005,58414
 E06000027,Torbay,HouseholdProjection,2006,58412
@@ -2386,6 +2413,7 @@ E06000030,Swindon,Dwellings,2020,99325
 E06000030,Swindon,Dwellings,2021,99851
 E06000030,Swindon,Dwellings,2022,100950
 E06000030,Swindon,Dwellings,2023,101958
+E06000030,Swindon,Dwellings,2024,102678
 E06000030,Swindon,HouseholdProjection,2004,77236
 E06000030,Swindon,HouseholdProjection,2005,78655
 E06000030,Swindon,HouseholdProjection,2006,79786
@@ -2468,6 +2496,7 @@ E06000031,Peterborough,Dwellings,2020,86544
 E06000031,Peterborough,Dwellings,2021,87903
 E06000031,Peterborough,Dwellings,2022,88900
 E06000031,Peterborough,Dwellings,2023,89665
+E06000031,Peterborough,Dwellings,2024,90521
 E06000031,Peterborough,HouseholdProjection,2004,67281
 E06000031,Peterborough,HouseholdProjection,2005,68550
 E06000031,Peterborough,HouseholdProjection,2006,69358
@@ -2550,6 +2579,7 @@ E06000032,Luton,Dwellings,2020,81415
 E06000032,Luton,Dwellings,2021,81956
 E06000032,Luton,Dwellings,2022,82368
 E06000032,Luton,Dwellings,2023,83514
+E06000032,Luton,Dwellings,2024,83904
 E06000032,Luton,HouseholdProjection,2004,69541
 E06000032,Luton,HouseholdProjection,2005,69926
 E06000032,Luton,HouseholdProjection,2006,70256
@@ -2632,6 +2662,7 @@ E06000033,Southend-on-Sea,Dwellings,2020,82244
 E06000033,Southend-on-Sea,Dwellings,2021,82574
 E06000033,Southend-on-Sea,Dwellings,2022,83063
 E06000033,Southend-on-Sea,Dwellings,2023,83404
+E06000033,Southend-on-Sea,Dwellings,2024,83577
 E06000033,Southend-on-Sea,HouseholdProjection,2004,70140
 E06000033,Southend-on-Sea,HouseholdProjection,2005,70484
 E06000033,Southend-on-Sea,HouseholdProjection,2006,70784
@@ -2714,6 +2745,7 @@ E06000034,Thurrock,Dwellings,2020,68968
 E06000034,Thurrock,Dwellings,2021,69537
 E06000034,Thurrock,Dwellings,2022,69856
 E06000034,Thurrock,Dwellings,2023,70033
+E06000034,Thurrock,Dwellings,2024,70558
 E06000034,Thurrock,HouseholdProjection,2004,59107
 E06000034,Thurrock,HouseholdProjection,2005,59450
 E06000034,Thurrock,HouseholdProjection,2006,59935
@@ -2795,7 +2827,8 @@ E06000035,Medway,Dwellings,2019,115214
 E06000035,Medway,Dwellings,2020,116356
 E06000035,Medway,Dwellings,2021,117443
 E06000035,Medway,Dwellings,2022,118546
-E06000035,Medway,Dwellings,2023,119504
+E06000035,Medway,Dwellings,2023,119506
+E06000035,Medway,Dwellings,2024,120809
 E06000035,Medway,HouseholdProjection,2004,99605
 E06000035,Medway,HouseholdProjection,2005,100056
 E06000035,Medway,HouseholdProjection,2006,100620
@@ -2878,6 +2911,7 @@ E06000036,Bracknell Forest,Dwellings,2020,51541
 E06000036,Bracknell Forest,Dwellings,2021,52496
 E06000036,Bracknell Forest,Dwellings,2022,53187
 E06000036,Bracknell Forest,Dwellings,2023,53637
+E06000036,Bracknell Forest,Dwellings,2024,54561
 E06000036,Bracknell Forest,HouseholdProjection,2004,43033
 E06000036,Bracknell Forest,HouseholdProjection,2005,43296
 E06000036,Bracknell Forest,HouseholdProjection,2006,43676
@@ -2960,6 +2994,7 @@ E06000037,West Berkshire,Dwellings,2020,68849
 E06000037,West Berkshire,Dwellings,2021,69470
 E06000037,West Berkshire,Dwellings,2022,70193
 E06000037,West Berkshire,Dwellings,2023,70831
+E06000037,West Berkshire,Dwellings,2024,71504
 E06000037,West Berkshire,HouseholdProjection,2004,57610
 E06000037,West Berkshire,HouseholdProjection,2005,58240
 E06000037,West Berkshire,HouseholdProjection,2006,58997
@@ -3042,6 +3077,7 @@ E06000038,Reading,Dwellings,2020,71608
 E06000038,Reading,Dwellings,2021,72096
 E06000038,Reading,Dwellings,2022,72946
 E06000038,Reading,Dwellings,2023,73834
+E06000038,Reading,Dwellings,2024,74855
 E06000038,Reading,HouseholdProjection,2004,57690
 E06000038,Reading,HouseholdProjection,2005,58584
 E06000038,Reading,HouseholdProjection,2006,59190
@@ -3124,6 +3160,7 @@ E06000039,Slough,Dwellings,2020,55665
 E06000039,Slough,Dwellings,2021,56137
 E06000039,Slough,Dwellings,2022,56669
 E06000039,Slough,Dwellings,2023,56991
+E06000039,Slough,Dwellings,2024,57818
 E06000039,Slough,HouseholdProjection,2004,44974
 E06000039,Slough,HouseholdProjection,2005,45429
 E06000039,Slough,HouseholdProjection,2006,46056
@@ -3206,6 +3243,7 @@ E06000040,Windsor and Maidenhead,Dwellings,2020,64859
 E06000040,Windsor and Maidenhead,Dwellings,2021,65165
 E06000040,Windsor and Maidenhead,Dwellings,2022,65453
 E06000040,Windsor and Maidenhead,Dwellings,2023,65769
+E06000040,Windsor and Maidenhead,Dwellings,2024,66626
 E06000040,Windsor and Maidenhead,HouseholdProjection,2004,54135
 E06000040,Windsor and Maidenhead,HouseholdProjection,2005,54675
 E06000040,Windsor and Maidenhead,HouseholdProjection,2006,55290
@@ -3288,6 +3326,7 @@ E06000041,Wokingham,Dwellings,2020,70352
 E06000041,Wokingham,Dwellings,2021,71523
 E06000041,Wokingham,Dwellings,2022,73004
 E06000041,Wokingham,Dwellings,2023,73855
+E06000041,Wokingham,Dwellings,2024,74654
 E06000041,Wokingham,HouseholdProjection,2004,56927
 E06000041,Wokingham,HouseholdProjection,2005,57349
 E06000041,Wokingham,HouseholdProjection,2006,57757
@@ -3370,6 +3409,7 @@ E06000042,Milton Keynes,Dwellings,2020,115502
 E06000042,Milton Keynes,Dwellings,2021,117516
 E06000042,Milton Keynes,Dwellings,2022,119519
 E06000042,Milton Keynes,Dwellings,2023,122414
+E06000042,Milton Keynes,Dwellings,2024,124614
 E06000042,Milton Keynes,HouseholdProjection,2004,87300
 E06000042,Milton Keynes,HouseholdProjection,2005,88802
 E06000042,Milton Keynes,HouseholdProjection,2006,90284
@@ -3452,6 +3492,7 @@ E06000043,Brighton and Hove,Dwellings,2020,129904
 E06000043,Brighton and Hove,Dwellings,2021,130838
 E06000043,Brighton and Hove,Dwellings,2022,132098
 E06000043,Brighton and Hove,Dwellings,2023,132958
+E06000043,Brighton and Hove,Dwellings,2024,134188
 E06000043,Brighton and Hove,HouseholdProjection,2004,112685
 E06000043,Brighton and Hove,HouseholdProjection,2005,113412
 E06000043,Brighton and Hove,HouseholdProjection,2006,113901
@@ -3534,6 +3575,7 @@ E06000044,Portsmouth,Dwellings,2020,90893
 E06000044,Portsmouth,Dwellings,2021,91173
 E06000044,Portsmouth,Dwellings,2022,91317
 E06000044,Portsmouth,Dwellings,2023,91291
+E06000044,Portsmouth,Dwellings,2024,91534
 E06000044,Portsmouth,HouseholdProjection,2004,80574
 E06000044,Portsmouth,HouseholdProjection,2005,81654
 E06000044,Portsmouth,HouseholdProjection,2006,81615
@@ -3616,6 +3658,7 @@ E06000045,Southampton,Dwellings,2020,107569
 E06000045,Southampton,Dwellings,2021,108105
 E06000045,Southampton,Dwellings,2022,108518
 E06000045,Southampton,Dwellings,2023,108885
+E06000045,Southampton,Dwellings,2024,109146
 E06000045,Southampton,HouseholdProjection,2004,93220
 E06000045,Southampton,HouseholdProjection,2005,94604
 E06000045,Southampton,HouseholdProjection,2006,94566
@@ -3698,6 +3741,7 @@ E06000046,Isle of Wight,Dwellings,2020,72824
 E06000046,Isle of Wight,Dwellings,2021,73474
 E06000046,Isle of Wight,Dwellings,2022,73964
 E06000046,Isle of Wight,Dwellings,2023,74321
+E06000046,Isle of Wight,Dwellings,2024,74583
 E06000046,Isle of Wight,HouseholdProjection,2004,58829
 E06000046,Isle of Wight,HouseholdProjection,2005,59507
 E06000046,Isle of Wight,HouseholdProjection,2006,59896
@@ -3768,7 +3812,8 @@ E06000047,County Durham,Dwellings,2019,244813
 E06000047,County Durham,Dwellings,2020,246608
 E06000047,County Durham,Dwellings,2021,248104
 E06000047,County Durham,Dwellings,2022,249774
-E06000047,County Durham,Dwellings,2023,251325
+E06000047,County Durham,Dwellings,2023,251335
+E06000047,County Durham,Dwellings,2024,252630
 E06000047,County Durham,HouseholdProjection,2004,209302
 E06000047,County Durham,HouseholdProjection,2005,211035
 E06000047,County Durham,HouseholdProjection,2006,212852
@@ -3835,6 +3880,7 @@ E06000049,Cheshire East,Dwellings,2020,181471
 E06000049,Cheshire East,Dwellings,2021,183766
 E06000049,Cheshire East,Dwellings,2022,186397
 E06000049,Cheshire East,Dwellings,2023,188720
+E06000049,Cheshire East,Dwellings,2024,190837
 E06000049,Cheshire East,HouseholdProjection,2004,149760
 E06000049,Cheshire East,HouseholdProjection,2005,151157
 E06000049,Cheshire East,HouseholdProjection,2006,152371
@@ -3901,6 +3947,7 @@ E06000050,Cheshire West and Chester,Dwellings,2020,161112
 E06000050,Cheshire West and Chester,Dwellings,2021,162357
 E06000050,Cheshire West and Chester,Dwellings,2022,163876
 E06000050,Cheshire West and Chester,Dwellings,2023,165231
+E06000050,Cheshire West and Chester,Dwellings,2024,166601
 E06000050,Cheshire West and Chester,HouseholdProjection,2004,134844
 E06000050,Cheshire West and Chester,HouseholdProjection,2005,135958
 E06000050,Cheshire West and Chester,HouseholdProjection,2006,136868
@@ -3967,6 +4014,7 @@ E06000051,Shropshire,Dwellings,2020,146324
 E06000051,Shropshire,Dwellings,2021,147757
 E06000051,Shropshire,Dwellings,2022,149263
 E06000051,Shropshire,Dwellings,2023,150689
+E06000051,Shropshire,Dwellings,2024,152203
 E06000051,Shropshire,HouseholdProjection,2004,120070
 E06000051,Shropshire,HouseholdProjection,2005,121479
 E06000051,Shropshire,HouseholdProjection,2006,123036
@@ -4033,6 +4081,7 @@ E06000052,Cornwall,Dwellings,2020,282934
 E06000052,Cornwall,Dwellings,2021,285534
 E06000052,Cornwall,Dwellings,2022,288262
 E06000052,Cornwall,Dwellings,2023,290976
+E06000052,Cornwall,Dwellings,2024,293483
 E06000052,Cornwall,HouseholdProjection,2004,219841
 E06000052,Cornwall,HouseholdProjection,2005,221455
 E06000052,Cornwall,HouseholdProjection,2006,222891
@@ -4110,6 +4159,7 @@ E06000053,Isles of Scilly,Dwellings,2020,1308
 E06000053,Isles of Scilly,Dwellings,2021,1298
 E06000053,Isles of Scilly,Dwellings,2022,1294
 E06000053,Isles of Scilly,Dwellings,2023,1296
+E06000053,Isles of Scilly,Dwellings,2024,1297
 E06000053,Isles of Scilly,HouseholdProjection,2004,935
 E06000053,Isles of Scilly,HouseholdProjection,2005,950
 E06000053,Isles of Scilly,HouseholdProjection,2006,964
@@ -4180,7 +4230,8 @@ E06000054,Wiltshire,Dwellings,2019,221868
 E06000054,Wiltshire,Dwellings,2020,223958
 E06000054,Wiltshire,Dwellings,2021,226105
 E06000054,Wiltshire,Dwellings,2022,227959
-E06000054,Wiltshire,Dwellings,2023,231098
+E06000054,Wiltshire,Dwellings,2023,230364
+E06000054,Wiltshire,Dwellings,2024,232159
 E06000054,Wiltshire,HouseholdProjection,2004,180878
 E06000054,Wiltshire,HouseholdProjection,2005,182280
 E06000054,Wiltshire,HouseholdProjection,2006,184383
@@ -4247,6 +4298,7 @@ E06000055,Bedford,Dwellings,2020,76986
 E06000055,Bedford,Dwellings,2021,78219
 E06000055,Bedford,Dwellings,2022,79238
 E06000055,Bedford,Dwellings,2023,80703
+E06000055,Bedford,Dwellings,2024,81392
 E06000055,Bedford,HouseholdProjection,2004,60773
 E06000055,Bedford,HouseholdProjection,2005,61101
 E06000055,Bedford,HouseholdProjection,2006,61405
@@ -4313,6 +4365,7 @@ E06000056,Central Bedfordshire,Dwellings,2020,123205
 E06000056,Central Bedfordshire,Dwellings,2021,125256
 E06000056,Central Bedfordshire,Dwellings,2022,127680
 E06000056,Central Bedfordshire,Dwellings,2023,129994
+E06000056,Central Bedfordshire,Dwellings,2024,132123
 E06000056,Central Bedfordshire,HouseholdProjection,2004,96632
 E06000056,Central Bedfordshire,HouseholdProjection,2005,97574
 E06000056,Central Bedfordshire,HouseholdProjection,2006,98627
@@ -4379,6 +4432,7 @@ E06000057,Northumberland,Dwellings,2020,157902
 E06000057,Northumberland,Dwellings,2021,159100
 E06000057,Northumberland,Dwellings,2022,160692
 E06000057,Northumberland,Dwellings,2023,162286
+E06000057,Northumberland,Dwellings,2024,163795
 E06000057,Northumberland,HouseholdProjection,2004,132635
 E06000057,Northumberland,HouseholdProjection,2005,133333
 E06000057,Northumberland,HouseholdProjection,2006,133911
@@ -4425,6 +4479,7 @@ E06000058,"Bournemouth, Christchurch and Poole",Dwellings,2020,185434
 E06000058,"Bournemouth, Christchurch and Poole",Dwellings,2021,186221
 E06000058,"Bournemouth, Christchurch and Poole",Dwellings,2022,186917
 E06000058,"Bournemouth, Christchurch and Poole",Dwellings,2023,187690
+E06000058,"Bournemouth, Christchurch and Poole",Dwellings,2024,188602
 E06000058,"Bournemouth, Christchurch and Poole",LongTermVacants,2019,1978
 E06000058,"Bournemouth, Christchurch and Poole",LongTermVacants,2020,2197
 E06000058,"Bournemouth, Christchurch and Poole",LongTermVacants,2021,2066
@@ -4440,7 +4495,8 @@ E06000059,Dorset,AllVacants,2024,4363
 E06000059,Dorset,Dwellings,2020,182183
 E06000059,Dorset,Dwellings,2021,183571
 E06000059,Dorset,Dwellings,2022,185389
-E06000059,Dorset,Dwellings,2023,187122
+E06000059,Dorset,Dwellings,2023,187076
+E06000059,Dorset,Dwellings,2024,188556
 E06000059,Dorset,LongTermVacants,2019,1370
 E06000059,Dorset,LongTermVacants,2020,1820
 E06000059,Dorset,LongTermVacants,2021,1146
@@ -4454,7 +4510,8 @@ E06000060,Buckinghamshire,AllVacants,2023,5686
 E06000060,Buckinghamshire,AllVacants,2024,5996
 E06000060,Buckinghamshire,Dwellings,2021,230529
 E06000060,Buckinghamshire,Dwellings,2022,233146
-E06000060,Buckinghamshire,Dwellings,2023,236864
+E06000060,Buckinghamshire,Dwellings,2023,236897
+E06000060,Buckinghamshire,Dwellings,2024,239250
 E06000060,Buckinghamshire,LongTermVacants,2020,1767
 E06000060,Buckinghamshire,LongTermVacants,2021,1914
 E06000060,Buckinghamshire,LongTermVacants,2022,1986
@@ -4466,6 +4523,7 @@ E06000061,North Northamptonshire,AllVacants,2023,3641
 E06000061,North Northamptonshire,AllVacants,2024,4027
 E06000061,North Northamptonshire,Dwellings,2022,156576
 E06000061,North Northamptonshire,Dwellings,2023,158600
+E06000061,North Northamptonshire,Dwellings,2024,160328
 E06000061,North Northamptonshire,LongTermVacants,2021,1129
 E06000061,North Northamptonshire,LongTermVacants,2022,1357
 E06000061,North Northamptonshire,LongTermVacants,2023,1562
@@ -4476,6 +4534,7 @@ E06000062,West Northamptonshire,AllVacants,2023,3897
 E06000062,West Northamptonshire,AllVacants,2024,3488
 E06000062,West Northamptonshire,Dwellings,2022,181939
 E06000062,West Northamptonshire,Dwellings,2023,184166
+E06000062,West Northamptonshire,Dwellings,2024,186029
 E06000062,West Northamptonshire,LongTermVacants,2021,1225
 E06000062,West Northamptonshire,LongTermVacants,2022,1197
 E06000062,West Northamptonshire,LongTermVacants,2023,1381
@@ -4521,6 +4580,7 @@ E06000063,Cumberland,Dwellings,2020,135546
 E06000063,Cumberland,Dwellings,2021,136385
 E06000063,Cumberland,Dwellings,2022,137292
 E06000063,Cumberland,Dwellings,2023,138080
+E06000063,Cumberland,Dwellings,2024,139016
 E06000063,Cumberland,HouseholdProjection,2004,115570
 E06000063,Cumberland,HouseholdProjection,2005,116483
 E06000063,Cumberland,HouseholdProjection,2006,117530
@@ -4585,7 +4645,7 @@ E06000064,Westmorland and Furness,AllVacants,2023,5128
 E06000064,Westmorland and Furness,AllVacants,2024,4784
 E06000064,Westmorland and Furness,Dwellings,2004,107874
 E06000064,Westmorland and Furness,Dwellings,2005,108415
-E06000064,Westmorland and Furness,Dwellings,2006,109003
+E06000064,Westmorland and Furness,Dwellings,2006,109004
 E06000064,Westmorland and Furness,Dwellings,2007,109638
 E06000064,Westmorland and Furness,Dwellings,2008,110149
 E06000064,Westmorland and Furness,Dwellings,2009,110650
@@ -4603,6 +4663,7 @@ E06000064,Westmorland and Furness,Dwellings,2020,118021
 E06000064,Westmorland and Furness,Dwellings,2021,118695
 E06000064,Westmorland and Furness,Dwellings,2022,119503
 E06000064,Westmorland and Furness,Dwellings,2023,120339
+E06000064,Westmorland and Furness,Dwellings,2024,121139
 E06000064,Westmorland and Furness,HouseholdProjection,2004,97402
 E06000064,Westmorland and Furness,HouseholdProjection,2005,98095
 E06000064,Westmorland and Furness,HouseholdProjection,2006,98630
@@ -4646,6 +4707,7 @@ E06000064,Westmorland and Furness,LongTermVacants,2023,2925
 E06000064,Westmorland and Furness,LongTermVacants,2024,2581
 E06000065,North Yorkshire,AllVacants,2023,10189
 E06000065,North Yorkshire,AllVacants,2024,9475
+E06000065,North Yorkshire,Dwellings,2024,308776
 E06000065,North Yorkshire,LongTermVacants,2023,3257
 E06000065,North Yorkshire,LongTermVacants,2024,3755
 E06000066,Somerset,AllVacants,2004,4723
@@ -4689,6 +4751,7 @@ E06000066,Somerset,Dwellings,2020,262370
 E06000066,Somerset,Dwellings,2021,264935
 E06000066,Somerset,Dwellings,2022,267415
 E06000066,Somerset,Dwellings,2023,270456
+E06000066,Somerset,Dwellings,2024,272382
 E06000066,Somerset,HouseholdProjection,2004,154774
 E06000066,Somerset,HouseholdProjection,2005,156337
 E06000066,Somerset,HouseholdProjection,2006,157706
@@ -5173,6 +5236,7 @@ E07000008,Cambridge,Dwellings,2020,55977
 E07000008,Cambridge,Dwellings,2021,56411
 E07000008,Cambridge,Dwellings,2022,57024
 E07000008,Cambridge,Dwellings,2023,57863
+E07000008,Cambridge,Dwellings,2024,58112
 E07000008,Cambridge,HouseholdProjection,2004,42688
 E07000008,Cambridge,HouseholdProjection,2005,44628
 E07000008,Cambridge,HouseholdProjection,2006,44480
@@ -5255,6 +5319,7 @@ E07000009,East Cambridgeshire,Dwellings,2020,38440
 E07000009,East Cambridgeshire,Dwellings,2021,38860
 E07000009,East Cambridgeshire,Dwellings,2022,39479
 E07000009,East Cambridgeshire,Dwellings,2023,40264
+E07000009,East Cambridgeshire,Dwellings,2024,40880
 E07000009,East Cambridgeshire,HouseholdProjection,2004,30871
 E07000009,East Cambridgeshire,HouseholdProjection,2005,31354
 E07000009,East Cambridgeshire,HouseholdProjection,2006,31864
@@ -5337,6 +5402,7 @@ E07000010,Fenland,Dwellings,2020,45909
 E07000010,Fenland,Dwellings,2021,46295
 E07000010,Fenland,Dwellings,2022,46689
 E07000010,Fenland,Dwellings,2023,47285
+E07000010,Fenland,Dwellings,2024,47811
 E07000010,Fenland,HouseholdProjection,2004,36883
 E07000010,Fenland,HouseholdProjection,2005,37374
 E07000010,Fenland,HouseholdProjection,2006,38129
@@ -5419,6 +5485,7 @@ E07000011,Huntingdonshire,Dwellings,2020,78718
 E07000011,Huntingdonshire,Dwellings,2021,79850
 E07000011,Huntingdonshire,Dwellings,2022,80905
 E07000011,Huntingdonshire,Dwellings,2023,82155
+E07000011,Huntingdonshire,Dwellings,2024,83394
 E07000011,Huntingdonshire,HouseholdProjection,2004,64965
 E07000011,Huntingdonshire,HouseholdProjection,2005,65485
 E07000011,Huntingdonshire,HouseholdProjection,2006,66136
@@ -5500,7 +5567,8 @@ E07000012,South Cambridgeshire,Dwellings,2019,67185
 E07000012,South Cambridgeshire,Dwellings,2020,68200
 E07000012,South Cambridgeshire,Dwellings,2021,69473
 E07000012,South Cambridgeshire,Dwellings,2022,70686
-E07000012,South Cambridgeshire,Dwellings,2023,72186
+E07000012,South Cambridgeshire,Dwellings,2023,72157
+E07000012,South Cambridgeshire,Dwellings,2024,73500
 E07000012,South Cambridgeshire,HouseholdProjection,2004,54030
 E07000012,South Cambridgeshire,HouseholdProjection,2005,54738
 E07000012,South Cambridgeshire,HouseholdProjection,2006,55575
@@ -5785,6 +5853,7 @@ E07000032,Amber Valley,Dwellings,2020,58330
 E07000032,Amber Valley,Dwellings,2021,58812
 E07000032,Amber Valley,Dwellings,2022,59293
 E07000032,Amber Valley,Dwellings,2023,59739
+E07000032,Amber Valley,Dwellings,2024,60361
 E07000032,Amber Valley,HouseholdProjection,2004,49841
 E07000032,Amber Valley,HouseholdProjection,2005,50222
 E07000032,Amber Valley,HouseholdProjection,2006,50698
@@ -5867,6 +5936,7 @@ E07000033,Bolsover,Dwellings,2020,36777
 E07000033,Bolsover,Dwellings,2021,37244
 E07000033,Bolsover,Dwellings,2022,37781
 E07000033,Bolsover,Dwellings,2023,38272
+E07000033,Bolsover,Dwellings,2024,38636
 E07000033,Bolsover,HouseholdProjection,2004,30960
 E07000033,Bolsover,HouseholdProjection,2005,31112
 E07000033,Bolsover,HouseholdProjection,2006,31324
@@ -5949,6 +6019,7 @@ E07000034,Chesterfield,Dwellings,2020,49737
 E07000034,Chesterfield,Dwellings,2021,49984
 E07000034,Chesterfield,Dwellings,2022,50363
 E07000034,Chesterfield,Dwellings,2023,50676
+E07000034,Chesterfield,Dwellings,2024,51062
 E07000034,Chesterfield,HouseholdProjection,2004,44156
 E07000034,Chesterfield,HouseholdProjection,2005,44600
 E07000034,Chesterfield,HouseholdProjection,2006,44914
@@ -6031,6 +6102,7 @@ E07000035,Derbyshire Dales,Dwellings,2020,35081
 E07000035,Derbyshire Dales,Dwellings,2021,35450
 E07000035,Derbyshire Dales,Dwellings,2022,35708
 E07000035,Derbyshire Dales,Dwellings,2023,35960
+E07000035,Derbyshire Dales,Dwellings,2024,36116
 E07000035,Derbyshire Dales,HouseholdProjection,2004,29350
 E07000035,Derbyshire Dales,HouseholdProjection,2005,29431
 E07000035,Derbyshire Dales,HouseholdProjection,2006,29547
@@ -6112,7 +6184,8 @@ E07000036,Erewash,Dwellings,2019,52136
 E07000036,Erewash,Dwellings,2020,52350
 E07000036,Erewash,Dwellings,2021,52527
 E07000036,Erewash,Dwellings,2022,52770
-E07000036,Erewash,Dwellings,2023,53037
+E07000036,Erewash,Dwellings,2023,53023
+E07000036,Erewash,Dwellings,2024,53130
 E07000036,Erewash,HouseholdProjection,2004,46318
 E07000036,Erewash,HouseholdProjection,2005,46513
 E07000036,Erewash,HouseholdProjection,2006,46613
@@ -6195,6 +6268,7 @@ E07000037,High Peak,Dwellings,2020,42918
 E07000037,High Peak,Dwellings,2021,43161
 E07000037,High Peak,Dwellings,2022,43547
 E07000037,High Peak,Dwellings,2023,43974
+E07000037,High Peak,Dwellings,2024,44247
 E07000037,High Peak,HouseholdProjection,2004,37270
 E07000037,High Peak,HouseholdProjection,2005,37527
 E07000037,High Peak,HouseholdProjection,2006,37763
@@ -6277,6 +6351,7 @@ E07000038,North East Derbyshire,Dwellings,2020,46767
 E07000038,North East Derbyshire,Dwellings,2021,47271
 E07000038,North East Derbyshire,Dwellings,2022,47826
 E07000038,North East Derbyshire,Dwellings,2023,48602
+E07000038,North East Derbyshire,Dwellings,2024,49145
 E07000038,North East Derbyshire,HouseholdProjection,2004,41263
 E07000038,North East Derbyshire,HouseholdProjection,2005,41434
 E07000038,North East Derbyshire,HouseholdProjection,2006,41634
@@ -6359,6 +6434,7 @@ E07000039,South Derbyshire,Dwellings,2020,46547
 E07000039,South Derbyshire,Dwellings,2021,47565
 E07000039,South Derbyshire,Dwellings,2022,48483
 E07000039,South Derbyshire,Dwellings,2023,49601
+E07000039,South Derbyshire,Dwellings,2024,50664
 E07000039,South Derbyshire,HouseholdProjection,2004,34867
 E07000039,South Derbyshire,HouseholdProjection,2005,35491
 E07000039,South Derbyshire,HouseholdProjection,2006,36081
@@ -6441,6 +6517,7 @@ E07000040,East Devon,Dwellings,2020,71565
 E07000040,East Devon,Dwellings,2021,72474
 E07000040,East Devon,Dwellings,2022,73521
 E07000040,East Devon,Dwellings,2023,74482
+E07000040,East Devon,Dwellings,2024,75116
 E07000040,East Devon,HouseholdProjection,2004,56173
 E07000040,East Devon,HouseholdProjection,2005,56740
 E07000040,East Devon,HouseholdProjection,2006,57170
@@ -6523,6 +6600,7 @@ E07000041,Exeter,Dwellings,2020,55255
 E07000041,Exeter,Dwellings,2021,55629
 E07000041,Exeter,Dwellings,2022,56348
 E07000041,Exeter,Dwellings,2023,56811
+E07000041,Exeter,Dwellings,2024,57425
 E07000041,Exeter,HouseholdProjection,2004,46325
 E07000041,Exeter,HouseholdProjection,2005,47113
 E07000041,Exeter,HouseholdProjection,2006,47228
@@ -6604,7 +6682,8 @@ E07000042,Mid Devon,Dwellings,2019,36660
 E07000042,Mid Devon,Dwellings,2020,37065
 E07000042,Mid Devon,Dwellings,2021,37403
 E07000042,Mid Devon,Dwellings,2022,37641
-E07000042,Mid Devon,Dwellings,2023,37894
+E07000042,Mid Devon,Dwellings,2023,37890
+E07000042,Mid Devon,Dwellings,2024,38389
 E07000042,Mid Devon,HouseholdProjection,2004,30027
 E07000042,Mid Devon,HouseholdProjection,2005,30408
 E07000042,Mid Devon,HouseholdProjection,2006,30796
@@ -6687,6 +6766,7 @@ E07000043,North Devon,Dwellings,2020,48367
 E07000043,North Devon,Dwellings,2021,48895
 E07000043,North Devon,Dwellings,2022,49494
 E07000043,North Devon,Dwellings,2023,50091
+E07000043,North Devon,Dwellings,2024,50461
 E07000043,North Devon,HouseholdProjection,2004,37848
 E07000043,North Devon,HouseholdProjection,2005,38200
 E07000043,North Devon,HouseholdProjection,2006,38536
@@ -6769,6 +6849,7 @@ E07000044,South Hams,Dwellings,2020,46020
 E07000044,South Hams,Dwellings,2021,46525
 E07000044,South Hams,Dwellings,2022,47071
 E07000044,South Hams,Dwellings,2023,47662
+E07000044,South Hams,Dwellings,2024,48272
 E07000044,South Hams,HouseholdProjection,2004,35075
 E07000044,South Hams,HouseholdProjection,2005,35340
 E07000044,South Hams,HouseholdProjection,2006,35624
@@ -6851,6 +6932,7 @@ E07000045,Teignbridge,Dwellings,2020,63620
 E07000045,Teignbridge,Dwellings,2021,64135
 E07000045,Teignbridge,Dwellings,2022,64664
 E07000045,Teignbridge,Dwellings,2023,65291
+E07000045,Teignbridge,Dwellings,2024,65837
 E07000045,Teignbridge,HouseholdProjection,2004,52311
 E07000045,Teignbridge,HouseholdProjection,2005,52604
 E07000045,Teignbridge,HouseholdProjection,2006,52806
@@ -6933,6 +7015,7 @@ E07000046,Torridge,Dwellings,2020,33610
 E07000046,Torridge,Dwellings,2021,33780
 E07000046,Torridge,Dwellings,2022,33971
 E07000046,Torridge,Dwellings,2023,34295
+E07000046,Torridge,Dwellings,2024,34697
 E07000046,Torridge,HouseholdProjection,2004,26182
 E07000046,Torridge,HouseholdProjection,2005,26483
 E07000046,Torridge,HouseholdProjection,2006,26828
@@ -7015,6 +7098,7 @@ E07000047,West Devon,Dwellings,2020,26114
 E07000047,West Devon,Dwellings,2021,26422
 E07000047,West Devon,Dwellings,2022,26688
 E07000047,West Devon,Dwellings,2023,27062
+E07000047,West Devon,Dwellings,2024,27348
 E07000047,West Devon,HouseholdProjection,2004,20779
 E07000047,West Devon,HouseholdProjection,2005,20966
 E07000047,West Devon,HouseholdProjection,2006,21146
@@ -7605,6 +7689,7 @@ E07000061,Eastbourne,Dwellings,2020,49237
 E07000061,Eastbourne,Dwellings,2021,49480
 E07000061,Eastbourne,Dwellings,2022,49607
 E07000061,Eastbourne,Dwellings,2023,49772
+E07000061,Eastbourne,Dwellings,2024,50026
 E07000061,Eastbourne,HouseholdProjection,2004,42157
 E07000061,Eastbourne,HouseholdProjection,2005,42753
 E07000061,Eastbourne,HouseholdProjection,2006,43184
@@ -7687,6 +7772,7 @@ E07000062,Hastings,Dwellings,2020,44122
 E07000062,Hastings,Dwellings,2021,44188
 E07000062,Hastings,Dwellings,2022,44351
 E07000062,Hastings,Dwellings,2023,44467
+E07000062,Hastings,Dwellings,2024,44613
 E07000062,Hastings,HouseholdProjection,2004,38235
 E07000062,Hastings,HouseholdProjection,2005,38665
 E07000062,Hastings,HouseholdProjection,2006,38773
@@ -7769,6 +7855,7 @@ E07000063,Lewes,Dwellings,2020,45885
 E07000063,Lewes,Dwellings,2021,46166
 E07000063,Lewes,Dwellings,2022,46506
 E07000063,Lewes,Dwellings,2023,47112
+E07000063,Lewes,Dwellings,2024,47635
 E07000063,Lewes,HouseholdProjection,2004,40258
 E07000063,Lewes,HouseholdProjection,2005,40353
 E07000063,Lewes,HouseholdProjection,2006,40485
@@ -7809,7 +7896,7 @@ E07000063,Lewes,LongTermVacants,2020,385
 E07000063,Lewes,LongTermVacants,2021,391
 E07000063,Lewes,LongTermVacants,2022,353
 E07000063,Lewes,LongTermVacants,2023,291
-E07000063,Lewes,LongTermVacants,2024,471
+E07000063,Lewes,LongTermVacants,2024,294
 E07000064,Rother,AllVacants,2004,1496
 E07000064,Rother,AllVacants,2005,1687
 E07000064,Rother,AllVacants,2006,1565
@@ -7851,6 +7938,7 @@ E07000064,Rother,Dwellings,2020,46195
 E07000064,Rother,Dwellings,2021,46409
 E07000064,Rother,Dwellings,2022,46646
 E07000064,Rother,Dwellings,2023,47037
+E07000064,Rother,Dwellings,2024,47207
 E07000064,Rother,HouseholdProjection,2004,38869
 E07000064,Rother,HouseholdProjection,2005,39090
 E07000064,Rother,HouseholdProjection,2006,39353
@@ -7933,6 +8021,7 @@ E07000065,Wealden,Dwellings,2020,71297
 E07000065,Wealden,Dwellings,2021,72048
 E07000065,Wealden,Dwellings,2022,72733
 E07000065,Wealden,Dwellings,2023,73871
+E07000065,Wealden,Dwellings,2024,74857
 E07000065,Wealden,HouseholdProjection,2004,59504
 E07000065,Wealden,HouseholdProjection,2005,59902
 E07000065,Wealden,HouseholdProjection,2006,60355
@@ -8015,6 +8104,7 @@ E07000066,Basildon,Dwellings,2020,78973
 E07000066,Basildon,Dwellings,2021,79344
 E07000066,Basildon,Dwellings,2022,79782
 E07000066,Basildon,Dwellings,2023,80004
+E07000066,Basildon,Dwellings,2024,80249
 E07000066,Basildon,HouseholdProjection,2004,69428
 E07000066,Basildon,HouseholdProjection,2005,69919
 E07000066,Basildon,HouseholdProjection,2006,70361
@@ -8097,6 +8187,7 @@ E07000067,Braintree,Dwellings,2020,66008
 E07000067,Braintree,Dwellings,2021,66800
 E07000067,Braintree,Dwellings,2022,67881
 E07000067,Braintree,Dwellings,2023,68969
+E07000067,Braintree,Dwellings,2024,70117
 E07000067,Braintree,HouseholdProjection,2004,56329
 E07000067,Braintree,HouseholdProjection,2005,57053
 E07000067,Braintree,HouseholdProjection,2006,57804
@@ -8179,6 +8270,7 @@ E07000068,Brentwood,Dwellings,2020,34039
 E07000068,Brentwood,Dwellings,2021,34239
 E07000068,Brentwood,Dwellings,2022,34646
 E07000068,Brentwood,Dwellings,2023,35031
+E07000068,Brentwood,Dwellings,2024,35656
 E07000068,Brentwood,HouseholdProjection,2004,28967
 E07000068,Brentwood,HouseholdProjection,2005,29169
 E07000068,Brentwood,HouseholdProjection,2006,29316
@@ -8261,6 +8353,7 @@ E07000069,Castle Point,Dwellings,2020,38631
 E07000069,Castle Point,Dwellings,2021,38772
 E07000069,Castle Point,Dwellings,2022,38977
 E07000069,Castle Point,Dwellings,2023,39133
+E07000069,Castle Point,Dwellings,2024,39075
 E07000069,Castle Point,HouseholdProjection,2004,35522
 E07000069,Castle Point,HouseholdProjection,2005,35687
 E07000069,Castle Point,HouseholdProjection,2006,35810
@@ -8343,6 +8436,7 @@ E07000070,Chelmsford,Dwellings,2020,77749
 E07000070,Chelmsford,Dwellings,2021,78562
 E07000070,Chelmsford,Dwellings,2022,79428
 E07000070,Chelmsford,Dwellings,2023,80250
+E07000070,Chelmsford,Dwellings,2024,81265
 E07000070,Chelmsford,HouseholdProjection,2004,65745
 E07000070,Chelmsford,HouseholdProjection,2005,66386
 E07000070,Chelmsford,HouseholdProjection,2006,66705
@@ -8425,6 +8519,7 @@ E07000071,Colchester,Dwellings,2020,82434
 E07000071,Colchester,Dwellings,2021,83165
 E07000071,Colchester,Dwellings,2022,84199
 E07000071,Colchester,Dwellings,2023,84917
+E07000071,Colchester,Dwellings,2024,86014
 E07000071,Colchester,HouseholdProjection,2004,64825
 E07000071,Colchester,HouseholdProjection,2005,66277
 E07000071,Colchester,HouseholdProjection,2006,67107
@@ -8506,7 +8601,8 @@ E07000072,Epping Forest,Dwellings,2019,57001
 E07000072,Epping Forest,Dwellings,2020,57253
 E07000072,Epping Forest,Dwellings,2021,57481
 E07000072,Epping Forest,Dwellings,2022,57809
-E07000072,Epping Forest,Dwellings,2023,57888
+E07000072,Epping Forest,Dwellings,2023,57979
+E07000072,Epping Forest,Dwellings,2024,58325
 E07000072,Epping Forest,HouseholdProjection,2004,50508
 E07000072,Epping Forest,HouseholdProjection,2005,50548
 E07000072,Epping Forest,HouseholdProjection,2006,50869
@@ -8589,6 +8685,7 @@ E07000073,Harlow,Dwellings,2020,38763
 E07000073,Harlow,Dwellings,2021,39292
 E07000073,Harlow,Dwellings,2022,39708
 E07000073,Harlow,Dwellings,2023,40268
+E07000073,Harlow,Dwellings,2024,40704
 E07000073,Harlow,HouseholdProjection,2004,32685
 E07000073,Harlow,HouseholdProjection,2005,32867
 E07000073,Harlow,HouseholdProjection,2006,33052
@@ -8671,6 +8768,7 @@ E07000074,Maldon,Dwellings,2020,28756
 E07000074,Maldon,Dwellings,2021,29151
 E07000074,Maldon,Dwellings,2022,29475
 E07000074,Maldon,Dwellings,2023,29918
+E07000074,Maldon,Dwellings,2024,30323
 E07000074,Maldon,HouseholdProjection,2004,24708
 E07000074,Maldon,HouseholdProjection,2005,24897
 E07000074,Maldon,HouseholdProjection,2006,25098
@@ -8753,6 +8851,7 @@ E07000075,Rochford,Dwellings,2020,36316
 E07000075,Rochford,Dwellings,2021,36664
 E07000075,Rochford,Dwellings,2022,37120
 E07000075,Rochford,Dwellings,2023,37615
+E07000075,Rochford,Dwellings,2024,37897
 E07000075,Rochford,HouseholdProjection,2004,32355
 E07000075,Rochford,HouseholdProjection,2005,32613
 E07000075,Rochford,HouseholdProjection,2006,32818
@@ -8835,6 +8934,7 @@ E07000076,Tendring,Dwellings,2020,72032
 E07000076,Tendring,Dwellings,2021,72788
 E07000076,Tendring,Dwellings,2022,73565
 E07000076,Tendring,Dwellings,2023,74375
+E07000076,Tendring,Dwellings,2024,75213
 E07000076,Tendring,HouseholdProjection,2004,62313
 E07000076,Tendring,HouseholdProjection,2005,62383
 E07000076,Tendring,HouseholdProjection,2006,62454
@@ -8916,7 +9016,8 @@ E07000077,Uttlesford,Dwellings,2019,38004
 E07000077,Uttlesford,Dwellings,2020,38489
 E07000077,Uttlesford,Dwellings,2021,38829
 E07000077,Uttlesford,Dwellings,2022,39037
-E07000077,Uttlesford,Dwellings,2023,39325
+E07000077,Uttlesford,Dwellings,2023,39777
+E07000077,Uttlesford,Dwellings,2024,40605
 E07000077,Uttlesford,HouseholdProjection,2004,28145
 E07000077,Uttlesford,HouseholdProjection,2005,28520
 E07000077,Uttlesford,HouseholdProjection,2006,28966
@@ -8999,6 +9100,7 @@ E07000078,Cheltenham,Dwellings,2020,56436
 E07000078,Cheltenham,Dwellings,2021,56809
 E07000078,Cheltenham,Dwellings,2022,56923
 E07000078,Cheltenham,Dwellings,2023,57196
+E07000078,Cheltenham,Dwellings,2024,57511
 E07000078,Cheltenham,HouseholdProjection,2004,47563
 E07000078,Cheltenham,HouseholdProjection,2005,48089
 E07000078,Cheltenham,HouseholdProjection,2006,48377
@@ -9081,6 +9183,7 @@ E07000079,Cotswold,Dwellings,2020,45148
 E07000079,Cotswold,Dwellings,2021,45515
 E07000079,Cotswold,Dwellings,2022,45863
 E07000079,Cotswold,Dwellings,2023,46213
+E07000079,Cotswold,Dwellings,2024,46588
 E07000079,Cotswold,HouseholdProjection,2004,34995
 E07000079,Cotswold,HouseholdProjection,2005,35240
 E07000079,Cotswold,HouseholdProjection,2006,35500
@@ -9163,6 +9266,7 @@ E07000080,Forest of Dean,Dwellings,2020,39138
 E07000080,Forest of Dean,Dwellings,2021,39536
 E07000080,Forest of Dean,Dwellings,2022,40029
 E07000080,Forest of Dean,Dwellings,2023,40546
+E07000080,Forest of Dean,Dwellings,2024,40977
 E07000080,Forest of Dean,HouseholdProjection,2004,33008
 E07000080,Forest of Dean,HouseholdProjection,2005,33265
 E07000080,Forest of Dean,HouseholdProjection,2006,33462
@@ -9245,6 +9349,7 @@ E07000081,Gloucester,Dwellings,2020,57515
 E07000081,Gloucester,Dwellings,2021,58164
 E07000081,Gloucester,Dwellings,2022,58584
 E07000081,Gloucester,Dwellings,2023,59118
+E07000081,Gloucester,Dwellings,2024,59484
 E07000081,Gloucester,HouseholdProjection,2004,46250
 E07000081,Gloucester,HouseholdProjection,2005,46715
 E07000081,Gloucester,HouseholdProjection,2006,47340
@@ -9327,6 +9432,7 @@ E07000082,Stroud,Dwellings,2020,54250
 E07000082,Stroud,Dwellings,2021,54993
 E07000082,Stroud,Dwellings,2022,55764
 E07000082,Stroud,Dwellings,2023,56396
+E07000082,Stroud,Dwellings,2024,56842
 E07000082,Stroud,HouseholdProjection,2004,45223
 E07000082,Stroud,HouseholdProjection,2005,45569
 E07000082,Stroud,HouseholdProjection,2006,45773
@@ -9409,6 +9515,7 @@ E07000083,Tewkesbury,Dwellings,2020,42248
 E07000083,Tewkesbury,Dwellings,2021,42836
 E07000083,Tewkesbury,Dwellings,2022,43759
 E07000083,Tewkesbury,Dwellings,2023,44940
+E07000083,Tewkesbury,Dwellings,2024,45892
 E07000083,Tewkesbury,HouseholdProjection,2004,32917
 E07000083,Tewkesbury,HouseholdProjection,2005,33072
 E07000083,Tewkesbury,HouseholdProjection,2006,33391
@@ -9491,6 +9598,7 @@ E07000084,Basingstoke and Deane,Dwellings,2020,77790
 E07000084,Basingstoke and Deane,Dwellings,2021,79061
 E07000084,Basingstoke and Deane,Dwellings,2022,79802
 E07000084,Basingstoke and Deane,Dwellings,2023,80793
+E07000084,Basingstoke and Deane,Dwellings,2024,81483
 E07000084,Basingstoke and Deane,HouseholdProjection,2004,62869
 E07000084,Basingstoke and Deane,HouseholdProjection,2005,63721
 E07000084,Basingstoke and Deane,HouseholdProjection,2006,64485
@@ -9573,6 +9681,7 @@ E07000085,East Hampshire,Dwellings,2020,54307
 E07000085,East Hampshire,Dwellings,2021,54718
 E07000085,East Hampshire,Dwellings,2022,55294
 E07000085,East Hampshire,Dwellings,2023,55788
+E07000085,East Hampshire,Dwellings,2024,56040
 E07000085,East Hampshire,HouseholdProjection,2004,43816
 E07000085,East Hampshire,HouseholdProjection,2005,44114
 E07000085,East Hampshire,HouseholdProjection,2006,44533
@@ -9655,6 +9764,7 @@ E07000086,Eastleigh,Dwellings,2020,58026
 E07000086,Eastleigh,Dwellings,2021,58775
 E07000086,Eastleigh,Dwellings,2022,59482
 E07000086,Eastleigh,Dwellings,2023,60165
+E07000086,Eastleigh,Dwellings,2024,60731
 E07000086,Eastleigh,HouseholdProjection,2004,47619
 E07000086,Eastleigh,HouseholdProjection,2005,48227
 E07000086,Eastleigh,HouseholdProjection,2006,48933
@@ -9737,6 +9847,7 @@ E07000087,Fareham,Dwellings,2020,50467
 E07000087,Fareham,Dwellings,2021,50583
 E07000087,Fareham,Dwellings,2022,50669
 E07000087,Fareham,Dwellings,2023,50813
+E07000087,Fareham,Dwellings,2024,51057
 E07000087,Fareham,HouseholdProjection,2004,43991
 E07000087,Fareham,HouseholdProjection,2005,44002
 E07000087,Fareham,HouseholdProjection,2006,44354
@@ -9819,6 +9930,7 @@ E07000088,Gosport,Dwellings,2020,37434
 E07000088,Gosport,Dwellings,2021,37667
 E07000088,Gosport,Dwellings,2022,37686
 E07000088,Gosport,Dwellings,2023,37707
+E07000088,Gosport,Dwellings,2024,37826
 E07000088,Gosport,HouseholdProjection,2004,32299
 E07000088,Gosport,HouseholdProjection,2005,32642
 E07000088,Gosport,HouseholdProjection,2006,33125
@@ -9900,6 +10012,7 @@ E07000089,Hart,Dwellings,2020,40763
 E07000089,Hart,Dwellings,2021,41348
 E07000089,Hart,Dwellings,2022,41930
 E07000089,Hart,Dwellings,2023,42504
+E07000089,Hart,Dwellings,2024,42938
 E07000089,Hart,HouseholdProjection,2004,33375
 E07000089,Hart,HouseholdProjection,2005,33830
 E07000089,Hart,HouseholdProjection,2006,34357
@@ -9981,6 +10094,7 @@ E07000090,Havant,Dwellings,2020,55738
 E07000090,Havant,Dwellings,2021,55998
 E07000090,Havant,Dwellings,2022,56257
 E07000090,Havant,Dwellings,2023,56752
+E07000090,Havant,Dwellings,2024,57120
 E07000090,Havant,HouseholdProjection,2004,48762
 E07000090,Havant,HouseholdProjection,2005,48941
 E07000090,Havant,HouseholdProjection,2006,49239
@@ -10063,6 +10177,7 @@ E07000091,New Forest,Dwellings,2020,83123
 E07000091,New Forest,Dwellings,2021,83607
 E07000091,New Forest,Dwellings,2022,83701
 E07000091,New Forest,Dwellings,2023,83926
+E07000091,New Forest,Dwellings,2024,84167
 E07000091,New Forest,HouseholdProjection,2004,73359
 E07000091,New Forest,HouseholdProjection,2005,73739
 E07000091,New Forest,HouseholdProjection,2006,74345
@@ -10145,6 +10260,7 @@ E07000092,Rushmoor,Dwellings,2020,40778
 E07000092,Rushmoor,Dwellings,2021,41024
 E07000092,Rushmoor,Dwellings,2022,41450
 E07000092,Rushmoor,Dwellings,2023,41817
+E07000092,Rushmoor,Dwellings,2024,42253
 E07000092,Rushmoor,HouseholdProjection,2004,34416
 E07000092,Rushmoor,HouseholdProjection,2005,34646
 E07000092,Rushmoor,HouseholdProjection,2006,34937
@@ -10227,6 +10343,7 @@ E07000093,Test Valley,Dwellings,2020,56226
 E07000093,Test Valley,Dwellings,2021,57107
 E07000093,Test Valley,Dwellings,2022,57960
 E07000093,Test Valley,Dwellings,2023,58356
+E07000093,Test Valley,Dwellings,2024,58631
 E07000093,Test Valley,HouseholdProjection,2004,45000
 E07000093,Test Valley,HouseholdProjection,2005,45402
 E07000093,Test Valley,HouseholdProjection,2006,45837
@@ -10309,6 +10426,7 @@ E07000094,Winchester,Dwellings,2020,53627
 E07000094,Winchester,Dwellings,2021,54459
 E07000094,Winchester,Dwellings,2022,55600
 E07000094,Winchester,Dwellings,2023,56644
+E07000094,Winchester,Dwellings,2024,57621
 E07000094,Winchester,HouseholdProjection,2004,43596
 E07000094,Winchester,HouseholdProjection,2005,43987
 E07000094,Winchester,HouseholdProjection,2006,44166
@@ -10391,6 +10509,7 @@ E07000095,Broxbourne,Dwellings,2020,41194
 E07000095,Broxbourne,Dwellings,2021,41400
 E07000095,Broxbourne,Dwellings,2022,41713
 E07000095,Broxbourne,Dwellings,2023,42195
+E07000095,Broxbourne,Dwellings,2024,42858
 E07000095,Broxbourne,HouseholdProjection,2004,35067
 E07000095,Broxbourne,HouseholdProjection,2005,35453
 E07000095,Broxbourne,HouseholdProjection,2006,35772
@@ -10473,6 +10592,7 @@ E07000096,Dacorum,Dwellings,2020,65374
 E07000096,Dacorum,Dwellings,2021,65989
 E07000096,Dacorum,Dwellings,2022,66782
 E07000096,Dacorum,Dwellings,2023,67397
+E07000096,Dacorum,Dwellings,2024,67880
 E07000096,Dacorum,HouseholdProjection,2004,56281
 E07000096,Dacorum,HouseholdProjection,2005,56568
 E07000096,Dacorum,HouseholdProjection,2006,56912
@@ -10555,6 +10675,7 @@ E07000098,Hertsmere,Dwellings,2020,44501
 E07000098,Hertsmere,Dwellings,2021,44926
 E07000098,Hertsmere,Dwellings,2022,45220
 E07000098,Hertsmere,Dwellings,2023,45332
+E07000098,Hertsmere,Dwellings,2024,45481
 E07000098,Hertsmere,HouseholdProjection,2004,37242
 E07000098,Hertsmere,HouseholdProjection,2005,37388
 E07000098,Hertsmere,HouseholdProjection,2006,37697
@@ -10637,6 +10758,7 @@ E07000099,North Hertfordshire,Dwellings,2020,58130
 E07000099,North Hertfordshire,Dwellings,2021,58749
 E07000099,North Hertfordshire,Dwellings,2022,59084
 E07000099,North Hertfordshire,Dwellings,2023,59531
+E07000099,North Hertfordshire,Dwellings,2024,59957
 E07000099,North Hertfordshire,HouseholdProjection,2004,49828
 E07000099,North Hertfordshire,HouseholdProjection,2005,50198
 E07000099,North Hertfordshire,HouseholdProjection,2006,50694
@@ -10719,6 +10841,7 @@ E07000102,Three Rivers,Dwellings,2020,38302
 E07000102,Three Rivers,Dwellings,2021,38422
 E07000102,Three Rivers,Dwellings,2022,38548
 E07000102,Three Rivers,Dwellings,2023,38753
+E07000102,Three Rivers,Dwellings,2024,39027
 E07000102,Three Rivers,HouseholdProjection,2004,33657
 E07000102,Three Rivers,HouseholdProjection,2005,33786
 E07000102,Three Rivers,HouseholdProjection,2006,33907
@@ -10801,6 +10924,7 @@ E07000103,Watford,Dwellings,2020,40936
 E07000103,Watford,Dwellings,2021,41411
 E07000103,Watford,Dwellings,2022,42174
 E07000103,Watford,Dwellings,2023,42946
+E07000103,Watford,Dwellings,2024,43697
 E07000103,Watford,HouseholdProjection,2004,32479
 E07000103,Watford,HouseholdProjection,2005,32925
 E07000103,Watford,HouseholdProjection,2006,32972
@@ -10883,6 +11007,7 @@ E07000105,Ashford,Dwellings,2020,55508
 E07000105,Ashford,Dwellings,2021,56653
 E07000105,Ashford,Dwellings,2022,57280
 E07000105,Ashford,Dwellings,2023,58281
+E07000105,Ashford,Dwellings,2024,58752
 E07000105,Ashford,HouseholdProjection,2004,42837
 E07000105,Ashford,HouseholdProjection,2005,43655
 E07000105,Ashford,HouseholdProjection,2006,44434
@@ -10965,6 +11090,7 @@ E07000106,Canterbury,Dwellings,2020,67626
 E07000106,Canterbury,Dwellings,2021,67946
 E07000106,Canterbury,Dwellings,2022,68638
 E07000106,Canterbury,Dwellings,2023,69282
+E07000106,Canterbury,Dwellings,2024,69942
 E07000106,Canterbury,HouseholdProjection,2004,57028
 E07000106,Canterbury,HouseholdProjection,2005,57587
 E07000106,Canterbury,HouseholdProjection,2006,58072
@@ -11047,6 +11173,7 @@ E07000107,Dartford,Dwellings,2020,47368
 E07000107,Dartford,Dwellings,2021,47921
 E07000107,Dartford,Dwellings,2022,48461
 E07000107,Dartford,Dwellings,2023,49199
+E07000107,Dartford,Dwellings,2024,49836
 E07000107,Dartford,HouseholdProjection,2004,35665
 E07000107,Dartford,HouseholdProjection,2005,36349
 E07000107,Dartford,HouseholdProjection,2006,36868
@@ -11129,6 +11256,7 @@ E07000108,Dover,Dwellings,2020,54308
 E07000108,Dover,Dwellings,2021,54720
 E07000108,Dover,Dwellings,2022,55345
 E07000108,Dover,Dwellings,2023,55888
+E07000108,Dover,Dwellings,2024,56607
 E07000108,Dover,HouseholdProjection,2004,45160
 E07000108,Dover,HouseholdProjection,2005,45495
 E07000108,Dover,HouseholdProjection,2006,45875
@@ -11211,6 +11339,7 @@ E07000109,Gravesham,Dwellings,2020,43821
 E07000109,Gravesham,Dwellings,2021,44071
 E07000109,Gravesham,Dwellings,2022,44492
 E07000109,Gravesham,Dwellings,2023,44911
+E07000109,Gravesham,Dwellings,2024,45204
 E07000109,Gravesham,HouseholdProjection,2004,38113
 E07000109,Gravesham,HouseholdProjection,2005,38412
 E07000109,Gravesham,HouseholdProjection,2006,38673
@@ -11293,6 +11422,7 @@ E07000110,Maidstone,Dwellings,2020,74111
 E07000110,Maidstone,Dwellings,2021,75558
 E07000110,Maidstone,Dwellings,2022,77185
 E07000110,Maidstone,Dwellings,2023,78249
+E07000110,Maidstone,Dwellings,2024,79289
 E07000110,Maidstone,HouseholdProjection,2004,57705
 E07000110,Maidstone,HouseholdProjection,2005,58273
 E07000110,Maidstone,HouseholdProjection,2006,59018
@@ -11375,6 +11505,7 @@ E07000111,Sevenoaks,Dwellings,2020,51344
 E07000111,Sevenoaks,Dwellings,2021,51605
 E07000111,Sevenoaks,Dwellings,2022,51872
 E07000111,Sevenoaks,Dwellings,2023,52133
+E07000111,Sevenoaks,Dwellings,2024,52247
 E07000111,Sevenoaks,HouseholdProjection,2004,44532
 E07000111,Sevenoaks,HouseholdProjection,2005,44995
 E07000111,Sevenoaks,HouseholdProjection,2006,45519
@@ -11457,6 +11588,7 @@ E07000112,Folkestone and Hythe,Dwellings,2020,52629
 E07000112,Folkestone and Hythe,Dwellings,2021,53108
 E07000112,Folkestone and Hythe,Dwellings,2022,53562
 E07000112,Folkestone and Hythe,Dwellings,2023,54016
+E07000112,Folkestone and Hythe,Dwellings,2024,54389
 E07000112,Folkestone and Hythe,HouseholdProjection,2004,42696
 E07000112,Folkestone and Hythe,HouseholdProjection,2005,43370
 E07000112,Folkestone and Hythe,HouseholdProjection,2006,43921
@@ -11539,6 +11671,7 @@ E07000113,Swale,Dwellings,2020,65307
 E07000113,Swale,Dwellings,2021,66200
 E07000113,Swale,Dwellings,2022,67189
 E07000113,Swale,Dwellings,2023,68007
+E07000113,Swale,Dwellings,2024,68764
 E07000113,Swale,HouseholdProjection,2004,50482
 E07000113,Swale,HouseholdProjection,2005,50911
 E07000113,Swale,HouseholdProjection,2006,51499
@@ -11621,6 +11754,7 @@ E07000114,Thanet,Dwellings,2020,68367
 E07000114,Thanet,Dwellings,2021,68964
 E07000114,Thanet,Dwellings,2022,69512
 E07000114,Thanet,Dwellings,2023,70129
+E07000114,Thanet,Dwellings,2024,70973
 E07000114,Thanet,HouseholdProjection,2004,56032
 E07000114,Thanet,HouseholdProjection,2005,56354
 E07000114,Thanet,HouseholdProjection,2006,56616
@@ -11703,6 +11837,7 @@ E07000115,Tonbridge and Malling,Dwellings,2020,55106
 E07000115,Tonbridge and Malling,Dwellings,2021,55487
 E07000115,Tonbridge and Malling,Dwellings,2022,55954
 E07000115,Tonbridge and Malling,Dwellings,2023,56446
+E07000115,Tonbridge and Malling,Dwellings,2024,56823
 E07000115,Tonbridge and Malling,HouseholdProjection,2004,43668
 E07000115,Tonbridge and Malling,HouseholdProjection,2005,44233
 E07000115,Tonbridge and Malling,HouseholdProjection,2006,45029
@@ -11785,6 +11920,7 @@ E07000116,Tunbridge Wells,Dwellings,2020,50401
 E07000116,Tunbridge Wells,Dwellings,2021,50935
 E07000116,Tunbridge Wells,Dwellings,2022,51453
 E07000116,Tunbridge Wells,Dwellings,2023,52089
+E07000116,Tunbridge Wells,Dwellings,2024,52700
 E07000116,Tunbridge Wells,HouseholdProjection,2004,42570
 E07000116,Tunbridge Wells,HouseholdProjection,2005,42922
 E07000116,Tunbridge Wells,HouseholdProjection,2006,43316
@@ -11867,6 +12003,7 @@ E07000117,Burnley,Dwellings,2020,41673
 E07000117,Burnley,Dwellings,2021,41955
 E07000117,Burnley,Dwellings,2022,42284
 E07000117,Burnley,Dwellings,2023,42540
+E07000117,Burnley,Dwellings,2024,42788
 E07000117,Burnley,HouseholdProjection,2004,36375
 E07000117,Burnley,HouseholdProjection,2005,36444
 E07000117,Burnley,HouseholdProjection,2006,36583
@@ -11949,6 +12086,7 @@ E07000118,Chorley,Dwellings,2020,52080
 E07000118,Chorley,Dwellings,2021,52367
 E07000118,Chorley,Dwellings,2022,52595
 E07000118,Chorley,Dwellings,2023,52907
+E07000118,Chorley,Dwellings,2024,53198
 E07000118,Chorley,HouseholdProjection,2004,42263
 E07000118,Chorley,HouseholdProjection,2005,42597
 E07000118,Chorley,HouseholdProjection,2006,42973
@@ -12031,6 +12169,7 @@ E07000119,Fylde,Dwellings,2020,40241
 E07000119,Fylde,Dwellings,2021,40510
 E07000119,Fylde,Dwellings,2022,40899
 E07000119,Fylde,Dwellings,2023,41544
+E07000119,Fylde,Dwellings,2024,41892
 E07000119,Fylde,HouseholdProjection,2004,33312
 E07000119,Fylde,HouseholdProjection,2005,33525
 E07000119,Fylde,HouseholdProjection,2006,33621
@@ -12113,6 +12252,7 @@ E07000120,Hyndburn,Dwellings,2020,37029
 E07000120,Hyndburn,Dwellings,2021,37207
 E07000120,Hyndburn,Dwellings,2022,37412
 E07000120,Hyndburn,Dwellings,2023,37609
+E07000120,Hyndburn,Dwellings,2024,37862
 E07000120,Hyndburn,HouseholdProjection,2004,32935
 E07000120,Hyndburn,HouseholdProjection,2005,33124
 E07000120,Hyndburn,HouseholdProjection,2006,33371
@@ -12195,6 +12335,7 @@ E07000121,Lancaster,Dwellings,2020,64896
 E07000121,Lancaster,Dwellings,2021,65403
 E07000121,Lancaster,Dwellings,2022,65844
 E07000121,Lancaster,Dwellings,2023,66046
+E07000121,Lancaster,Dwellings,2024,66260
 E07000121,Lancaster,HouseholdProjection,2004,56396
 E07000121,Lancaster,HouseholdProjection,2005,57039
 E07000121,Lancaster,HouseholdProjection,2006,57185
@@ -12277,6 +12418,7 @@ E07000122,Pendle,Dwellings,2020,40668
 E07000122,Pendle,Dwellings,2021,41021
 E07000122,Pendle,Dwellings,2022,41306
 E07000122,Pendle,Dwellings,2023,41591
+E07000122,Pendle,Dwellings,2024,41713
 E07000122,Pendle,HouseholdProjection,2004,35781
 E07000122,Pendle,HouseholdProjection,2005,35929
 E07000122,Pendle,HouseholdProjection,2006,36226
@@ -12359,6 +12501,7 @@ E07000123,Preston,Dwellings,2020,62867
 E07000123,Preston,Dwellings,2021,63556
 E07000123,Preston,Dwellings,2022,64620
 E07000123,Preston,Dwellings,2023,66025
+E07000123,Preston,Dwellings,2024,67655
 E07000123,Preston,HouseholdProjection,2004,54474
 E07000123,Preston,HouseholdProjection,2005,55220
 E07000123,Preston,HouseholdProjection,2006,55915
@@ -12440,7 +12583,8 @@ E07000124,Ribble Valley,Dwellings,2019,27489
 E07000124,Ribble Valley,Dwellings,2020,28066
 E07000124,Ribble Valley,Dwellings,2021,28537
 E07000124,Ribble Valley,Dwellings,2022,29036
-E07000124,Ribble Valley,Dwellings,2023,29730
+E07000124,Ribble Valley,Dwellings,2023,29726
+E07000124,Ribble Valley,Dwellings,2024,30270
 E07000124,Ribble Valley,HouseholdProjection,2004,23165
 E07000124,Ribble Valley,HouseholdProjection,2005,23376
 E07000124,Ribble Valley,HouseholdProjection,2006,23569
@@ -12523,6 +12667,7 @@ E07000125,Rossendale,Dwellings,2020,32246
 E07000125,Rossendale,Dwellings,2021,32323
 E07000125,Rossendale,Dwellings,2022,32446
 E07000125,Rossendale,Dwellings,2023,32637
+E07000125,Rossendale,Dwellings,2024,32838
 E07000125,Rossendale,HouseholdProjection,2004,27278
 E07000125,Rossendale,HouseholdProjection,2005,27469
 E07000125,Rossendale,HouseholdProjection,2006,27672
@@ -12605,6 +12750,7 @@ E07000126,South Ribble,Dwellings,2020,50209
 E07000126,South Ribble,Dwellings,2021,50593
 E07000126,South Ribble,Dwellings,2022,51106
 E07000126,South Ribble,Dwellings,2023,51807
+E07000126,South Ribble,Dwellings,2024,52386
 E07000126,South Ribble,HouseholdProjection,2004,43548
 E07000126,South Ribble,HouseholdProjection,2005,43831
 E07000126,South Ribble,HouseholdProjection,2006,44276
@@ -12687,6 +12833,7 @@ E07000127,West Lancashire,Dwellings,2020,50920
 E07000127,West Lancashire,Dwellings,2021,51382
 E07000127,West Lancashire,Dwellings,2022,51800
 E07000127,West Lancashire,Dwellings,2023,52244
+E07000127,West Lancashire,Dwellings,2024,52720
 E07000127,West Lancashire,HouseholdProjection,2004,44079
 E07000127,West Lancashire,HouseholdProjection,2005,44264
 E07000127,West Lancashire,HouseholdProjection,2006,44558
@@ -12769,6 +12916,7 @@ E07000128,Wyre,Dwellings,2020,53483
 E07000128,Wyre,Dwellings,2021,54139
 E07000128,Wyre,Dwellings,2022,54870
 E07000128,Wyre,Dwellings,2023,55567
+E07000128,Wyre,Dwellings,2024,56208
 E07000128,Wyre,HouseholdProjection,2004,46483
 E07000128,Wyre,HouseholdProjection,2005,46630
 E07000128,Wyre,HouseholdProjection,2006,46735
@@ -12851,6 +12999,7 @@ E07000129,Blaby,Dwellings,2020,43404
 E07000129,Blaby,Dwellings,2021,43635
 E07000129,Blaby,Dwellings,2022,43999
 E07000129,Blaby,Dwellings,2023,44274
+E07000129,Blaby,Dwellings,2024,44697
 E07000129,Blaby,HouseholdProjection,2004,36772
 E07000129,Blaby,HouseholdProjection,2005,36909
 E07000129,Blaby,HouseholdProjection,2006,37257
@@ -12933,6 +13082,7 @@ E07000130,Charnwood,Dwellings,2020,75987
 E07000130,Charnwood,Dwellings,2021,77023
 E07000130,Charnwood,Dwellings,2022,77652
 E07000130,Charnwood,Dwellings,2023,78276
+E07000130,Charnwood,Dwellings,2024,79116
 E07000130,Charnwood,HouseholdProjection,2004,61075
 E07000130,Charnwood,HouseholdProjection,2005,61733
 E07000130,Charnwood,HouseholdProjection,2006,62401
@@ -13014,6 +13164,7 @@ E07000131,Harborough,Dwellings,2020,40914
 E07000131,Harborough,Dwellings,2021,41901
 E07000131,Harborough,Dwellings,2022,42927
 E07000131,Harborough,Dwellings,2023,43856
+E07000131,Harborough,Dwellings,2024,44573
 E07000131,Harborough,HouseholdProjection,2004,32165
 E07000131,Harborough,HouseholdProjection,2005,32466
 E07000131,Harborough,HouseholdProjection,2006,32900
@@ -13095,6 +13246,7 @@ E07000132,Hinckley and Bosworth,Dwellings,2020,50795
 E07000132,Hinckley and Bosworth,Dwellings,2021,51017
 E07000132,Hinckley and Bosworth,Dwellings,2022,51517
 E07000132,Hinckley and Bosworth,Dwellings,2023,52401
+E07000132,Hinckley and Bosworth,Dwellings,2024,52758
 E07000132,Hinckley and Bosworth,HouseholdProjection,2004,42315
 E07000132,Hinckley and Bosworth,HouseholdProjection,2005,42776
 E07000132,Hinckley and Bosworth,HouseholdProjection,2006,43262
@@ -13177,6 +13329,7 @@ E07000133,Melton,Dwellings,2020,23320
 E07000133,Melton,Dwellings,2021,23608
 E07000133,Melton,Dwellings,2022,23973
 E07000133,Melton,Dwellings,2023,24341
+E07000133,Melton,Dwellings,2024,24731
 E07000133,Melton,HouseholdProjection,2004,20063
 E07000133,Melton,HouseholdProjection,2005,20175
 E07000133,Melton,HouseholdProjection,2006,20277
@@ -13259,6 +13412,7 @@ E07000134,North West Leicestershire,Dwellings,2020,46014
 E07000134,North West Leicestershire,Dwellings,2021,46688
 E07000134,North West Leicestershire,Dwellings,2022,47675
 E07000134,North West Leicestershire,Dwellings,2023,48381
+E07000134,North West Leicestershire,Dwellings,2024,48952
 E07000134,North West Leicestershire,HouseholdProjection,2004,36592
 E07000134,North West Leicestershire,HouseholdProjection,2005,36938
 E07000134,North West Leicestershire,HouseholdProjection,2006,37376
@@ -13341,6 +13495,7 @@ E07000135,Oadby and Wigston,Dwellings,2020,23363
 E07000135,Oadby and Wigston,Dwellings,2021,23571
 E07000135,Oadby and Wigston,Dwellings,2022,23724
 E07000135,Oadby and Wigston,Dwellings,2023,24059
+E07000135,Oadby and Wigston,Dwellings,2024,24346
 E07000135,Oadby and Wigston,HouseholdProjection,2004,21601
 E07000135,Oadby and Wigston,HouseholdProjection,2005,21517
 E07000135,Oadby and Wigston,HouseholdProjection,2006,21516
@@ -13423,6 +13578,7 @@ E07000136,Boston,Dwellings,2020,30584
 E07000136,Boston,Dwellings,2021,30892
 E07000136,Boston,Dwellings,2022,31210
 E07000136,Boston,Dwellings,2023,31556
+E07000136,Boston,Dwellings,2024,31842
 E07000136,Boston,HouseholdProjection,2004,24816
 E07000136,Boston,HouseholdProjection,2005,24958
 E07000136,Boston,HouseholdProjection,2006,25370
@@ -13505,6 +13661,7 @@ E07000137,East Lindsey,Dwellings,2020,86019
 E07000137,East Lindsey,Dwellings,2021,88394
 E07000137,East Lindsey,Dwellings,2022,88964
 E07000137,East Lindsey,Dwellings,2023,89495
+E07000137,East Lindsey,Dwellings,2024,90026
 E07000137,East Lindsey,HouseholdProjection,2004,58337
 E07000137,East Lindsey,HouseholdProjection,2005,58875
 E07000137,East Lindsey,HouseholdProjection,2006,59319
@@ -13587,6 +13744,7 @@ E07000138,Lincoln,Dwellings,2020,44922
 E07000138,Lincoln,Dwellings,2021,45115
 E07000138,Lincoln,Dwellings,2022,45265
 E07000138,Lincoln,Dwellings,2023,45423
+E07000138,Lincoln,Dwellings,2024,45558
 E07000138,Lincoln,HouseholdProjection,2004,37006
 E07000138,Lincoln,HouseholdProjection,2005,37508
 E07000138,Lincoln,HouseholdProjection,2006,37902
@@ -13669,6 +13827,7 @@ E07000139,North Kesteven,Dwellings,2020,52249
 E07000139,North Kesteven,Dwellings,2021,52752
 E07000139,North Kesteven,Dwellings,2022,53221
 E07000139,North Kesteven,Dwellings,2023,53994
+E07000139,North Kesteven,Dwellings,2024,54697
 E07000139,North Kesteven,HouseholdProjection,2004,41525
 E07000139,North Kesteven,HouseholdProjection,2005,41973
 E07000139,North Kesteven,HouseholdProjection,2006,42744
@@ -13751,6 +13910,7 @@ E07000140,South Holland,Dwellings,2020,41846
 E07000140,South Holland,Dwellings,2021,42430
 E07000140,South Holland,Dwellings,2022,43097
 E07000140,South Holland,Dwellings,2023,43823
+E07000140,South Holland,Dwellings,2024,44471
 E07000140,South Holland,HouseholdProjection,2004,34228
 E07000140,South Holland,HouseholdProjection,2005,34549
 E07000140,South Holland,HouseholdProjection,2006,35104
@@ -13833,6 +13993,7 @@ E07000141,South Kesteven,Dwellings,2020,65189
 E07000141,South Kesteven,Dwellings,2021,65714
 E07000141,South Kesteven,Dwellings,2022,66199
 E07000141,South Kesteven,Dwellings,2023,66841
+E07000141,South Kesteven,Dwellings,2024,67416
 E07000141,South Kesteven,HouseholdProjection,2004,53047
 E07000141,South Kesteven,HouseholdProjection,2005,53459
 E07000141,South Kesteven,HouseholdProjection,2006,54088
@@ -13915,6 +14076,7 @@ E07000142,West Lindsey,Dwellings,2020,44153
 E07000142,West Lindsey,Dwellings,2021,44737
 E07000142,West Lindsey,Dwellings,2022,45326
 E07000142,West Lindsey,Dwellings,2023,46007
+E07000142,West Lindsey,Dwellings,2024,46615
 E07000142,West Lindsey,HouseholdProjection,2004,34822
 E07000142,West Lindsey,HouseholdProjection,2005,35314
 E07000142,West Lindsey,HouseholdProjection,2006,35927
@@ -13997,6 +14159,7 @@ E07000143,Breckland,Dwellings,2020,62572
 E07000143,Breckland,Dwellings,2021,63154
 E07000143,Breckland,Dwellings,2022,63851
 E07000143,Breckland,Dwellings,2023,64819
+E07000143,Breckland,Dwellings,2024,65994
 E07000143,Breckland,HouseholdProjection,2004,51620
 E07000143,Breckland,HouseholdProjection,2005,52209
 E07000143,Breckland,HouseholdProjection,2006,52701
@@ -14079,6 +14242,7 @@ E07000144,Broadland,Dwellings,2020,59386
 E07000144,Broadland,Dwellings,2021,59870
 E07000144,Broadland,Dwellings,2022,60524
 E07000144,Broadland,Dwellings,2023,61447
+E07000144,Broadland,Dwellings,2024,62336
 E07000144,Broadland,HouseholdProjection,2004,50955
 E07000144,Broadland,HouseholdProjection,2005,51321
 E07000144,Broadland,HouseholdProjection,2006,51686
@@ -14161,6 +14325,7 @@ E07000145,Great Yarmouth,Dwellings,2020,48632
 E07000145,Great Yarmouth,Dwellings,2021,49316
 E07000145,Great Yarmouth,Dwellings,2022,49678
 E07000145,Great Yarmouth,Dwellings,2023,50018
+E07000145,Great Yarmouth,Dwellings,2024,50366
 E07000145,Great Yarmouth,HouseholdProjection,2004,40117
 E07000145,Great Yarmouth,HouseholdProjection,2005,40406
 E07000145,Great Yarmouth,HouseholdProjection,2006,40625
@@ -14242,7 +14407,8 @@ E07000146,King's Lynn and West Norfolk,Dwellings,2019,74537
 E07000146,King's Lynn and West Norfolk,Dwellings,2020,74785
 E07000146,King's Lynn and West Norfolk,Dwellings,2021,74782
 E07000146,King's Lynn and West Norfolk,Dwellings,2022,75122
-E07000146,King's Lynn and West Norfolk,Dwellings,2023,75670
+E07000146,King's Lynn and West Norfolk,Dwellings,2023,75738
+E07000146,King's Lynn and West Norfolk,Dwellings,2024,76344
 E07000146,King's Lynn and West Norfolk,HouseholdProjection,2004,59438
 E07000146,King's Lynn and West Norfolk,HouseholdProjection,2005,59932
 E07000146,King's Lynn and West Norfolk,HouseholdProjection,2006,60705
@@ -14325,6 +14491,7 @@ E07000147,North Norfolk,Dwellings,2020,56295
 E07000147,North Norfolk,Dwellings,2021,56680
 E07000147,North Norfolk,Dwellings,2022,57136
 E07000147,North Norfolk,Dwellings,2023,57435
+E07000147,North Norfolk,Dwellings,2024,57661
 E07000147,North Norfolk,HouseholdProjection,2004,44096
 E07000147,North Norfolk,HouseholdProjection,2005,44333
 E07000147,North Norfolk,HouseholdProjection,2006,44569
@@ -14407,6 +14574,7 @@ E07000148,Norwich,Dwellings,2020,67408
 E07000148,Norwich,Dwellings,2021,67624
 E07000148,Norwich,Dwellings,2022,67944
 E07000148,Norwich,Dwellings,2023,68178
+E07000148,Norwich,Dwellings,2024,68676
 E07000148,Norwich,HouseholdProjection,2004,55573
 E07000148,Norwich,HouseholdProjection,2005,56523
 E07000148,Norwich,HouseholdProjection,2006,57008
@@ -14489,6 +14657,7 @@ E07000149,South Norfolk,Dwellings,2020,63032
 E07000149,South Norfolk,Dwellings,2021,63849
 E07000149,South Norfolk,Dwellings,2022,64765
 E07000149,South Norfolk,Dwellings,2023,65979
+E07000149,South Norfolk,Dwellings,2024,66864
 E07000149,South Norfolk,HouseholdProjection,2004,48303
 E07000149,South Norfolk,HouseholdProjection,2005,48797
 E07000149,South Norfolk,HouseholdProjection,2006,49235
@@ -15171,6 +15340,7 @@ E07000170,Ashfield,Dwellings,2020,56427
 E07000170,Ashfield,Dwellings,2021,56685
 E07000170,Ashfield,Dwellings,2022,57097
 E07000170,Ashfield,Dwellings,2023,57448
+E07000170,Ashfield,Dwellings,2024,57899
 E07000170,Ashfield,HouseholdProjection,2004,47613
 E07000170,Ashfield,HouseholdProjection,2005,48101
 E07000170,Ashfield,HouseholdProjection,2006,48481
@@ -15253,6 +15423,7 @@ E07000171,Bassetlaw,Dwellings,2020,53521
 E07000171,Bassetlaw,Dwellings,2021,54369
 E07000171,Bassetlaw,Dwellings,2022,55135
 E07000171,Bassetlaw,Dwellings,2023,56181
+E07000171,Bassetlaw,Dwellings,2024,57162
 E07000171,Bassetlaw,HouseholdProjection,2004,45532
 E07000171,Bassetlaw,HouseholdProjection,2005,45821
 E07000171,Bassetlaw,HouseholdProjection,2006,46186
@@ -15335,6 +15506,7 @@ E07000172,Broxtowe,Dwellings,2020,50351
 E07000172,Broxtowe,Dwellings,2021,50623
 E07000172,Broxtowe,Dwellings,2022,50926
 E07000172,Broxtowe,Dwellings,2023,51228
+E07000172,Broxtowe,Dwellings,2024,51619
 E07000172,Broxtowe,HouseholdProjection,2004,45572
 E07000172,Broxtowe,HouseholdProjection,2005,45819
 E07000172,Broxtowe,HouseholdProjection,2006,45978
@@ -15417,6 +15589,7 @@ E07000173,Gedling,Dwellings,2020,53177
 E07000173,Gedling,Dwellings,2021,53479
 E07000173,Gedling,Dwellings,2022,53836
 E07000173,Gedling,Dwellings,2023,54527
+E07000173,Gedling,Dwellings,2024,55131
 E07000173,Gedling,HouseholdProjection,2004,47659
 E07000173,Gedling,HouseholdProjection,2005,47808
 E07000173,Gedling,HouseholdProjection,2006,47917
@@ -15499,6 +15672,7 @@ E07000174,Mansfield,Dwellings,2020,49990
 E07000174,Mansfield,Dwellings,2021,50520
 E07000174,Mansfield,Dwellings,2022,50882
 E07000174,Mansfield,Dwellings,2023,51262
+E07000174,Mansfield,Dwellings,2024,51652
 E07000174,Mansfield,HouseholdProjection,2004,41986
 E07000174,Mansfield,HouseholdProjection,2005,42364
 E07000174,Mansfield,HouseholdProjection,2006,42809
@@ -15581,6 +15755,7 @@ E07000175,Newark and Sherwood,Dwellings,2020,55269
 E07000175,Newark and Sherwood,Dwellings,2021,56067
 E07000175,Newark and Sherwood,Dwellings,2022,56874
 E07000175,Newark and Sherwood,Dwellings,2023,57462
+E07000175,Newark and Sherwood,Dwellings,2024,58091
 E07000175,Newark and Sherwood,HouseholdProjection,2004,45815
 E07000175,Newark and Sherwood,HouseholdProjection,2005,46240
 E07000175,Newark and Sherwood,HouseholdProjection,2006,46759
@@ -15663,6 +15838,7 @@ E07000176,Rushcliffe,Dwellings,2020,51361
 E07000176,Rushcliffe,Dwellings,2021,51987
 E07000176,Rushcliffe,Dwellings,2022,52963
 E07000176,Rushcliffe,Dwellings,2023,54113
+E07000176,Rushcliffe,Dwellings,2024,55223
 E07000176,Rushcliffe,HouseholdProjection,2004,44095
 E07000176,Rushcliffe,HouseholdProjection,2005,44206
 E07000176,Rushcliffe,HouseholdProjection,2006,44657
@@ -15745,6 +15921,7 @@ E07000177,Cherwell,Dwellings,2020,67971
 E07000177,Cherwell,Dwellings,2021,69201
 E07000177,Cherwell,Dwellings,2022,70376
 E07000177,Cherwell,Dwellings,2023,71698
+E07000177,Cherwell,Dwellings,2024,72490
 E07000177,Cherwell,HouseholdProjection,2004,53987
 E07000177,Cherwell,HouseholdProjection,2005,54306
 E07000177,Cherwell,HouseholdProjection,2006,54796
@@ -15827,6 +16004,7 @@ E07000178,Oxford,Dwellings,2020,58602
 E07000178,Oxford,Dwellings,2021,58980
 E07000178,Oxford,Dwellings,2022,59497
 E07000178,Oxford,Dwellings,2023,59912
+E07000178,Oxford,Dwellings,2024,60277
 E07000178,Oxford,HouseholdProjection,2004,53149
 E07000178,Oxford,HouseholdProjection,2005,54451
 E07000178,Oxford,HouseholdProjection,2006,54082
@@ -15909,6 +16087,7 @@ E07000179,South Oxfordshire,Dwellings,2020,63658
 E07000179,South Oxfordshire,Dwellings,2021,64439
 E07000179,South Oxfordshire,Dwellings,2022,65407
 E07000179,South Oxfordshire,Dwellings,2023,66687
+E07000179,South Oxfordshire,Dwellings,2024,67667
 E07000179,South Oxfordshire,HouseholdProjection,2004,52019
 E07000179,South Oxfordshire,HouseholdProjection,2005,52272
 E07000179,South Oxfordshire,HouseholdProjection,2006,52485
@@ -15991,6 +16170,7 @@ E07000180,Vale of White Horse,Dwellings,2020,59488
 E07000180,Vale of White Horse,Dwellings,2021,60448
 E07000180,Vale of White Horse,Dwellings,2022,61635
 E07000180,Vale of White Horse,Dwellings,2023,62973
+E07000180,Vale of White Horse,Dwellings,2024,64103
 E07000180,Vale of White Horse,HouseholdProjection,2004,46256
 E07000180,Vale of White Horse,HouseholdProjection,2005,46782
 E07000180,Vale of White Horse,HouseholdProjection,2006,47272
@@ -16072,7 +16252,8 @@ E07000181,West Oxfordshire,Dwellings,2019,49082
 E07000181,West Oxfordshire,Dwellings,2020,50188
 E07000181,West Oxfordshire,Dwellings,2021,51077
 E07000181,West Oxfordshire,Dwellings,2022,52079
-E07000181,West Oxfordshire,Dwellings,2023,52783
+E07000181,West Oxfordshire,Dwellings,2023,52819
+E07000181,West Oxfordshire,Dwellings,2024,53511
 E07000181,West Oxfordshire,HouseholdProjection,2004,39432
 E07000181,West Oxfordshire,HouseholdProjection,2005,39893
 E07000181,West Oxfordshire,HouseholdProjection,2006,40606
@@ -16367,6 +16548,7 @@ E07000192,Cannock Chase,Dwellings,2020,44540
 E07000192,Cannock Chase,Dwellings,2021,44842
 E07000192,Cannock Chase,Dwellings,2022,45462
 E07000192,Cannock Chase,Dwellings,2023,45899
+E07000192,Cannock Chase,Dwellings,2024,46087
 E07000192,Cannock Chase,HouseholdProjection,2004,38055
 E07000192,Cannock Chase,HouseholdProjection,2005,38410
 E07000192,Cannock Chase,HouseholdProjection,2006,38581
@@ -16449,6 +16631,7 @@ E07000193,East Staffordshire,Dwellings,2020,52967
 E07000193,East Staffordshire,Dwellings,2021,53609
 E07000193,East Staffordshire,Dwellings,2022,54314
 E07000193,East Staffordshire,Dwellings,2023,55249
+E07000193,East Staffordshire,Dwellings,2024,56034
 E07000193,East Staffordshire,HouseholdProjection,2004,43950
 E07000193,East Staffordshire,HouseholdProjection,2005,44352
 E07000193,East Staffordshire,HouseholdProjection,2006,44788
@@ -16531,6 +16714,7 @@ E07000194,Lichfield,Dwellings,2020,46470
 E07000194,Lichfield,Dwellings,2021,47015
 E07000194,Lichfield,Dwellings,2022,47758
 E07000194,Lichfield,Dwellings,2023,48514
+E07000194,Lichfield,Dwellings,2024,49230
 E07000194,Lichfield,HouseholdProjection,2004,38449
 E07000194,Lichfield,HouseholdProjection,2005,38816
 E07000194,Lichfield,HouseholdProjection,2006,39323
@@ -16613,6 +16797,7 @@ E07000195,Newcastle-under-Lyme,Dwellings,2020,55803
 E07000195,Newcastle-under-Lyme,Dwellings,2021,56298
 E07000195,Newcastle-under-Lyme,Dwellings,2022,56874
 E07000195,Newcastle-under-Lyme,Dwellings,2023,57108
+E07000195,Newcastle-under-Lyme,Dwellings,2024,57412
 E07000195,Newcastle-under-Lyme,HouseholdProjection,2004,51038
 E07000195,Newcastle-under-Lyme,HouseholdProjection,2005,51265
 E07000195,Newcastle-under-Lyme,HouseholdProjection,2006,51442
@@ -16695,6 +16880,7 @@ E07000196,South Staffordshire,Dwellings,2020,47692
 E07000196,South Staffordshire,Dwellings,2021,47946
 E07000196,South Staffordshire,Dwellings,2022,48476
 E07000196,South Staffordshire,Dwellings,2023,49049
+E07000196,South Staffordshire,Dwellings,2024,49405
 E07000196,South Staffordshire,HouseholdProjection,2004,42552
 E07000196,South Staffordshire,HouseholdProjection,2005,42779
 E07000196,South Staffordshire,HouseholdProjection,2006,43017
@@ -16777,6 +16963,7 @@ E07000197,Stafford,Dwellings,2020,62086
 E07000197,Stafford,Dwellings,2021,62611
 E07000197,Stafford,Dwellings,2022,63117
 E07000197,Stafford,Dwellings,2023,63748
+E07000197,Stafford,Dwellings,2024,64171
 E07000197,Stafford,HouseholdProjection,2004,51472
 E07000197,Stafford,HouseholdProjection,2005,52076
 E07000197,Stafford,HouseholdProjection,2006,52751
@@ -16859,6 +17046,7 @@ E07000198,Staffordshire Moorlands,Dwellings,2020,44613
 E07000198,Staffordshire Moorlands,Dwellings,2021,44795
 E07000198,Staffordshire Moorlands,Dwellings,2022,44970
 E07000198,Staffordshire Moorlands,Dwellings,2023,45214
+E07000198,Staffordshire Moorlands,Dwellings,2024,45451
 E07000198,Staffordshire Moorlands,HouseholdProjection,2004,39494
 E07000198,Staffordshire Moorlands,HouseholdProjection,2005,39803
 E07000198,Staffordshire Moorlands,HouseholdProjection,2006,40146
@@ -16941,6 +17129,7 @@ E07000199,Tamworth,Dwellings,2020,33468
 E07000199,Tamworth,Dwellings,2021,33892
 E07000199,Tamworth,Dwellings,2022,34297
 E07000199,Tamworth,Dwellings,2023,34655
+E07000199,Tamworth,Dwellings,2024,34934
 E07000199,Tamworth,HouseholdProjection,2004,29619
 E07000199,Tamworth,HouseholdProjection,2005,29885
 E07000199,Tamworth,HouseholdProjection,2006,30120
@@ -17023,6 +17212,7 @@ E07000200,Babergh,Dwellings,2020,41450
 E07000200,Babergh,Dwellings,2021,41844
 E07000200,Babergh,Dwellings,2022,42602
 E07000200,Babergh,Dwellings,2023,43246
+E07000200,Babergh,Dwellings,2024,43834
 E07000200,Babergh,HouseholdProjection,2004,35582
 E07000200,Babergh,HouseholdProjection,2005,35842
 E07000200,Babergh,HouseholdProjection,2006,36219
@@ -17171,6 +17361,7 @@ E07000202,Ipswich,Dwellings,2020,61278
 E07000202,Ipswich,Dwellings,2021,61457
 E07000202,Ipswich,Dwellings,2022,61628
 E07000202,Ipswich,Dwellings,2023,61837
+E07000202,Ipswich,Dwellings,2024,62043
 E07000202,Ipswich,HouseholdProjection,2004,51079
 E07000202,Ipswich,HouseholdProjection,2005,52420
 E07000202,Ipswich,HouseholdProjection,2006,52870
@@ -17253,6 +17444,7 @@ E07000203,Mid Suffolk,Dwellings,2020,45517
 E07000203,Mid Suffolk,Dwellings,2021,46167
 E07000203,Mid Suffolk,Dwellings,2022,47029
 E07000203,Mid Suffolk,Dwellings,2023,48277
+E07000203,Mid Suffolk,Dwellings,2024,49285
 E07000203,Mid Suffolk,HouseholdProjection,2004,36569
 E07000203,Mid Suffolk,HouseholdProjection,2005,37177
 E07000203,Mid Suffolk,HouseholdProjection,2006,37708
@@ -17532,7 +17724,8 @@ E07000207,Elmbridge,Dwellings,2019,58127
 E07000207,Elmbridge,Dwellings,2020,58559
 E07000207,Elmbridge,Dwellings,2021,58905
 E07000207,Elmbridge,Dwellings,2022,59673
-E07000207,Elmbridge,Dwellings,2023,59913
+E07000207,Elmbridge,Dwellings,2023,59909
+E07000207,Elmbridge,Dwellings,2024,60315
 E07000207,Elmbridge,HouseholdProjection,2004,51395
 E07000207,Elmbridge,HouseholdProjection,2005,51881
 E07000207,Elmbridge,HouseholdProjection,2006,52319
@@ -17615,6 +17808,7 @@ E07000208,Epsom and Ewell,Dwellings,2020,32500
 E07000208,Epsom and Ewell,Dwellings,2021,32602
 E07000208,Epsom and Ewell,Dwellings,2022,32719
 E07000208,Epsom and Ewell,Dwellings,2023,33036
+E07000208,Epsom and Ewell,Dwellings,2024,33174
 E07000208,Epsom and Ewell,HouseholdProjection,2004,27403
 E07000208,Epsom and Ewell,HouseholdProjection,2005,27654
 E07000208,Epsom and Ewell,HouseholdProjection,2006,27891
@@ -17697,6 +17891,7 @@ E07000209,Guildford,Dwellings,2020,58233
 E07000209,Guildford,Dwellings,2021,59029
 E07000209,Guildford,Dwellings,2022,59765
 E07000209,Guildford,Dwellings,2023,60469
+E07000209,Guildford,Dwellings,2024,61184
 E07000209,Guildford,HouseholdProjection,2004,51608
 E07000209,Guildford,HouseholdProjection,2005,51863
 E07000209,Guildford,HouseholdProjection,2006,52396
@@ -17779,6 +17974,7 @@ E07000210,Mole Valley,Dwellings,2020,38662
 E07000210,Mole Valley,Dwellings,2021,38906
 E07000210,Mole Valley,Dwellings,2022,39160
 E07000210,Mole Valley,Dwellings,2023,39377
+E07000210,Mole Valley,Dwellings,2024,39540
 E07000210,Mole Valley,HouseholdProjection,2004,33954
 E07000210,Mole Valley,HouseholdProjection,2005,34099
 E07000210,Mole Valley,HouseholdProjection,2006,34342
@@ -17861,6 +18057,7 @@ E07000211,Reigate and Banstead,Dwellings,2020,61683
 E07000211,Reigate and Banstead,Dwellings,2021,62512
 E07000211,Reigate and Banstead,Dwellings,2022,63240
 E07000211,Reigate and Banstead,Dwellings,2023,63884
+E07000211,Reigate and Banstead,Dwellings,2024,64392
 E07000211,Reigate and Banstead,HouseholdProjection,2004,51357
 E07000211,Reigate and Banstead,HouseholdProjection,2005,51550
 E07000211,Reigate and Banstead,HouseholdProjection,2006,52026
@@ -17942,7 +18139,8 @@ E07000212,Runnymede,Dwellings,2019,36514
 E07000212,Runnymede,Dwellings,2020,36809
 E07000212,Runnymede,Dwellings,2021,37077
 E07000212,Runnymede,Dwellings,2022,37565
-E07000212,Runnymede,Dwellings,2023,38077
+E07000212,Runnymede,Dwellings,2023,38076
+E07000212,Runnymede,Dwellings,2024,38515
 E07000212,Runnymede,HouseholdProjection,2004,31159
 E07000212,Runnymede,HouseholdProjection,2005,31280
 E07000212,Runnymede,HouseholdProjection,2006,31304
@@ -18025,6 +18223,7 @@ E07000213,Spelthorne,Dwellings,2020,43180
 E07000213,Spelthorne,Dwellings,2021,43698
 E07000213,Spelthorne,Dwellings,2022,44034
 E07000213,Spelthorne,Dwellings,2023,44172
+E07000213,Spelthorne,Dwellings,2024,44458
 E07000213,Spelthorne,HouseholdProjection,2004,37759
 E07000213,Spelthorne,HouseholdProjection,2005,37800
 E07000213,Spelthorne,HouseholdProjection,2006,37980
@@ -18107,6 +18306,7 @@ E07000214,Surrey Heath,Dwellings,2020,37196
 E07000214,Surrey Heath,Dwellings,2021,37591
 E07000214,Surrey Heath,Dwellings,2022,37961
 E07000214,Surrey Heath,Dwellings,2023,38364
+E07000214,Surrey Heath,Dwellings,2024,38686
 E07000214,Surrey Heath,HouseholdProjection,2004,31638
 E07000214,Surrey Heath,HouseholdProjection,2005,31939
 E07000214,Surrey Heath,HouseholdProjection,2006,32313
@@ -18188,7 +18388,8 @@ E07000215,Tandridge,Dwellings,2019,36907
 E07000215,Tandridge,Dwellings,2020,37214
 E07000215,Tandridge,Dwellings,2021,37377
 E07000215,Tandridge,Dwellings,2022,37615
-E07000215,Tandridge,Dwellings,2023,37911
+E07000215,Tandridge,Dwellings,2023,37922
+E07000215,Tandridge,Dwellings,2024,38160
 E07000215,Tandridge,HouseholdProjection,2004,31356
 E07000215,Tandridge,HouseholdProjection,2005,31536
 E07000215,Tandridge,HouseholdProjection,2006,31742
@@ -18271,6 +18472,7 @@ E07000216,Waverley,Dwellings,2020,54291
 E07000216,Waverley,Dwellings,2021,54968
 E07000216,Waverley,Dwellings,2022,55678
 E07000216,Waverley,Dwellings,2023,56644
+E07000216,Waverley,Dwellings,2024,57373
 E07000216,Waverley,HouseholdProjection,2004,46953
 E07000216,Waverley,HouseholdProjection,2005,46928
 E07000216,Waverley,HouseholdProjection,2006,47237
@@ -18353,6 +18555,7 @@ E07000217,Woking,Dwellings,2020,43397
 E07000217,Woking,Dwellings,2021,43568
 E07000217,Woking,Dwellings,2022,43954
 E07000217,Woking,Dwellings,2023,44582
+E07000217,Woking,Dwellings,2024,44850
 E07000217,Woking,HouseholdProjection,2004,36241
 E07000217,Woking,HouseholdProjection,2005,36634
 E07000217,Woking,HouseholdProjection,2006,37272
@@ -18435,6 +18638,7 @@ E07000218,North Warwickshire,Dwellings,2020,28873
 E07000218,North Warwickshire,Dwellings,2021,29027
 E07000218,North Warwickshire,Dwellings,2022,29227
 E07000218,North Warwickshire,Dwellings,2023,29389
+E07000218,North Warwickshire,Dwellings,2024,29654
 E07000218,North Warwickshire,HouseholdProjection,2004,25270
 E07000218,North Warwickshire,HouseholdProjection,2005,25377
 E07000218,North Warwickshire,HouseholdProjection,2006,25455
@@ -18517,6 +18721,7 @@ E07000219,Nuneaton and Bedworth,Dwellings,2020,57987
 E07000219,Nuneaton and Bedworth,Dwellings,2021,58607
 E07000219,Nuneaton and Bedworth,Dwellings,2022,59416
 E07000219,Nuneaton and Bedworth,Dwellings,2023,60419
+E07000219,Nuneaton and Bedworth,Dwellings,2024,61435
 E07000219,Nuneaton and Bedworth,HouseholdProjection,2004,49371
 E07000219,Nuneaton and Bedworth,HouseholdProjection,2005,49655
 E07000219,Nuneaton and Bedworth,HouseholdProjection,2006,50053
@@ -18599,6 +18804,7 @@ E07000220,Rugby,Dwellings,2020,48237
 E07000220,Rugby,Dwellings,2021,49098
 E07000220,Rugby,Dwellings,2022,50037
 E07000220,Rugby,Dwellings,2023,51343
+E07000220,Rugby,Dwellings,2024,52209
 E07000220,Rugby,HouseholdProjection,2004,37221
 E07000220,Rugby,HouseholdProjection,2005,37812
 E07000220,Rugby,HouseholdProjection,2006,38557
@@ -18681,6 +18887,7 @@ E07000221,Stratford-on-Avon,Dwellings,2020,62630
 E07000221,Stratford-on-Avon,Dwellings,2021,63465
 E07000221,Stratford-on-Avon,Dwellings,2022,65037
 E07000221,Stratford-on-Avon,Dwellings,2023,66482
+E07000221,Stratford-on-Avon,Dwellings,2024,67493
 E07000221,Stratford-on-Avon,HouseholdProjection,2004,48013
 E07000221,Stratford-on-Avon,HouseholdProjection,2005,48626
 E07000221,Stratford-on-Avon,HouseholdProjection,2006,49490
@@ -18763,6 +18970,7 @@ E07000222,Warwick,Dwellings,2020,65683
 E07000222,Warwick,Dwellings,2021,66383
 E07000222,Warwick,Dwellings,2022,67346
 E07000222,Warwick,Dwellings,2023,68119
+E07000222,Warwick,Dwellings,2024,69006
 E07000222,Warwick,HouseholdProjection,2004,55204
 E07000222,Warwick,HouseholdProjection,2005,56014
 E07000222,Warwick,HouseholdProjection,2006,56568
@@ -18845,6 +19053,7 @@ E07000223,Adur,Dwellings,2020,28484
 E07000223,Adur,Dwellings,2021,28689
 E07000223,Adur,Dwellings,2022,28787
 E07000223,Adur,Dwellings,2023,28892
+E07000223,Adur,Dwellings,2024,29012
 E07000223,Adur,HouseholdProjection,2004,25985
 E07000223,Adur,HouseholdProjection,2005,25990
 E07000223,Adur,HouseholdProjection,2006,26235
@@ -18927,6 +19136,7 @@ E07000224,Arun,Dwellings,2020,76005
 E07000224,Arun,Dwellings,2021,76727
 E07000224,Arun,Dwellings,2022,77389
 E07000224,Arun,Dwellings,2023,78318
+E07000224,Arun,Dwellings,2024,79323
 E07000224,Arun,HouseholdProjection,2004,64271
 E07000224,Arun,HouseholdProjection,2005,64574
 E07000224,Arun,HouseholdProjection,2006,64925
@@ -19009,6 +19219,7 @@ E07000225,Chichester,Dwellings,2020,59063
 E07000225,Chichester,Dwellings,2021,59693
 E07000225,Chichester,Dwellings,2022,60394
 E07000225,Chichester,Dwellings,2023,61310
+E07000225,Chichester,Dwellings,2024,62072
 E07000225,Chichester,HouseholdProjection,2004,46630
 E07000225,Chichester,HouseholdProjection,2005,47030
 E07000225,Chichester,HouseholdProjection,2006,47537
@@ -19091,6 +19302,7 @@ E07000226,Crawley,Dwellings,2020,46188
 E07000226,Crawley,Dwellings,2021,46709
 E07000226,Crawley,Dwellings,2022,47067
 E07000226,Crawley,Dwellings,2023,47257
+E07000226,Crawley,Dwellings,2024,47396
 E07000226,Crawley,HouseholdProjection,2004,39799
 E07000226,Crawley,HouseholdProjection,2005,40080
 E07000226,Crawley,HouseholdProjection,2006,40425
@@ -19173,6 +19385,7 @@ E07000227,Horsham,Dwellings,2020,64120
 E07000227,Horsham,Dwellings,2021,64857
 E07000227,Horsham,Dwellings,2022,65521
 E07000227,Horsham,Dwellings,2023,65935
+E07000227,Horsham,Dwellings,2024,66392
 E07000227,Horsham,HouseholdProjection,2004,51113
 E07000227,Horsham,HouseholdProjection,2005,51673
 E07000227,Horsham,HouseholdProjection,2006,52296
@@ -19255,6 +19468,7 @@ E07000228,Mid Sussex,Dwellings,2020,64996
 E07000228,Mid Sussex,Dwellings,2021,66038
 E07000228,Mid Sussex,Dwellings,2022,67160
 E07000228,Mid Sussex,Dwellings,2023,68222
+E07000228,Mid Sussex,Dwellings,2024,69459
 E07000228,Mid Sussex,HouseholdProjection,2004,52456
 E07000228,Mid Sussex,HouseholdProjection,2005,52866
 E07000228,Mid Sussex,HouseholdProjection,2006,53493
@@ -19337,6 +19551,7 @@ E07000229,Worthing,Dwellings,2020,51349
 E07000229,Worthing,Dwellings,2021,51471
 E07000229,Worthing,Dwellings,2022,51717
 E07000229,Worthing,Dwellings,2023,51986
+E07000229,Worthing,Dwellings,2024,52325
 E07000229,Worthing,HouseholdProjection,2004,44292
 E07000229,Worthing,HouseholdProjection,2005,44516
 E07000229,Worthing,HouseholdProjection,2006,44735
@@ -19483,6 +19698,7 @@ E07000234,Bromsgrove,Dwellings,2020,42514
 E07000234,Bromsgrove,Dwellings,2021,42733
 E07000234,Bromsgrove,Dwellings,2022,42897
 E07000234,Bromsgrove,Dwellings,2023,43090
+E07000234,Bromsgrove,Dwellings,2024,43215
 E07000234,Bromsgrove,HouseholdProjection,2004,36297
 E07000234,Bromsgrove,HouseholdProjection,2005,36614
 E07000234,Bromsgrove,HouseholdProjection,2006,36963
@@ -19565,6 +19781,7 @@ E07000235,Malvern Hills,Dwellings,2020,36516
 E07000235,Malvern Hills,Dwellings,2021,36965
 E07000235,Malvern Hills,Dwellings,2022,37372
 E07000235,Malvern Hills,Dwellings,2023,37599
+E07000235,Malvern Hills,Dwellings,2024,37778
 E07000235,Malvern Hills,HouseholdProjection,2004,30690
 E07000235,Malvern Hills,HouseholdProjection,2005,30878
 E07000235,Malvern Hills,HouseholdProjection,2006,31055
@@ -19647,6 +19864,7 @@ E07000236,Redditch,Dwellings,2020,37529
 E07000236,Redditch,Dwellings,2021,37734
 E07000236,Redditch,Dwellings,2022,37861
 E07000236,Redditch,Dwellings,2023,37964
+E07000236,Redditch,Dwellings,2024,38243
 E07000236,Redditch,HouseholdProjection,2004,32060
 E07000236,Redditch,HouseholdProjection,2005,32259
 E07000236,Redditch,HouseholdProjection,2006,32739
@@ -19729,6 +19947,7 @@ E07000237,Worcester,Dwellings,2020,46306
 E07000237,Worcester,Dwellings,2021,46658
 E07000237,Worcester,Dwellings,2022,47072
 E07000237,Worcester,Dwellings,2023,47345
+E07000237,Worcester,Dwellings,2024,47729
 E07000237,Worcester,HouseholdProjection,2004,39210
 E07000237,Worcester,HouseholdProjection,2005,39537
 E07000237,Worcester,HouseholdProjection,2006,39870
@@ -19811,6 +20030,7 @@ E07000238,Wychavon,Dwellings,2020,59260
 E07000238,Wychavon,Dwellings,2021,59860
 E07000238,Wychavon,Dwellings,2022,60721
 E07000238,Wychavon,Dwellings,2023,61384
+E07000238,Wychavon,Dwellings,2024,61695
 E07000238,Wychavon,HouseholdProjection,2004,47474
 E07000238,Wychavon,HouseholdProjection,2005,47745
 E07000238,Wychavon,HouseholdProjection,2006,48067
@@ -19893,6 +20113,7 @@ E07000239,Wyre Forest,Dwellings,2020,47820
 E07000239,Wyre Forest,Dwellings,2021,48118
 E07000239,Wyre Forest,Dwellings,2022,48440
 E07000239,Wyre Forest,Dwellings,2023,48956
+E07000239,Wyre Forest,Dwellings,2024,49324
 E07000239,Wyre Forest,HouseholdProjection,2004,40962
 E07000239,Wyre Forest,HouseholdProjection,2005,41314
 E07000239,Wyre Forest,HouseholdProjection,2006,41612
@@ -19975,6 +20196,7 @@ E07000240,St Albans,Dwellings,2020,61504
 E07000240,St Albans,Dwellings,2021,62023
 E07000240,St Albans,Dwellings,2022,62337
 E07000240,St Albans,Dwellings,2023,62738
+E07000240,St Albans,Dwellings,2024,63176
 E07000240,St Albans,HouseholdProjection,2004,52740
 E07000240,St Albans,HouseholdProjection,2005,52947
 E07000240,St Albans,HouseholdProjection,2006,53292
@@ -20057,6 +20279,7 @@ E07000241,Welwyn Hatfield,Dwellings,2020,48273
 E07000241,Welwyn Hatfield,Dwellings,2021,48597
 E07000241,Welwyn Hatfield,Dwellings,2022,48855
 E07000241,Welwyn Hatfield,Dwellings,2023,49297
+E07000241,Welwyn Hatfield,Dwellings,2024,49621
 E07000241,Welwyn Hatfield,HouseholdProjection,2004,40377
 E07000241,Welwyn Hatfield,HouseholdProjection,2005,41058
 E07000241,Welwyn Hatfield,HouseholdProjection,2006,41608
@@ -20138,7 +20361,8 @@ E07000242,East Hertfordshire,Dwellings,2019,62948
 E07000242,East Hertfordshire,Dwellings,2020,63895
 E07000242,East Hertfordshire,Dwellings,2021,64693
 E07000242,East Hertfordshire,Dwellings,2022,65569
-E07000242,East Hertfordshire,Dwellings,2023,66452
+E07000242,East Hertfordshire,Dwellings,2023,66458
+E07000242,East Hertfordshire,Dwellings,2024,67719
 E07000242,East Hertfordshire,HouseholdProjection,2004,52575
 E07000242,East Hertfordshire,HouseholdProjection,2005,53003
 E07000242,East Hertfordshire,HouseholdProjection,2006,53487
@@ -20221,6 +20445,7 @@ E07000243,Stevenage,Dwellings,2020,37639
 E07000243,Stevenage,Dwellings,2021,37775
 E07000243,Stevenage,Dwellings,2022,37844
 E07000243,Stevenage,Dwellings,2023,37998
+E07000243,Stevenage,Dwellings,2024,38161
 E07000243,Stevenage,HouseholdProjection,2004,32669
 E07000243,Stevenage,HouseholdProjection,2005,32842
 E07000243,Stevenage,HouseholdProjection,2006,32904
@@ -20271,7 +20496,8 @@ E07000244,East Suffolk,AllVacants,2024,3464
 E07000244,East Suffolk,Dwellings,2020,119719
 E07000244,East Suffolk,Dwellings,2021,120527
 E07000244,East Suffolk,Dwellings,2022,121349
-E07000244,East Suffolk,Dwellings,2023,122161
+E07000244,East Suffolk,Dwellings,2023,122159
+E07000244,East Suffolk,Dwellings,2024,123016
 E07000244,East Suffolk,LongTermVacants,2019,1126
 E07000244,East Suffolk,LongTermVacants,2020,1401
 E07000244,East Suffolk,LongTermVacants,2021,932
@@ -20288,6 +20514,7 @@ E07000245,West Suffolk,Dwellings,2020,80748
 E07000245,West Suffolk,Dwellings,2021,81623
 E07000245,West Suffolk,Dwellings,2022,82487
 E07000245,West Suffolk,Dwellings,2023,83476
+E07000245,West Suffolk,Dwellings,2024,83959
 E07000245,West Suffolk,LongTermVacants,2019,622
 E07000245,West Suffolk,LongTermVacants,2020,833
 E07000245,West Suffolk,LongTermVacants,2021,610
@@ -20335,6 +20562,7 @@ E08000001,Bolton,Dwellings,2020,125484
 E08000001,Bolton,Dwellings,2021,126096
 E08000001,Bolton,Dwellings,2022,126705
 E08000001,Bolton,Dwellings,2023,127442
+E08000001,Bolton,Dwellings,2024,128016
 E08000001,Bolton,HouseholdProjection,2004,109176
 E08000001,Bolton,HouseholdProjection,2005,109625
 E08000001,Bolton,HouseholdProjection,2006,110430
@@ -20417,6 +20645,7 @@ E08000002,Bury,Dwellings,2020,84398
 E08000002,Bury,Dwellings,2021,84624
 E08000002,Bury,Dwellings,2022,84913
 E08000002,Bury,Dwellings,2023,85193
+E08000002,Bury,Dwellings,2024,85437
 E08000002,Bury,HouseholdProjection,2004,74596
 E08000002,Bury,HouseholdProjection,2005,74768
 E08000002,Bury,HouseholdProjection,2006,75293
@@ -20499,6 +20728,7 @@ E08000003,Manchester,Dwellings,2020,229093
 E08000003,Manchester,Dwellings,2021,232906
 E08000003,Manchester,Dwellings,2022,236663
 E08000003,Manchester,Dwellings,2023,238479
+E08000003,Manchester,Dwellings,2024,241010
 E08000003,Manchester,HouseholdProjection,2004,185833
 E08000003,Manchester,HouseholdProjection,2005,189226
 E08000003,Manchester,HouseholdProjection,2006,191234
@@ -20581,6 +20811,7 @@ E08000004,Oldham,Dwellings,2020,97348
 E08000004,Oldham,Dwellings,2021,97849
 E08000004,Oldham,Dwellings,2022,98355
 E08000004,Oldham,Dwellings,2023,98755
+E08000004,Oldham,Dwellings,2024,99172
 E08000004,Oldham,HouseholdProjection,2004,87552
 E08000004,Oldham,HouseholdProjection,2005,87529
 E08000004,Oldham,HouseholdProjection,2006,87605
@@ -20663,6 +20894,7 @@ E08000005,Rochdale,Dwellings,2020,95314
 E08000005,Rochdale,Dwellings,2021,95941
 E08000005,Rochdale,Dwellings,2022,96494
 E08000005,Rochdale,Dwellings,2023,97088
+E08000005,Rochdale,Dwellings,2024,97769
 E08000005,Rochdale,HouseholdProjection,2004,84146
 E08000005,Rochdale,HouseholdProjection,2005,84178
 E08000005,Rochdale,HouseholdProjection,2006,84497
@@ -20745,6 +20977,7 @@ E08000006,Salford,Dwellings,2020,122250
 E08000006,Salford,Dwellings,2021,125164
 E08000006,Salford,Dwellings,2022,127982
 E08000006,Salford,Dwellings,2023,130196
+E08000006,Salford,Dwellings,2024,132836
 E08000006,Salford,HouseholdProjection,2004,94741
 E08000006,Salford,HouseholdProjection,2005,95617
 E08000006,Salford,HouseholdProjection,2006,96712
@@ -20827,6 +21060,7 @@ E08000007,Stockport,Dwellings,2020,130846
 E08000007,Stockport,Dwellings,2021,131387
 E08000007,Stockport,Dwellings,2022,131974
 E08000007,Stockport,Dwellings,2023,132455
+E08000007,Stockport,Dwellings,2024,133076
 E08000007,Stockport,HouseholdProjection,2004,119415
 E08000007,Stockport,HouseholdProjection,2005,119185
 E08000007,Stockport,HouseholdProjection,2006,119176
@@ -20909,6 +21143,7 @@ E08000008,Tameside,Dwellings,2020,103640
 E08000008,Tameside,Dwellings,2021,104028
 E08000008,Tameside,Dwellings,2022,104449
 E08000008,Tameside,Dwellings,2023,104916
+E08000008,Tameside,Dwellings,2024,105548
 E08000008,Tameside,HouseholdProjection,2004,90103
 E08000008,Tameside,HouseholdProjection,2005,90316
 E08000008,Tameside,HouseholdProjection,2006,90853
@@ -20991,6 +21226,7 @@ E08000009,Trafford,Dwellings,2020,99781
 E08000009,Trafford,Dwellings,2021,100754
 E08000009,Trafford,Dwellings,2022,101255
 E08000009,Trafford,Dwellings,2023,102194
+E08000009,Trafford,Dwellings,2024,102935
 E08000009,Trafford,HouseholdProjection,2004,89704
 E08000009,Trafford,HouseholdProjection,2005,90023
 E08000009,Trafford,HouseholdProjection,2006,90622
@@ -21073,6 +21309,7 @@ E08000010,Wigan,Dwellings,2020,147705
 E08000010,Wigan,Dwellings,2021,149074
 E08000010,Wigan,Dwellings,2022,150407
 E08000010,Wigan,Dwellings,2023,151815
+E08000010,Wigan,Dwellings,2024,152961
 E08000010,Wigan,HouseholdProjection,2004,127081
 E08000010,Wigan,HouseholdProjection,2005,128049
 E08000010,Wigan,HouseholdProjection,2006,129291
@@ -21155,6 +21392,7 @@ E08000011,Knowsley,Dwellings,2020,68736
 E08000011,Knowsley,Dwellings,2021,69671
 E08000011,Knowsley,Dwellings,2022,70170
 E08000011,Knowsley,Dwellings,2023,70871
+E08000011,Knowsley,Dwellings,2024,71597
 E08000011,Knowsley,HouseholdProjection,2004,60393
 E08000011,Knowsley,HouseholdProjection,2005,60514
 E08000011,Knowsley,HouseholdProjection,2006,60673
@@ -21236,7 +21474,8 @@ E08000012,Liverpool,Dwellings,2019,223851
 E08000012,Liverpool,Dwellings,2020,225747
 E08000012,Liverpool,Dwellings,2021,227471
 E08000012,Liverpool,Dwellings,2022,229863
-E08000012,Liverpool,Dwellings,2023,230845
+E08000012,Liverpool,Dwellings,2023,231012
+E08000012,Liverpool,Dwellings,2024,232952
 E08000012,Liverpool,HouseholdProjection,2004,190784
 E08000012,Liverpool,HouseholdProjection,2005,193153
 E08000012,Liverpool,HouseholdProjection,2006,194138
@@ -21319,6 +21558,7 @@ E08000013,St. Helens,Dwellings,2020,84465
 E08000013,St. Helens,Dwellings,2021,85152
 E08000013,St. Helens,Dwellings,2022,85411
 E08000013,St. Helens,Dwellings,2023,85841
+E08000013,St. Helens,Dwellings,2024,86064
 E08000013,St. Helens,HouseholdProjection,2004,72964
 E08000013,St. Helens,HouseholdProjection,2005,73157
 E08000013,St. Helens,HouseholdProjection,2006,73402
@@ -21400,7 +21640,8 @@ E08000014,Sefton,Dwellings,2019,128355
 E08000014,Sefton,Dwellings,2020,129243
 E08000014,Sefton,Dwellings,2021,130146
 E08000014,Sefton,Dwellings,2022,130823
-E08000014,Sefton,Dwellings,2023,131522
+E08000014,Sefton,Dwellings,2023,131552
+E08000014,Sefton,Dwellings,2024,132287
 E08000014,Sefton,HouseholdProjection,2004,115740
 E08000014,Sefton,HouseholdProjection,2005,115462
 E08000014,Sefton,HouseholdProjection,2006,115471
@@ -21483,6 +21724,7 @@ E08000015,Wirral,Dwellings,2020,150282
 E08000015,Wirral,Dwellings,2021,150918
 E08000015,Wirral,Dwellings,2022,151547
 E08000015,Wirral,Dwellings,2023,152255
+E08000015,Wirral,Dwellings,2024,152769
 E08000015,Wirral,HouseholdProjection,2004,134884
 E08000015,Wirral,HouseholdProjection,2005,135159
 E08000015,Wirral,HouseholdProjection,2006,135711
@@ -21565,6 +21807,7 @@ E08000016,Barnsley,Dwellings,2020,112974
 E08000016,Barnsley,Dwellings,2021,113625
 E08000016,Barnsley,Dwellings,2022,114220
 E08000016,Barnsley,Dwellings,2023,114901
+E08000016,Barnsley,Dwellings,2024,115538
 E08000016,Barnsley,HouseholdProjection,2004,93542
 E08000016,Barnsley,HouseholdProjection,2005,94413
 E08000016,Barnsley,HouseholdProjection,2006,95386
@@ -21647,6 +21890,7 @@ E08000017,Doncaster,Dwellings,2020,139582
 E08000017,Doncaster,Dwellings,2021,140409
 E08000017,Doncaster,Dwellings,2022,141599
 E08000017,Doncaster,Dwellings,2023,142894
+E08000017,Doncaster,Dwellings,2024,144282
 E08000017,Doncaster,HouseholdProjection,2004,119762
 E08000017,Doncaster,HouseholdProjection,2005,120456
 E08000017,Doncaster,HouseholdProjection,2006,121478
@@ -21729,6 +21973,7 @@ E08000018,Rotherham,Dwellings,2020,118617
 E08000018,Rotherham,Dwellings,2021,119368
 E08000018,Rotherham,Dwellings,2022,120458
 E08000018,Rotherham,Dwellings,2023,121203
+E08000018,Rotherham,Dwellings,2024,121987
 E08000018,Rotherham,HouseholdProjection,2004,103656
 E08000018,Rotherham,HouseholdProjection,2005,104280
 E08000018,Rotherham,HouseholdProjection,2006,104856
@@ -21811,6 +22056,7 @@ E08000019,Sheffield,Dwellings,2020,244588
 E08000019,Sheffield,Dwellings,2021,245628
 E08000019,Sheffield,Dwellings,2022,247402
 E08000019,Sheffield,Dwellings,2023,249069
+E08000019,Sheffield,Dwellings,2024,251537
 E08000019,Sheffield,HouseholdProjection,2004,217656
 E08000019,Sheffield,HouseholdProjection,2005,219974
 E08000019,Sheffield,HouseholdProjection,2006,220682
@@ -21893,6 +22139,7 @@ E08000021,Newcastle upon Tyne,Dwellings,2020,128762
 E08000021,Newcastle upon Tyne,Dwellings,2021,129553
 E08000021,Newcastle upon Tyne,Dwellings,2022,130880
 E08000021,Newcastle upon Tyne,Dwellings,2023,132158
+E08000021,Newcastle upon Tyne,Dwellings,2024,132864
 E08000021,Newcastle upon Tyne,HouseholdProjection,2004,112939
 E08000021,Newcastle upon Tyne,HouseholdProjection,2005,113997
 E08000021,Newcastle upon Tyne,HouseholdProjection,2006,113789
@@ -21975,6 +22222,7 @@ E08000022,North Tyneside,Dwellings,2020,99560
 E08000022,North Tyneside,Dwellings,2021,100069
 E08000022,North Tyneside,Dwellings,2022,100573
 E08000022,North Tyneside,Dwellings,2023,101192
+E08000022,North Tyneside,Dwellings,2024,101617
 E08000022,North Tyneside,HouseholdProjection,2004,85481
 E08000022,North Tyneside,HouseholdProjection,2005,86172
 E08000022,North Tyneside,HouseholdProjection,2006,86849
@@ -22057,6 +22305,7 @@ E08000023,South Tyneside,Dwellings,2020,72034
 E08000023,South Tyneside,Dwellings,2021,72181
 E08000023,South Tyneside,Dwellings,2022,72388
 E08000023,South Tyneside,Dwellings,2023,72563
+E08000023,South Tyneside,Dwellings,2024,72754
 E08000023,South Tyneside,HouseholdProjection,2004,65565
 E08000023,South Tyneside,HouseholdProjection,2005,65558
 E08000023,South Tyneside,HouseholdProjection,2006,65536
@@ -22139,6 +22388,7 @@ E08000024,Sunderland,Dwellings,2020,129662
 E08000024,Sunderland,Dwellings,2021,130366
 E08000024,Sunderland,Dwellings,2022,131340
 E08000024,Sunderland,Dwellings,2023,132326
+E08000024,Sunderland,Dwellings,2024,133190
 E08000024,Sunderland,HouseholdProjection,2004,116987
 E08000024,Sunderland,HouseholdProjection,2005,117261
 E08000024,Sunderland,HouseholdProjection,2006,117403
@@ -22221,6 +22471,7 @@ E08000025,Birmingham,Dwellings,2020,443062
 E08000025,Birmingham,Dwellings,2021,446291
 E08000025,Birmingham,Dwellings,2022,449468
 E08000025,Birmingham,Dwellings,2023,452530
+E08000025,Birmingham,Dwellings,2024,457076
 E08000025,Birmingham,HouseholdProjection,2004,391834
 E08000025,Birmingham,HouseholdProjection,2005,394660
 E08000025,Birmingham,HouseholdProjection,2006,395155
@@ -22303,6 +22554,7 @@ E08000026,Coventry,Dwellings,2020,142972
 E08000026,Coventry,Dwellings,2021,143408
 E08000026,Coventry,Dwellings,2022,145259
 E08000026,Coventry,Dwellings,2023,146705
+E08000026,Coventry,Dwellings,2024,148006
 E08000026,Coventry,HouseholdProjection,2004,121679
 E08000026,Coventry,HouseholdProjection,2005,122133
 E08000026,Coventry,HouseholdProjection,2006,122723
@@ -22385,6 +22637,7 @@ E08000027,Dudley,Dwellings,2020,139718
 E08000027,Dudley,Dwellings,2021,140286
 E08000027,Dudley,Dwellings,2022,140505
 E08000027,Dudley,Dwellings,2023,140807
+E08000027,Dudley,Dwellings,2024,141550
 E08000027,Dudley,HouseholdProjection,2004,124910
 E08000027,Dudley,HouseholdProjection,2005,125423
 E08000027,Dudley,HouseholdProjection,2006,125900
@@ -22467,6 +22720,7 @@ E08000028,Sandwell,Dwellings,2020,134002
 E08000028,Sandwell,Dwellings,2021,134758
 E08000028,Sandwell,Dwellings,2022,135419
 E08000028,Sandwell,Dwellings,2023,135759
+E08000028,Sandwell,Dwellings,2024,136406
 E08000028,Sandwell,HouseholdProjection,2004,115784
 E08000028,Sandwell,HouseholdProjection,2005,116133
 E08000028,Sandwell,HouseholdProjection,2006,116568
@@ -22549,6 +22803,7 @@ E08000029,Solihull,Dwellings,2020,93552
 E08000029,Solihull,Dwellings,2021,94271
 E08000029,Solihull,Dwellings,2022,95027
 E08000029,Solihull,Dwellings,2023,95598
+E08000029,Solihull,Dwellings,2024,96041
 E08000029,Solihull,HouseholdProjection,2004,81690
 E08000029,Solihull,HouseholdProjection,2005,82170
 E08000029,Solihull,HouseholdProjection,2006,82780
@@ -22631,6 +22886,7 @@ E08000030,Walsall,Dwellings,2020,117050
 E08000030,Walsall,Dwellings,2021,117216
 E08000030,Walsall,Dwellings,2022,117740
 E08000030,Walsall,Dwellings,2023,118193
+E08000030,Walsall,Dwellings,2024,118581
 E08000030,Walsall,HouseholdProjection,2004,101634
 E08000030,Walsall,HouseholdProjection,2005,102246
 E08000030,Walsall,HouseholdProjection,2006,102657
@@ -22713,6 +22969,7 @@ E08000031,Wolverhampton,Dwellings,2020,111768
 E08000031,Wolverhampton,Dwellings,2021,112402
 E08000031,Wolverhampton,Dwellings,2022,113717
 E08000031,Wolverhampton,Dwellings,2023,114442
+E08000031,Wolverhampton,Dwellings,2024,115164
 E08000031,Wolverhampton,HouseholdProjection,2004,98062
 E08000031,Wolverhampton,HouseholdProjection,2005,98466
 E08000031,Wolverhampton,HouseholdProjection,2006,98977
@@ -22795,6 +23052,7 @@ E08000032,Bradford,Dwellings,2020,219052
 E08000032,Bradford,Dwellings,2021,219761
 E08000032,Bradford,Dwellings,2022,221086
 E08000032,Bradford,Dwellings,2023,222130
+E08000032,Bradford,Dwellings,2024,223526
 E08000032,Bradford,HouseholdProjection,2004,184766
 E08000032,Bradford,HouseholdProjection,2005,186938
 E08000032,Bradford,HouseholdProjection,2006,188137
@@ -22877,6 +23135,7 @@ E08000033,Calderdale,Dwellings,2020,95970
 E08000033,Calderdale,Dwellings,2021,96249
 E08000033,Calderdale,Dwellings,2022,96692
 E08000033,Calderdale,Dwellings,2023,97024
+E08000033,Calderdale,Dwellings,2024,97435
 E08000033,Calderdale,HouseholdProjection,2004,82103
 E08000033,Calderdale,HouseholdProjection,2005,82917
 E08000033,Calderdale,HouseholdProjection,2006,83916
@@ -22959,6 +23218,7 @@ E08000034,Kirklees,Dwellings,2020,187409
 E08000034,Kirklees,Dwellings,2021,188108
 E08000034,Kirklees,Dwellings,2022,188812
 E08000034,Kirklees,Dwellings,2023,189797
+E08000034,Kirklees,Dwellings,2024,191001
 E08000034,Kirklees,HouseholdProjection,2004,161331
 E08000034,Kirklees,HouseholdProjection,2005,162737
 E08000034,Kirklees,HouseholdProjection,2006,164172
@@ -23041,6 +23301,7 @@ E08000035,Leeds,Dwellings,2020,354444
 E08000035,Leeds,Dwellings,2021,357460
 E08000035,Leeds,Dwellings,2022,360698
 E08000035,Leeds,Dwellings,2023,363395
+E08000035,Leeds,Dwellings,2024,367722
 E08000035,Leeds,HouseholdProjection,2004,304892
 E08000035,Leeds,HouseholdProjection,2005,310652
 E08000035,Leeds,HouseholdProjection,2006,312012
@@ -23123,6 +23384,7 @@ E08000036,Wakefield,Dwellings,2020,159766
 E08000036,Wakefield,Dwellings,2021,161073
 E08000036,Wakefield,Dwellings,2022,162570
 E08000036,Wakefield,Dwellings,2023,163894
+E08000036,Wakefield,Dwellings,2024,164949
 E08000036,Wakefield,HouseholdProjection,2004,133507
 E08000036,Wakefield,HouseholdProjection,2005,134260
 E08000036,Wakefield,HouseholdProjection,2006,135279
@@ -23205,6 +23467,7 @@ E08000037,Gateshead,Dwellings,2020,93796
 E08000037,Gateshead,Dwellings,2021,94054
 E08000037,Gateshead,Dwellings,2022,94460
 E08000037,Gateshead,Dwellings,2023,94908
+E08000037,Gateshead,Dwellings,2024,95252
 E08000037,Gateshead,HouseholdProjection,2004,84223
 E08000037,Gateshead,HouseholdProjection,2005,84625
 E08000037,Gateshead,HouseholdProjection,2006,85037
@@ -23287,6 +23550,7 @@ E09000001,City of London,Dwellings,2020,7115
 E09000001,City of London,Dwellings,2021,7323
 E09000001,City of London,Dwellings,2022,7755
 E09000001,City of London,Dwellings,2023,7764
+E09000001,City of London,Dwellings,2024,7761
 E09000001,City of London,HouseholdProjection,2004,3998
 E09000001,City of London,HouseholdProjection,2005,4016
 E09000001,City of London,HouseholdProjection,2006,4075
@@ -23369,6 +23633,7 @@ E09000002,Barking and Dagenham,Dwellings,2020,75974
 E09000002,Barking and Dagenham,Dwellings,2021,76956
 E09000002,Barking and Dagenham,Dwellings,2022,78162
 E09000002,Barking and Dagenham,Dwellings,2023,79403
+E09000002,Barking and Dagenham,Dwellings,2024,80378
 E09000002,Barking and Dagenham,HouseholdProjection,2004,66182
 E09000002,Barking and Dagenham,HouseholdProjection,2005,65895
 E09000002,Barking and Dagenham,HouseholdProjection,2006,65647
@@ -23451,6 +23716,7 @@ E09000003,Barnet,Dwellings,2020,154000
 E09000003,Barnet,Dwellings,2021,156147
 E09000003,Barnet,Dwellings,2022,158147
 E09000003,Barnet,Dwellings,2023,160393
+E09000003,Barnet,Dwellings,2024,162868
 E09000003,Barnet,HouseholdProjection,2004,127450
 E09000003,Barnet,HouseholdProjection,2005,128122
 E09000003,Barnet,HouseholdProjection,2006,128414
@@ -23533,6 +23799,7 @@ E09000004,Bexley,Dwellings,2020,98671
 E09000004,Bexley,Dwellings,2021,99312
 E09000004,Bexley,Dwellings,2022,100022
 E09000004,Bexley,Dwellings,2023,100594
+E09000004,Bexley,Dwellings,2024,101291
 E09000004,Bexley,HouseholdProjection,2004,89270
 E09000004,Bexley,HouseholdProjection,2005,89589
 E09000004,Bexley,HouseholdProjection,2006,89759
@@ -23615,6 +23882,7 @@ E09000005,Brent,Dwellings,2020,125199
 E09000005,Brent,Dwellings,2021,127861
 E09000005,Brent,Dwellings,2022,131435
 E09000005,Brent,Dwellings,2023,133723
+E09000005,Brent,Dwellings,2024,134587
 E09000005,Brent,HouseholdProjection,2004,99774
 E09000005,Brent,HouseholdProjection,2005,100007
 E09000005,Brent,HouseholdProjection,2006,101019
@@ -23697,6 +23965,7 @@ E09000006,Bromley,Dwellings,2020,141646
 E09000006,Bromley,Dwellings,2021,142083
 E09000006,Bromley,Dwellings,2022,142203
 E09000006,Bromley,Dwellings,2023,142602
+E09000006,Bromley,Dwellings,2024,142770
 E09000006,Bromley,HouseholdProjection,2004,125440
 E09000006,Bromley,HouseholdProjection,2005,126182
 E09000006,Bromley,HouseholdProjection,2006,126644
@@ -23779,6 +24048,7 @@ E09000007,Camden,Dwellings,2020,107612
 E09000007,Camden,Dwellings,2021,108236
 E09000007,Camden,Dwellings,2022,108772
 E09000007,Camden,Dwellings,2023,109130
+E09000007,Camden,Dwellings,2024,109741
 E09000007,Camden,HouseholdProjection,2004,93590
 E09000007,Camden,HouseholdProjection,2005,94640
 E09000007,Camden,HouseholdProjection,2006,94102
@@ -23861,6 +24131,7 @@ E09000008,Croydon,Dwellings,2020,160491
 E09000008,Croydon,Dwellings,2021,162273
 E09000008,Croydon,Dwellings,2022,164395
 E09000008,Croydon,Dwellings,2023,167299
+E09000008,Croydon,Dwellings,2024,169386
 E09000008,Croydon,HouseholdProjection,2004,138797
 E09000008,Croydon,HouseholdProjection,2005,138902
 E09000008,Croydon,HouseholdProjection,2006,138804
@@ -23943,6 +24214,7 @@ E09000009,Ealing,Dwellings,2020,140111
 E09000009,Ealing,Dwellings,2021,142126
 E09000009,Ealing,Dwellings,2022,143192
 E09000009,Ealing,Dwellings,2023,144952
+E09000009,Ealing,Dwellings,2024,146473
 E09000009,Ealing,HouseholdProjection,2004,118958
 E09000009,Ealing,HouseholdProjection,2005,119160
 E09000009,Ealing,HouseholdProjection,2006,119278
@@ -24025,6 +24297,7 @@ E09000010,Enfield,Dwellings,2020,127206
 E09000010,Enfield,Dwellings,2021,128056
 E09000010,Enfield,Dwellings,2022,128753
 E09000010,Enfield,Dwellings,2023,129609
+E09000010,Enfield,Dwellings,2024,130419
 E09000010,Enfield,HouseholdProjection,2004,111713
 E09000010,Enfield,HouseholdProjection,2005,112144
 E09000010,Enfield,HouseholdProjection,2006,112388
@@ -24107,6 +24380,7 @@ E09000011,Greenwich,Dwellings,2020,119768
 E09000011,Greenwich,Dwellings,2021,121017
 E09000011,Greenwich,Dwellings,2022,122274
 E09000011,Greenwich,Dwellings,2023,123464
+E09000011,Greenwich,Dwellings,2024,124320
 E09000011,Greenwich,HouseholdProjection,2004,95021
 E09000011,Greenwich,HouseholdProjection,2005,95486
 E09000011,Greenwich,HouseholdProjection,2006,95972
@@ -24189,6 +24463,7 @@ E09000012,Hackney,Dwellings,2020,115055
 E09000012,Hackney,Dwellings,2021,116341
 E09000012,Hackney,Dwellings,2022,117872
 E09000012,Hackney,Dwellings,2023,118734
+E09000012,Hackney,Dwellings,2024,119131
 E09000012,Hackney,HouseholdProjection,2004,87711
 E09000012,Hackney,HouseholdProjection,2005,88435
 E09000012,Hackney,HouseholdProjection,2006,89574
@@ -24271,6 +24546,7 @@ E09000013,Hammersmith and Fulham,Dwellings,2020,91358
 E09000013,Hammersmith and Fulham,Dwellings,2021,92893
 E09000013,Hammersmith and Fulham,Dwellings,2022,95193
 E09000013,Hammersmith and Fulham,Dwellings,2023,96591
+E09000013,Hammersmith and Fulham,Dwellings,2024,98068
 E09000013,Hammersmith and Fulham,HouseholdProjection,2004,76855
 E09000013,Hammersmith and Fulham,HouseholdProjection,2005,77051
 E09000013,Hammersmith and Fulham,HouseholdProjection,2006,77423
@@ -24353,6 +24629,7 @@ E09000014,Haringey,Dwellings,2020,111732
 E09000014,Haringey,Dwellings,2021,113329
 E09000014,Haringey,Dwellings,2022,114840
 E09000014,Haringey,Dwellings,2023,115738
+E09000014,Haringey,Dwellings,2024,116923
 E09000014,Haringey,HouseholdProjection,2004,93378
 E09000014,Haringey,HouseholdProjection,2005,93800
 E09000014,Haringey,HouseholdProjection,2006,94711
@@ -24435,6 +24712,7 @@ E09000015,Harrow,Dwellings,2020,93927
 E09000015,Harrow,Dwellings,2021,94793
 E09000015,Harrow,Dwellings,2022,95225
 E09000015,Harrow,Dwellings,2023,95882
+E09000015,Harrow,Dwellings,2024,96633
 E09000015,Harrow,HouseholdProjection,2004,80183
 E09000015,Harrow,HouseholdProjection,2005,81073
 E09000015,Harrow,HouseholdProjection,2006,81325
@@ -24517,6 +24795,7 @@ E09000016,Havering,Dwellings,2020,105760
 E09000016,Havering,Dwellings,2021,106557
 E09000016,Havering,Dwellings,2022,107181
 E09000016,Havering,Dwellings,2023,108251
+E09000016,Havering,Dwellings,2024,108838
 E09000016,Havering,HouseholdProjection,2004,92026
 E09000016,Havering,HouseholdProjection,2005,92406
 E09000016,Havering,HouseholdProjection,2006,92955
@@ -24599,6 +24878,7 @@ E09000017,Hillingdon,Dwellings,2020,114518
 E09000017,Hillingdon,Dwellings,2021,115474
 E09000017,Hillingdon,Dwellings,2022,116376
 E09000017,Hillingdon,Dwellings,2023,117099
+E09000017,Hillingdon,Dwellings,2024,117858
 E09000017,Hillingdon,HouseholdProjection,2004,96029
 E09000017,Hillingdon,HouseholdProjection,2005,96371
 E09000017,Hillingdon,HouseholdProjection,2006,96687
@@ -24681,6 +24961,7 @@ E09000018,Hounslow,Dwellings,2020,106414
 E09000018,Hounslow,Dwellings,2021,108133
 E09000018,Hounslow,Dwellings,2022,109870
 E09000018,Hounslow,Dwellings,2023,111108
+E09000018,Hounslow,Dwellings,2024,112325
 E09000018,Hounslow,HouseholdProjection,2004,85162
 E09000018,Hounslow,HouseholdProjection,2005,86337
 E09000018,Hounslow,HouseholdProjection,2006,87320
@@ -24763,6 +25044,7 @@ E09000019,Islington,Dwellings,2020,106072
 E09000019,Islington,Dwellings,2021,106898
 E09000019,Islington,Dwellings,2022,107355
 E09000019,Islington,Dwellings,2023,107796
+E09000019,Islington,Dwellings,2024,108700
 E09000019,Islington,HouseholdProjection,2004,83189
 E09000019,Islington,HouseholdProjection,2005,84167
 E09000019,Islington,HouseholdProjection,2006,84702
@@ -24845,6 +25127,7 @@ E09000020,Kensington and Chelsea,Dwellings,2020,88889
 E09000020,Kensington and Chelsea,Dwellings,2021,89229
 E09000020,Kensington and Chelsea,Dwellings,2022,89416
 E09000020,Kensington and Chelsea,Dwellings,2023,89691
+E09000020,Kensington and Chelsea,Dwellings,2024,89936
 E09000020,Kensington and Chelsea,HouseholdProjection,2004,80796
 E09000020,Kensington and Chelsea,HouseholdProjection,2005,81721
 E09000020,Kensington and Chelsea,HouseholdProjection,2006,80218
@@ -24927,6 +25210,7 @@ E09000021,Kingston upon Thames,Dwellings,2020,68390
 E09000021,Kingston upon Thames,Dwellings,2021,68885
 E09000021,Kingston upon Thames,Dwellings,2022,69192
 E09000021,Kingston upon Thames,Dwellings,2023,69486
+E09000021,Kingston upon Thames,Dwellings,2024,70527
 E09000021,Kingston upon Thames,HouseholdProjection,2004,61692
 E09000021,Kingston upon Thames,HouseholdProjection,2005,62064
 E09000021,Kingston upon Thames,HouseholdProjection,2006,62232
@@ -25009,6 +25293,7 @@ E09000022,Lambeth,Dwellings,2020,144994
 E09000022,Lambeth,Dwellings,2021,146411
 E09000022,Lambeth,Dwellings,2022,146773
 E09000022,Lambeth,Dwellings,2023,147259
+E09000022,Lambeth,Dwellings,2024,147867
 E09000022,Lambeth,HouseholdProjection,2004,119387
 E09000022,Lambeth,HouseholdProjection,2005,120350
 E09000022,Lambeth,HouseholdProjection,2006,121248
@@ -25091,6 +25376,7 @@ E09000023,Lewisham,Dwellings,2020,131080
 E09000023,Lewisham,Dwellings,2021,131452
 E09000023,Lewisham,Dwellings,2022,131887
 E09000023,Lewisham,Dwellings,2023,132176
+E09000023,Lewisham,Dwellings,2024,132584
 E09000023,Lewisham,HouseholdProjection,2004,107518
 E09000023,Lewisham,HouseholdProjection,2005,108224
 E09000023,Lewisham,HouseholdProjection,2006,109111
@@ -25173,6 +25459,7 @@ E09000024,Merton,Dwellings,2020,85908
 E09000024,Merton,Dwellings,2021,86623
 E09000024,Merton,Dwellings,2022,87543
 E09000024,Merton,Dwellings,2023,88078
+E09000024,Merton,Dwellings,2024,88359
 E09000024,Merton,HouseholdProjection,2004,77713
 E09000024,Merton,HouseholdProjection,2005,77810
 E09000024,Merton,HouseholdProjection,2006,77984
@@ -25255,6 +25542,7 @@ E09000025,Newham,Dwellings,2020,122914
 E09000025,Newham,Dwellings,2021,125013
 E09000025,Newham,Dwellings,2022,128256
 E09000025,Newham,Dwellings,2023,130239
+E09000025,Newham,Dwellings,2024,133238
 E09000025,Newham,HouseholdProjection,2004,91758
 E09000025,Newham,HouseholdProjection,2005,90475
 E09000025,Newham,HouseholdProjection,2006,90544
@@ -25336,7 +25624,8 @@ E09000026,Redbridge,Dwellings,2019,106049
 E09000026,Redbridge,Dwellings,2020,106843
 E09000026,Redbridge,Dwellings,2021,107489
 E09000026,Redbridge,Dwellings,2022,107776
-E09000026,Redbridge,Dwellings,2023,108000
+E09000026,Redbridge,Dwellings,2023,107999
+E09000026,Redbridge,Dwellings,2024,108336
 E09000026,Redbridge,HouseholdProjection,2004,93661
 E09000026,Redbridge,HouseholdProjection,2005,93838
 E09000026,Redbridge,HouseholdProjection,2006,94282
@@ -25419,6 +25708,7 @@ E09000027,Richmond upon Thames,Dwellings,2020,85407
 E09000027,Richmond upon Thames,Dwellings,2021,85587
 E09000027,Richmond upon Thames,Dwellings,2022,85760
 E09000027,Richmond upon Thames,Dwellings,2023,85902
+E09000027,Richmond upon Thames,Dwellings,2024,86049
 E09000027,Richmond upon Thames,HouseholdProjection,2004,77413
 E09000027,Richmond upon Thames,HouseholdProjection,2005,78173
 E09000027,Richmond upon Thames,HouseholdProjection,2006,78400
@@ -25501,6 +25791,7 @@ E09000028,Southwark,Dwellings,2020,140543
 E09000028,Southwark,Dwellings,2021,141962
 E09000028,Southwark,Dwellings,2022,143412
 E09000028,Southwark,Dwellings,2023,144830
+E09000028,Southwark,Dwellings,2024,146562
 E09000028,Southwark,HouseholdProjection,2004,109306
 E09000028,Southwark,HouseholdProjection,2005,110790
 E09000028,Southwark,HouseholdProjection,2006,112606
@@ -25583,6 +25874,7 @@ E09000029,Sutton,Dwellings,2020,84855
 E09000029,Sutton,Dwellings,2021,85249
 E09000029,Sutton,Dwellings,2022,85790
 E09000029,Sutton,Dwellings,2023,86267
+E09000029,Sutton,Dwellings,2024,86628
 E09000029,Sutton,HouseholdProjection,2004,75862
 E09000029,Sutton,HouseholdProjection,2005,75961
 E09000029,Sutton,HouseholdProjection,2006,75891
@@ -25665,6 +25957,7 @@ E09000030,Tower Hamlets,Dwellings,2020,130712
 E09000030,Tower Hamlets,Dwellings,2021,134473
 E09000030,Tower Hamlets,Dwellings,2022,138676
 E09000030,Tower Hamlets,Dwellings,2023,141260
+E09000030,Tower Hamlets,Dwellings,2024,142331
 E09000030,Tower Hamlets,HouseholdProjection,2004,83159
 E09000030,Tower Hamlets,HouseholdProjection,2005,84008
 E09000030,Tower Hamlets,HouseholdProjection,2006,85837
@@ -25747,6 +26040,7 @@ E09000031,Waltham Forest,Dwellings,2020,106537
 E09000031,Waltham Forest,Dwellings,2021,108172
 E09000031,Waltham Forest,Dwellings,2022,109153
 E09000031,Waltham Forest,Dwellings,2023,110374
+E09000031,Waltham Forest,Dwellings,2024,111318
 E09000031,Waltham Forest,HouseholdProjection,2004,89469
 E09000031,Waltham Forest,HouseholdProjection,2005,89387
 E09000031,Waltham Forest,HouseholdProjection,2006,89892
@@ -25827,7 +26121,8 @@ E09000032,Wandsworth,Dwellings,2019,147804
 E09000032,Wandsworth,Dwellings,2020,149085
 E09000032,Wandsworth,Dwellings,2021,150467
 E09000032,Wandsworth,Dwellings,2022,152372
-E09000032,Wandsworth,Dwellings,2023,154551
+E09000032,Wandsworth,Dwellings,2023,154510
+E09000032,Wandsworth,Dwellings,2024,157230
 E09000032,Wandsworth,HouseholdProjection,2004,121660
 E09000032,Wandsworth,HouseholdProjection,2005,123117
 E09000032,Wandsworth,HouseholdProjection,2006,124358
@@ -25910,6 +26205,7 @@ E09000033,Westminster,Dwellings,2020,128103
 E09000033,Westminster,Dwellings,2021,128912
 E09000033,Westminster,Dwellings,2022,129877
 E09000033,Westminster,Dwellings,2023,131965
+E09000033,Westminster,Dwellings,2024,132895
 E09000033,Westminster,HouseholdProjection,2004,105506
 E09000033,Westminster,HouseholdProjection,2005,109234
 E09000033,Westminster,HouseholdProjection,2006,109189
@@ -26013,7 +26309,8 @@ E10000003,Cambridgeshire,Dwellings,2019,283555
 E10000003,Cambridgeshire,Dwellings,2020,287244
 E10000003,Cambridgeshire,Dwellings,2021,290889
 E10000003,Cambridgeshire,Dwellings,2022,294783
-E10000003,Cambridgeshire,Dwellings,2023,299753
+E10000003,Cambridgeshire,Dwellings,2023,299724
+E10000003,Cambridgeshire,Dwellings,2024,303697
 E10000003,Cambridgeshire,HouseholdProjection,2004,229437
 E10000003,Cambridgeshire,HouseholdProjection,2005,233580
 E10000003,Cambridgeshire,HouseholdProjection,2006,236183
@@ -26040,19 +26337,34 @@ E10000004,Cheshire,Dwellings,2006,303483
 E10000004,Cheshire,Dwellings,2007,306047
 E10000004,Cheshire,Dwellings,2008,308557
 E10000004,Cheshire,Dwellings,2009,310407
-E10000005,Cornwall and the Isles of Scilly,Dwellings,2004,240284
-E10000005,Cornwall and the Isles of Scilly,Dwellings,2005,243119
-E10000005,Cornwall and the Isles of Scilly,Dwellings,2006,245532
-E10000005,Cornwall and the Isles of Scilly,Dwellings,2007,248384
-E10000005,Cornwall and the Isles of Scilly,Dwellings,2008,251866
-E10000005,Cornwall and the Isles of Scilly,Dwellings,2009,254916
+E10000005,Cornwall and Isles of Scilly,Dwellings,2004,240284
+E10000005,Cornwall and Isles of Scilly,Dwellings,2005,243119
+E10000005,Cornwall and Isles of Scilly,Dwellings,2006,245532
+E10000005,Cornwall and Isles of Scilly,Dwellings,2007,248384
+E10000005,Cornwall and Isles of Scilly,Dwellings,2008,251866
+E10000005,Cornwall and Isles of Scilly,Dwellings,2009,254916
+E10000005,Cornwall and Isles of Scilly,Dwellings,2010,1376
+E10000005,Cornwall and Isles of Scilly,Dwellings,2011,1388
+E10000005,Cornwall and Isles of Scilly,Dwellings,2012,1391
+E10000005,Cornwall and Isles of Scilly,Dwellings,2013,1381
+E10000005,Cornwall and Isles of Scilly,Dwellings,2014,1370
+E10000005,Cornwall and Isles of Scilly,Dwellings,2015,1359
+E10000005,Cornwall and Isles of Scilly,Dwellings,2016,1351
+E10000005,Cornwall and Isles of Scilly,Dwellings,2017,1341
+E10000005,Cornwall and Isles of Scilly,Dwellings,2018,1330
+E10000005,Cornwall and Isles of Scilly,Dwellings,2019,1319
+E10000005,Cornwall and Isles of Scilly,Dwellings,2020,1308
+E10000005,Cornwall and Isles of Scilly,Dwellings,2021,1298
+E10000005,Cornwall and Isles of Scilly,Dwellings,2022,1294
+E10000005,Cornwall and Isles of Scilly,Dwellings,2023,1296
+E10000005,Cornwall and Isles of Scilly,Dwellings,2024,1297
 E10000006,Cumbria,Dwellings,2004,229768
-E10000006,Cumbria,Dwellings,2005,231379
-E10000006,Cumbria,Dwellings,2006,233119
-E10000006,Cumbria,Dwellings,2007,234578
-E10000006,Cumbria,Dwellings,2008,235895
-E10000006,Cumbria,Dwellings,2009,237240
-E10000006,Cumbria,Dwellings,2010,238669
+E10000006,Cumbria,Dwellings,2005,231380
+E10000006,Cumbria,Dwellings,2006,233120
+E10000006,Cumbria,Dwellings,2007,234579
+E10000006,Cumbria,Dwellings,2008,235896
+E10000006,Cumbria,Dwellings,2009,237241
+E10000006,Cumbria,Dwellings,2010,238670
 E10000006,Cumbria,Dwellings,2011,239836
 E10000006,Cumbria,Dwellings,2012,240799
 E10000006,Cumbria,Dwellings,2013,241929
@@ -26090,7 +26402,7 @@ E10000007,Derbyshire,Dwellings,2004,327196
 E10000007,Derbyshire,Dwellings,2005,330153
 E10000007,Derbyshire,Dwellings,2006,333695
 E10000007,Derbyshire,Dwellings,2007,337244
-E10000007,Derbyshire,Dwellings,2008,340957
+E10000007,Derbyshire,Dwellings,2008,340958
 E10000007,Derbyshire,Dwellings,2009,343266
 E10000007,Derbyshire,Dwellings,2010,345009
 E10000007,Derbyshire,Dwellings,2011,346999
@@ -26105,7 +26417,8 @@ E10000007,Derbyshire,Dwellings,2019,364694
 E10000007,Derbyshire,Dwellings,2020,368510
 E10000007,Derbyshire,Dwellings,2021,372014
 E10000007,Derbyshire,Dwellings,2022,375771
-E10000007,Derbyshire,Dwellings,2023,379861
+E10000007,Derbyshire,Dwellings,2023,379847
+E10000007,Derbyshire,Dwellings,2024,383361
 E10000007,Derbyshire,HouseholdProjection,2004,314026
 E10000007,Derbyshire,HouseholdProjection,2005,316330
 E10000007,Derbyshire,HouseholdProjection,2006,318573
@@ -26145,7 +26458,8 @@ E10000008,Devon,Dwellings,2019,376701
 E10000008,Devon,Dwellings,2020,381621
 E10000008,Devon,Dwellings,2021,385263
 E10000008,Devon,Dwellings,2022,389398
-E10000008,Devon,Dwellings,2023,393588
+E10000008,Devon,Dwellings,2023,393584
+E10000008,Devon,Dwellings,2024,397545
 E10000008,Devon,HouseholdProjection,2004,304721
 E10000008,Devon,HouseholdProjection,2005,307854
 E10000008,Devon,HouseholdProjection,2006,310134
@@ -26228,6 +26542,7 @@ E10000011,East Sussex,Dwellings,2020,256739
 E10000011,East Sussex,Dwellings,2021,258291
 E10000011,East Sussex,Dwellings,2022,259843
 E10000011,East Sussex,Dwellings,2023,262259
+E10000011,East Sussex,Dwellings,2024,264338
 E10000011,East Sussex,HouseholdProjection,2004,219022
 E10000011,East Sussex,HouseholdProjection,2005,220763
 E10000011,East Sussex,HouseholdProjection,2006,222150
@@ -26267,7 +26582,8 @@ E10000012,Essex,Dwellings,2019,642910
 E10000012,Essex,Dwellings,2020,649446
 E10000012,Essex,Dwellings,2021,655087
 E10000012,Essex,Dwellings,2022,661627
-E10000012,Essex,Dwellings,2023,667693
+E10000012,Essex,Dwellings,2023,668236
+E10000012,Essex,Dwellings,2024,675443
 E10000012,Essex,HouseholdProjection,2004,551529
 E10000012,Essex,HouseholdProjection,2005,556321
 E10000012,Essex,HouseholdProjection,2006,560360
@@ -26308,6 +26624,7 @@ E10000013,Gloucestershire,Dwellings,2020,294737
 E10000013,Gloucestershire,Dwellings,2021,297853
 E10000013,Gloucestershire,Dwellings,2022,300922
 E10000013,Gloucestershire,Dwellings,2023,304409
+E10000013,Gloucestershire,Dwellings,2024,307294
 E10000013,Gloucestershire,HouseholdProjection,2004,239957
 E10000013,Gloucestershire,HouseholdProjection,2005,241950
 E10000013,Gloucestershire,HouseholdProjection,2006,243843
@@ -26348,6 +26665,7 @@ E10000014,Hampshire,Dwellings,2020,608282
 E10000014,Hampshire,Dwellings,2021,614347
 E10000014,Hampshire,Dwellings,2022,619831
 E10000014,Hampshire,Dwellings,2023,625265
+E10000014,Hampshire,Dwellings,2024,629867
 E10000014,Hampshire,HouseholdProjection,2004,509101
 E10000014,Hampshire,HouseholdProjection,2005,513251
 E10000014,Hampshire,HouseholdProjection,2006,518311
@@ -26387,7 +26705,8 @@ E10000015,Hertfordshire,Dwellings,2019,495176
 E10000015,Hertfordshire,Dwellings,2020,499753
 E10000015,Hertfordshire,Dwellings,2021,503985
 E10000015,Hertfordshire,Dwellings,2022,508126
-E10000015,Hertfordshire,Dwellings,2023,512639
+E10000015,Hertfordshire,Dwellings,2023,512645
+E10000015,Hertfordshire,Dwellings,2024,517577
 E10000015,Hertfordshire,HouseholdProjection,2004,422916
 E10000015,Hertfordshire,HouseholdProjection,2005,426167
 E10000015,Hertfordshire,HouseholdProjection,2006,429245
@@ -26428,6 +26747,7 @@ E10000016,Kent,Dwellings,2020,685904
 E10000016,Kent,Dwellings,2021,693168
 E10000016,Kent,Dwellings,2022,700943
 E10000016,Kent,Dwellings,2023,708630
+E10000016,Kent,Dwellings,2024,715526
 E10000016,Kent,HouseholdProjection,2004,556488
 E10000016,Kent,HouseholdProjection,2005,562555
 E10000016,Kent,HouseholdProjection,2006,568841
@@ -26449,7 +26769,7 @@ E10000016,Kent,HouseholdProjection,2021,672232
 E10000016,Kent,HouseholdProjection,2022,679250
 E10000016,Kent,HouseholdProjection,2023,686067
 E10000017,Lancashire,Dwellings,2004,502295
-E10000017,Lancashire,Dwellings,2005,506374
+E10000017,Lancashire,Dwellings,2005,506375
 E10000017,Lancashire,Dwellings,2006,510024
 E10000017,Lancashire,Dwellings,2007,512691
 E10000017,Lancashire,Dwellings,2008,515976
@@ -26467,7 +26787,8 @@ E10000017,Lancashire,Dwellings,2019,549150
 E10000017,Lancashire,Dwellings,2020,554384
 E10000017,Lancashire,Dwellings,2021,558993
 E10000017,Lancashire,Dwellings,2022,564218
-E10000017,Lancashire,Dwellings,2023,570247
+E10000017,Lancashire,Dwellings,2023,570243
+E10000017,Lancashire,Dwellings,2024,575790
 E10000017,Lancashire,HouseholdProjection,2004,476088
 E10000017,Lancashire,HouseholdProjection,2005,479447
 E10000017,Lancashire,HouseholdProjection,2006,482684
@@ -26508,6 +26829,7 @@ E10000018,Leicestershire,Dwellings,2020,303799
 E10000018,Leicestershire,Dwellings,2021,307443
 E10000018,Leicestershire,Dwellings,2022,311467
 E10000018,Leicestershire,Dwellings,2023,315588
+E10000018,Leicestershire,Dwellings,2024,319173
 E10000018,Leicestershire,HouseholdProjection,2004,250583
 E10000018,Leicestershire,HouseholdProjection,2005,252515
 E10000018,Leicestershire,HouseholdProjection,2006,254990
@@ -26532,7 +26854,7 @@ E10000019,Lincolnshire,Dwellings,2004,294968
 E10000019,Lincolnshire,Dwellings,2005,298874
 E10000019,Lincolnshire,Dwellings,2006,303288
 E10000019,Lincolnshire,Dwellings,2007,308050
-E10000019,Lincolnshire,Dwellings,2008,312574
+E10000019,Lincolnshire,Dwellings,2008,312575
 E10000019,Lincolnshire,Dwellings,2009,315983
 E10000019,Lincolnshire,Dwellings,2010,319336
 E10000019,Lincolnshire,Dwellings,2011,321949
@@ -26548,6 +26870,7 @@ E10000019,Lincolnshire,Dwellings,2020,364965
 E10000019,Lincolnshire,Dwellings,2021,370034
 E10000019,Lincolnshire,Dwellings,2022,373282
 E10000019,Lincolnshire,Dwellings,2023,377139
+E10000019,Lincolnshire,Dwellings,2024,380625
 E10000019,Lincolnshire,HouseholdProjection,2004,283780
 E10000019,Lincolnshire,HouseholdProjection,2005,286635
 E10000019,Lincolnshire,HouseholdProjection,2006,290454
@@ -26587,7 +26910,8 @@ E10000020,Norfolk,Dwellings,2019,428084
 E10000020,Norfolk,Dwellings,2020,432112
 E10000020,Norfolk,Dwellings,2021,435275
 E10000020,Norfolk,Dwellings,2022,439020
-E10000020,Norfolk,Dwellings,2023,443546
+E10000020,Norfolk,Dwellings,2023,443614
+E10000020,Norfolk,Dwellings,2024,448241
 E10000020,Norfolk,HouseholdProjection,2004,350101
 E10000020,Norfolk,HouseholdProjection,2005,353522
 E10000020,Norfolk,HouseholdProjection,2006,356529
@@ -26712,6 +27036,7 @@ E10000024,Nottinghamshire,Dwellings,2020,370098
 E10000024,Nottinghamshire,Dwellings,2021,373730
 E10000024,Nottinghamshire,Dwellings,2022,377713
 E10000024,Nottinghamshire,Dwellings,2023,382221
+E10000024,Nottinghamshire,Dwellings,2024,386777
 E10000024,Nottinghamshire,HouseholdProjection,2004,318273
 E10000024,Nottinghamshire,HouseholdProjection,2005,320360
 E10000024,Nottinghamshire,HouseholdProjection,2006,322787
@@ -26751,7 +27076,8 @@ E10000025,Oxfordshire,Dwellings,2019,294707
 E10000025,Oxfordshire,Dwellings,2020,299908
 E10000025,Oxfordshire,Dwellings,2021,304145
 E10000025,Oxfordshire,Dwellings,2022,308994
-E10000025,Oxfordshire,Dwellings,2023,314053
+E10000025,Oxfordshire,Dwellings,2023,314089
+E10000025,Oxfordshire,Dwellings,2024,318048
 E10000025,Oxfordshire,HouseholdProjection,2004,244843
 E10000025,Oxfordshire,HouseholdProjection,2005,247704
 E10000025,Oxfordshire,HouseholdProjection,2006,249241
@@ -26838,6 +27164,7 @@ E10000028,Staffordshire,Dwellings,2020,387642
 E10000028,Staffordshire,Dwellings,2021,391008
 E10000028,Staffordshire,Dwellings,2022,395268
 E10000028,Staffordshire,Dwellings,2023,399436
+E10000028,Staffordshire,Dwellings,2024,402724
 E10000028,Staffordshire,HouseholdProjection,2004,334629
 E10000028,Staffordshire,HouseholdProjection,2005,337385
 E10000028,Staffordshire,HouseholdProjection,2006,340167
@@ -26877,7 +27204,8 @@ E10000029,Suffolk,Dwellings,2019,345813
 E10000029,Suffolk,Dwellings,2020,348714
 E10000029,Suffolk,Dwellings,2021,351618
 E10000029,Suffolk,Dwellings,2022,355095
-E10000029,Suffolk,Dwellings,2023,358997
+E10000029,Suffolk,Dwellings,2023,358995
+E10000029,Suffolk,Dwellings,2024,362137
 E10000029,Suffolk,HouseholdProjection,2004,288940
 E10000029,Suffolk,HouseholdProjection,2005,293185
 E10000029,Suffolk,HouseholdProjection,2006,295784
@@ -26917,7 +27245,8 @@ E10000030,Surrey,Dwellings,2019,498062
 E10000030,Surrey,Dwellings,2020,501728
 E10000030,Surrey,Dwellings,2021,506233
 E10000030,Surrey,Dwellings,2022,511364
-E10000030,Surrey,Dwellings,2023,516429
+E10000030,Surrey,Dwellings,2023,516435
+E10000030,Surrey,Dwellings,2024,520647
 E10000030,Surrey,HouseholdProjection,2004,430824
 E10000030,Surrey,HouseholdProjection,2005,433164
 E10000030,Surrey,HouseholdProjection,2006,436821
@@ -26958,6 +27287,7 @@ E10000031,Warwickshire,Dwellings,2020,263411
 E10000031,Warwickshire,Dwellings,2021,266580
 E10000031,Warwickshire,Dwellings,2022,271063
 E10000031,Warwickshire,Dwellings,2023,275752
+E10000031,Warwickshire,Dwellings,2024,279797
 E10000031,Warwickshire,HouseholdProjection,2004,215079
 E10000031,Warwickshire,HouseholdProjection,2005,217484
 E10000031,Warwickshire,HouseholdProjection,2006,220123
@@ -26998,6 +27328,7 @@ E10000032,West Sussex,Dwellings,2020,390206
 E10000032,West Sussex,Dwellings,2021,394184
 E10000032,West Sussex,Dwellings,2022,398035
 E10000032,West Sussex,Dwellings,2023,401920
+E10000032,West Sussex,Dwellings,2024,405979
 E10000032,West Sussex,HouseholdProjection,2004,324546
 E10000032,West Sussex,HouseholdProjection,2005,326728
 E10000032,West Sussex,HouseholdProjection,2006,329647
@@ -27044,6 +27375,7 @@ E10000034,Worcestershire,Dwellings,2020,269946
 E10000034,Worcestershire,Dwellings,2021,272068
 E10000034,Worcestershire,Dwellings,2022,274363
 E10000034,Worcestershire,Dwellings,2023,276338
+E10000034,Worcestershire,Dwellings,2024,277984
 E10000034,Worcestershire,HouseholdProjection,2004,226693
 E10000034,Worcestershire,HouseholdProjection,2005,228348
 E10000034,Worcestershire,HouseholdProjection,2006,230307
@@ -27084,6 +27416,7 @@ E11000001,Greater Manchester,Dwellings,2020,1235864
 E11000001,Greater Manchester,Dwellings,2021,1247823
 E11000001,Greater Manchester,Dwellings,2022,1259197
 E11000001,Greater Manchester,Dwellings,2023,1268533
+E11000001,Greater Manchester,Dwellings,2024,1278760
 E11000001,Greater Manchester,HouseholdProjection,2004,1062348
 E11000001,Greater Manchester,HouseholdProjection,2005,1068515
 E11000001,Greater Manchester,HouseholdProjection,2006,1075713
@@ -27123,7 +27456,8 @@ E11000002,Merseyside,Dwellings,2019,652862
 E11000002,Merseyside,Dwellings,2020,658475
 E11000002,Merseyside,Dwellings,2021,663358
 E11000002,Merseyside,Dwellings,2022,667814
-E11000002,Merseyside,Dwellings,2023,671334
+E11000002,Merseyside,Dwellings,2023,671531
+E11000002,Merseyside,Dwellings,2024,675669
 E11000002,Merseyside,HouseholdProjection,2004,574765
 E11000002,Merseyside,HouseholdProjection,2005,577445
 E11000002,Merseyside,HouseholdProjection,2006,579394
@@ -27164,6 +27498,7 @@ E11000003,South Yorkshire,Dwellings,2020,615763
 E11000003,South Yorkshire,Dwellings,2021,619030
 E11000003,South Yorkshire,Dwellings,2022,623679
 E11000003,South Yorkshire,Dwellings,2023,628067
+E11000003,South Yorkshire,Dwellings,2024,633344
 E11000003,South Yorkshire,HouseholdProjection,2004,534616
 E11000003,South Yorkshire,HouseholdProjection,2005,539123
 E11000003,South Yorkshire,HouseholdProjection,2006,542401
@@ -27204,6 +27539,7 @@ E11000005,West Midlands,Dwellings,2020,1182125
 E11000005,West Midlands,Dwellings,2021,1188632
 E11000005,West Midlands,Dwellings,2022,1197135
 E11000005,West Midlands,Dwellings,2023,1204034
+E11000005,West Midlands,Dwellings,2024,1212824
 E11000005,West Midlands,HouseholdProjection,2004,1035592
 E11000005,West Midlands,HouseholdProjection,2005,1041231
 E11000005,West Midlands,HouseholdProjection,2006,1044761
@@ -27244,6 +27580,7 @@ E11000006,West Yorkshire,Dwellings,2020,1016643
 E11000006,West Yorkshire,Dwellings,2021,1022651
 E11000006,West Yorkshire,Dwellings,2022,1029858
 E11000006,West Yorkshire,Dwellings,2023,1036240
+E11000006,West Yorkshire,Dwellings,2024,1044633
 E11000006,West Yorkshire,HouseholdProjection,2004,866599
 E11000006,West Yorkshire,HouseholdProjection,2005,877504
 E11000006,West Yorkshire,HouseholdProjection,2006,883517
@@ -27284,6 +27621,7 @@ E11000007,Tyne and Wear,Dwellings,2020,523816
 E11000007,Tyne and Wear,Dwellings,2021,526223
 E11000007,Tyne and Wear,Dwellings,2022,529641
 E11000007,Tyne and Wear,Dwellings,2023,533147
+E11000007,Tyne and Wear,Dwellings,2024,535677
 E11000007,Tyne and Wear,HouseholdProjection,2004,465194
 E11000007,Tyne and Wear,HouseholdProjection,2005,467613
 E11000007,Tyne and Wear,HouseholdProjection,2006,468614
@@ -27344,7 +27682,8 @@ E12000001,North East,Dwellings,2019,1231763
 E12000001,North East,Dwellings,2020,1240750
 E12000001,North East,Dwellings,2021,1247894
 E12000001,North East,Dwellings,2022,1256820
-E12000001,North East,Dwellings,2023,1266149
+E12000001,North East,Dwellings,2023,1266159
+E12000001,North East,Dwellings,2024,1274096
 E12000001,North East,HouseholdProjection,2004,1077847
 E12000001,North East,HouseholdProjection,2005,1084147
 E12000001,North East,HouseholdProjection,2006,1088853
@@ -27426,7 +27765,8 @@ E12000002,North West,Dwellings,2019,3297683
 E12000002,North West,Dwellings,2020,3330860
 E12000002,North West,Dwellings,2021,3358812
 E12000002,North West,Dwellings,2022,3387281
-E12000002,North West,Dwellings,2023,3414087
+E12000002,North West,Dwellings,2023,3414280
+E12000002,North West,Dwellings,2024,3441153
 E12000002,North West,HouseholdProjection,2004,2856674
 E12000002,North West,HouseholdProjection,2005,2874534
 E12000002,North West,HouseholdProjection,2006,2892392
@@ -27489,26 +27829,27 @@ E12000003,Yorkshire and The Humber,AllVacants,2021,72955
 E12000003,Yorkshire and The Humber,AllVacants,2022,75135
 E12000003,Yorkshire and The Humber,AllVacants,2023,77675
 E12000003,Yorkshire and The Humber,AllVacants,2024,79379
-E12000003,Yorkshire and The Humber,Dwellings,2004,2197157
-E12000003,Yorkshire and The Humber,Dwellings,2005,2212181
-E12000003,Yorkshire and The Humber,Dwellings,2006,2230864
-E12000003,Yorkshire and The Humber,Dwellings,2007,2252576
-E12000003,Yorkshire and The Humber,Dwellings,2008,2275402
-E12000003,Yorkshire and The Humber,Dwellings,2009,2292738
-E12000003,Yorkshire and The Humber,Dwellings,2010,2306315
-E12000003,Yorkshire and The Humber,Dwellings,2011,2319910
-E12000003,Yorkshire and The Humber,Dwellings,2012,2331975
-E12000003,Yorkshire and The Humber,Dwellings,2013,2342275
-E12000003,Yorkshire and The Humber,Dwellings,2014,2354192
-E12000003,Yorkshire and The Humber,Dwellings,2015,2368139
-E12000003,Yorkshire and The Humber,Dwellings,2016,2383868
-E12000003,Yorkshire and The Humber,Dwellings,2017,2401627
-E12000003,Yorkshire and The Humber,Dwellings,2018,2421249
-E12000003,Yorkshire and The Humber,Dwellings,2019,2441517
-E12000003,Yorkshire and The Humber,Dwellings,2020,2461814
-E12000003,Yorkshire and The Humber,Dwellings,2021,2477946
-E12000003,Yorkshire and The Humber,Dwellings,2022,2496667
-E12000003,Yorkshire and The Humber,Dwellings,2023,2514619
+E12000003,Yorkshire and the Humber,Dwellings,2004,2197157
+E12000003,Yorkshire and the Humber,Dwellings,2005,2212181
+E12000003,Yorkshire and the Humber,Dwellings,2006,2230864
+E12000003,Yorkshire and the Humber,Dwellings,2007,2252576
+E12000003,Yorkshire and the Humber,Dwellings,2008,2275402
+E12000003,Yorkshire and the Humber,Dwellings,2009,2292738
+E12000003,Yorkshire and the Humber,Dwellings,2010,2306315
+E12000003,Yorkshire and the Humber,Dwellings,2011,2319910
+E12000003,Yorkshire and the Humber,Dwellings,2012,2331975
+E12000003,Yorkshire and the Humber,Dwellings,2013,2342275
+E12000003,Yorkshire and the Humber,Dwellings,2014,2354192
+E12000003,Yorkshire and the Humber,Dwellings,2015,2368139
+E12000003,Yorkshire and the Humber,Dwellings,2016,2383868
+E12000003,Yorkshire and the Humber,Dwellings,2017,2401627
+E12000003,Yorkshire and the Humber,Dwellings,2018,2421249
+E12000003,Yorkshire and the Humber,Dwellings,2019,2441517
+E12000003,Yorkshire and the Humber,Dwellings,2020,2461814
+E12000003,Yorkshire and the Humber,Dwellings,2021,2477946
+E12000003,Yorkshire and the Humber,Dwellings,2022,2496667
+E12000003,Yorkshire and the Humber,Dwellings,2023,2514619
+E12000003,Yorkshire and the Humber,Dwellings,2024,2535721
 E12000003,Yorkshire and The Humber,HouseholdProjection,2004,2098576
 E12000003,Yorkshire and The Humber,HouseholdProjection,2005,2120591
 E12000003,Yorkshire and The Humber,HouseholdProjection,2006,2134600
@@ -27590,7 +27931,8 @@ E12000004,East Midlands,Dwellings,2019,2113001
 E12000004,East Midlands,Dwellings,2020,2135224
 E12000004,East Midlands,Dwellings,2021,2156643
 E12000004,East Midlands,Dwellings,2022,2178743
-E12000004,East Midlands,Dwellings,2023,2203890
+E12000004,East Midlands,Dwellings,2023,2203889
+E12000004,East Midlands,Dwellings,2024,2226683
 E12000004,East Midlands,HouseholdProjection,2004,1773785
 E12000004,East Midlands,HouseholdProjection,2005,1791956
 E12000004,East Midlands,HouseholdProjection,2006,1809231
@@ -27672,7 +28014,8 @@ E12000005,West Midlands,Dwellings,2019,2508720
 E12000005,West Midlands,Dwellings,2020,2532422
 E12000005,West Midlands,Dwellings,2021,2551095
 E12000005,West Midlands,Dwellings,2022,2575271
-E12000005,West Midlands,Dwellings,2023,2597253
+E12000005,West Midlands,Dwellings,2023,2597109
+E12000005,West Midlands,Dwellings,2024,2618902
 E12000005,West Midlands,HouseholdProjection,2004,2173419
 E12000005,West Midlands,HouseholdProjection,2005,2188333
 E12000005,West Midlands,HouseholdProjection,2006,2202566
@@ -27754,7 +28097,8 @@ E12000006,East of England,Dwellings,2019,2708264
 E12000006,East of England,Dwellings,2020,2736638
 E12000006,East of England,Dwellings,2021,2762299
 E12000006,East of England,Dwellings,2022,2789756
-E12000006,East of England,Dwellings,2023,2819941
+E12000006,East of England,Dwellings,2023,2820527
+E12000006,East of England,Dwellings,2024,2849170
 E12000006,East of England,HouseholdProjection,2004,2266397
 E12000006,East of England,HouseholdProjection,2005,2289860
 E12000006,East of England,HouseholdProjection,2006,2308467
@@ -27836,7 +28180,8 @@ E12000007,London,Dwellings,2019,3631227
 E12000007,London,Dwellings,2020,3676903
 E12000007,London,Dwellings,2021,3715732
 E12000007,London,Dwellings,2022,3754905
-E12000007,London,Dwellings,2023,3790210
+E12000007,London,Dwellings,2023,3790168
+E12000007,London,Dwellings,2024,3822330
 E12000007,London,HouseholdProjection,2004,3059626
 E12000007,London,HouseholdProjection,2005,3078936
 E12000007,London,HouseholdProjection,2006,3092593
@@ -27918,7 +28263,8 @@ E12000008,South East,Dwellings,2019,3945807
 E12000008,South East,Dwellings,2020,3987197
 E12000008,South East,Dwellings,2021,4026333
 E12000008,South East,Dwellings,2022,4067570
-E12000008,South East,Dwellings,2023,4109710
+E12000008,South East,Dwellings,2023,4109787
+E12000008,South East,Dwellings,2024,4148547
 E12000008,South East,HouseholdProjection,2004,3319859
 E12000008,South East,HouseholdProjection,2005,3349830
 E12000008,South East,HouseholdProjection,2006,3378588
@@ -27959,7 +28305,7 @@ E12000008,South East,LongTermVacants,2020,35818
 E12000008,South East,LongTermVacants,2021,31070
 E12000008,South East,LongTermVacants,2022,31869
 E12000008,South East,LongTermVacants,2023,34081
-E12000008,South East,LongTermVacants,2024,36046
+E12000008,South East,LongTermVacants,2024,35869
 E12000009,South West,AllVacants,2004,59835
 E12000009,South West,AllVacants,2005,64172
 E12000009,South West,AllVacants,2006,65756
@@ -28000,7 +28346,8 @@ E12000009,South West,Dwellings,2019,2583257
 E12000009,South West,Dwellings,2020,2608023
 E12000009,South West,Dwellings,2021,2630834
 E12000009,South West,Dwellings,2022,2655037
-E12000009,South West,Dwellings,2023,2680588
+E12000009,South West,Dwellings,2023,2679804
+E12000009,South West,Dwellings,2024,2700811
 E12000009,South West,HouseholdProjection,2004,2125773
 E12000009,South West,HouseholdProjection,2005,2147497
 E12000009,South West,HouseholdProjection,2006,2164327
@@ -28042,6 +28389,48 @@ E12000009,South West,LongTermVacants,2021,19946
 E12000009,South West,LongTermVacants,2022,21598
 E12000009,South West,LongTermVacants,2023,23898
 E12000009,South West,LongTermVacants,2024,24158
+E13000001,Inner London,Dwellings,2004,1294046
+E13000001,Inner London,Dwellings,2005,1309404
+E13000001,Inner London,Dwellings,2006,1325356
+E13000001,Inner London,Dwellings,2007,1342778
+E13000001,Inner London,Dwellings,2008,1359764
+E13000001,Inner London,Dwellings,2009,1379345
+E13000001,Inner London,Dwellings,2010,1397832
+E13000001,Inner London,Dwellings,2011,1410639
+E13000001,Inner London,Dwellings,2012,1426688
+E13000001,Inner London,Dwellings,2013,1439461
+E13000001,Inner London,Dwellings,2014,1455034
+E13000001,Inner London,Dwellings,2015,1471392
+E13000001,Inner London,Dwellings,2016,1489668
+E13000001,Inner London,Dwellings,2017,1513498
+E13000001,Inner London,Dwellings,2018,1532048
+E13000001,Inner London,Dwellings,2019,1552835
+E13000001,Inner London,Dwellings,2020,1575269
+E13000001,Inner London,Dwellings,2021,1592939
+E13000001,Inner London,Dwellings,2022,1612456
+E13000001,Inner London,Dwellings,2023,1627683
+E13000001,Inner London,Dwellings,2024,1642967
+E13000002,Outer London,Dwellings,2004,1863467
+E13000002,Outer London,Dwellings,2005,1874982
+E13000002,Outer London,Dwellings,2006,1887882
+E13000002,Outer London,Dwellings,2007,1901387
+E13000002,Outer London,Dwellings,2008,1915958
+E13000002,Outer London,Dwellings,2009,1928667
+E13000002,Outer London,Dwellings,2010,1938510
+E13000002,Outer London,Dwellings,2011,1947524
+E13000002,Outer London,Dwellings,2012,1961147
+E13000002,Outer London,Dwellings,2013,1974218
+E13000002,Outer London,Dwellings,2014,1987029
+E13000002,Outer London,Dwellings,2015,2002319
+E13000002,Outer London,Dwellings,2016,2019239
+E13000002,Outer London,Dwellings,2017,2039775
+E13000002,Outer London,Dwellings,2018,2057754
+E13000002,Outer London,Dwellings,2019,2078391
+E13000002,Outer London,Dwellings,2020,2101633
+E13000002,Outer London,Dwellings,2021,2122793
+E13000002,Outer London,Dwellings,2022,2142449
+E13000002,Outer London,Dwellings,2023,2162485
+E13000002,Outer London,Dwellings,2024,2179363
 E92000001,England,AllVacants,2004,710935
 E92000001,England,AllVacants,2005,723509
 E92000001,England,AllVacants,2006,744931
@@ -28082,7 +28471,8 @@ E92000001,England,Dwellings,2019,24461242
 E92000001,England,Dwellings,2020,24709833
 E92000001,England,Dwellings,2021,24927588
 E92000001,England,Dwellings,2022,25162050
-E92000001,England,Dwellings,2023,25396447
+E92000001,England,Dwellings,2023,25396342
+E92000001,England,Dwellings,2024,25617413
 E92000001,England,HouseholdProjection,2004,20751955
 E92000001,England,HouseholdProjection,2005,20925683
 E92000001,England,HouseholdProjection,2006,21071616
@@ -28123,4 +28513,4 @@ E92000001,England,LongTermVacants,2020,268385
 E92000001,England,LongTermVacants,2021,237340
 E92000001,England,LongTermVacants,2022,248149
 E92000001,England,LongTermVacants,2023,261474
-E92000001,England,LongTermVacants,2024,265061
+E92000001,England,LongTermVacants,2024,264884
